@@ -1,4 +1,4 @@
-# Update time: 2022-08-26 10:41:49
+# Update time: 2022-08-26 16:30:18
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -12105,7 +12105,6 @@
 0.0.0.0 15.basebanner.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1l-view.mail.ru
-0.0.0.0 2.marketbanker.com
 0.0.0.0 2.speedknow.co
 0.0.0.0 207-87-18-203.wsmg.digex.net
 0.0.0.0 2468.go2cloud.org
@@ -18947,7 +18946,6 @@
 0.0.0.0 paxil.1.p2l.info
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 pe.5.p2l.info
-0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 pets.finaltips.com
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -19690,6 +19688,7 @@
 0.0.0.0 cctv.mmstat.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 log5.mmstat.com
 0.0.0.0 log1.mmstat.com
 0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 init.phpwind.net
@@ -22173,6 +22172,7 @@
 0.0.0.0 c.cyto-biotherapy.com
 0.0.0.0 c.daizhangguanjia.com.cn
 0.0.0.0 c.dcghp.top
+0.0.0.0 c.dcgwnhk.cn
 0.0.0.0 c.dengbaozx.cn
 0.0.0.0 c.f1zd.com
 0.0.0.0 c.jumorecn.com.cn
@@ -24195,6 +24195,7 @@
 0.0.0.0 static.bshare.cn
 0.0.0.0 www.bshare.cn
 0.0.0.0 c03.optimix.asia
+0.0.0.0 s03.optimix.asia
 0.0.0.0 www.optimix.cn
 0.0.0.0 casee.cn
 0.0.0.0 count.chanet.com.cn
@@ -24222,6 +24223,7 @@
 0.0.0.0 track.dmrtb.com
 0.0.0.0 api.domob.cn
 0.0.0.0 e.domob.cn
+0.0.0.0 sd.domob.cn
 0.0.0.0 sm.domob.cn
 0.0.0.0 sm.domobcdn.com
 0.0.0.0 img.img18.com
