@@ -1,4 +1,4 @@
-# Update time: 2022-08-26 16:30:18
+# Update time: 2022-08-27 00:34:00
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 cnhv.co
@@ -12105,6 +12105,7 @@
 0.0.0.0 15.basebanner.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1l-view.mail.ru
+0.0.0.0 2.marketbanker.com
 0.0.0.0 2.speedknow.co
 0.0.0.0 207-87-18-203.wsmg.digex.net
 0.0.0.0 2468.go2cloud.org
@@ -18946,6 +18947,7 @@
 0.0.0.0 paxil.1.p2l.info
 0.0.0.0 payday-loans.now-cash.com
 0.0.0.0 pe.5.p2l.info
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 pets.finaltips.com
 0.0.0.0 pharmacy-canada.forsearch.net
 0.0.0.0 pharmacy-news.blogspot.com
@@ -20083,7 +20085,6 @@
 0.0.0.0 s93.cnzz.com
 0.0.0.0 s94.cnzz.com
 0.0.0.0 s95.cnzz.com
-0.0.0.0 s96.cnzz.com
 0.0.0.0 s97.cnzz.com
 0.0.0.0 s98.cnzz.com
 0.0.0.0 s99.cnzz.com
@@ -21777,7 +21778,6 @@
 0.0.0.0 gao.ynet.com
 0.0.0.0 trace.ynet.com
 0.0.0.0 ad1.yangjinyou.com
-0.0.0.0 ad2.yangjinyou.com
 0.0.0.0 pro.heiguang.com
 0.0.0.0 a-m-s.poco.cn
 0.0.0.0 stat.fengniao.com
@@ -22606,7 +22606,6 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
-0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -22991,7 +22990,6 @@
 0.0.0.0 qiyezs.aiwen.cc
 0.0.0.0 qiyezs.ejunshi.com
 0.0.0.0 qj.borsendental.com
-0.0.0.0 qlisv.siemens6es7.com
 0.0.0.0 qq.guansenff.cn
 0.0.0.0 qq.vvx.highter.top
 0.0.0.0 qqe.ihear123.com
@@ -23338,7 +23336,6 @@
 0.0.0.0 www.diediao.com
 0.0.0.0 www.doulaikanapp.com
 0.0.0.0 www.dqsft.com
-0.0.0.0 www.dulaiduapp.com
 0.0.0.0 www.duobaoqj.com
 0.0.0.0 www.ere3j2e001.com
 0.0.0.0 www.ewtyewj.com
@@ -23727,7 +23724,6 @@
 0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
-0.0.0.0 js.union-wifi.com
 0.0.0.0 rcv.union-wifi.com
 0.0.0.0 817.dopa.com
 0.0.0.0 818.dopa.com
@@ -24342,7 +24338,6 @@
 0.0.0.0 www.keydot.net
 0.0.0.0 www.51link.com
 0.0.0.0 ulink.cc
-0.0.0.0 keyrun.cn
 0.0.0.0 kxlogo.knet.cn
 0.0.0.0 rr.knet.cn
 0.0.0.0 ss.knet.cn
@@ -24577,7 +24572,6 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
-0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -24716,7 +24710,6 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
 0.0.0.0 afptrack.csbew.com
-0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
 0.0.0.0 tga.csbew.com
@@ -25398,7 +25391,6 @@
 0.0.0.0 8b26nu.viqiyi.admaster.com.cn
 0.0.0.0 8b6fqu.vyk.admaster.com.cn
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
-0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
 0.0.0.0 8b8a6a.vsohu.admaster.com.cn
 0.0.0.0 8b8a7u.vyk.admaster.com.cn
 0.0.0.0 8c8vqu.vyk.admaster.com.cn
@@ -25529,7 +25521,6 @@
 0.0.0.0 cruiser.bayescom.cn
 0.0.0.0 ad.cacafly.com
 0.0.0.0 mrbs.cacafly.com
-0.0.0.0 rp3.cacafly.com
 0.0.0.0 nativeads.cacafly.com
 0.0.0.0 rp.cacafly.com
 0.0.0.0 appx.cacafly.com
