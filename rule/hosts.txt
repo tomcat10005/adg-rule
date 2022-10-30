@@ -1,4 +1,4 @@
-# Update time: 2022-10-30 16:11:44
+# Update time: 2022-10-31 00:12:14
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -10913,6 +10913,7 @@
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
+0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
 0.0.0.0 qbittorrent.com
 0.0.0.0 qevia.doubleclick.bond
@@ -12639,6 +12640,7 @@
 0.0.0.0 15.basebanner.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1l-view.mail.ru
+0.0.0.0 2.marketbanker.com
 0.0.0.0 2.speedknow.co
 0.0.0.0 207-87-18-203.wsmg.digex.net
 0.0.0.0 2468.go2cloud.org
@@ -14990,6 +14992,7 @@
 0.0.0.0 dataidea.it
 0.0.0.0 date.and-have.fun
 0.0.0.0 date.ventivmedia.com
+0.0.0.0 datedate.today
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 db4.net-filter.com
@@ -15421,6 +15424,7 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 go.pl.bbelements.com
 0.0.0.0 go.spaceshipads.com
+0.0.0.0 go.stirshakead.com
 0.0.0.0 go.verymuchad.com
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2page.net
@@ -15498,6 +15502,7 @@
 0.0.0.0 hirtop.in
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 hirvilag.co
+0.0.0.0 hirzona24.com
 0.0.0.0 histats.com
 0.0.0.0 histock.info
 0.0.0.0 hit.8digits.com
@@ -15795,6 +15800,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
+0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -16222,6 +16228,7 @@
 0.0.0.0 napimigrans.com
 0.0.0.0 napimigrans.info
 0.0.0.0 napitrend.blogspot.hu
+0.0.0.0 napiujsag.hu
 0.0.0.0 naplo-extra.com
 0.0.0.0 nationalissuepanel.com
 0.0.0.0 nationalpost.adperfect.com
@@ -16375,6 +16382,7 @@
 0.0.0.0 onmarshtompor.com
 0.0.0.0 onmypc.net
 0.0.0.0 oopt.fr
+0.0.0.0 openad.travelnow.com
 0.0.0.0 openadext.tf1.fr
 0.0.0.0 openads.dimcab.com
 0.0.0.0 openads.friendfinder.com
@@ -16743,6 +16751,7 @@
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 r2.adwo.com
+0.0.0.0 r7mediar.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -17726,6 +17735,7 @@
 0.0.0.0 wf.taboola.com
 0.0.0.0 whatishotnow.net
 0.0.0.0 whos.amung.us
+0.0.0.0 widespace.com
 0.0.0.0 widget.achetezfacile.com
 0.0.0.0 widget3.linkwithin.com
 0.0.0.0 widget5.linkwithin.com
@@ -17749,6 +17759,7 @@
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
@@ -19112,6 +19123,7 @@
 0.0.0.0 oascentralnx.comcast.net
 0.0.0.0 fastclick.net
 0.0.0.0 te.about.com
+0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
 0.0.0.0 te.ap.org
 0.0.0.0 te.astrology.com
@@ -19802,7 +19814,6 @@
 0.0.0.0 s.appjiagu.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 res.qhupdate.com
-0.0.0.0 tran.news.so.com
 0.0.0.0 spro.so.com
 0.0.0.0 u.api.look.360.cn
 0.0.0.0 ad.dev.360.cn
@@ -19874,6 +19885,7 @@
 0.0.0.0 cms.tanx.com
 0.0.0.0 df.tanx.com
 0.0.0.0 ecpm.tanx.com
+0.0.0.0 ef-dongfeng.tanx.com
 0.0.0.0 opehs.tanx.com
 0.0.0.0 p.tanx.com
 0.0.0.0 pcookie.tanx.com
@@ -19942,7 +19954,6 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
-0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -20050,6 +20061,7 @@
 0.0.0.0 fex.bdstatic.com
 0.0.0.0 mipcache.bdstatic.com
 0.0.0.0 nspt.bdstatic.com
+0.0.0.0 su.bdstatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 datax.baidu.com
@@ -20258,6 +20270,7 @@
 0.0.0.0 s93.cnzz.com
 0.0.0.0 s94.cnzz.com
 0.0.0.0 s95.cnzz.com
+0.0.0.0 s96.cnzz.com
 0.0.0.0 s97.cnzz.com
 0.0.0.0 s98.cnzz.com
 0.0.0.0 s99.cnzz.com
@@ -21106,6 +21119,7 @@
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ad.hpplay.cn
 0.0.0.0 adeng.hpplay.cn
+0.0.0.0 jrlt.beacon.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 activeqq.3g.qq.com
 0.0.0.0 masdk.3g.qq.com
@@ -21211,6 +21225,7 @@
 0.0.0.0 img.ad.zhangyue.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 push.zhangyue.com
+0.0.0.0 sys.zhangyue.com
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad-android.51wnl.com
 0.0.0.0 cdn1.lbesec.com
@@ -21698,6 +21713,7 @@
 0.0.0.0 countpvn.light.fang.com
 0.0.0.0 countubn.light.soufun.com
 0.0.0.0 mshow.fang.com
+0.0.0.0 tongji.home.soufun.com
 0.0.0.0 cpro.fangtoo.com
 0.0.0.0 ubm.fangtoo.com
 0.0.0.0 ad.ganji.com
@@ -22237,7 +22253,6 @@
 0.0.0.0 ads.vipbaihe.com
 0.0.0.0 adsc.wasu.tv
 0.0.0.0 adsdk.vivo.com.cn
-0.0.0.0 adservice.google.com.hk
 0.0.0.0 adsin.zhangyoubao.com
 0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
@@ -22264,6 +22279,7 @@
 0.0.0.0 api.aixifan.com
 0.0.0.0 api.hfyhjg.cn
 0.0.0.0 api.ijunhai.com
+0.0.0.0 api.jsfc8.cn
 0.0.0.0 api.mlinks.co
 0.0.0.0 api.ppoi.org
 0.0.0.0 api.ssp.zxrtb.com
@@ -22530,6 +22546,7 @@
 0.0.0.0 e.hogyp.com
 0.0.0.0 e.huaas.com
 0.0.0.0 e.huoas.com
+0.0.0.0 e.hyzui.com
 0.0.0.0 e.ihais.com
 0.0.0.0 e.ishowms.com
 0.0.0.0 e.joyxv.com
@@ -22779,6 +22796,7 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
+0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -23379,6 +23397,7 @@
 0.0.0.0 v.dengbaozx.cn
 0.0.0.0 v.heygugu.com
 0.0.0.0 v.jumorecn.com.cn
+0.0.0.0 v.lovame.com.cn
 0.0.0.0 v.oq68.com
 0.0.0.0 v.originz.cn
 0.0.0.0 v.oumaite168.com.cn
@@ -23822,6 +23841,7 @@
 0.0.0.0 p8u.hinet.net
 0.0.0.0 vatrack.hinet.net
 0.0.0.0 adasad.myweb.hinet.net
+0.0.0.0 blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0 mobileeventad-hamivideo.cdn.hinet.net
 0.0.0.0 mobilevodad-hamivideo.cdn.hinet.net
@@ -23895,6 +23915,7 @@
 0.0.0.0 o.minisplat.cn
 0.0.0.0 u0.s.minisplat.cn
 0.0.0.0 u1.s.minisplat.cn
+0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
 0.0.0.0 track.dragonparking.com
@@ -24271,6 +24292,7 @@
 0.0.0.0 test2014.adview.cn
 0.0.0.0 test2018.adview.cn
 0.0.0.0 ssp15.adview.cn
+0.0.0.0 test2019.adview.cn
 0.0.0.0 ssp16.adview.cn
 0.0.0.0 a-ad.adwo.com
 0.0.0.0 ad-bg.adwo.com
@@ -24498,7 +24520,6 @@
 0.0.0.0 www.juzi.cn
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 www.adpolestar.net
-0.0.0.0 as.kejet.net
 0.0.0.0 aw.kejet.net
 0.0.0.0 ck.kejet.net
 0.0.0.0 cmarket.kejet.net
@@ -24583,7 +24604,6 @@
 0.0.0.0 c.data.mob.com
 0.0.0.0 cca.mob.com
 0.0.0.0 devs.data.mob.com
-0.0.0.0 m.data.mob.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.mobgi.com
 0.0.0.0 mobgi.com
@@ -24635,7 +24655,6 @@
 0.0.0.0 pub.sitetag.us
 0.0.0.0 track.sitetag.us
 0.0.0.0 img.ma.social-touch.com
-0.0.0.0 analytics.talkingdata.net
 0.0.0.0 gaandroid.talkingdata.net
 0.0.0.0 jic.talkingdata.com
 0.0.0.0 tdcv3.talkingdata.net
@@ -24753,6 +24772,7 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
+0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -25165,7 +25185,6 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
-0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
@@ -25275,7 +25294,6 @@
 0.0.0.0 hao.tiandi.com
 0.0.0.0 hao916.com
 0.0.0.0 hjc1990.com
-0.0.0.0 hwt.player888.cn
 0.0.0.0 img.apnanalytics.com
 0.0.0.0 inapp.1sapp.com
 0.0.0.0 iosipa.b0.upaiyun.com
@@ -25381,7 +25399,6 @@
 0.0.0.0 nl.rcd.ptqy.gitv.tv
 0.0.0.0 msg.c002.ottcn.com
 0.0.0.0 emoticon.sns.iqiyi.com
-0.0.0.0 hotchat-im.iqiyi.com
 0.0.0.0 paopao.iqiyi.com
 0.0.0.0 tracker.sns.iqiyi.com
 0.0.0.0 paopao0.qiyipic.com
@@ -25571,6 +25588,7 @@
 0.0.0.0 7r76oa.vyk.admaster.com.cn
 0.0.0.0 7r8a9a.viqiyi.admaster.com.cn
 0.0.0.0 8b253a.vyk.admaster.com.cn
+0.0.0.0 8b26nu.viqiyi.admaster.com.cn
 0.0.0.0 8b6fqu.vyk.admaster.com.cn
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
 0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
