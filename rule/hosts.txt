@@ -1,4 +1,4 @@
-# Update time: 2022-12-09 08:40:29
+# Update time: 2022-12-09 16:10:28
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -9645,6 +9645,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
+0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -10018,7 +10019,6 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 d.toutiao.com
 0.0.0.0 dm.bytedance.com
-0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm-hl.toutiao.com
 0.0.0.0 dsp.toutiao.com
@@ -11609,6 +11609,7 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
+0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
@@ -12799,6 +12800,7 @@
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
 0.0.0.0 ads.aol.co.uk
+0.0.0.0 adserver.aol.fr
 0.0.0.0 dynamic.aol.com
 0.0.0.0 free.aol.com
 0.0.0.0 ar.atwola.com
@@ -15433,6 +15435,7 @@
 0.0.0.0 convertro.com
 0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 cookies.cmpnet.com
+0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.123counts.com
 0.0.0.0 counter.adultcheck.com
@@ -16470,6 +16473,7 @@
 0.0.0.0 aca-languedoc.fr
 0.0.0.0 accounts.secure-ua.website
 0.0.0.0 acessoires-electromenager.fr
+0.0.0.0 acglgoa.com
 0.0.0.0 acmen.fr
 0.0.0.0 acnenomor.com
 0.0.0.0 acsentia.fr
@@ -16565,6 +16569,7 @@
 0.0.0.0 avilis.fr
 0.0.0.0 avndrealouer.fr
 0.0.0.0 avosstart.fr
+0.0.0.0 avsvmcloud.com
 0.0.0.0 avtec.fr
 0.0.0.0 azureus.es
 0.0.0.0 b.webwise.org
@@ -16684,6 +16689,7 @@
 0.0.0.0 casmundo.fr
 0.0.0.0 castelli-cycling.fr
 0.0.0.0 castortama.fr
+0.0.0.0 cbcare.fr
 0.0.0.0 ccieurope.fr
 0.0.0.0 ccudl.com
 0.0.0.0 cd-elec.fr
@@ -17332,6 +17338,7 @@
 0.0.0.0 mp3red.cc
 0.0.0.0 mpappy.fr
 0.0.0.0 mr-ginseng.fr
+0.0.0.0 ms-shoponline.top
 0.0.0.0 ms-shopplus.su
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 msssante.fr
@@ -17613,6 +17620,7 @@
 0.0.0.0 serff.fr
 0.0.0.0 servpro.fr
 0.0.0.0 shapado.com
+0.0.0.0 sharelink.fr
 0.0.0.0 shiiva.fr
 0.0.0.0 shoalike.fr
 0.0.0.0 shop-pharmaccie.fr
@@ -18167,6 +18175,7 @@
 0.0.0.0 aolturnercnnmoney.122.2o7.net
 0.0.0.0 aolturnersi.122.2o7.net
 0.0.0.0 aolukglobal.122.2o7.net
+0.0.0.0 aolwinamp.122.2o7.net
 0.0.0.0 aolwpaim.112.2o7.net
 0.0.0.0 aolwpicq.122.2o7.net
 0.0.0.0 aolwpmq.112.2o7.net
@@ -18244,6 +18253,7 @@
 0.0.0.0 cxociocom.112.2o7.net
 0.0.0.0 denverpost.112.2o7.net
 0.0.0.0 diginet.112.2o7.net
+0.0.0.0 digitalhomediscountptyltd.122.2o7.net
 0.0.0.0 disccglobal.112.2o7.net
 0.0.0.0 disccstats.112.2o7.net
 0.0.0.0 dischannel.112.2o7.net
@@ -18278,6 +18288,7 @@
 0.0.0.0 execulink.112.2o7.net
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 expedia4.112.2o7.net
+0.0.0.0 f2ncracker.112.2o7.net
 0.0.0.0 f2nsmh.112.2o7.net
 0.0.0.0 f2ntheage.112.2o7.net
 0.0.0.0 faceoff.112.2o7.net
@@ -18327,6 +18338,7 @@
 0.0.0.0 gpaper132.112.2o7.net
 0.0.0.0 gpaper133.112.2o7.net
 0.0.0.0 gpaper138.112.2o7.net
+0.0.0.0 gpaper139.112.2o7.net
 0.0.0.0 gpaper140.112.2o7.net
 0.0.0.0 gpaper141.112.2o7.net
 0.0.0.0 gpaper142.112.2o7.net
@@ -20263,6 +20275,7 @@
 0.0.0.0 ads2.realcities.com
 0.0.0.0 ads2.revenue.net
 0.0.0.0 ads2.weblogssl.com
+0.0.0.0 ads2.zeusclicks.com
 0.0.0.0 ads20.focalink.com
 0.0.0.0 ads21.focalink.com
 0.0.0.0 ads22.focalink.com
@@ -20611,6 +20624,7 @@
 0.0.0.0 aff3.gittigidiyor.com
 0.0.0.0 affiliate-fr.com
 0.0.0.0 affiliate.2mdn.net
+0.0.0.0 affiliate.a4dtracker.com
 0.0.0.0 affiliate.baazee.com
 0.0.0.0 affiliate.exabytes.com.my
 0.0.0.0 affiliate.googleusercontent.com
@@ -20709,6 +20723,7 @@
 0.0.0.0 app.monetizze.com.br
 0.0.0.0 app.scanscout.com
 0.0.0.0 app1.letitbefaster.website
+0.0.0.0 app1.letmacworkfaster.site
 0.0.0.0 app2.downloadmacsoft.world
 0.0.0.0 app2.letitbefaster.website
 0.0.0.0 app2.letmacwork.world
@@ -20728,6 +20743,7 @@
 0.0.0.0 applyfix.tech
 0.0.0.0 appnexus.com
 0.0.0.0 appodeal.com
+0.0.0.0 apps-cloud.xyz
 0.0.0.0 apps5.oingo.com
 0.0.0.0 appswiss.ch
 0.0.0.0 arbomedia.pl
@@ -20906,6 +20922,7 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
+0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -20927,6 +20944,7 @@
 0.0.0.0 bizographics.com
 0.0.0.0 bizony.eu
 0.0.0.0 bl.wavecdn.de
+0.0.0.0 blackbass.mx
 0.0.0.0 blackqpid.org.uk
 0.0.0.0 blockchaintop.nl
 0.0.0.0 blog.addthis.com
@@ -21061,6 +21079,7 @@
 0.0.0.0 cache-dev.addthis.com
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
+0.0.0.0 cache.adm.cnzz.net
 0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
@@ -21351,6 +21370,7 @@
 0.0.0.0 cs.adxpansion.com
 0.0.0.0 csh.actiondesk.com
 0.0.0.0 cspix.media6degrees.com
+0.0.0.0 csr.onet.pl
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 ctbdev.net
@@ -21457,6 +21477,7 @@
 0.0.0.0 diesilberamis.meeriwelt.de
 0.0.0.0 diff1.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
+0.0.0.0 diff3.smartadserver.com
 0.0.0.0 diff4.smartadserver.com
 0.0.0.0 digitaldsp.com
 0.0.0.0 dinsalgsvagt.adservinginternational.com
@@ -21910,6 +21931,7 @@
 0.0.0.0 honolulu.app.ur.gcion.com
 0.0.0.0 hooqy.com
 0.0.0.0 host207.ewtn.com
+0.0.0.0 host81-138-7-108.in-addr.btopenworld.com
 0.0.0.0 hosting.adjug.com
 0.0.0.0 hot.useractive.com
 0.0.0.0 hotchatdate.com
@@ -22717,6 +22739,7 @@
 0.0.0.0 onclicksuper.com
 0.0.0.0 ondermaat.nl
 0.0.0.0 one-drive-ms.com
+0.0.0.0 onedrive-cdn.com
 0.0.0.0 onedrive-download-en.com
 0.0.0.0 onedrive-download.com
 0.0.0.0 onedrive-en-live.com
@@ -22886,6 +22909,7 @@
 0.0.0.0 pix521.adtech.fr
 0.0.0.0 pix521.adtech.us
 0.0.0.0 pix522.adtech.fr
+0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel-secure.solvemedia.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.everesttech.net
@@ -23518,6 +23542,7 @@
 0.0.0.0 st.blogads.com
 0.0.0.0 st.pba.xl.pt
 0.0.0.0 st.videojam.tv
+0.0.0.0 staceydodge.com
 0.0.0.0 stampen.adtlgc.com
 0.0.0.0 stampen.linkpulse.com
 0.0.0.0 stampscom.tt.omtrdc.net
@@ -23763,6 +23788,7 @@
 0.0.0.0 track.omgpl.com
 0.0.0.0 track.roularta.adhese.com
 0.0.0.0 track.tooplay.com
+0.0.0.0 track.vscash.com
 0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracking.aatkit.com
@@ -23832,6 +23858,7 @@
 0.0.0.0 tw2.adserver.yahoo.com
 0.0.0.0 twofish.freeuk.com
 0.0.0.0 twoj-typ.pl
+0.0.0.0 twoj-voucher.com
 0.0.0.0 twoje-nagrody.com.pl
 0.0.0.0 twoje-nagrody.pl
 0.0.0.0 twojszczesliwydzien.com
@@ -24322,6 +24349,7 @@
 0.0.0.0 www.dt1blog.com
 0.0.0.0 www.dunlop.force9.co.uk
 0.0.0.0 www.dutchsales.org
+0.0.0.0 www.e-bannerx.com
 0.0.0.0 www.eastwood35.idps.co.uk
 0.0.0.0 www.easy2date.net
 0.0.0.0 www.easyadservice.com
@@ -24668,6 +24696,7 @@
 0.0.0.0 www.speedboink.com
 0.0.0.0 www.speedyclick.com
 0.0.0.0 www.spinbox.com
+0.0.0.0 www.spinia.com
 0.0.0.0 www.sponsorads.de
 0.0.0.0 www.sponsoradulto.com
 0.0.0.0 www.sq2trk2.com
@@ -24952,6 +24981,7 @@
 0.0.0.0 ar.hao123.com
 0.0.0.0 irs01.net
 0.0.0.0 kiks.yandex.ru
+0.0.0.0 y3.ifengimg.com
 0.0.0.0 in.yimg.com
 0.0.0.0 us.a1.yimg.com
 0.0.0.0 adminec1.hitbox.com
