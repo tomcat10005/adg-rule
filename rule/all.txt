@@ -1,4 +1,4 @@
-# Update time: 2022-12-24 08:34:21
+# Update time: 2022-12-24 16:09:27
 # Repo URL: https://github.com/fordes123/adg-rule
 
 ||1stireland.com^
@@ -57458,6 +57458,7 @@ tieba.baidu.com$$a[class="ti_item j_click_stats"]
 @@||front-go.lemall.com^
 @@||gamediad.com:7990
 @@||gg1z.com/statics/gg/*.css|
+@@||gotunnel.org^
 @@||hudong.pl.youku.com/n/setplugins/id_
 @@||ik123.com/js/a.js
 @@||kaixin001.com/ad/
@@ -59476,6 +59477,7 @@ iadctest.qwapi.com^
 ||adinall.com^
 ||adtechus.com^
 ||appsflyer.com^
+||atdmt.com^
 ||beintoo.com^
 ||channeladvisor.com^
 ||fastclick.com^
@@ -61395,7 +61397,6 @@ $script,third-party,xmlhttprequest,domain=btio.pw
 ||ifeng.com/client_share_bottom_
 ||ifeng.com/sc?
 ||ifeng.com^*=YWRp
-||ifengimg.com/a/*/openclient.js
 ||ifengimg.com/a/c.js
 ||ifengimg.com/b/b.js
 ||ifengimg.com/b/c.js
@@ -62593,6 +62594,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 e-2dj6wjlyckcpelq.stats.esomniture.com
 0.0.0.0 e-2dj6wjlyeodjkcq.stats.esomniture.com
 0.0.0.0 e-2dj6wjlygkd5ecq.stats.esomniture.com
+0.0.0.0 e-2dj6wjmiekc5olo.stats.esomniture.com
 0.0.0.0 e-2dj6wjmyehd5mfo.stats.esomniture.com
 0.0.0.0 e-2dj6wjmyooczoeo.stats.esomniture.com
 0.0.0.0 e-2dj6wjny-1idzkh.stats.esomniture.com
@@ -69140,6 +69142,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 hurricaneprotection.com
 0.0.0.0 hyperion.adtech.fr
 0.0.0.0 hyperion.adtech.us
+0.0.0.0 hz.mmstat.com
 0.0.0.0 i-sharecloud.com
 0.0.0.0 i.adwise.bg
 0.0.0.0 i.blogads.com
@@ -69362,6 +69365,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 js.smi2.ru
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
+0.0.0.0 js.tongji.linezing.com
 0.0.0.0 js.zevents.com
 0.0.0.0 js1.bloggerads.net
 0.0.0.0 jsc.adskeeper.co.uk
@@ -69902,6 +69906,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 nsads.hotwired.com
 0.0.0.0 nsads.us.publicus.com
 0.0.0.0 nsads4.us.publicus.com
+0.0.0.0 nsclick.baidu.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 ntskeptics.org
@@ -70026,6 +70031,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 p.profistats.net
 0.0.0.0 p2.l.qq.com
 0.0.0.0 p232207.mybestmv.com
+0.0.0.0 p3p.mmstat.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 paclitor.com
 0.0.0.0 page.0ffer.eu
 0.0.0.0 pagead2.googlesyndication.com
@@ -70199,6 +70206,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pornstargals.com
+0.0.0.0 pos.baidu.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postmasterdirect.com
@@ -70534,6 +70542,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 s1.adform.net
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.buysellads.com
+0.0.0.0 s3.pfp.sina.net
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s7clean.com
@@ -70557,6 +70566,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 sb.freeskreen.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 scalemonk.com
+0.0.0.0 scdown.qq.com
 0.0.0.0 scegli-vinci.it
 0.0.0.0 scgis.co.uk
 0.0.0.0 schoorsteen.geenstijl.nl
@@ -70688,6 +70698,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 show-msgch.qq.com
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showadsak.pubmatic.com
+0.0.0.0 shrek.6.cn
 0.0.0.0 shrimpsqueezed.com
 0.0.0.0 si.hit.gemius.pl
 0.0.0.0 sifomedia.citypaketet.se
@@ -70814,6 +70825,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.criteo.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.everyone.net
 0.0.0.0 static.fmpub.net
@@ -70824,6 +70836,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 static.l3.cdn.adsucks.com
 0.0.0.0 static.linkz.net
 0.0.0.0 static.loboclick.com
+0.0.0.0 static.mackeeper.com
+0.0.0.0 static.mediav.com
 0.0.0.0 static.oroll.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.plugrush.com
@@ -70846,6 +70860,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.defense.gov
 0.0.0.0 stats.fd.nl
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.x14.eu
@@ -70926,6 +70941,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 szupertanacsok.blog.hu
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t-o-kitano.com
+0.0.0.0 t.atpanel.com
 0.0.0.0 t.dynad.net
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.mdn2015x3.com
@@ -71037,6 +71053,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 tour.cineble.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpads.ovguide.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
 0.0.0.0 tps20519.doubleverify.com
@@ -71136,6 +71153,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 u.videoamp.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uav.tidaltv.com
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
@@ -71198,6 +71216,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vast.ssp.optimatic.com
 0.0.0.0 vast.tubemogul.com
 0.0.0.0 vast.vertamedia.com
+0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdbunt.net
 0.0.0.0 veirregnant.club
@@ -71266,6 +71285,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 vzarabotke.ru
 0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.ic.tynt.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 w1.am15.net
 0.0.0.0 w1.webcompteur.com
 0.0.0.0 w10.centralmediaserver.com
@@ -71276,6 +71296,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -71705,6 +71726,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.gmads.net
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.greatdexchange.com
@@ -72823,6 +72845,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 buspirone.1.p2l.info
 0.0.0.0 butalbital-apap.1.p2l.info
 0.0.0.0 buy-adipex.aca.ru
+0.0.0.0 buy-adipex.hut1.ru
 0.0.0.0 buy-cheap-phentermine.blogspot.com
 0.0.0.0 buy-cialis-online.iscool.nl
 0.0.0.0 buy-cialis.splinder.com
@@ -72923,6 +72946,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fioricet-online.blogspot.com
 0.0.0.0 fioricet.1.p2l.info
 0.0.0.0 fioricet.3.p2l.info
+0.0.0.0 fioricet.4.p2l.info
 0.0.0.0 fl.5.p2l.info
 0.0.0.0 flexeril.1.p2l.info
 0.0.0.0 flextra.1.p2l.info
@@ -73448,8 +73472,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
-0.0.0.0 hz.mmstat.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
@@ -73521,11 +73543,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.ucfly.com
 0.0.0.0 cntv.wrating.com
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 fm.p0y.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
-0.0.0.0 t.atpanel.com
 0.0.0.0 afp.adchina.com
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 aecpm.alicdn.com
@@ -73536,12 +73556,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 ipinyou.com
 0.0.0.0 s.ipinyou.com
 0.0.0.0 sdsp.ipinyou.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
-0.0.0.0 js.tongji.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
 0.0.0.0 app.linezing.com
@@ -73631,14 +73649,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 mipengine.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads.baidu.com
-0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 ms.bdimg.com
@@ -73653,7 +73668,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 fex.bdstatic.com
 0.0.0.0 nspt.bdstatic.com
 0.0.0.0 su.bdstatic.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 datax.baidu.com
@@ -73927,11 +73941,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 union.dangdang.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.google-analytics.com
@@ -73976,7 +73987,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 sina.mediav.com
 0.0.0.0 ssxd.mediav.com
 0.0.0.0 static-ssl.mediav.com
-0.0.0.0 static.mediav.com
 0.0.0.0 t.dsp.mediav.com
 0.0.0.0 track.mediav.com
 0.0.0.0 tran.mediav.com
@@ -73987,7 +73997,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
-0.0.0.0 vcdn.adnxs.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 analytics.live.com
@@ -74102,7 +74111,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ls.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 t.l.qq.com
-0.0.0.0 w.l.qq.com
 0.0.0.0 ad4.sina.com.cn
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 beacon.sina.com.cn
@@ -74221,7 +74229,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ssp.icast.cn
 0.0.0.0 h2.res.icast.cn
 0.0.0.0 mocast.ra.icast.cn
-0.0.0.0 s3.pfp.sina.net
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
 0.0.0.0 cdn.innity.net
@@ -74431,7 +74438,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 jdb.jiudingcapital.cn
 0.0.0.0 jdb.jiudingcapital.com
 0.0.0.0 www.jiedaibao.com
-0.0.0.0 scdown.qq.com
 0.0.0.0 download.sj.qq.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 t.sj.qq.com
@@ -74446,7 +74452,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 download.mackeeper.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 mackeeper.com
-0.0.0.0 static.mackeeper.com
 @android
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
@@ -74745,7 +74750,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 openstorage.ad.cmvideo.cn
 0.0.0.0 advert.mting.info
-0.0.0.0 shrek.6.cn
 0.0.0.0 sclick.6rooms.com
 0.0.0.0 ad.huajiao.com
 0.0.0.0 mlog.hiido.com
@@ -74784,7 +74788,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 ad-beta.flipboard.com
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 ax.ifeng.com
-0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 err.ifengcloud.ifeng.com
@@ -78976,6 +78979,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 uev.ad-stir.com
 0.0.0.0 sync.ad-stir.com
 0.0.0.0 click.ad-stir.com
+0.0.0.0 mon.ad-stir.com
 0.0.0.0 ad-api.ad-stir.com
 0.0.0.0 nad-stage1.ad-stir.com
 0.0.0.0 green-ad.ad-stir.com
@@ -79035,6 +79039,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync.1dmp.io
@@ -86578,6 +86583,7 @@ ff02::3		ip6-allhosts
 ||lokaforky.com^
 ||lol.globlax.com^
 ||lonastyr.cl^
+||loneday.com^
 ||lonelyfix.com^
 ||lonelywifehookup.com^
 ||longevitymeats.com^
@@ -87483,6 +87489,7 @@ ff02::3		ip6-allhosts
 ||ogilvy.ngadcenter.net^
 ||ohbayersbur.pro^
 ||ohiomm.com^
+||ohmygosh.info^
 ||oi.429men.com^
 ||oi.fapnado.com^
 ||oi.fapnado.xxx^
@@ -87722,6 +87729,7 @@ ff02::3		ip6-allhosts
 ||partner.fondsdiscount.de^
 ||partner.gewinnspiele.de^
 ||partner.googleadservices.com^
+||partner.loveplanet.ru^
 ||partner.maxxim.de^
 ||partner.pelikan.cz^
 ||partner.schalke04.de^
@@ -87761,6 +87769,7 @@ ff02::3		ip6-allhosts
 ||pbs.getpublica.com^
 ||pc-wallpapers.co.uk^
 ||pc.youbora.com^
+||pcash.imlive.com^
 ||pcbutts1.ourtoolbar.com^
 ||pcbutts1.software.informer.com^
 ||pccleaner.com^
@@ -87787,6 +87796,7 @@ ff02::3		ip6-allhosts
 ||pem.tamboys.pics^
 ||peneiralol.cnb.gg^
 ||peneiraval.cnb.gg^
+||pengenanu.files.im^
 ||penix.nl^
 ||pennyweb.com^
 ||penwithian.co.uk^
@@ -87865,6 +87875,7 @@ ff02::3		ip6-allhosts
 ||pipenv.org^
 ||pips.taboola.com^
 ||piranha.jsmobiledev.com^
+||pirogad.tophosting101.com^
 ||piscineborjatourki.com^
 ||pissingteengirlsfreemovies.blogbugs.org^
 ||pivo.tracked.one^
@@ -87954,6 +87965,7 @@ ff02::3		ip6-allhosts
 ||pneuma-art.com^
 ||pnp.ma^
 ||pns.org.pk^
+||pod.xpress.com^
 ||podcast.svenskafans.com^
 ||podzemi.myotis.info^
 ||pokemonporno.com^
@@ -88004,6 +88016,7 @@ ff02::3		ip6-allhosts
 ||post.rmbn.ru^
 ||post.update.fbsbx.com^
 ||post.update.spotxchange.com^
+||potd.onlytease.com^
 ||potedly.co^
 ||poultry.cloud^
 ||pousadaportaldasestrelas.com.br^
@@ -88094,6 +88107,7 @@ ff02::3		ip6-allhosts
 ||prod.cobaltgroup.com^
 ||prod.one.lt^
 ||production.wootric.com^
+||products.gobankingrates.com^
 ||profero.com^
 ||profiles.segment.com^
 ||profiles.tagger.opecloud.com^
@@ -88109,13 +88123,18 @@ ff02::3		ip6-allhosts
 ||promo-3.vercel.app^
 ||promo-4.vercel.app^
 ||promo.badoink.com^
+||promo.blackcrush.com^
+||promo.blackdatehookup.com^
 ||promo.boomtime.lv^
+||promo.cams.com^
 ||promo.ezstatic.com^
 ||promo.passioncams.com^
 ||promo.twistyscash.com^
 ||promo.ulust.com^
 ||promo.vador.com^
 ||promos.bwin.it^
+||promos.gpniches.com^
+||promos.meetlocals.com^
 ||promos.naked.com^
 ||promotion.polarisoffice.com^
 ||promotion.vesti.lv^
@@ -88164,6 +88183,7 @@ ff02::3		ip6-allhosts
 ||psvpromo.psvgamestudio.com^
 ||pt-wsb.com^
 ||ptarmigan.anthonyledonne.com^
+||ptcdn.mbicash.nl^
 ||ptonuhoku.com^
 ||ptwmemd.com^
 ||ptywajofa.pro^
@@ -88174,6 +88194,7 @@ ff02::3		ip6-allhosts
 ||pub.contexthub.net^
 ||pub.hardware.fr^
 ||pub.lacuerda.net^
+||pub.nakedreel.com^
 ||pub.realmedia.fr^
 ||pub.sv2.biz^
 ||pub.trads.io^
@@ -88194,6 +88215,7 @@ ff02::3		ip6-allhosts
 ||pubmedya.net^
 ||pubs.mgn.net^
 ||pubs.xl.pt^
+||pubsrv.devhints.io^
 ||puffin.geocode.earth^
 ||pulardeparaquedas.com^
 ||pulsepoint-match.dotomi.com^
@@ -88268,6 +88290,7 @@ ff02::3		ip6-allhosts
 ||qjezukyqwj.com^
 ||qmjqejckflsqkes.com^
 ||qmsled.com^
+||qontent.pouvideo.cc^
 ||qoqv.com^
 ||qoripicchu.com^
 ||qpdownload.com^
@@ -88342,6 +88365,7 @@ ff02::3		ip6-allhosts
 ||rads.msn.com^
 ||raf.overwolf.com^
 ||rafehgroup.com^
+||rafvertizing.crazygames.com^
 ||ragsistemas.com^
 ||rainbowscans.com^
 ||rakios.store^
@@ -88514,6 +88538,7 @@ ff02::3		ip6-allhosts
 ||resources.crowdtwist.com^
 ||resources.marketo.com^
 ||resources.siftscience.com^
+||resources.taboola.com^
 ||respekt5567.com^
 ||responseinfogets.gq^
 ||responses.df.telemetry.microsoft.com^
@@ -88609,6 +88634,8 @@ ff02::3		ip6-allhosts
 ||rollserver.xyz^
 ||romerogarcia.top^
 ||roniplus.com^
+||rontent.pomvideo.cc^
+||rontent.powzers.lol^
 ||roofappointments.net^
 ||roofing.galacticleads.com^
 ||rook.moodgym.de^
@@ -88648,6 +88675,7 @@ ff02::3		ip6-allhosts
 ||rsn.com.pk^
 ||rsrly.com^
 ||rss-loader.com^
+||rss.dtiserv.com^
 ||rt.rtoaster.jp^
 ||rtb-apac.creativedot.net^
 ||rtb-apac.displayio.cloud^
@@ -88907,6 +88935,7 @@ ff02::3		ip6-allhosts
 ||saygames.sfo2.cdn.digitaloceanspaces.com^
 ||sayherbal.com^
 ||saypromo.sfo2.cdn.digitaloceanspaces.com^
+||sbhc.portalhc.com^
 ||sbo.it^
 ||sbrcomputers.com^
 ||sbs-ad.com^
@@ -89193,6 +89222,7 @@ ff02::3		ip6-allhosts
 ||skysrsolutions.com^
 ||skystream.live^
 ||skytechmediasolution.com^
+||slave.kbjfree.com^
 ||slicktext.com^
 ||slimcdn.com^
 ||slimxxxtubeanr.ddns.name^
@@ -89344,6 +89374,8 @@ ff02::3		ip6-allhosts
 ||somniture.stuff.co.nz^
 ||somplo.com^
 ||sonar.adswizz.com^
+||sontent.pomvideo.cc^
+||sontent.powvibeo.me^
 ||sonyplex.com^
 ||soporteindustrialmexico.com^
 ||sor.pornxok.com^
@@ -89542,6 +89574,7 @@ ff02::3		ip6-allhosts
 ||static.admeridianads.com^
 ||static.adwooo.com^
 ||static.adzerk.net^
+||static.adzestocp.com^
 ||static.agkn.com^
 ||static.amplitude.com^
 ||static.analytics.nativeads.com^
@@ -89708,6 +89741,7 @@ ff02::3		ip6-allhosts
 ||support-v2.sweetwaternow.com^
 ||support.a8.net^
 ||support.clz.kr^
+||support.streamjav.top^
 ||sur.auto43.srv43.ru^
 ||sur.gorodkirov.ru^
 ||surcars.com.ar^
@@ -89990,6 +90024,7 @@ ff02::3		ip6-allhosts
 ||theadhost.com^
 ||theartmall.co.in^
 ||theazsoft.com^
+||thebankly.com^
 ||thebugs.ws^
 ||thecentury.edu.vn^
 ||thecharlescorner.com.au^
@@ -90853,7 +90888,6 @@ ff02::3		ip6-allhosts
 ||web-analytics.engagio.com^
 ||web-analytics.smile.io^
 ||web-ex.tech^
-||web-t.9gag.com^
 ||web.cinetux.nu^
 ||web.ferno.sk^
 ||web.geomegasoft.net^
@@ -91519,6 +91553,7 @@ ff02::3		ip6-allhosts
 @@||track.aliexpress.com^
 @@||s.mvconf.f.360.cn^
 @@||widget.1688.com^
+@@||api.huangye.miui.com^
 @@||ads.privacy.qq.com^
 @@||future.biz.weibo.com^
 @@||ad-putting.gw.zt-express.com^
@@ -91581,6 +91616,7 @@ ff02::3		ip6-allhosts
 @@||tongji.*kuwo.cn^
 /^(\S+\.)?toolbar\./
 /^(\S+\.)?adservice\.google\./
+/^(\S+\.)?d[\d]+\.sina(img)?(\.com)?\.cn/
 /^(\S+\.)?sax[\dns]?\.sina\.com\.cn/
 /^(\S+\.)?delivery([\d]{2}|dom|modo).com$/
 /^(\S+\.)?[c-s]ads(abs|abz|ans|anz|ats|atz|del|ecs|ecz|ims|imz|ips|ipz|kis|kiz|oks|okz|one|pms|pmz)\.com/
@@ -91842,6 +91878,7 @@ ff02::3		ip6-allhosts
 ||mldys.14yzc.cn^
 ||cc.1515788.net^
 ||1588aa.com^
+||ebis.15jikai.com^
 ||15tianqi.com^
 ||adgeo.corp.163.com^
 ||bobo.corp.163.com^
@@ -92605,6 +92642,7 @@ ff02::3		ip6-allhosts
 ||m.9e6zb.cn^
 ||9ead.com^
 ||privacy-api.9gag.com^
+||web-t.9gag.com^
 ||adsdk.9imobi.com^
 ||9ll01.com^
 ||9llm.com^
@@ -95064,6 +95102,7 @@ ff02::3		ip6-allhosts
 ||1.chcx.cn^
 ||che0.com^
 ||br.ac2.cheaptickets.com^
+||checke.biz^
 ||ablink.offers.checkout51.com^
 ||checkpost.club^
 ||smetric.cheddars.com^
@@ -95657,6 +95696,7 @@ ff02::3		ip6-allhosts
 ||cpufan.cl^
 ||cpufan.club^
 ||nai.cpxkvc.com^
+||mob10.cqjktj.com^
 ||cqmjjx.cn^
 ||cbjg.cqnews.net^
 ||adimg.cqnews.net^
@@ -102192,9 +102232,7 @@ ff02::3		ip6-allhosts
 ||uatu.newsquestdigital.co.uk^
 ||newswhip.com^
 ||rt.newswire.ca^
-||newweb.top^
 ||newwiesdom.com.cn^
-||sstats.newworldsreading.com^
 ||stats2.newyorker.com^
 ||newzheng.cn^
 ||ccpa-script.psg.nexstardigital.net^
@@ -102321,7 +102359,6 @@ ff02::3		ip6-allhosts
 ||secure.nong3bram.com^
 ||nonissue.com^
 ||nonkads.com^
-||gomyjndc8v5t.www.nookgaming.com^
 ||lh3pvljbkong.www.nookgaming.com^
 ||marketing.nopec.org^
 ||links.edm.noracora.com^
@@ -103333,7 +103370,6 @@ ff02::3		ip6-allhosts
 ||propbn.com^
 ||qrrhvh.propertyfinder.ae^
 ||propush.net^
-||discover.proshipinc.com^
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||eymiwj.prosport.ro^
@@ -103755,7 +103791,6 @@ ff02::3		ip6-allhosts
 ||ddkkrrla.m.qxs.la^
 ||ddrrccck.m.qxs.la^
 ||dxprla.m.qxs.la^
-||yyffeicd.m.qxs.la^
 ||zbz.m.qxs.la^
 ||api.ts.feedback.qy.net^
 ||msgv6.qy.net^
@@ -104139,7 +104174,6 @@ ff02::3		ip6-allhosts
 ||sanalytics.rundschau-online.de^
 ||runetki.com^
 ||sffyrc.ruparupa.com^
-||connect.rush.edu^
 ||ruskhw.cn^
 ||cookies.engage.russellinvestments.com^
 ||stats.russellstover.com^
@@ -104316,7 +104350,6 @@ ff02::3		ip6-allhosts
 ||scifc.mobi^
 ||sckxppzdm.com^
 ||scoop.it^
-||scorespro.com^
 ||e.scouc.com^
 ||m.scouc.com^
 ||m.scoue.com^
@@ -104425,7 +104458,6 @@ ff02::3		ip6-allhosts
 ||seordl.cn^
 ||app.sephora.com^
 ||trk.s.sephora.com^
-||ltzpth.sephora.fr^
 ||marketing.sertantcapital.com^
 ||somni.serve.com^
 ||assets.servedby-buysellads.com^
@@ -104461,7 +104493,6 @@ ff02::3		ip6-allhosts
 ||m.sfouh.com^
 ||m.sfp61.cn^
 ||1ctc.sfr.fr^
-||8ezc.sfr.fr^
 ||dw0c.sfr.fr^
 ||elr.sfr.fr^
 ||fkwc.sfr.fr^
@@ -104526,7 +104557,6 @@ ff02::3		ip6-allhosts
 ||sc.shayugg.com^
 ||syp.shcfpx.com^
 ||sohiuc.sheego.de^
-||te.sheego.de^
 ||tp.sheego.de^
 ||sstats.sheffieldfinancial.com^
 ||mo.shekuang.top^
@@ -104796,7 +104826,6 @@ ff02::3		ip6-allhosts
 ||seyfwl.smaker.pl^
 ||ebis.smakon.jp^
 ||ea.smallable.com^
-||subscriber.smallbusinessstartup.com^
 ||smallseotools.com^
 ||secure.smart-business-ingenuity.com^
 ||smart-business-intuition.com^
@@ -105019,7 +105048,6 @@ ff02::3		ip6-allhosts
 ||click1n.soufun.com^
 ||countubn.light.soufun.com^
 ||shouji.sougou.com^
-||souid.com^
 ||stats.soundbite.so^
 ||no9pldds1lmn3.soundcloud.com^
 ||a8cv.soundfun.co.jp^
@@ -105158,7 +105186,6 @@ ff02::3		ip6-allhosts
 ||star-media.cn^
 ||stargame.com^
 ||juniper.starleaf.com^
-||plausible.starlegacyfoundation.org^
 ||alwayscare.starmountlife.com^
 ||stat.stars.ru^
 ||analytics3.starschina.com^
@@ -105260,7 +105287,6 @@ ff02::3		ip6-allhosts
 ||dcc.strbgi.xyz^
 ||strdef.world^
 ||go.streakwave.com^
-||streamateaccess.com^
 ||streamdream.ws^
 ||streamplay.me^
 ||streamspread.com^
@@ -105330,7 +105356,6 @@ ff02::3		ip6-allhosts
 ||sunhd.info^
 ||apm.suning.cn^
 ||sums.suning.com^
-||adls.suning.com^
 ||dfp.suning.com^
 ||creatives.sunmedia.tv^
 ||marketing.sunny.org^
@@ -105460,7 +105485,6 @@ ff02::3		ip6-allhosts
 ||rsas.szzek.com^
 ||a8cv.t-bang.jp^
 ||direct.t-mobile.com^
-||targetab.t-mobile.com^
 ||consent.t-mobile.cz^
 ||jdgtgb.t-online.de^
 ||t1n.cn^
@@ -105470,7 +105494,6 @@ ff02::3		ip6-allhosts
 ||m.t3j6a.cn^
 ||m.t528zl.cn^
 ||hhqda.pop.t5yx.cn^
-||e.t71q.com^
 ||m.t98rzq.cn^
 ||c.t98u8f.com^
 ||stat-ssl.tabelog.com^
@@ -105483,7 +105506,6 @@ ff02::3		ip6-allhosts
 ||ssp.tadseeker.com^
 ||ens.tagblatt.ch^
 ||grxsaq.tagheuer.com^
-||adlog.tagtic.cn^
 ||adopt-sdk.xg.tagtic.cn^
 ||xy-log2.tagtic.cn^
 ||news.tagtoo.co^
@@ -105491,7 +105513,6 @@ ff02::3		ip6-allhosts
 ||taihe2002.cn^
 ||tainiesonline.pw^
 ||tainiesonline.st^
-||tainiesonline.stream^
 ||glores2.taisantech.com^
 ||asp.taishokunext.com^
 ||19035955.automated.tajawal.com^
@@ -105587,13 +105608,11 @@ ff02::3		ip6-allhosts
 ||redirect.simba.taobao.com^
 ||rj.m.taobao.com^
 ||sdkinit.taobao.com^
-||simaba.m.taobao.com^
 ||simaba.taobao.com^
 ||simba.m.taobao.com^
 ||srd.simba.taobao.com^
 ||stat.simba.taobao.com^
 ||temai.taobao.com^
-||textlink.simba.taobao.com^
 ||tyh.taobao.com^
 ||unitacs.m.taobao.com^
 ||w.m.taobao.com^
@@ -105683,7 +105702,6 @@ ff02::3		ip6-allhosts
 ||go.techtarget.com^
 ||techtricksworld.com^
 ||detnmz.techwalla.com^
-||error-collector.ted.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
 ||teenspirithentai.com^
@@ -105720,7 +105738,6 @@ ff02::3		ip6-allhosts
 ||aamt.newsapp.telemundo.com^
 ||ijaabm.telemundo.com^
 ||ijaabm.telemundodeportes.com^
-||a.telenor.se^
 ||telepang.com^
 ||tse.telerama.fr^
 ||fcpszk.telestream.net^
@@ -105829,7 +105846,6 @@ ff02::3		ip6-allhosts
 ||stats.thechurchfactory.com^
 ||adebis.theclinic.jp^
 ||swasc.thecompanystore.com^
-||thecounter.com^
 ||news.thedailyrecord.com^
 ||alerts.thedailystar.net^
 ||stats.thedartmoorsoapco.co.uk^
@@ -105978,9 +105994,7 @@ ff02::3		ip6-allhosts
 ||c.tienda.com^
 ||tiexing.com^
 ||log.tiexue.net^
-||uim.tifbs.net^
 ||marketing.tignl.eu^
-||mon.us.tiktokv.com^
 ||reddwarf.till-sanders.de^
 ||link.tillfinancial.io^
 ||diypxh.tillys.com^
@@ -106048,7 +106062,6 @@ ff02::3		ip6-allhosts
 ||7701534.emails.tntdrama.com^
 ||sanalytics.tntdrama.com^
 ||sanalytics.tntgo.tv^
-||sanalytics.tntla.com^
 ||sanalytics.tntsports.cl^
 ||sanalytics.tntsports.com.ar^
 ||sanalytics.tntsports.com.br^
@@ -106093,7 +106106,6 @@ ff02::3		ip6-allhosts
 ||tj.tongjiwo.com^
 ||tonnn.com^
 ||tr.news.toocampmail.com^
-||ea.tool-fitness.com^
 ||top100.ru^
 ||c8.top267.com^
 ||top888.com^
@@ -106150,7 +106162,6 @@ ff02::3		ip6-allhosts
 ||tr.news.toute-la-franchise.com^
 ||dsp.toutiao.com^
 ||nativeapp.toutiao.com^
-||partner.toutiao.com^
 ||sm.toutiao.com^
 ||toutiaopage.com^
 ||marketing.towerfcu.org^
@@ -106167,7 +106178,6 @@ ff02::3		ip6-allhosts
 ||tracemyip.org^
 ||trackcmp.net^
 ||qdvavs.trademax.se^
-||lzrljv.tradera.com^
 ||tradesoul.cn^
 ||gcudsn.tradetested.co.nz^
 ||tradetracker.net^
@@ -106283,7 +106293,6 @@ ff02::3		ip6-allhosts
 ||safe.tsgpay.cn^
 ||smetric.tsite.jp^
 ||eo.tsnsrix.cn^
-||mo.tsnsrix.cn^
 ||e.tspric.cn^
 ||contact.tsr-net.co.jp^
 ||tst16infra.com^
@@ -106335,14 +106344,11 @@ ff02::3		ip6-allhosts
 ||web.tummytox.pt^
 ||web.tummytox.sk^
 ||clicks.tunein.com^
-||gotie.tunein.com^
-||reports.tunein.com^
 ||analy.tuniu.cn^
 ||stats.tunt.lv^
 ||vpn.tuodupingguomiao.com^
 ||tuoens.cn^
 ||m.tuopp.com^
-||stat.turb.pw^
 ||ruvdkw.turk.net^
 ||securetenilstats.turner.com^
 ||tenilstats.turner.com^
@@ -106357,14 +106363,12 @@ ff02::3		ip6-allhosts
 ||aa.tvguide.com^
 ||saa.tvguide.com^
 ||sdjthl.tvguide.dk^
-||slib.tvmao.cn^
 ||marketing.tvppa.com^
 ||sadbmetrics.tvr.es^
 ||b.tvsou.com^
 ||cmp.tvspielfilm.de^
 ||kzsicw.tvspielfilm.de^
 ||kzsicw.tvtoday.de^
-||tw.cx^
 ||twackle.com^
 ||cijfers.tweakers.nl^
 ||stats.tweedride.ca^
@@ -106432,8 +106436,6 @@ ff02::3		ip6-allhosts
 ||app.uabsports.com^
 ||m.ubaii.com^
 ||clk.ubi.com^
-||ubibibi.com^
-||hm.ubiej.com^
 ||clhzet.ubierzswojesciany.pl^
 ||stats.ubiwiz.com^
 ||api.mp.uc.cn^
@@ -106500,7 +106502,6 @@ ff02::3		ip6-allhosts
 ||ultra-cdn.pl^
 ||ultranote.org^
 ||um0.cn^
-||um0592.com^
 ||um1.cn^
 ||um29.com^
 ||app.umassathletics.com^
@@ -106531,7 +106532,6 @@ ff02::3		ip6-allhosts
 ||tr.relation.uneo.fr^
 ||tr.solution.uneo.fr^
 ||d.uni-medias.com^
-||a8cv.unico-fan.co.jp^
 ||a8.unicoffee.tech^
 ||sucmetrics.unicredit.it^
 ||sucmetrics.unicreditgroup.eu^
@@ -106564,7 +106564,6 @@ ff02::3		ip6-allhosts
 ||osimg.universalstudioshollywood.com^
 ||tr.credito.universo.pt^
 ||unlitui.com^
-||stats.unox.com^
 ||unrummaged.com^
 ||634lj7p7g3lv.unstoppabledomains.com^
 ||securedata.unsw.edu.au^
@@ -106596,7 +106595,6 @@ ff02::3		ip6-allhosts
 ||a8clk.ur-s.me^
 ||uralweb.ru^
 ||adebis.urban-research.jp^
-||urbanairship.com^
 ||fipsta.urbanara.at^
 ||fipsta.urbanara.ch^
 ||fipsta.urbanara.co.uk^
@@ -106674,7 +106672,6 @@ ff02::3		ip6-allhosts
 ||m.uzhaj.com^
 ||cdn1.res.uzham.com^
 ||uzhuangji.cn^
-||uzsrh.cn^
 ||dee.uzyid.cn^
 ||v-links.net^
 ||c.v-meng.org^
@@ -106697,7 +106694,6 @@ ff02::3		ip6-allhosts
 ||bnsmoi.valx.jp^
 ||vane3alga.com^
 ||vangmobi.com^
-||vaniok.cn^
 ||stats.vanityprojects.com^
 ||collect.vans.com.cn^
 ||web.info.vantastic-foods.com^
@@ -106737,7 +106733,6 @@ ff02::3		ip6-allhosts
 ||vectorstock.com^
 ||target.veeam.com^
 ||vegaschina.cn^
-||a8.vege-pet.jp^
 ||jhrewn.venezia.pl^
 ||ea.ventealapropriete.com^
 ||info.veoci.com^
@@ -106756,7 +106751,6 @@ ff02::3		ip6-allhosts
 ||verresof.com^
 ||p.versacommerce.de^
 ||bbbihe.vertbaudet.es^
-||mteme7li1d6r.vertexmarketingagency.com^
 ||verticalaffiliation.com^
 ||success.vertigis.com^
 ||info.vesselsvalue.com^
@@ -106780,7 +106774,6 @@ ff02::3		ip6-allhosts
 ||viaxmr.com^
 ||wssgmstats.vibbo.com^
 ||s-adobeanalytics.vice.com^
-||secure.vice4beek.com^
 ||m.vichc.com^
 ||secure.vick6duty.com^
 ||vicomi.com^
@@ -106812,7 +106805,6 @@ ff02::3		ip6-allhosts
 ||gg.vidown.cn^
 ||minisite.vidown.cn^
 ||rtlog.vidown.cn^
-||tj.vidown.cn^
 ||vidto.me^
 ||vidto.se^
 ||vidtod.me^
@@ -106841,12 +106833,10 @@ ff02::3		ip6-allhosts
 ||drau.viessmann.si^
 ||blava.viessmann.sk^
 ||marketing.vigon.com^
-||colvk.viki.io^
 ||somni.vikingrivercruises.com^
 ||irqewz.vilebrequin.com^
 ||tr.satisfaction.villagesnature.com^
 ||app.villanova.com^
-||fresnel-events.vimeocdn.com^
 ||data.vinsolutions.com^
 ||ebs.viosalon.com^
 ||tr.news.vip-diary.com^
@@ -106862,11 +106852,9 @@ ff02::3		ip6-allhosts
 ||c.vip97.net^
 ||vipads.cn^
 ||in.vipliangmei.com^
-||tr.mail.vipmag.fr^
 ||tr.news.vipmag.fr^
 ||tr.welcome.vipmag.fr^
 ||ms.vipstatic.com^
-||cnt.viptube.com^
 ||js.vipyy88.com^
 ||marketing.virginia.org^
 ||data0.virginmobile.ca^
@@ -106876,7 +106864,6 @@ ff02::3		ip6-allhosts
 ||tr.email.virtual-expo.com^
 ||virtualpushplatform.com^
 ||connect.virtuesofthevine.com^
-||a8.virus-gekitai.com^
 ||sanalytics.visible.com^
 ||secure.visionarybusiness7.com^
 ||stats.visions.ch^
@@ -106929,7 +106916,6 @@ ff02::3		ip6-allhosts
 ||efficiency.visma.fi^
 ||efficiency.visma.lv^
 ||efficiency.visma.se^
-||retargeting.vistaprint.com^
 ||m.vistaresourcegroup.com^
 ||visualwebsiteoptimizer.com^
 ||visvn.com^
@@ -107000,7 +106986,6 @@ ff02::3		ip6-allhosts
 ||swa.vodafone.pt^
 ||wa.vodafone.pt^
 ||vogorana.ru^
-||a8clk.voice-inc.co.jp^
 ||voiceads.com^
 ||log.voicecloud.cn^
 ||cqpmvc.voici.fr^
@@ -107062,7 +107047,6 @@ ff02::3		ip6-allhosts
 ||vtsgaqnfvzcyu.ru^
 ||communicatie.vub.be^
 ||alfeza.vueling.com^
-||stat.vulkanvegas.com^
 ||vungle.cn^
 ||pages.vuzion.cloud^
 ||e.vvme9.cn^
@@ -107099,7 +107083,6 @@ ff02::3		ip6-allhosts
 ||s-adobe.wacoal.jp^
 ||content.wacom.com^
 ||a.waczt.cn^
-||clk.wagon-hire.com^
 ||wahwahnetworks.com^
 ||wait8hurl.com^
 ||marketing.waitrainer.com^
@@ -107111,7 +107094,6 @@ ff02::3		ip6-allhosts
 ||walibao.com^
 ||stats.walkiees.co.uk^
 ||momotaro.walkkumano.com^
-||drfdisvc.walmart.com^
 ||wamcash.com^
 ||wancai.com^
 ||push.wandoujia.com^
@@ -107131,8 +107113,6 @@ ff02::3		ip6-allhosts
 ||code.wantaico.com^
 ||wantatop.com^
 ||c.wantxt.cc^
-||a8clk.waq-online.com^
-||a8clk.cv.warau.jp^
 ||trck.wargaming.net^
 ||img.warron.cn^
 ||marketing.washcochamber.com^
@@ -107164,8 +107144,6 @@ ff02::3		ip6-allhosts
 ||wauk1care.com^
 ||up-cookiemon.wavecdn.net^
 ||hlqpie.waves.com^
-||t.wayfair.ca^
-||t.wayfair.co.uk^
 ||agnes.waz.de^
 ||m.wbaie.com^
 ||m.wbaiz.com^
@@ -107206,27 +107184,20 @@ ff02::3		ip6-allhosts
 ||web-01-gbl.com^
 ||rpiher.web-camp.io^
 ||web-cntr-07.com^
-||a8.web-hikari.net^
-||afi.biyou.web-marketing.ai^
-||afi.school.web-marketing.ai^
-||afi.sougou.web-marketing.ai^
 ||cv.web-sana.com^
 ||tgw.web.de^
 ||web605.cn^
 ||web8.net^
-||tr.webantenna.info^
 ||webassembly.st^
 ||webcaster.pro^
 ||tmetrics.webex.com^
 ||webfunny.cn^
-||a8.webist-cri.com^
 ||webkooo.com^
 ||flznib.weblio.jp^
 ||assets.webmanufaktur.ch^
 ||std.o.webmd.com^
 ||webminepool.tk^
 ||webminer.pro^
-||m.weboser.com^
 ||webpush.jp^
 ||websd8.com^
 ||webanalyticsssl.websense.com^
@@ -107329,22 +107300,17 @@ ff02::3		ip6-allhosts
 ||photo.whwestern.cn^
 ||whxhhjx.com^
 ||whysoserius.cl^
-||a8clk.wi-ho.net^
 ||cdn.wibiya.com^
 ||ddguhg.wickes.co.uk^
 ||sanalytics.wideroe.no^
 ||widgetsplus.com^
-||as.wieistmeineip.de^
 ||cookie.wieni.be^
 ||wifelovers.com^
-||a8.wifi-tokyo-rentalshop.com^
 ||adnew.wifi8.com^
 ||cmsapi.wifi8.com^
 ||wifidown.com^
 ||wifijia.net^
-||pla.wigglepixel.nl^
 ||bc34.wijnvoordeel.nl^
-||plausible.wikiotics.org^
 ||wild0army.com^
 ||secure.wild8prey.com^
 ||promoshq.wildfireapp.com^
@@ -107353,9 +107319,6 @@ ff02::3		ip6-allhosts
 ||willacrit.com^
 ||marketing.willamettewines.com^
 ||hnnuaa.willhaben.at^
-||data.fans.williamsf1.com^
-||data.marketing.williamsf1.com^
-||data.shop.williamsf1.com^
 ||log.wilmaa.com^
 ||logging.wilmaa.com^
 ||marketing.wilmingtonandbeaches.com^
@@ -107486,11 +107449,9 @@ ff02::3		ip6-allhosts
 ||37bvsblobprodcus311.blob.core.windows.net^
 ||xblgdvrassets3010.blob.core.windows.net^
 ||telemetry.remoteapp.windowsazure.com^
-||osimg.windsurfercrs.com^
 ||links.e.wine.com^
 ||links.t.wine.com^
 ||secure.wine9bond.com^
-||visitors.winecountrygiftbaskets.com^
 ||vip.winfisc.com^
 ||email.wingocard.com^
 ||anijjm.winkelstraat.nl^
@@ -107498,7 +107459,6 @@ ff02::3		ip6-allhosts
 ||marketing.winn-marion.com^
 ||stats.winsim.de^
 ||st.wir-entdecken-bayern.de^
-||pio.wir-sehen-uns-im-juni.de^
 ||ablinksemail.wirexapp.com^
 ||email-test.wirexapp.com^
 ||email.wirexapp.com^
@@ -107515,9 +107475,7 @@ ff02::3		ip6-allhosts
 ||witthethim.com^
 ||wittyoffers.club^
 ||secure.wivo2gaza.com^
-||hmg.wiwo.de^
 ||frog.wix.com^
-||wiyun.com^
 ||twiz.wizaly.fr^
 ||e.wj57g.cn^
 ||wjgglm.com^
@@ -107538,7 +107496,6 @@ ff02::3		ip6-allhosts
 ||wmrmb.cn^
 ||wmtech.website^
 ||wmwmwwfmkvucbln.ru^
-||top.wn.com^
 ||sp.wndoor.com^
 ||wnpbdan.bid^
 ||m.wnxcg.com^
@@ -107553,7 +107510,6 @@ ff02::3		ip6-allhosts
 ||3347.wolf-gordon.com^
 ||gastdn.wolfandbadger.com^
 ||marketing.wolfgordon.com^
-||wal.wolfram.com^
 ||ddioce.wolverine.com^
 ||womenbaby.com^
 ||adbmetrics.womennow.es^
@@ -107563,7 +107519,6 @@ ff02::3		ip6-allhosts
 ||ablink.uat.enjoy.wonder.com^
 ||cbs.wondershare.com^
 ||woobox.com^
-||1bw7etm93lf.www.woodbrass.com^
 ||inencr.woodhouseclothing.com^
 ||arphzc.woodica.pl^
 ||info.woodward.com^
@@ -107571,13 +107526,8 @@ ff02::3		ip6-allhosts
 ||wordc.ga^
 ||email.msg.workday.com^
 ||otracks.workday.com^
-||a8cv.workman.jp^
 ||qzwktr.world-fusigi.net^
-||an.worldbaseballclassic.com^
-||sadbmetrics.worldcanic.com^
-||metric.worldcat.org^
 ||ftpcontent.worldnow.com^
-||a8trck.worldone.to^
 ||worldpush.co^
 ||clicks.staging.worldremit.com^
 ||worldsbestcams.com^
@@ -107629,12 +107579,10 @@ ff02::3		ip6-allhosts
 ||m.wqiuj.com^
 ||wqmobile.com^
 ||h.wr2t6b.cn^
-||p.wren.co^
 ||wronpeci.com^
 ||wrvdmh.cn^
 ||wrxgandsfcz.ru^
 ||wshufa.com^
-||oms.wsj.com^
 ||m.wsoue.com^
 ||app.wsucougars.com^
 ||e.wsxxu.com^
@@ -107658,11 +107606,9 @@ ff02::3		ip6-allhosts
 ||d.wuylp.com^
 ||ee.wv26d.cn^
 ||m.wv26d.cn^
-||stats.wvs.org.uk^
 ||app.wvusports.com^
 ||dokxpl.wwbw.com^
 ||wwclicktm.club^
-||mms.wwe.com^
 ||wyt.wwetjy.com^
 ||snprxx.wwfmarket.com^
 ||www-61677.com^
@@ -107678,7 +107624,6 @@ ff02::3		ip6-allhosts
 ||m.wxhh678.com^
 ||m.wxjrd.cn^
 ||e.wy87qg.cn^
-||tr.wycena-companeo.pl^
 ||m.wywna.cn^
 ||ee.wz382.cn^
 ||m.wz382.cn^
@@ -107692,13 +107637,10 @@ ff02::3		ip6-allhosts
 ||m.x2e8id.cn^
 ||m.x316f.cn^
 ||m.x78tg.cn^
-||t.xamaky.top^
 ||xavingtsun.com^
 ||sl.xawjwl.com^
 ||e.xbaiv.com^
 ||m.xbaiv.com^
-||c.xbox.com^
-||o.xbox.com^
 ||xbzzzx.com^
 ||pv.xcar.com.cn^
 ||pvx.xcar.com.cn^
@@ -107722,13 +107664,10 @@ ff02::3		ip6-allhosts
 ||m.xdunv.com^
 ||xdwan.com^
 ||i.xdywlw.cn^
-||hola.xebel.co^
 ||xedo.me^
 ||e.xeig.cn^
 ||m.xeig.cn^
 ||aplobv.xexymix.com^
-||serviceo.xfinity.com^
-||serviceos.xfinity.com^
 ||ee.xfya3.cn^
 ||m.xfya3.cn^
 ||xfyjz.cn^
@@ -107740,7 +107679,6 @@ ff02::3		ip6-allhosts
 ||xgefmxd.ru^
 ||xgmc6lu8fs.me^
 ||stat.xgo.com.cn^
-||58.xgo.com.cn^
 ||imp.xgo.com.cn^
 ||xgogi.com^
 ||xhaiu.com^
@@ -107819,7 +107757,6 @@ ff02::3		ip6-allhosts
 ||xin365.org^
 ||xing-share.com^
 ||nats.xing.com^
-||stan.xing.com^
 ||xingchenjia.com^
 ||xingmengxia.cn^
 ||d.xingshangnet.com^
@@ -107884,25 +107821,19 @@ ff02::3		ip6-allhosts
 ||xmr.cool^
 ||xmrm.pw^
 ||xmrminer.cc^
-||xmrminingproxy.com^
 ||k.xmtsyg.com^
 ||xn--2qu92fhtx4ff.ink^
 ||xn--2qux23c9ziyrq.icu^
-||cv.xn--bcktcvdzde3c.biz^
-||a8aspconv.xn--biglobe-kc9k.com^
 ||xn--czrshy5v7kb.cc^
 ||xn--fjqz50cv5q3so.ltd^
 ||adbmetrics.xn--futuroenespaol-1nb.es^
 ||xn--i6qs37am6iwyqffc.com^
-||a8aspconv.xn--ocn-ws1e.jp^
 ||xn--wcsy74a6d835f5lf.com^
 ||xn--wxtr44c.video^
-||cv.xn--zbs202g.com^
 ||nch.xnghmc.com^
 ||pupu.xnhh120.com^
 ||s.xodyw.com^
 ||xogogowebcams.com^
-||t-s.xolairhcp.com^
 ||branch.xoxloveheart.com^
 ||xp666.com^
 ||nop.xpanama.net^
@@ -107917,13 +107848,11 @@ ff02::3		ip6-allhosts
 ||m.xq375.cn^
 ||xqwiremesh.com^
 ||ee.xr883.cn^
-||m.xr883.cn^
 ||xrain.net^
 ||j1.ax.xrea.com^
 ||e.xroun.com^
 ||m.xroun.com^
 ||webstatistieken.xs4all.nl^
-||a8clk.xserver.ne.jp^
 ||xshellcn.com^
 ||marketing.xsightusa.com^
 ||m.xsk5j.cn^
@@ -107962,11 +107891,9 @@ ff02::3		ip6-allhosts
 ||xxdlg.cn^
 ||xxeden.com^
 ||xxkhh.com^
-||e.xxkio.com^
 ||m.xxkio.com^
 ||photo.xxlywl.cn^
 ||xxxblackbook.com^
-||xxxfeng.com^
 ||xxxhd.cc^
 ||watg.xxxlutz.com^
 ||xxxmatch.com^
@@ -107999,14 +107926,12 @@ ff02::3		ip6-allhosts
 ||ymph.y8u975.cn^
 ||e.y9062t.cn^
 ||m.y9062t.cn^
-||a8cv.ya-man.com^
 ||e.yageben.com^
 ||pvtag.yahoo.co.jp^
 ||rdsig.yahoo.co.jp^
 ||yjtag.yahoo.co.jp^
 ||ane.yahoo.co.jp^
 ||bc.geocities.yahoo.co.jp^
-||ras.yahoo.com^
 ||tw.rd.yahoo.com^
 ||adss.yahoo.com^
 ||aliunion.cn.yahoo.com^
@@ -108025,7 +107950,6 @@ ff02::3		ip6-allhosts
 ||m.yalayi.com^
 ||js.yalongrope.cn^
 ||secure.yama1hove.com^
-||a8cv.yamato-gp.net^
 ||secure.yami8alea.com^
 ||report.appmetrica.yandex.net^
 ||rosenberg.appmetrica.yandex.net^
@@ -108034,7 +107958,6 @@ ff02::3		ip6-allhosts
 ||e.yangjingbang.net^
 ||m.yangjingbang.net^
 ||yanhao.red^
-||a8.yanoman.com^
 ||m.yanyankj.com^
 ||xiaomiir.yaokantv.com^
 ||adnetpub.yaolan.com^
@@ -108042,7 +107965,6 @@ ff02::3		ip6-allhosts
 ||adpubs.yaolan.com^
 ||ylads.yaolan.com^
 ||cps.yaoqing.com^
-||smetric.yardhouse.com^
 ||yaxujiancai.cn^
 ||m.ybaih.com^
 ||m.ybaiu.com^
@@ -108079,8 +108001,6 @@ ff02::3		ip6-allhosts
 ||123.ydylwang.net^
 ||ye3.com^
 ||ir.mail.yeah.net^
-||securemetrics.yeezygap.com^
-||s-omniture.yell.com^
 ||yellowto.com^
 ||web.info.yeppon.it^
 ||yes115.com^
@@ -108097,7 +108017,6 @@ ff02::3		ip6-allhosts
 ||yfzcuw.cn^
 ||yghua.com^
 ||yglhcn.cn^
-||a8cv.ygm-clinic.or.jp^
 ||ygpd.wang^
 ||xin.ygqczh.com^
 ||e.ygqna.cn^
@@ -108173,7 +108092,6 @@ ff02::3		ip6-allhosts
 ||yjkyj.cn^
 ||yjqiqi.com^
 ||p2.ykauto.cn^
-||a8clk.ykd.co.jp^
 ||l.ykimg.com^
 ||e.stat.ykimg.com^
 ||e.yl64a.cn^
@@ -108199,11 +108117,9 @@ ff02::3		ip6-allhosts
 ||c.ynlysg.com^
 ||kn.ynmhg.cn^
 ||jpwy.ynp0h.cn^
-||ynwqls.com^
 ||ynyfcz.cn^
 ||ynztzh.com^
 ||yoaabgvkm.ru^
-||somniture.yodlee.com^
 ||hbahrd.yogibo.jp^
 ||e.yoiur.com^
 ||m.yoiur.com^
@@ -108217,11 +108133,8 @@ ff02::3		ip6-allhosts
 ||yongyuelm.com^
 ||yooli.com^
 ||nlgzhd.yoox.com^
-||s.yorkregion.com^
 ||marketing.yostlabs.com^
 ||yottos.com^
-||a8cv.you-shoku.net^
-||a8click.you-up.com^
 ||you1ad.com^
 ||youbora.com^
 ||c.youdao.com^
@@ -108272,7 +108185,6 @@ ff02::3		ip6-allhosts
 ||msg.youku.com^
 ||myes.youku.com^
 ||orange-dc.youku.com^
-||passport-log.youku.com^
 ||push.m.youku.com^
 ||sdk.m.youku.com^
 ||service.danmu.youku.com^
@@ -108293,7 +108205,6 @@ ff02::3		ip6-allhosts
 ||tr.newsletters.youmeetings.com^
 ||youmsm.com^
 ||youmw.com^
-||a8click.young-mobile.net^
 ||tr.news.younited-coach.com^
 ||tr.serviceclient.younited-coach.com^
 ||tr.clientes.younited-credit.com^
@@ -108311,27 +108222,19 @@ ff02::3		ip6-allhosts
 ||tr.marketing.younited-credit.es^
 ||tr.clienti.younited-credit.it^
 ||tr.marketing.younited-credit.pt^
-||data.younow.com^
 ||te.your-look-for-less.nl^
 ||te.your-look-for-less.se^
 ||tp.your-look-for-less.se^
-||metrix.youravon.com^
 ||yourdatelink.com^
-||stats.yourfone.de^
-||a8clk.yourmystar.jp^
 ||jxoaza.yourmystar.jp^
 ||cloudcdn.yousee.com^
-||data.email.yousee.dk^
 ||dev.tg.youxi.com^
 ||m.youxiaoliu.cn^
 ||youyijia021.com^
 ||vpn.youyisheng.net^
-||pear.youzful-by-ca.fr^
 ||yoyozz.net^
-||logger.yp.ca^
 ||photo.ypkjq.cn^
 ||m.yplzarxt.cn^
-||communications.ypo.org^
 ||yppw666.cn^
 ||e.ypzhwf.cn^
 ||m.yqbyiw86.cn^
@@ -108348,7 +108251,6 @@ ff02::3		ip6-allhosts
 ||m.ysgsq.cn^
 ||sbw.ysjweb.com^
 ||ysont.cn^
-||cv.online.ysroad.co.jp^
 ||xiny.yssbi.net^
 ||j.ytbt.cc^
 ||ytdksb.com^
@@ -108391,10 +108293,8 @@ ff02::3		ip6-allhosts
 ||activity.yuyiya.com^
 ||yun.yuyiya.com^
 ||drsw.m.yuyouge.com^
-||a8cv.yuyu-tei.jp^
 ||img.yuyue007.cn^
 ||yuyue008.cn^
-||a8.yuzen-official.com^
 ||yw78.cn^
 ||utma.ywpxp.cn^
 ||wzj.ywrjgzs.com^
@@ -108437,7 +108337,6 @@ ff02::3		ip6-allhosts
 ||zamplus.com^
 ||hgf4.zanzicar.fr^
 ||m.zaoss.com^
-||amethyst.zappos.com^
 ||zavzlen.ru^
 ||maz.zba.jp^
 ||m.zbhbs.cn^
@@ -108454,15 +108353,11 @@ ff02::3		ip6-allhosts
 ||tl.zcsfs.cn^
 ||static.zctx8.com^
 ||ko3aql2d.zczcjx.com^
-||zdbb.net^
 ||mo.zdceaa.cn^
-||mefo1.zdf.de^
 ||s2.zdface.com^
 ||m.zdjgj.cn^
 ||s2.zdmimg.com^
-||za.zdn.vn^
 ||hits.zdnet.co.kr^
-||saa.zdnet.com^
 ||am.zdnet.com.cn^
 ||imp.zdnet.com.cn^
 ||pv.zdnet.com.cn^
@@ -108471,31 +108366,21 @@ ff02::3		ip6-allhosts
 ||nexstep.zdworks.com^
 ||push.zdworks.com^
 ||dz2017.zdzxyplyt.com^
-||connect.zebra.com^
-||swebmetrics.zebra.com^
 ||zeddit.com^
 ||sbdhdq.zeeman.com^
 ||m.zeiaa.com^
-||target.zeiss.com^
 ||iiajtl.zeit.de^
 ||zelfo.pw^
-||zenaps.com^
-||sadbmetrics.zendalibros.com^
 ||apac.zendesk.com^
 ||m.zenffs.cn^
 ||cwcdmm.zennioptical.com^
-||stats.zenquiries.com^
 ||upwwgd.zentempel.com^
-||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
 ||adebis.zenyaku-hbshop.com^
-||cv.zephylrin-w.com^
 ||c1hit.zerkalo.io^
 ||s1r.zerkalo.io^
 ||s3r.zerkalo.io^
-||a8cv.zeroen-denki.com^
 ||img.zeruinong.com^
 ||uu.zeverdg.com^
-||noushe.zevvle.com^
 ||zfacts.com^
 ||ldy.zfdvzp.cn^
 ||e.zfrgkm.cn^
@@ -108539,7 +108424,6 @@ ff02::3		ip6-allhosts
 ||event.zhihu.com^
 ||udd1i5.zhihu.com^
 ||m.zhipianwu.com^
-||z1.zhishidu.com^
 ||z2.zhishidu.com^
 ||jan19.zhiyueit.com^
 ||zhiziyun.com^
@@ -108560,7 +108444,6 @@ ff02::3		ip6-allhosts
 ||js1151.zhudiaosz.com^
 ||js3768.zhudiaosz.com^
 ||js3810.zhudiaosz.com^
-||js453.zhudiaosz.com^
 ||zhululm.com^
 ||zhuren.site^
 ||m.zhuyuanp.club^
@@ -108596,7 +108479,6 @@ ff02::3		ip6-allhosts
 ||zjsyawqj.cn^
 ||jdw.zjuwjdc.com^
 ||ebis01.zkai.co.jp^
-||samc.zkb.ch^
 ||zfjn.zkfborg.cn^
 ||m.zkp53.cn^
 ||bbsimages.zkxf119.com^
@@ -108604,7 +108486,6 @@ ff02::3		ip6-allhosts
 ||aa.zldh123.com^
 ||a.zleep.com^
 ||go.util.zlibs.com^
-||hype.zlipa.com^
 ||zlne800.com^
 ||zlongad.com^
 ||zmctrack.net^
@@ -108633,280 +108514,12 @@ ff02::3		ip6-allhosts
 ||dl.zola.com^
 ||mandrillapp.zola.com^
 ||rdbwwe.zolotoyvek.ua^
-||jumbo.zomato.com^
 ||zona.pl^
 ||zona.plus^
 ||h5log.zongheng.com^
 ||log.zongheng.com^
-||dii1.zoochic-eu.ru^
-||dii2.zoochic-eu.ru^
-||dii1.zoohit.cz^
-||dii2.zoohit.cz^
-||dii1.zoohit.si^
-||dii2.zoohit.si^
-||dii1.zoohit.sk^
-||dii2.zoohit.sk^
 ||info.zoomintel.com^
-||dii1.zooplus.at^
-||dii2.zooplus.at^
-||dii1.zooplus.be^
-||dii2.zooplus.be^
-||dii2.zooplus.bg^
-||dii1.zooplus.ch^
-||dii2.zooplus.ch^
-||dii1.zooplus.co.uk^
-||dii2.zooplus.co.uk^
-||00d1n000002btifuae.net.zooplus.com^
-||00da0000000ya3ymag.net.zooplus.com^
-||0p10g000000tnbisaw.net.zooplus.com^
-||511-mail.net.zooplus.com^
-||acc-productions.controller.net.zooplus.com^
-||acc.developmentstaticsvcgateway.administrator.tester.net.zooplus.com^
-||account-elastic-gitlab-passwebv2.europewest.tester.net.zoopl.net.zooplus.com^
-||account-tester-gitlab.core-corerepository.ssl.idswindows.net.zooplus.com^
-||accpartner.net.zooplus.com^
-||dii1.zooplus.com^
-||dii2.zooplus.com^
-||vpn-partner.net.zooplus.com^
-||wdatatats.net.zooplus.com^
-||webbitbucket.net.zooplus.com^
-||webdashboard.net.zooplus.com^
-||webstats-proxy.net.zooplus.com^
 ||images.net.zooplus.com^
-||yskins-restricted.developmentstaticsvcgateway.administrator.tester.net.zooplus.com^
-||yskins.staticsvcgateway.controllerbackender.net.zooplus.com^
-||0-owazo4.net.zooplus.de^
-||0.data.net.zooplus.de^
-||01-csr31.net.zooplus.de^
-||01-csr41.net.zooplus.de^
-||01.2lab.net.zooplus.de^
-||01933310313.net.zooplus.de^
-||02.net.zooplus.de^
-||07.net.zooplus.de^
-||09csh1.net.zooplus.de^
-||1-administrators-mail.confluence.net.zooplus.de^
-||1-alpha-disabled-mail.support-confluence.net.zooplus.de^
-||1-api-mail.confluence.net.zooplus.de^
-||1-cvs-mail.support-confluence.net.zooplus.de^
-||1-development-pay-mail.2lab-testbed.net.zooplus.de^
-||1-ids-mail.2lab-testbed.pay.net.zooplus.de^
-||1-internal-mail.2lab-testbed.net.zooplus.de^
-||1-machine-decsr12.2lab-testbed.net.zooplus.de^
-||1-machine-frontnodemgmt.support-confluence.net.zooplus.de^
-||1-machine-mail-api-git.lax.sandbox.repo.lab2frontuploads.net.zooplus.de^
-||1-machine-mail-lab2frontuploads.2lab-testbed.net.zooplus.de^
-||1-machine-mail-mgmt.signed-repositorysystem01.2lab.net.zooplus.de^
-||1-machine-mail-regionmanagement.idsdata-api-backend.alpha-disabled.net.zooplus.de^
-||1-machine-mail-support-northamerica.partner.apimail-v2api.net.zooplus.de^
-||1-machine-mail-uploadsevents.idsdata-api-backend.alpha-disabled.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.analyticsdisabled.dev.preview.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.chd-backend.alpha-disabled.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.idsdata-api-backend.2lab-gh.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.idsdata-api-backend.alpha-disabledstg.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.idsdata-api-backend.alpha-machineapi.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.idsdata-api-backend.gitalpha-disabled.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.idsdata-api-backend.legacy.net.zooplus.de^
-||1-machine-mail-uploadsmanagement.lbidsdata-api-backend.alpha-disabled.net.zooplus.de^
-||1-machine-mail-uploadsmanagementapi.engine-lax.repopromo.2uploads.net.zooplus.de^
-||1-machine-mail.2lab-lb.net.zooplus.de^
-||1-machine-mail.2lab-legacy-privsupport-confluence.net.zooplus.de^
-||1-machine-mail.2lab-testbed-laxssl.net.zooplus.de^
-||1-machine-mail.2lab-testbed.pay-productions.net.zooplus.de^
-||1-machine-mail.2lab-testbed.server-pay.net.zooplus.de^
-||1-machine-mail.2lab-testbed.zooplus-passpay.net.zooplus.de^
-||1-machine-mail.2lab-testbedsvcgatewayv3.net.zooplus.de^
-||1-machine-mail.eventss.2lab-testbed.pay.net.zooplus.de^
-||1-machine-mail.iad.pay.net.zooplus.de^
-||1-machine-mail.ids.2lab-testbed.net.zooplus.de^
-||1-machine-mail.laxphpscmsigned.2lab-testbed.pay.net.zooplus.de^
-||1-machine-mail.payment-elastic-uploads-v3.api.tpealpha-disabled.net.zooplus.de^
-||1-machine-mail.secure-mgmt.support-confluence.net.zooplus.de^
-||1-machine-mail.supportmanagement.net.zooplus.de^
-||1-machine-mail.v.pay.net.zooplus.de^
-||1-machine-mail2lab-svcgateway.2lab-testbed.pay.net.zooplus.de^
-||1-machine-mailredirector.confluence.net.zooplus.de^
-||1-machine-mailv1.2lab-testbed.pay.net.zooplus.de^
-||1-proxy-mail-tpealpha-disabled.marketing.account.net.zooplus.de^
-||1-proxy-mail.static-mgmtstage.net.zooplus.de^
-||1-twitch-mail.2lab-testbed.pay.net.zooplus.de^
-||1.ctl.api-mail03.net.zooplus.de^
-||120.net.zooplus.de^
-||173.net.zooplus.de^
-||178.net.zooplus.de^
-||2-14.net.zooplus.de^
-||2-exchange2.net.zooplus.de^
-||2.aws-data.net.zooplus.de^
-||2.net.zooplus.de^
-||2.service-cgd2iptccmpin21.net.zooplus.de^
-||2asana.net.zooplus.de^
-||2eventss.europe.net.zooplus.de^
-||2eventssapi.2eventsss.net.zooplus.de^
-||2eventsstrial.net.zooplus.de^
-||2lab-gh.mgmtteam.api-docs.1-machine-mail.2lab-svcgateway.net.zooplus.de^
-||2lab-legacy-priv-apiops.hw-lax.repobrandfw.staging-swagger.lab2.net.zooplus.de^
-||2lab-mail.net.zooplus.de^
-||2lab-netnode-netrepobed.api-ci.engine-lax.repo.2uploads.net.zooplus.de^
-||2lab-pass.www-admins.controlapplication-legacying.net.zooplus.de^
-||2lab-svcgateway-uploads-v3cloudfrontrepository.api.alpha-disabled.net.zooplus.de^
-||2lab-svcgateway.decsr12.developer2eventss.net.zooplus.de^
-||2lab-svcgateway.lab.net.zooplus.de^
-||2lab-svcgatewaymgmt.mail01-docker.events2lab-pass.net.zooplus.de^
-||2lab-testbed.uploads.idsdata-api.alpha-disabled.net.zooplus.de^
-||2lab-testbeddevelopment.mgmt.docker.internal2lab.net.zooplus.de^
-||2lab-testbedgetter-priv.management-wwwowa-int.net.zooplus.de^
-||2labmanagement-wwwowa.uploadsphp.machineapi.alpha-disabled-management.net.zooplus.de^
-||2labzxtm.net.zooplus.de^
-||2mail01-docker.partner.api.net.zooplus.de^
-||2mail01-dockerdockernginx-oid.auth-apiserver-mgmt.net.zooplus.de^
-||2mail01-mgmt.2uploadsgetterstage.2lab.net.zooplus.de^
-||2uploads-elasticbackendsntor-data-docsdrop.azuresupport-northamerica.net.zooplus.de^
-||2uploads.development.mgmtbucket.docker.engine-2lab.net.zooplus.de^
-||2uploads.mgmtbucket.privategetter-docker.2lab.net.zooplus.de^
-||2uploadsprivategetter-priv.mgmt.docker.eventss.2lab.net.zooplus.de^
-||68-131.net.zooplus.de^
-||acc-resetdata.partner.api.net.zooplus.de^
-||acc-support-origin-dockernginx.net.zooplus.de^
-||acc-support-origin-lbappappschefrepository.net.zooplus.de^
-||acc-support-origin.int-partner.api.net.zooplus.de^
-||acc-support-origin.partnerlb.api.net.zooplus.de^
-||acc-support.developerpartner.api.net.zooplus.de^
-||acc-support.development.partner.svcgateway-northamericaapi.net.zooplus.de^
-||acc-support.partner-docker-private-nautilus.api.net.zooplus.de^
-||acc-support.partner-metrics.svcgateway-northamericaapi.net.zooplus.de^
-||acc-support.partner.api-partner.net.zooplus.de^
-||acc-support.partner.api-rawwebowazo4.net.zooplus.de^
-||acc-support.partner.apimarketingengine-lax.net.zooplus.de^
-||acc-support.partner.apitest.net.zooplus.de^
-||acc-support.partner.svcgateway-2mail01-dockerapi.net.zooplus.de^
-||acc-support.partner.svcgateway-northamericaapi-serverelastic.net.zooplus.de^
-||acc-support.privatebackendsntor-data-partner.api.net.zooplus.de^
-||acc.marketingcgd2iptccmpin21.net.zooplus.de^
-||acc.rawwebowazo4-transit-net-stg.net.zooplus.de^
-||account-elastic-uploads-v3.northamerica-profileapi.tpealpha-disabled.net.zooplus.de^
-||account-ssl-cgi-payment.net.zooplus.de^
-||account-ssl-netlab.net.zooplus.de^
-||accounting-preview-cloudfront.docker-private-nautilus.net.zooplus.de^
-||accounting-preview.docker-private-nautilus-jenkins.net.zooplus.de^
-||accounting-preview.docker-private-nautilusgit-wwwlogin.net.zooplus.de^
-||accounting-preview.login.docker-private-nautilus.net.zooplus.de^
-||accounting-preview.svc-prod-docker-private-nautilusgit.net.zooplus.de^
-||accounting-preview.webhotel.net.zooplus.de^
-||accounting-previewedge.docker-private-nautilus.net.zooplus.de^
-||accounting-priv-csr11.data.net.zooplus.de^
-||accounting.marketing-authdocker.api-edge.net.zooplus.de^
-||accountingdevelopment.frontpagemgmt.docker.mail01-dockerhelps.2lab.net.zooplus.de^
-||accountingeurope-mgmt.mail01-docker.events2lab-pass.net.zooplus.de^
-||accountingmirror-northamerica.api.net.zooplus.de^
-||accountnodeapi.lax.repobrandfw.lab2.net.zooplus.de^
-||adm-mgmt.dockergetter.events2lab.hw-2lab.net.zooplus.de^
-||adm-secure-mgmt.signed-dockerus.2lab.net.zooplus.de^
-||adminapi.admins-idsdata-frontpage-scm-marketing.net.zooplus.de^
-||adminapi.admins-toolbar.repobrandfw.net.zooplus.de^
-||adminapi.gh.net.zooplus.de^
-||adminapi.legacyingadmins.net.zooplus.de^
-||adminapi.ssl.admins.net.zooplus.de^
-||admindata.active.net.zooplus.de^
-||administrator-paylax-administrator.mgmt.docker-private.2lab-gh.net.zooplus.de^
-||administrator-transit-net-stg.net.zooplus.de^
-||administrator2uploads.application-legacyingmo.net.zooplus.de^
-||administratormail.firewall.zooplusmaiacc-support.partner.svcgateway-northamericaapi.net.zooplus.de^
-||dii2.zooplus.de^
-||mgmteventss.mail01-docker.profiles-pass-testing.net.zooplus.de^
-||mgmtmanagement-uploadsmanagement.idsdata-api-backend.alpha-disabled.net.zooplus.de^
-||mgmtmanagement.apache-email.net.zooplus.de^
-||mgmtmo-v1-preview-wwwowa.net.zooplus.de^
-||mgmtmoazure-promo.development-apiserver-mgmt.net.zooplus.de^
-||mgmtoid.1-machine-mail.decsr12.2lab-staging.net.zooplus.de^
-||mirror-datacdn.application-legacying.net.zooplus.de^
-||mirror-northamerica.elasticapi.net.zooplus.de^
-||mirror.brandidsdata-api-backend.2lab-pass-disabled.net.zooplus.de^
-||privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de^
-||scm.region.api-mgmtteammgmt.docker.2lab.v1-preview-wwwowa.net.zooplus.de^
-||scm.region.git-mgmt.docker-demo.devs.2lab.ops-v1-preview-wwwowa.net.zooplus.de^
-||scm.regiongitlabhe.mgmt.docker-training.2lab.devs-development-pay.net.zooplus.de^
-||scm.regiongitlabhe.mgmt.docker-training.twitch2lab.development-pay.net.zooplus.de^
-||scm.regionhw.mgmt.dockerproxy.alpha2lab.v1-iad-wwwowa.net.zooplus.de^
-||support-northamerica.partnerrestricted.apimail-v2api.net.zooplus.de^
-||support-northamerica.repopartner.api.github.net.zooplus.de^
-||support-northamerica.s3beanstalksystem-partner.apimail-v2api.net.zooplus.de^
-||support-northamerica.test.partner.apisandbox.net.zooplus.de^
-||support-northamerica.train.engineering.api.idsdata.net.zooplus.de^
-||support-northamerica.twitchering.api.idsdata.net.zooplus.de^
-||support-northamericamanagement-rawweb.partner.apimail-v2api.net.zooplus.de^
-||support-northamericapantheon-jenkins.partner.api-edge.net.zooplus.de^
-||support-northamericapantheon.partner.api-edge-repobrandfw.net.zooplus.de^
-||support-northamericapantheon.partner.api-edgegist.net.zooplus.de^
-||support-northamericapantheon.partner.api-secure.net.zooplus.de^
-||support-pass.partner.engineering-docker-csr41jenkins.api.net.zooplus.de^
-||support-pass.partner.repositorymail01-docker-csr41jenkins.latinlab2api.net.zooplus.de^
-||support-pass.partner.repositorytestbed-docker-csr41jenkins.api.net.zooplus.de^
-||svc-ghcpi.marketing-docsdropapi.net.zooplus.de^
-||svc-ghcpi.marketingadmins.net.zooplus.de^
-||svc-ghcpi.marketingredirector.net.zooplus.de^
-||svc-gistdockerapi.marketing-authdocker.api-edge.net.zooplus.de^
-||svc-gitistrators-engine-lax-auth.marketing.account.net.zooplus.de^
-||testbed2labrepositorysystem01.lax.repobrandfw.lab2.net.zooplus.de^
-||toolbar-fw-beta.transit-beta-priv.mgmtmo.management.net.zooplus.de^
-||toolbar-gwsweb-accounting-eventss.net.zooplus.de^
-||toolbar-mail-cms.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
-||toolbar-mail-server.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
-||toolbar-mail-v2api.development-apipriv-mgmt-privcgi.mgmtmo.management.net.zooplus.de^
-||toolbar-mail.api.alpha-disabled.net.zooplus.de^
-||toolbar-mail.legacy-priv-demo-api.mgmtmo.management.net.zooplus.de^
-||toolbar-mail.legacy-priv-demo.file.mgmtmo.management.net.zooplus.de^
-||toolbar-mail.legacy-priv-demo.mgmtmo.promo-management.net.zooplus.de^
-||toolbar-mailadministrator.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
-||toolbar-profile.privategetter-priv.management.net.zooplus.de^
-||toolbar-redir.privategetter-priv.management-proxy.net.zooplus.de^
-||toolbar-search.development-apiserver-mgmt-privcgi.mgmtmo.management.net.zooplus.de^
-||toolbar-zooplus.decsr12-training.frontpagegw.net.zooplus.de^
-||transitapi-git.lax.repo.lab2-firewall.net.zooplus.de^
-||transitfrontpagemgmt-pay.azuremgmt.docker.2lab-netnode-netrepobed.net.zooplus.de^
-||transitfrontpagemgmt-pay.elasticmgmt.docker.2lab-netnode-netrepobed.net.zooplus.de^
-||transitfrontpagemgmt-pay.mgmt.docker.2lab-netnode-dockernginx.net.zooplus.de^
-||transitfrontpagemgmt-pay.mgmt.docker.2lab-netpriv-netrepobed.net.zooplus.de^
-||uploads.docsdropapi-chef.eventss.net.zooplus.de^
-||uploads.docsdropapi-chef.webappectoraccountalpha-disabledbackend.net.zooplus.de^
-||uploads.docsdropapi.2lab-ci-disabled.swagger.net.zooplus.de^
-||uploads.docsdropapi.2lab-netnodeectoraccountalpha-disabled.swagger.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-cms.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-disabled-dev.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-disabled-webapp.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.ghcpi.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.swagger.repov3.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.swagger2mail01.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountalpha-svcgateway.swagger.net.zooplus.de^
-||uploads.docsdropapi.2lab-passectoraccountregion.swagger.net.zooplus.de^
-||uploads.docsdropapi.cmsmirror-alpha-disabled.net.zooplus.de^
-||uploads.docsdropapi.containerredirectoraccountalpha-disabled.net.zooplus.de^
-||uploads.docsdropapi.engine-proxy.net.zooplus.de^
-||uploads.docsdropapi.gh.swagger.net.zooplus.de^
-||uploads.docsdropapi.github-proxy.net.zooplus.de^
-||uploadsmanagement.brandidsdata-api-backend.apache-docker.net.zooplus.de^
-||uploadsmanagement.brandidsdata-api-backend.managementapi-docs.net.zooplus.de^
-||uploadsmanagement.brandidsdata-api-resetrestricted.alpha-disabled.net.zooplus.de^
-||uploadsmanagement.cert-idsdata-api.alpha-disabled.net.zooplus.de^
-||uploadsmanagement.disabled.brandidsdata-api-backend.2lab-pass-disabled.net.zooplus.de^
-||uploadsmanagement.idsbeta-api.alpha-disabled.net.zooplus.de^
-||uploadsmanagement.idsdata-api-backend.raw.net.zooplus.de^
-||uploadsmanagement.idsdata-api-backendgit.alpha-disabled.net.zooplus.de^
-||uploadsmanagement.idsdata-api.alpha-app-uploads.net.zooplus.de^
-||uploadsmanagement.idsdata-apiaws.alpha-lab.net.zooplus.de^
-||uploadsmanagement.idsdata-apiaws.gwswebapialpha-disabled.net.zooplus.de^
-||v1-preview-wwwowa-csr12.assets.net.zooplus.de^
-||v1-preview-wwwowa-datasvcbackend.idsdataingsvcanalytics-lax-getter.net.zooplus.de^
-||v1-preview-wwwowa-emea.dockertrial.net.zooplus.de^
-||v1-preview-wwwowa.apac-dockertrial.net.zooplus.de^
-||v1-preview-wwwowa.dockercert.net.zooplus.de^
-||v1-preview-wwwowa.frontpagedockertrial.net.zooplus.de^
-||v1-preview-wwwowagetter-privwwweurope.application-legacying.net.zooplus.de^
-||v1-testing-wwwowa.net.zooplus.de^
-||v1.development.privatebackendsntor-data.docker.2lab.net.zooplus.de^
-||v1development.mgmt.chef.api-docsowazo4-transit-net.2lab-testbed.net.zooplus.de^
-||v1svcapiserver.marketing.account.net.zooplus.de^
-||w3csr12-svcgateway-northamericanode.githubcsr41.net.zooplus.de^
-||w3docsdropapi.development-apiserver-mgmt.net.zooplus.de^
-||w3repo-wwwowa-banner.decsr12.net.zooplus.de^
 ||frontpage.controlapplication-legacying.net.zooplus.de^
 ||getter-privcontrolapplication-idsdataing.net.zooplus.de^
 ||ghing.net.zooplus.de^
@@ -108924,395 +108537,15 @@ ff02::3		ip6-allhosts
 ||w3.w3docsdropapi.application-legacying.net.zooplus.de^
 ||w3partner.trial-php.application-legacying.net.zooplus.de^
 ||wiki-ail-mgmt-w3.application-legacying.net.zooplus.de^
-||wwwaccounting2lab.testing.net.zooplus.de^
-||wwwclient-email.application-legacying.net.zooplus.de^
-||wwwdecsr12netrepo.application-legacying.net.zooplus.de^
-||wwwdevelopment-apiserver-mgmt-priv-email.application-legacying.net.zooplus.de^
-||wwwlegacy.testing.net.zooplus.de^
-||wwwlogin-edecsr12-managementfw-alpha.application-legacying.net.zooplus.de^
-||wwwlogin-email-alpha.application-legacyingapplication.net.zooplus.de^
-||wwwlogin-email-alpha.application-v1-preview-wwwowa.net.zooplus.de^
-||wwwlogin-email-alpha.cms-application-legacying.net.zooplus.de^
-||wwwlogin-email-alpha.us-legacying.net.zooplus.de^
-||wwwlogin-email.application-disabledsandbox.net.zooplus.de^
-||wwwlogin-email.application-legacying-legacying.net.zooplus.de^
-||wwwlogin-email.application-legacying-node.net.zooplus.de^
-||wwwlogin-redirectoraccount-ssl.net.zooplus.de^
-||wwwlogin-secure-mgmt.marketing-authdocker-legacying.net.zooplus.de^
-||wwwlogin.application-gateway.net.zooplus.de^
-||wwwlogin.application-legacying-europe.net.zooplus.de^
-||wwwlogin.application-legacying.devops.net.zooplus.de^
-||wwwlogin.docker-private-nautilusgit.net.zooplus.de^
-||wwwlogin.machine.application-legacying.net.zooplus.de^
-||wwwlogin.marketing-authdocker-emeaing.net.zooplus.de^
-||wwwlogin.marketing-authdocker-legacying-api.net.zooplus.de^
-||wwwlogin.marketing-authdocker-phplab2frontuploads.net.zooplus.de^
-||wwwlogin.marketing-azuredocker-legacying.net.zooplus.de^
-||wwwlogin.marketing-gwdocker-legacying.net.zooplus.de^
-||wwwlogin.northamericaapi.net.zooplus.de^
-||wwwlogin.phpscm-application-legacying.net.zooplus.de^
-||wwwloginnetrepo.application-legacying-dockerrepositorysystem01.net.zooplus.de^
-||wwwloginnetrepo.application-legacying.application-legacying.net.zooplus.de^
-||wwwloginnetrepo.application-repository.net.zooplus.de^
-||wwwloginnetrepo.development-apipriv-mgmt-privcgi-application-legacying.net.zooplus.de^
-||wwwloginnetrepo.security-legacying.net.zooplus.de^
-||wwwloginscm.marketing-authdocker-legacying.net.zooplus.de^
-||wwwmgmt-fwdkim1.marketing-paylax.account.net.zooplus.de^
-||wwwmgmt-fwdkim1docker.marketing.account.net.zooplus.de^
-||wwwmgmt-php.marketingstg.net.zooplus.de^
-||wwworg.w3.php.application-legacying.net.zooplus.de^
-||wwwowaaccounting-preview.docker-private-nautilusgit.net.zooplus.de^
-||wwwowadatastaffrepo.net.zooplus.de^
-||wwwprivatebackendsfile-getter-priv.controlapplication-legacying.net.zooplus.de^
-||wwwsandbox.legacy-priv-frontpage-management-wwwowa.net.zooplus.de^
-||wwwweb.controlapplication-idsdataing-devs.net.zooplus.de^
-||dii1.zooplus.dk^
-||dii2.zooplus.dk^
-||acc-ssl.testingnetcms-m-frontpagesslanalytics.marketingnetprofile.net.zooplus.es^
-||acc.net-ext.zooplusmail-aws.net.prod.raw.net.zooplus.es^
-||acc.net.zooplusmail-aws.net.ghcpi.zoossl.net.zooplus.es^
-||acc.ssl.cms-m-frontpagesslanalytics.marketingnet.net.zooplus.es^
-||accgatewayvisionmail.net.europe-aws-oid.net.service.net.zooplus.es^
-||accounting-cms-m-frontpagesslanalyticsengineering.marketingnet.net.zooplus.es^
-||accounting-ssl.net.zooplus.es^
-||accountingmail.page.net.resetdata-sandbox.net.net-testingnet.zoossl.net.zooplus.es^
-||adm-mail.net.zooplus.es^
-||administratormail-apac.net-cert.pagebucket-zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail-aws.net-cert.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail-cert.net.ids.zooplusmail-aws.net.lb.zoosslawsadmins.net.zooplus.es^
-||administratormail-chd-ids.netrepo.zooplusmail-aws.netanalytics.zoossl.net.zooplus.es^
-||administratormail-chd.net.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail-client.net.zooplusmail-aws.net.lb.zoossl.net.zooplus.es^
-||administratormail-devops-administratormail.net.promonet.net.zoossl.net.zooplus.es^
-||administratormail-devops-org.azurenet.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail-devops-training.azurenet.zooplusmail-aws.net.redir.net.zooplus.es^
-||administratormail-devops.azurenet.legacy-aws.net.zoossl.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.alphamail-net.redir.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.bucket.net.zoossl.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.devsnet.zoossl.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.docsdrop-net.redir.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.enginenet.redir.net.zooplus.es^
-||administratormail-devops.azurenet.zooplusmail-aws.net-metrics.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net-chd.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net-partner.cgi.net.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net.cgi.net-azurenet.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net.test-zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net.zooplusmail-aws.cert.net.zoossl.net.zooplus.es^
-||administratormail-webxchdev.net.zooplusmail-aws.net.static.zoossl.net.zooplus.es^
-||administratormail.adminmailnet.scm.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.adminnet.europe-aws.net-testing-mail.zoossl.net.zooplus.es^
-||administratormail.alphamailhw.net.resetdata.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.client.net.auth.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.europe-aws.internal.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.europe-aws.net-engineering.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.europe-aws.net.zoosslcontainer.net.zooplus.es^
-||administratormail.alphamailnet.scm.europe-aws.netazure.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.net-web-europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.s3-europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.testing.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnet.scm.twitcheurope-aws.net.zoossl.net.zooplus.es^
-||administratormail.alphamailnetnorthamerica.scm.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.alphanet.zooplusmail-administratormailfile.net.org.net.zooplus.es^
-||administratormail.apac.azurenet.engine-aws.appnet.zoossl.net.zooplus.es^
-||administratormail.apac.azurenet.svc-marketingnet.appnet.zoossl.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-aws.appnet.control-zoossl.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-aws.appnet.net-web.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-aws.appnet.zoossl-mirror.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-aws.appnet.zoossl.cgi.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-aws.payazurenet.zoossl.net.zooplus.es^
-||administratormail.apac.azurenet.zooplusmail-awsstg.appnet.zoossl.net.zooplus.es^
-||administratormail.apac.testingnet.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
-||administratormail.apac.wwwsvc.azurenet.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
-||administratormail.apinet.zooplusmail-awsfirewall.net.netaccount.net.zooplus.es^
-||administratormail.aws-net-iad.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
-||administratormail.aws-netapache.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
-||administratormail.awshwcdnnet.europe-aws.net-testing-mail.zoossl.net.zooplus.es^
-||administratormail.azurenet-firewall.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
-||administratormail.azurenet.events-zooplusmail-aws-php.appnet.zoossl.net.zooplus.es^
-||administratormail.azurenet.nautilusm.net.zoossl.net.zooplus.es^
-||administratormail.azurenet.nginxzooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.azurenet.oid-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
-||administratormail.azurenet.zooplusmail-aws.alpha-appnet-priv.zoossl-hw.net.zooplus.es^
-||administratormail.azurenet.zooplusmail-aws.net.zoossl.firewall.net.zooplus.es^
-||administratormail.azurenet.zooplusmail-aws.netdev.zoossl.net.zooplus.es^
-||administratormail.azurenet.zooplusmail-aws.netmirror.zoossl.net.zooplus.es^
-||administratormail.azurenet.zooplusmail-aws.orgdocsdrop.appnet.zoossl.net.zooplus.es^
-||administratormail.azurenet.zoosslzooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.azurenethelp.zooplusmail-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
-||administratormail.azurenetproxy.zooplusmail-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
-||administratormail.backend-netcloudfront.login.net.lb.zoossl.net.zooplus.es^
-||administratormail.billingnet.zooplusmail-aws.net.lb.zoosslawsadmins.net.zooplus.es^
-||administratormail.bucketnet.acc-net-aws.net.administratorszoossl.net.zooplus.es^
-||administratormail.bucketnet.engineering.net.administratorszoossl.net.zooplus.es^
-||administratormail.bucketnet.nginx-aws.bucket-net.administratorszoossl.net.zooplus.es^
-||administratormail.bucketnet.nginx-aws.net.administratorszoossl-backend.net.zooplus.es^
-||administratormail.bucketnet.nginx-aws.net.authzoossl.net.zooplus.es^
-||administratormail.bucketnet.nginx-aws.net.awsfirewall.net.zooplus.es^
-||administratormail.bucketnet.nginx-aws.net.uploadmarketing.net.zooplus.es^
-||administratormail.bucketnet.teamnginx-aws.net.administratorszoossl.net.zooplus.es^
-||administratormail.bucketnetmirror.nginx-aws.net.administratorszoossl.net.zooplus.es^
-||administratormail.chd.acc-net.nautilus-aws-cdn.net.zoossl.net.zooplus.es^
-||administratormail.chd.netcloudfront.ops.profiles-net.lb.zoossl.net.zooplus.es^
-||administratormail.chefnet-cert.devops.zooplusmail-aws.staff.net.zoossl.net.zooplus.es^
-||administratormail.ci.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
-||administratormail.client-nginx.net.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svc-iad.net.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.devsnet.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.net.partner-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.net.pay.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.net.regionnetzooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.net.zooplusmail-aws.net.europewest.zoossl.net.zooplus.es^
-||administratormail.client-svc.net.zooplusmail-awsprofile.net.zoossl.net.zooplus.es^
-||administratormail.client-svc.netdevelopment.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-svcw3.net.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client-v3.eng.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.docker-eng.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.eng.net.aws-net.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.eng.net.docker.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.eng.net.resetdata-zoosslnetwww.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.eng.net.zooplusmail-aws.net.login.tpe.partner.net.zooplus.es^
-||administratormail.client.eng.net.zooplusmail-aws.net.tpe.stage-zoossl.net.zooplus.es^
-||administratormail.client.eng.net.zooplusmail-aws.net.tpe.swagger.net.zooplus.es^
-||administratormail.client.net-azurenet.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
-||administratormail.client.net-pantheon.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
-||administratormail.client.net-skins.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.certdocsdrop.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client.net.certpage.bucketnet.net.zoossl.net.zooplus.es^
-||administratormail.client.net.certpage.zooplusmail-aws.accnet.zoossl.net.zooplus.es^
-||administratormail.client.net.certpage.zooplusmail-aws.net-test.zoossl.net.zooplus.es^
-||administratormail.client.net.certpage.zooplusmail-aws.net.payment.net.zooplus.es^
-||administratormail.client.net.certssl.githubzooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client.net.dev-aws.net.zoossl.pass.net.zooplus.es^
-||administratormail.client.net.helppage.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client.net.nginx.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.client.net.raw.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.scm.europe-awsnautilus-aws-cdn.net.zoossl.net.zooplus.es^
-||administratormail.client.net.v2.net.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws-hw.net.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.apinet.zoossl.pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net-alphaswag.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net-tomcat.zoossl.pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net-tpe.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.apache-zoossl.pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.jenkins.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.tpe.zoossl-pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.vpn-zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.zoossl-web.pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.net.zoossl.hwcdn-pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.netprivate.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.redirectornet.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.searchnet.zoossl.pass.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.server.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.sslnet.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-aws.staffnet.tpe.zoossl.net.zooplus.es^
-||administratormail.client.net.zooplusmail-awslb.net.zoossl.pass.net.zooplus.es^
-||administratormail.client.netapp.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.clientzoossl.net.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
-||administratormail.cms.hw.net.resetdata.net.zoossl.net.zooplus.es^
-||administratormail.cms.netus.europe-aws.net-testing.zoossl.confluence.net.zooplus.es^
-||administratormail.containerinternal.netservice.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.control-aws-net.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
-||administratormail.control-hw.net.resetdata.net.zoossl.net.zooplus.es^
-||administratormail.control.netaccount.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.data.net.europe-aws.net.test.net.zooplus.es^
-||administratormail.developer.bucket-payment.profile.net.zoossl.net.zooplus.es^
-||administratormail.development.net.promonet.net.zoossl.net.zooplus.es^
-||administratormail.devops-net.zooplusmail-administratormailfile.net.org.net.zooplus.es^
-||administratormail.docker.net-emea.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.docker.net.certpage.cizooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.docker.net.certpage.net-edge-aws.net.zoossl.net.zooplus.es^
-||administratormail.docker.net.certpage.zooplusmail-aws.net.ghcpizoossl.net.zooplus.es^
-||administratormail.docker.net.certpagelegacy.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.docker.net.privcertpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.edge-bucketnet.nginx-aws-lb.net.netzoossl.net.zooplus.es^
-||administratormail.edge-bucketnet.nginx-aws.net.frontpage.net.zooplus.es^
-||administratormail.edge-bucketnet.nginx-aws.net.netproductions.net.zooplus.es^
-||administratormail.edge-webnet.nginx-aws.net.administratorszoossl.net.zooplus.es^
-||administratormail.elastic.net.zooplusmail-chd.net.netaccount.net.zooplus.es^
-||administratormail.email.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.emailvisionhw.net.resetdata.net.zoossl.net.zooplus.es^
-||administratormail.engine.zooplusmail-aws.docsdrop.appnet.zoossl.net.zooplus.es^
-||administratormail.engineering.net.nginx-aws.net.zoossl.net.zooplus.es^
-||administratormail.europe-aws-oid.net.resetpantheon.net.zoossl.net.zooplus.es^
-||administratormail.europe-awsglobal-page.net.zooplusmail-aws.net.trial.net.zooplus.es^
-||administratormail.europewest.zooplusmail-aws.profiles-net.lb.zoossl.net.zooplus.es^
-||administratormail.events.net.resetdata-sandbox.net.zoossl.net.zooplus.es^
-||administratormail.eventsregionnet.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.extadm-client.net.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
-||administratormail.extazurenet.zooplusmail-aws.appnet.payment-hw.net.zooplus.es^
-||administratormail.extazurenet.zooplusmail-aws.nodeappnet.zoossl-hw.net.zooplus.es^
-||administratormail.extelastic.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
-||administratormail.extnet-wwwauthnet.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
-||administratormail.extuszooplusmail.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
-||administratormail.file.europe-aws.net.zoossl.net.zooplus.es^
-||administratormail.globalconfluenceate.system-aws.net.zoosslreset.net.zooplus.es^
-||administratormail.globalconfluenceate.zooplusmail-aws.net.oid.net.zooplus.es^
-||administratormail.globalconfluenceate.zooplusmail-aws.net.redir.net.zooplus.es^
-||administratormail.globalnet.ghcpieurope-aws.net.zoossl-account.net.zooplus.es^
-||administratormail.hw.net.alphamaildata.net.zoossl.net.zooplus.es^
-||administratormail.hw.net.iaddata.net.zoossl.net.zooplus.es^
-||administratormail.hw.net.northamerica-resetdata.net.zoossl.net.zooplus.es^
-||administratormail.hw.net.resetdata.net.netzooplusmail-zoossl.net.zooplus.es^
-||administratormail.marketing-wwwauth.ghcpieurope-aws.net.zoossl-account.net.zooplus.es^
-||administratormail.marketingnet.signed-page.net.resetdata.net.zoossl.net.zooplus.es^
-||administratormail.metricsnet.zooplusmail-administratormailfile.net.org.net.zooplus.es^
-||administratormail.mirrornetcloudfront.development.net.lb.zoossl.net.zooplus.es^
-||administratormail.net-acc.zooplusmail-aws-cdn.net.emailvisionzoossl.net.zooplus.es^
-||administratormail.net-adm.uszooplusmail-awsfirewall.net.netaccount.iad.net.zooplus.es^
-||administratormail.net-apac.repository.netlatin.servicezoossl.net.zooplus.es^
-||administratormail.net-apac.zooplusmail-aws-cdn.netcdn.servicezoossl.net.zooplus.es^
-||administratormail.net-git.marketingnet-europewest.profile.net.zoossl.net.zooplus.es^
-||administratormail.net-git.net-zooplusmail-aws.profile.net.zoossl.net.zooplus.es^
-||administratormail.net-latin.europe-aws.net.test.net.zooplus.es^
-||administratormail.net-lb.alpha4zooplusmail-aws.net.zoossl.net.zooplus.es^
-||administratormail.net-lb.elasticbeanstalk.net.productionzoossl.net.zooplus.es^
-||administratormail.net.client.labnet.auth.zoossl.net.zooplus.es^
-||administratormail.net.client.net-app.auth.zoossl.net.zooplus.es^
-||administratormail.net.client.net.auth.accounting-zoossl.net.zooplus.es^
-||administratormail.net.client.net.auth.zoossl-netapp.net.zooplus.es^
-||administratormail.net.client.net.auth.zoosslgateway.net.zooplus.es^
-||di2.zooplus.es^
-||dii2.zooplus.es^
-||tomcat.wwwsvcnet.zooplusmail-awsfirewall.net.zoosslsvcgateway.net.zooplus.es^
-||tomcat.wwwsvcnet.zooplusmail-awsfirewallsecurenet.net.zoossl-eng.net.zooplus.es^
-||tomcatbackend.net.marketingnetfirewall-v.net-cloudfront.zoossl.net.zooplus.es^
-||tomcatns.chef.emailvision.net.zooplus.es^
-||w3.pantheon.payazurenet.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||w3.zooplusmail-aws.payzooplusmail-aws.zooplusmail-aws.net.zoossl.net.zooplus.es^
-||w3administratormail.nettesting.zooplusmail-nettesting.net.zoossl.net.zooplus.es^
 ||authenticate.net.zooplus.es^
 ||develop.net.zooplus.es^
 ||exting.net.zooplus.es^
 ||helping.net.zooplus.es^
 ||marketing.email.net.zooplus.es^
 ||work-marketing.net.zooplus.es^
-||dii1.zooplus.fi^
-||dii2.zooplus.fi^
-||01.net.zooplus.fr^
-||150.net.zooplus.fr^
-||3-114-184-59.sta.inspire.net.zooplus.fr^
-||70-139.net.zooplus.fr^
-||adm-ssl.net.zooplus.fr^
-||dii1.zooplus.fr^
-||dii2.zooplus.fr^
-||disabled.owa-paywall.net.zooplus.fr^
-||disabled.owa.betaarketing.net.zooplus.fr^
-||disabled.owa.prod.net.zooplus.fr^
-||disabled.owademo.net.zooplus.fr^
-||qa4.globalredirector.gwsweb.net.zooplus.fr^
-||uploads.owa.net.zooplus.fr^
-||vpn4-238.net.zooplus.fr^
-||dii2.zooplus.gr^
-||dii1.zooplus.hr^
-||dii2.zooplus.hr^
-||dii1.zooplus.hu^
-||dii2.zooplus.hu^
-||dii1.zooplus.ie^
-||dii2.zooplus.ie^
-||dii2.shpd.ext.zooplus.io^
-||dii2.shpp.ext.zooplus.io^
-||19-marketing.net.zooplus.it^
-||acc.mail.net.zooplus.it^
-||acc.metric.owa.net.zooplus.it^
-||acc.ometricinga.net.zooplus.it^
-||acc.owa-ext.net.zooplus.it^
-||acc.owa-fw.net.zooplus.it^
-||acc.owa.net.zooplus.it^
-||acc.owagitlab.net.zooplus.it^
-||acc.owawwww.net.zooplus.it^
-||acc.prd-owa.net.zooplus.it^
-||acc.sslsigned.net.zooplus.it^
-||accect-ssl.data-v3.activecvsarketing.net.zooplus.it^
-||accect-sslmachinens-appbucketgit.net.zooplus.it^
-||accect-sslmachineswaggerv3bucketgit.net.zooplus.it^
-||accectnsmachinens-service-corpailapidocsmachinevision.net.zooplus.it^
-||accectnsmachinens-service.apacns.developer.beta.administrator.net.zooplus.it^
-||accounting.net.zooplus.it^
-||accountingail.net.zooplus.it^
-||accountreco.chdauthorizationdocumentsachinevision.ns.machinevision.net.zooplus.it^
-||active-redirect-sslchefbeanstalkchef-marketing.net.zooplus.it^
-||active-redirect-sslpaymentreco.nshw.hwcdnvision.testbedsystem.net.zooplus.it^
-||activecdn-events.dii1machineredirectornorthamericarestricted.net.zooplus.it^
-||activecdn.chef-twitch.dii1machinevision-emea.net.zooplus.it^
-||activeloginarketing.net.zooplus.it^
-||activemarketing-admin.dii1.sslengine.redir-disabled.net.zooplus.it^
-||activemarketing.cafe.net.zooplus.it^
-||activemarketing.dii1.administratorsectsslengine-naus.net.zooplus.it^
-||activemarketing.machinevisionnet-gateway.net.zooplus.it^
-||activemarketingadministratorsect-ssl-region.activecvsarketingdii1.net.zooplus.it^
-||activemarketingcms.net.zooplus.it^
-||activemarketingowa-ns-productions.apiserver.accect.net.zooplus.it^
-||activeornorthamerica.tomcatactivemarketing.net.zooplus.it^
-||admin.ns.frontpagemachineacc.net.zooplus.it^
-||administrator-ids.pantheon.pass-vision-machinevisiongit.net.zooplus.it^
-||dii1.zooplus.it^
-||ns-service-secure.ns-promo-team.europe.machinevision.net.zooplus.it^
-||ns-service-secure.ns-promo.europe-hwcdn.machinevisionlegacy.private.net.zooplus.it^
-||ns-service-secure.ns-promo.europereset.machinevision.net.zooplus.it^
-||ns-service-secure.ns-promo.redir.europe.machinevision.net.zooplus.it^
-||ns-service-secure.pay-europe-machinevision.v1machinevision-server.net.zooplus.it^
-||qa1.dr.alphacmsearch.gwsweb.admins-v.net.zooplus.it^
-||qa1.dr.v2acc-cmsearch.gwswebns-authorization.net.zooplus.it^
-||qa1.gatewaydr.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
-||qa1.ghcpi.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
-||qa1.machinevisionmachinensdr.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
-||qa1.ns-promostaging.dr.v2acc-cmsearch.gwswebns-ciocloudfrontavision.net.zooplus.it^
-||qa1.svc-dr.acc-cmsearch.gwsweb.net.zooplus.it^
-||qa1testing.w3dr.alphacmsearch.gwsweb.net.zooplus.it^
-||v1.mail.net.zooplus.it^
-||v1owa.opsadmins.net.zooplus.it^
-||vip-mail.net.zooplus.it^
-||vpn-marketing.net.zooplus.it^
-||web-reco-stage.ns.machinevision.net.zooplus.it^
-||web-reco.apacnsweb-reco.marketing-ns.engineering.net.zooplus.it^
-||web-reco.machineelastic-cvs-ns.machineelastic-cvs.net.zooplus.it^
-||web-reco.marketing-ns.developer.net.zooplus.it^
-||web-reco.marketing-ns.machinetrain-cvs.net.zooplus.it^
 ||immobilier-marseille.net.zooplus.it^
-||zoohit-naapidocsmachinevision.secure-git.ghcpi-machinevision.net.zooplus.it^
-||0.net.zooplus.nl^
-||09-internal.net.zooplus.nl^
-||09-marketing.09-marketing.net.zooplus.nl^
-||178.net.zooplus.nl^
-||3457owa-acccms.controlprivate.train.net.zooplus.nl^
-||3457owa-analyticsnsnginx.dii3.adm-ids.net.zooplus.nl^
-||acc.repositorydii3.ids.net.zooplus.nl^
-||acc.vpnlbm-release.net.zooplus.nl^
-||accalpha-accountingingssl-svc-accountingingssl.net.zooplus.nl^
-||accalpha-fw-svc-fw.net.zooplus.nl^
-||accalpha-mail-svc-mail-fw.net.zooplus.nl^
-||accalpha-mail-svcalpha-security.net.zooplus.nl^
-||accalpha-oid-svc-oid.net.zooplus.nl^
-||accalphac.ns.gitlabvision.net.zooplus.nl^
-||acccms.elasticlb-v1dii2-marketing.train.net.zooplus.nl^
-||acccms.lb-v1dii2-marketing.trainstg.net.zooplus.nl^
-||acccms.lb-v1dii2-svcgateway.train.net.zooplus.nl^
-||acccms.v1.lb-v1dii2-marketing.train.net.zooplus.nl^
-||acccmsacccms-mail-svc.net.zooplus.nl^
-||accector.acc-dii3.skins-vpn-ids.net.zooplus.nl^
-||accgitlabvision-mail-svc-mail.net.zooplus.nl^
-||dii1.zooplus.nl^
-||dii2.zooplus.nl^
-||v2nginxowaoid.development.net.zooplus.nl^
-||vpn-ids-documents.net.zooplus.nl^
-||vpn-ids-latin.developer.net.zooplus.nl^
-||web.ssl-raw-emailvision.net.zooplus.nl^
-||webapp.net.zooplus.nl^
-||wwww.owa.net.zooplus.nl^
-||zabbix.net.zooplus.nl^
-||dii1.zooplus.no^
-||dii2.zooplus.no^
-||dii1.zooplus.pl^
-||dii2.zooplus.pl^
-||dii1.zooplus.pt^
-||dii2.zooplus.pt^
-||dii1.zooplus.ro^
-||dii2.zooplus.ro^
-||dii1.zooplus.se^
-||dii2.zooplus.se^
 ||zoossoft.cn^
 ||zopeynxv.top^
-||plausible.zorin.com^
 ||ee.zowmgxpz.cn^
 ||m.zowmgxpz.cn^
 ||oaizwm.zox.la^
@@ -109336,17 +108569,14 @@ ff02::3		ip6-allhosts
 ||e.zu08e.cn^
 ||m.zu08e.cn^
 ||zubovskaya-banya.ru^
-||samc.zuerilaufcup.ch^
 ||asd.zuhaowan8.com^
 ||abc.zuiairead.com^
-||info.zuidema.nl^
 ||vgf.zuihuixuan.com^
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
 ||hwad.zuimeitianqi.com^
 ||stat.zuimeitianqi.com^
 ||thirdbranch.zulln.se^
-||email.zumaoffice.com^
 ||deeplinks.zumper.com^
 ||e.zunss.com^
 ||lltmch.zurifurniture.com^
@@ -109371,7 +108601,6 @@ ff02::3		ip6-allhosts
 ||bu01.zybang.com^
 ||bu02.zybang.com^
 ||mf02.zybang.com^
-||zymerget.bid^
 ||zymerget.date^
 ||zymerget.party^
 ||js.zyrfanli.com^
@@ -114543,7 +113772,6 @@ _800x80_
 ||2mdn.net^
 ||alipromo.com^
 ||alitems.com^
-||atdmt.com^
 ||auditude.com^
 ||buyeasy.by^
 ||clickbicom^
@@ -114804,13 +114032,11 @@ _800x80_
 ||adreactor.com^$third-party
 ||adready.com^$third-party
 ||adreadytractions.com^$third-party
-||adrealclick.com^$third-party
 ||adrecord.com^$third-party
 ||adrecover.com^$third-party
 ||adrelayer.com^$third-party
 ||adresellers.com^$third-party
 ||adrevolver.com^$third-party
-||adright.co^$third-party
 ||adrise.de^$third-party
 ||adro.co^$third-party
 ||adrocket.com^$third-party
@@ -115116,7 +114342,6 @@ _800x80_
 ||camghosts.com^$third-party
 ||camonster.com^$third-party
 ||campaignlook.com^$third-party
-||capacitygrid.com^$third-party
 ||caroda.io^$third-party
 ||casino-zilla.com^$third-party
 ||cb-content.com^$third-party
@@ -116166,7 +115391,6 @@ _800x80_
 ||24click.top^$popup
 ||292news.biz^$popup
 ||2aus34sie6po5m.com^$popup
-||2hanwriten.com^$popup
 ||2mdn.info^$popup
 ||2qj7mq3w4uxe.com^$popup
 ||2track.info^$popup
@@ -118159,7 +117383,6 @@ _800x80_
 ||understoodreceivermisunderstand.com^$popup
 ||unfaithfulmakeryearly.com^$popup
 ||unforgivablegrowl.com^$popup
-||unloadpoetry.com^$popup
 ||unreshiramor.com^$popup
 ||untimburra.com^$popup
 ||unusualbrainlessshotgun.com^$popup
@@ -118644,7 +117867,6 @@ _800x80_
 ||oconner.biz^$third-party
 ||octopuspop.com^$third-party
 ||offaces-butional.com^$third-party
-||ohmygosh.info^
 ||okeo.ru^$third-party
 ||omynews.net^$third-party
 ||onedmp.com.^$third-party
@@ -119334,7 +118556,6 @@ _800x80_
 ||sascdn.com/diff/$image,script
 ||sascdn.com/tag/
 ||saveit.us/img/$third-party
-||sbhc.portalhc.com^
 ||scriptadmin.com/scripts/popunder.js
 ||secure.money.com^$third-party
 ||service.smscoin.com/js/sendpic.js
@@ -119616,31 +118837,19 @@ _800x80_
 ||nude.hu/html/$third-party
 ||openadultdirectory.com/banner-
 ||otcash.com/images/
-||partner.loveplanet.ru^
 ||parts.akibablog.net^$subdocument
-||pcash.imlive.com^
 ||pimpandhost.com/site/trending-banners
 ||pinklabel.com/live-banners?
 ||pinkvisualgames.com/?revid=
-||pirogad.tophosting101.com^
 ||plugin-x.com/rotaban/
-||pod.xpress.com^
 ||pokazuwka.com/popu/
 ||porndeals.com^$subdocument,third-party
 ||porngamespass.com/iframes/
 ||pornravage.com/notification/
-||potd.onlytease.com^
 ||prettyincash.com/premade/
 ||privatamateure.com/promotion/
 ||private.com/banner/
 ||profield.ddns.net^$third-party
-||promo.blackcrush.com^
-||promo.blackdatehookup.com^
-||promo.cams.com^
-||promos.gpniches.com^
-||promos.meetlocals.com^
-||ptcdn.mbicash.nl^
-||pub.nakedreel.com^
 ||pussycash.com/content/banners/
 ||pussysaga.com/gb/
 ||putana.cz/banners/
@@ -119649,7 +118858,6 @@ _800x80_
 ||rabbitporno.com/iframes/
 ||realitykings.com/vbanners/
 ||rhinoslist.com/sideb/get_laid-300.gif
-||rss.dtiserv.com^
 ||ruscams.com/promo/
 ||saboom.com.pccdn.com^*/banner/
 ||sakuralive.com/dynamicbanner/
@@ -120100,7 +119308,6 @@ _800x80_
 ||ownedcore.com/forums/ocpbanners/
 ||pastemagazine.com/common/js/ads-
 ||pastemytxt.com/download_ad.jpg
-||pengenanu.files.im^
 ||persianleague.com/images/banners/
 ||phonearena.com/js/ops/taina.js
 ||phuketwan.com/img/b/
@@ -120112,27 +119319,21 @@ _800x80_
 ||positivehealth.com/img/original/TopicbannerAvatar/
 ||pressablecdn.com/wp-content/uploads/Site-Skin_update.gif$domain=bikebiz.com
 ||prewarcar.com/*-banners/
-||products.gobankingrates.com^
 ||propertyfinderph.com/uploads/banner/
 ||publicdomaintorrents.info/grabs/hdsale.png
 ||publicdomaintorrents.info/rentme.gif
 ||publicdomaintorrents.info/srsbanner.gif
-||pubsrv.devhints.io^
 ||pulsenews.co.kr/js/ad.js
 ||pururin.to/assets/js/pop.js
-||qontent.pouvideo.cc^
 ||rabble.ca/sites/default/files/styles/partners_
 ||radiocity.in/radiocity/$subdocument
 ||radioreference.com/i/p4/tp/smPortalBanner.gif
-||rafvertizing.crazygames.com^
 ||realpython.net/tag.js
 ||receive-sms-online.info/img/banner_
 ||republicmonitor.com/images/lundy-placeholder.jpeg
 ||reutersmedia.net/resources/r/?j=
 ||richardroeper.com/assets/banner/
 ||rma.homedepot.com^
-||rontent.pomvideo.cc^
-||rontent.powzers.lol^
 ||roof99dollars.com/koydp-43.html
 ||s.radioreference.com/sm/$image
 ||s.yimg.com/zh/mrr/$image,domain=mail.yahoo.com
@@ -120162,8 +119363,6 @@ _800x80_
 ||socket.streamable.com^
 ||softcab.com/google.php?
 ||sonichits.com/tf.php
-||sontent.pomvideo.cc^
-||sontent.powvibeo.me^
 ||sorcerers.net/images/aff/
 ||sorcerers.net/includes/butler/
 ||southfloridagaynews.com/images/banners/
@@ -120911,7 +120110,6 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||shemalez.com/jfceqdszpsh/
 ||simpasian.net/a37z321.js
 ||simply-hentai.com/prod/
-||slave.kbjfree.com^
 ||sleazyneasy.com/contents/images-banners/
 ||sleazyneasy.com/jsb/
 ||slutdump.com/flat-butterfly-c5e3/
@@ -120927,7 +120125,6 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockeronstape.me
 ||sunporno.com/abl.php
 ||sunporno.com/bla.php
 ||sunporno.com/sunstatic/frms/
-||support.streamjav.top^
 ||svscomics.com/templates/defaultm/images/fboomadz.png
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
 ||tbib.org/gaming/
@@ -121419,7 +120616,6 @@ $popup,third-party,domain=asianclub.tv|porn-tube-club.com
 @@||banner.customer.kyruus.com^$domain=doctors.bannerhealth.com
 @@||hwcdn.net^$script,domain=mp4upload.com
 @@||www-cultofmac-com.ezoic.net^$domain=cultofmac.com
-@@||ezsoftwarestorage.com^$image,media,domain=ezfunnels.com
 @@||ads.memo2.nl/banners/$subdocument
 @@||zcache.ca^$image,domain=zazzle.ca
 @@||zcache.co.nz^$image,domain=zazzle.co.nz
@@ -122913,6 +122109,7 @@ ubmcmm.baidustatic.com
 ||zzad.com^$third-party
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
+||achicih.gitee.io^$third-party
 ||adm.cnzz.net^$third-party
 ||alimama.cn^$third-party,domain=~alimama.com|~foctop.com|~meidebi.com|~qinqintejia.com|~tanx.com|~taobao.com|~youhuiyouhui.com.cn
 ||books.com.tw/exep/ap/$third-party
@@ -127458,6 +126655,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 @@||ad4.on.cc/web/www/delivery/spc.php
 @@||ad4.on.cc/web/www/delivery/spcjs.php
 @@||addon.dismall.com/resource/*/ad
+@@||adjs.8591.com.tw^$script
 @@||adnet.qq.com^$~third-party
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 @@||adoi.cn^$generichide
@@ -128025,6 +127223,7 @@ $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.inf
 ||dnpz123.com^$third-party
 ||dyscb.cn^$third-party
 ||ergeapp.com^$third-party
+||fjzimaoqu.cn^$third-party
 ||gocye.com^$third-party
 ||gsjdzx.com^$third-party
 ||gumgo.cn^$third-party
@@ -128957,6 +128156,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /AdobeCustomVideoMeasurement.swf
 /adobeMonitor.
 /adobevideoheartbeat.
+/adonis_event/*
 /adpixel.
 /adplogger/*
 /adpv/*
@@ -129027,6 +128227,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /ajax/track.php?
 /ajax_store_analytics?
 /ajax_video_counter.php?
+/ajaxClicktrack.
 /ajaxInit.gif?
 /ajaxlog.txt?
 /ajaxlog?
@@ -129197,6 +128398,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /analytics/geoip/*
 /Analytics/Google.
 /analytics/google/*
+/analytics/gw.
 /analytics/hit
 /analytics/hmac-
 /analytics/idg_
@@ -129212,6 +128414,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /analytics/mbox.js
 /analytics/mbox_
 /analytics/metric/*
+/analytics/mouse_
 /analytics/newrelic_
 /analytics/onLoad/*
 /analytics/page/*
@@ -129761,6 +128964,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /citycounter.
 /cjtracker2.
 /ckaudience/*
+/ckimg_1x1.gif?
 /cklog.js
 /cl.gif?pvID=
 /clacking.js
@@ -130164,6 +129368,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /deskanalytics.js
 /detective.gif?
 /detm-container-
+/detm_adobe.
 /device-fingerprint.
 /dfp-gpt.
 /dfpsvc?
@@ -130228,6 +129433,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /dtm/*/satelliteLib-
 /dtm_cm.js
 /dtmtag.js
+/dtrack.js
 /dtstats.
 /duel-analytics.
 /dw-tracking-
@@ -130404,6 +129610,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /evergage-script.
 /evergage.js
 /evergage.min-
+/evt.gif?
 /evtrack-
 /ewtrack.
 /EWTRACK_
@@ -130526,6 +129733,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /friendbuy.min.js
 /front-metrics/*
 /frontend-gtag.
+/frontend-sentry-
 /frosmo.easy.js
 /frtrack.
 /fsrscripts/*
@@ -130846,6 +130054,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /hit?aff_id=$xmlhttprequest
 /hit?artefactId=
 /hit?t=*&__seed=
+/hit?time=
 /hit_count?
 /hit_counter
 /hit_img.cfm?
@@ -130896,6 +130105,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /i2a.js
 /i2yesCounter.js
 /i?_SB_stm=
+/i?e=pv&url=
 /i?siteid=
 /i?stm=
 /ibeat.min.js
@@ -130998,6 +130208,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /inetlog.ru/*
 /info/picksel/*
 /informb_stat.
+/informerStat?
 /init_cookie.php?
 /initAdobeAnalytics.
 /inline-pixel.js
@@ -131312,6 +130523,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /logAjaxErr_
 /LogAmpHit?
 /LogAnalysisTracker/*
+/loganalyticsevent?
 /logAutoMicroConversion?
 /logclick.
 /logcollect.
@@ -131569,6 +130781,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /mystats.asp?
 /mystats/track.js
 /mystats2.px?
+/myTracking.js
 /natero_analytics.
 /native-tag.
 /navbar-analytics.js
@@ -132041,6 +131254,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /prn.google.analytics.
 /pro-ping.php?
 /probance_tracker.
+/processUserCookie.htm?
 /processUserCookie?
 /prod-analytics.
 /prod-client-js-logger/*
@@ -132553,6 +131767,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /speedlog?ts=
 /SpeedTrapInsert.
 /spi.gif?aid=
+/spip.php?page=stats.js
 /spixel.
 /splunk-logging-
 /sponsorship_stats/*
@@ -133101,6 +132316,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /trackimps?
 /tracking-active/*
 /tracking-ad/*
+/tracking-analytics-
 /tracking-aws.
 /tracking-cookie.
 /tracking-events.js
@@ -133278,6 +132494,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /trackPageView/*
 /TrackPageview?
 /TrackPartnerVisit?
+/trackpidv3.
 /trackpix.
 /trackpixel.
 /trackpixel?
@@ -133361,6 +132578,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /tse/tracking.
 /tsrHitCounter.
 /ttt.gif?
+/tunestats.
 /turn-proxy.html?
 /tw-track.js
 /twdc-dtci/prod/servercomponent.php?
@@ -133382,6 +132600,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /ulpixel.
 /ulpixel?
 /ultra_track/*
+/umami.js
 /umg-analytics/*
 /unagi.amazon.
 /unbxdAnalytics.
@@ -133574,6 +132793,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /vs.gif?
 /vs/track.
 /vs_track.
+/vsl/imp?
 /vstat.php
 /vstats/counter.php
 /vstrack.
@@ -133592,6 +132812,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /wa_tracker_
 /wadsAdsLoaded/*
 /wanalytics/*
+/watchonline_cookies.
 /wbstats/index/*
 /wcount.php?
 /wdg/tracking-
@@ -133612,6 +132833,7 @@ $script,third-party,domain=torkitty.com|torrentkitty.app|torrentkitty.io|torrent
 /web_cm_event?
 /Web_JS.gif?
 /Web_JS_Stats.
+/web_logger/*
 /web_tracking_
 /web_traffic_capture.js
 /webabacus-$script
@@ -134290,6 +133512,7 @@ _sdcTrackingCode.
 /simple-monero-$script
 /sparechange.js
 /streambeam-jw.js
+/streambeam-video.js
 /tenant.min.js
 /track/pageview?
 /tracker.build.
@@ -134339,6 +133562,9 @@ _mongo_stats/
 ://top.*/count/cnt.php?
 ://top.*/hit/
 ||screen13.com^$image
+||tw.cx^
+||zdbb.net^
+||zenaps.com^
 ||0emm.com^$third-party
 ||103bees.com^$third-party
 ||105app.com^$third-party
@@ -134387,6 +133613,7 @@ _mongo_stats/
 ||aapsis.com^$third-party
 ||aaxdetect.com^$third-party
 ||abcstats.com^$third-party
+||ablsrv.com^$third-party
 ||abmr.net^$third-party
 ||absolstats.co.za^$third-party
 ||abtrcking.com^$third-party
@@ -134690,6 +133917,7 @@ _mongo_stats/
 ||brcdn.com^$third-party
 ||bridgevine.com^$third-party
 ||brightfunnel.com^$third-party
+||brilig.com^$third-party
 ||brilliantcollector.com^$third-party
 ||britepool.com^$third-party
 ||bronto.com^$third-party
@@ -135213,6 +134441,7 @@ _mongo_stats/
 ||geobytes.com^$third-party
 ||geoip-db.com^$third-party
 ||geoip-js.com^$third-party
+||geoiplookup.io^$third-party
 ||geojs.io^$third-party
 ||geolid.com^$third-party
 ||geolocation-db.com^$third-party
@@ -135237,6 +134466,7 @@ _mongo_stats/
 ||gez.io^$third-party
 ||gglscr.online^$third-party
 ||giddyuptrk.com^$third-party
+||gigcount.com^$third-party
 ||gim.co.il^$third-party
 ||glancecdn.net^$third-party,domain=~glance.net
 ||glassboxcdn.com^$third-party
@@ -135363,6 +134593,7 @@ _mongo_stats/
 ||ilogbox.com^$third-party
 ||imhd.io^$third-party
 ||immanalytics.com^$third-party
+||impression.link^$third-party
 ||imrtrack.com^$third-party
 ||imtwjwoasak.com^$third-party
 ||inboxtag.com^$third-party
@@ -135386,6 +134617,8 @@ _mongo_stats/
 ||inimbus.com.au^$third-party
 ||innertrends.com^$third-party
 ||innovateads.com^$third-party
+||inphonic.com^$third-party
+||inpwrd.com^$third-party
 ||inside-graph.com^$third-party
 ||insightera.com^$third-party
 ||insightgrit.com^$third-party
@@ -135465,6 +134698,7 @@ _mongo_stats/
 ||ivstracker.net^$third-party
 ||ivwbox.de^$third-party
 ||iwebtrack.com^$third-party
+||iwstats.com^$third-party
 ||izea.com^$third-party
 ||izearanks.com^$third-party
 ||izooto.com^$third-party
@@ -135522,6 +134756,7 @@ _mongo_stats/
 ||landingpg.com^$third-party
 ||lasagneandands.com^$third-party
 ||lead-123.com^$third-party
+||leadberry.com^$third-party
 ||leadbi.com^$third-party
 ||leadboxer.com^$third-party
 ||leadchampion.com^$third-party
@@ -135612,6 +134847,7 @@ _mongo_stats/
 ||m0mentum.net^$third-party
 ||m365log.com^$third-party
 ||m6r.eu^$third-party
+||mabipa.com^$third-party
 ||madkudu.com^$third-party
 ||magicpixel.io^$third-party
 ||magiq.com^$third-party
@@ -135767,6 +135003,7 @@ _mongo_stats/
 ||ndg.io^$third-party
 ||neatstats.com^$third-party
 ||nedstat.net^$third-party
+||nedstatbasic.net^$third-party
 ||nedstatpro.net^$third-party
 ||nejmqianyan.cn^$third-party
 ||neki.org^$third-party
@@ -136137,6 +135374,7 @@ _mongo_stats/
 ||roiservice.com^$third-party
 ||roitesting.com^$third-party
 ||rollbar.com^$third-party
+||roosterfirework.com^$third-party
 ||rp-rep.net^$third-party
 ||rqtrk.eu^$third-party
 ||rrimpl.com^$third-party
@@ -136149,6 +135387,7 @@ _mongo_stats/
 ||rtrk.co.nz^$third-party
 ||rtrk.com^$third-party
 ||ru4.com^$third-party
+||rudderlabs.com^$third-party
 ||rumanalytics.com^$third-party
 ||rumble.com^$ping,third-party
 ||rumpelstiltskinhead.com^$third-party
@@ -136438,6 +135677,7 @@ _mongo_stats/
 ||teljari.is^$third-party
 ||tellapart.com^$third-party
 ||tentaculos.net^$third-party
+||terabytemedia.com^$third-party
 ||tercept.com^$third-party
 ||testin.cn^$third-party
 ||tetoolbox.com^$third-party
@@ -136646,6 +135886,7 @@ _mongo_stats/
 ||visistat.com^$third-party
 ||visitor-analytics.io^$third-party
 ||visitor-analytics.net^$third-party
+||visitor-track.com^$third-party
 ||visitorglobe.com^$third-party
 ||visitorjs.com^$third-party
 ||visitorprofiler.com^$third-party
@@ -136726,9 +135967,11 @@ _mongo_stats/
 ||wgsas.com^$third-party
 ||wheredoyoucomefrom.ovh^$third-party
 ||whitepixel.com^$third-party
+||whoaremyfriends.com^$third-party
 ||whoaremyfriends.net^$third-party
 ||whoisonline.net^$third-party
 ||whoisvisiting.com^$third-party
+||whosclickingwho.com^$third-party
 ||wickedreports.com^$third-party
 ||wideangle.co^$third-party
 ||widerplanet.com^$third-party
@@ -136903,6 +136146,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||subscribers.com^$third-party
 ||truepush.com^$third-party
 ||unative.com^$third-party
+||urbanairship.com^
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
 ||webpushr.com^$third-party
@@ -136987,6 +136231,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ethtrader.de^$third-party
 ||eucsoft.com^$third-party
 ||flare-analytics.com^$third-party
+||formulawire.com^$third-party
 ||goldoffer.online^$third-party
 ||googleanalytcs.com^$third-party
 ||greengaming.de^$third-party
@@ -137103,6 +136348,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||attractivecap.com^$third-party
 ||audioarctic.com^$third-party
 ||automaticside.com^$third-party
+||awakebird.com^$third-party
 ||awarealley.com^$third-party
 ||awzbijw.com^$third-party
 ||axiomaticalley.com^$third-party
@@ -137738,6 +136984,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||props.id^$third-party
 ||0stats.com^$third-party
 ||24log.it^$third-party
+||accessi.it^$third-party
 ||avstat.it^$third-party
 ||buzzoole.com^$third-party
 ||contatoreaccessi.com^$third-party
@@ -137806,6 +137053,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||catsys.jp^$third-party
 ||cetlog.jp^$third-party
 ||cheqzone.com^$third-party
+||cosmi.io^$third-party
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||datasign.co^$third-party
@@ -137878,6 +137126,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adtive.com^$third-party
 ||aicontents.net^$third-party
 ||contentsfeed.com^$third-party
+||dawin.tv^$third-party
 ||logger.co.kr^$third-party
 ||oevery.com^$third-party
 ||rainbownine.net^$third-party
@@ -138198,6 +137447,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amatomu.com/log.php?
 ||amazon.com/gp/*&linkCode$third-party
 ||amazonaws.com/analytics.
+||amazonaws.com/avsmetrics/
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/j.kissinsights.com/
 ||amazonaws.com/js/reach.js
@@ -138465,6 +137715,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||coveo.com/coveo.analytics.js/
 ||covery.ai/fp/$third-party
 ||credible.com/api/logs-fe
+||crm-vwg.com/tracker/
 ||crowdfactory.com/tracker/
 ||crowdskout.com/analytics.js
 ||crowdskout.com/skout.js
@@ -138903,6 +138154,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtvnservices.com/aria/projectX/
 ||mtvnservices.com/aria/uuid.html
 ||mtvnservices.com/measurements/
+||mtvnservices.com/metrics/
 ||munchkin.marketo.net^
 ||murdoog.com^*/Pixel/$image
 ||museter.com/track.php?
@@ -139218,6 +138470,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||touchcommerce.com/tagserver/logging/
 ||tourradar.com/def/partner?$third-party
 ||tout.com/tracker.js
+||tr.webantenna.info^
 ||tra.scds.pmdstatic.net/sourcepoint/
 ||track.atgstores.com^$third-party
 ||track.tcppu.com^
@@ -139232,6 +138485,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.plattformad.com^$third-party
 ||tracking.practicefusion.com^$third-party
 ||tracking.quisma.com^
+||tracking.sembox.it^$third-party
 ||tracking.skyword.com^$third-party
 ||trackjs.com/agent/$script,third-party
 ||trackjs.com/releases/current/tracker.js
@@ -139266,6 +138520,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uadblocker.com/pixel1.php?$third-party
 ||uc.cn/collect?
 ||uhit.eu/id/$third-party
+||uim.tifbs.net^
 ||ultimateadblocker.com/pixel.php?$third-party
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
 ||unpkg.com/web-vitals?
@@ -139622,6 +138877,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||3.cn/cesu/r?
 ||360.cn/mapping_service?
 ||4gtv.tv/js/ga_
+||aixifan.com/acsdk/log.min.js?
 ||alicdn.com/tkapi/click.js
 ||alimama.cn/inf.js
 ||alipay.com/common/um/lsa.swf
@@ -139812,6 +139068,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||linximpulse.net/impulse/
 ||lomadee.com/loc/$third-party
 ||melhorplano.net/scripts/tracker/
+||netdeal.com.br/open/event/
 ||statig.com.br/pub/setCookie.js?
 ||terra.com.br/metrics/
 ||trrsf.com.br/metrics/
@@ -139902,6 +139159,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||top.zp.ua/counter/
 ||analytics.yomedia.vn^
 ||fpt.shop/fa_tracking.js
+||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
 ||1337x.to/ip3.php
 ||40svintageporn.com/hit
@@ -139950,6 +139208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazon.com/empty.gif?$image
 ||amazon.com^*/impress.html
 ||americanexpress.com/beacon
+||amethyst.zappos.com^
 ||amnesty.org/collect/
 ||analytics-proxy.springboard.com^
 ||analytics-zone-1.api.leadfamly.com^
@@ -140007,6 +139266,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
 ||byteoversea.com/monitor_web/
 ||c.paypal.com^$script
+||c.xbox.com^
 ||c.ypcdn.com^$domain=yellowpages.com
 ||campsaver.com/nelmio-js-logger/
 ||canstockphoto.com/monitor/
@@ -140028,11 +139288,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfront.net/vis_opt.js
 ||cloudfront.net/vis_opt_no_jquery.js
 ||cnet.com/pageview_candidate.comscore.json
+||cnt.viptube.com^
 ||codecademy.com/analytics/
 ||codecguide.com/stats.js
 ||coincheckup.com/report_ga_events/
 ||cointelegraph.com/pixel?
 ||collector.xhamster.desi^
+||colvk.viki.io^
 ||connecteam.com/bi/api/ReportHit/
 ||consent.ghostery.com/v1.js
 ||consumer.org.nz/session/ping/
@@ -140051,6 +139313,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dailymotion.com/logger/
 ||darkreader.org/elements/statistics.js
 ||data.webullfintech.com/event/
+||data.younow.com^
 ||dcf.espn.com/privacy/
 ||dealnews.com/lw/ul.php
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
@@ -140062,6 +139325,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dev.to/fallback_activity_recorder
 ||dhl.com/g8Dj6P8TAg/
 ||dhresource.com/dhs/fob/js/common/track/$domain=dhgate.com
+||digg.com/library/tracker.js
 ||digital.flytedesk.com/js/head.js
 ||discord.com/api/*/science
 ||discover.com/QaiuqHH6L7OpQ2dSZzdDRhs6/
@@ -140135,6 +139399,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||freedownloadmanager.org/ajax/th_view.php
 ||freepik.com/_ga?
 ||freeplayervideo.com/cdn-cgi/trace
+||fresnel-events.vimeocdn.com^
 ||ft.com/ingest?
 ||fujifilm.com/js/shared/analyzer.js
 ||fullscreen.nz/v1/tracking/$domain=threenow.co.nz
@@ -140162,6 +139427,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||google.com/images/phd/px.gif
 ||goseek.com/session-
 ||goseek.com/track-
+||gotie.tunein.com^
 ||grabify.link/api/js
 ||groupon.com/analytic/
 ||groupondata.com/tracky
@@ -140385,6 +139651,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qwant.com/v2/api/ux/surveys?
 ||qz.com/log
 ||ranker.com/api/tr?
+||ras.yahoo.com^
 ||realestate.com.au^*/p.js
 ||realitytvworld.com/images/pixel.gif
 ||reddit.com/static/pixel.png$image
@@ -140393,6 +139660,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||redfin.com/rift?
 ||reelgood.com/v3.0/checkip
 ||reichelt.com/setsid.php?
+||reports.tunein.com^
+||retargeting.vistaprint.com^
 ||reverbnation.com/api/user/app_events
 ||risextube.com/t/
 ||roblox.com/report
@@ -140445,6 +139714,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spotifycdn.com/cdn/js/retargeting-pixels-
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
+||stan.xing.com^
 ||stapadblockuser.info/stat/
 ||stape.fun/stat/
 ||stapewithadblock.beauty/stat/
@@ -140454,6 +139724,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||startpage.com/sp/$ping
 ||startpage.com/sp/elp
 ||startpage.com/sp/jst
+||stat.turb.pw^
+||stat.vulkanvegas.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
 ||stats.cdngeek.com^$domain=edugeek.net
@@ -140474,6 +139746,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||swarm.video/stats/
 ||t.appsflyer.com^
 ||t.paypal.com^$image
+||t.wayfair.ca^
+||t.wayfair.co.uk^
 ||tags.news.com.au^$script
 ||tahoe.com/imp
 ||taiwanplus.com/api/video/startVideo
@@ -140498,6 +139772,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tnaflix.com/stats.php
 ||tongji.meizu.com^
 ||top.gg/api/auctions/impression
+||top.wn.com^
 ||toyota.com/analytics/
 ||track.kueez.com^
 ||track.mrgugu.com^
@@ -140552,6 +139827,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vrv.co/ip
 ||waaw.to/cdn-cgi/trace
 ||wal.co/cdn-perf.min.js
+||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
 ||walmart.com/client/api/logs
 ||walmart.com/client/api/metrics
@@ -140663,6 +139939,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||content22.citi.eu^$script
 ||content22.citibank.com.sg^$script
 ||customer.homedepot.com^$script
+||drfdisvc.walmart.com^
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com/rs/v/10341xh50yz21mhhydueu4m5wad.js
 ||ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
@@ -140745,6 +140022,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||zoominfo.com/osx7m0dx/init.js
 ://a02342.
 ||h-bid.com^$third-party
+||mms.wwe.com^
 ||trustarc.mgr.consensu.org/get?
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 /misites/*
@@ -140820,26 +140098,62 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
+||1bw7etm93lf.www.woodbrass.com^
 ||1iy4gu0lpkp.my.gloryleague.basketball^
 ||8p0kiyq5mq1d.flex.team^
 ||9uim1pc4ej4n.ru.themoneytizer.com^
 ||bygr2ri20e4y.li.finance^
+||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
 ||k5ygj3bivnrp.uae.revent.store^
 ||m5yyur2au7l4.test.li.finance^
+||mteme7li1d6r.vertexmarketingagency.com^
 ||a8.hitohana.tokyo^
 ||a8.nanafu.tokyo^
 ||a8.papapa.baby^
+||a8.vege-pet.jp^
+||a8.virus-gekitai.com^
 ||a8.watero.pet^
+||a8.web-hikari.net^
+||a8.webist-cri.com^
+||a8.wifi-tokyo-rentalshop.com^
+||a8.yanoman.com^
+||a8.yuzen-official.com^
+||a8aspconv.xn--biglobe-kc9k.com^
+||a8aspconv.xn--ocn-ws1e.jp^
+||a8click.you-up.com^
+||a8click.young-mobile.net^
 ||a8clk.apply-shop.menu.inc^
 ||a8clk.bstyle.store^
+||a8clk.cv.warau.jp^
+||a8clk.voice-inc.co.jp^
+||a8clk.waq-online.com^
+||a8clk.wi-ho.net^
+||a8clk.xserver.ne.jp^
+||a8clk.ykd.co.jp^
+||a8clk.yourmystar.jp^
 ||a8cv.b-concept.tokyo^
 ||a8cv.dotpro.tokyo^
 ||a8cv.str.classicmusic.tokyo^
+||a8cv.workman.jp^
 ||a8cv.xn--1lqs71d2law9k8zbv08f.tokyo^
+||a8cv.yamato-gp.net^
+||a8cv.ygm-clinic.or.jp^
+||a8cv.you-shoku.net^
+||a8cv.yuyu-tei.jp^
+||a8cv.zeroen-denki.com^
+||a8trck.worldone.to^
 ||ad.ichiban-boshi.com^
 ||ad.magokoro-care-shoku.com^
 ||ad.rejichoice.jp^
+||afi.biyou.web-marketing.ai^
+||afi.school.web-marketing.ai^
+||afi.sougou.web-marketing.ai^
 ||analytics.villagehouse.jp^
+||clk.wagon-hire.com^
+||cv.online.ysroad.co.jp^
+||cv.xn--bcktcvdzde3c.biz^
+||cv.xn--zbs202g.com^
+||cv.zephylrin-w.com^
 ||tracking.lead-plus.jp^
 ||custom.plausible.io^
 ||a-api.skz.dev^
@@ -140902,20 +140216,28 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
 ||counter.websitevoice.com^
+||hola.xebel.co^
+||hype.zlipa.com^
 ||info.alvin.codes^
 ||insights.affilimate.com^
 ||metrics.axiomatic-inc.com^
 ||metrics.recunia.de^
+||noushe.zevvle.com^
+||p.wren.co^
 ||pa-stats.encore.dev^
 ||ping.cavelab.dev^
 ||ping.richardtaylor.dev^
+||pio.wir-sehen-uns-im-juni.de^
 ||pl.codetheweb.blog^
 ||pl.kis-nagy.art^
+||pla.wigglepixel.nl^
 ||plas.imfeld.dev^
 ||plausible.food.game^
 ||plausible.goose.game^
 ||plausible.regex.help^
+||plausible.wikiotics.org^
 ||plausible.zest.dev^
+||plausible.zorin.com^
 ||s.fission.codes^
 ||sa.flux.community^
 ||spock.dom.codes^
@@ -140933,17 +140255,25 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.hex.pm^
 ||stats.hexdocs.pm^
 ||stats.iamzero.dev^
+||stats.larsroettig.dev^
 ||stats.livingedge.ngo^
 ||stats.maximaconsulting.xyz^
 ||stats.petr.codes^
 ||stats.phili.pe^
 ||stats.thingsthatkeepmeupatnight.dev^
+||stats.tkg.codes^
 ||stats.training.fit^
 ||stats.trussed.dev^
+||stats.wvs.org.uk^
+||stats.zenquiries.com^
 ||track.pokestats.gg^
 ||track.slickinbox.com^
 ||donjigrad.viessmann.rs^
+||hmg.wiwo.de^
 ||logs1257.at.pagesjaunes.fr^
+||mefo1.zdf.de^
+||pear.youzful-by-ca.fr^
+||an.worldbaseballclassic.com^
 ||analytics.ae.com^
 ||analytics.amig.com^
 ||analytics.autozone.com^
@@ -140966,6 +140296,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.tntdramma.com^
 ||analytics.virginaustralia.com^
 ||analytics.yourbankcard.com^
+||metric.worldcat.org^
 ||metrics.3838.com^
 ||metrics.active.com^
 ||metrics.allaboutyou.com^
@@ -141023,7 +140354,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||metrics.when.com^
 ||metrics.wm.com^
 ||metrics.yellowbook.com^
+||o.xbox.com^
 ||omniture443.partycity.com^
+||serviceo.xfinity.com^
+||serviceos.xfinity.com^
 ||smetrics.3838.com^
 ||smetrics.50southcapital.com^
 ||smetrics.aaamidatlantic.com^
@@ -141135,10 +140469,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.ybs.co.uk^
 ||som.healthgrades.com^
 ||somn.wholesalehalloweencostumes.com^
+||somniture.yodlee.com^
 ||swebstats.imf.org^
+||t-s.xolairhcp.com^
 ||track.f1store.formula1.com^
 ||tracking.brice.fr^
 ||tracking.trutv.com^
+||visitors.winecountrygiftbaskets.com^
 ||webstats.vodafone.com^
 ||analytics.cirroenergy.com^
 ||analytics.data.lloydsbankinggroup.com^
@@ -141156,6 +140493,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.techem.de^
 ||analytics.unive.nl^
 ||analytics.xoomenergy.com^
+||as.wieistmeineip.de^
+||data.email.yousee.dk^
+||data.fans.williamsf1.com^
+||data.marketing.williamsf1.com^
+||data.shop.williamsf1.com^
 ||metrics.baitoru-id.com^
 ||metrics.baitorupro.com^
 ||metrics.bakeryandsnacks.com^
@@ -141217,7 +140559,12 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||metrics.wacken.com^
 ||metrics.worlds50bestbars.com^
 ||metrics.worldsbestvineyards.com^
+||osimg.windsurfercrs.com^
+||s.yorkregion.com^
+||sadbmetrics.worldcanic.com^
+||samc.zuerilaufcup.ch^
 ||sanalytics.cartoonnetworkclimatechampions.com^
+||securemetrics.yeezygap.com^
 ||smetrics.48.ie^
 ||smetrics.aaas.org^
 ||smetrics.abanca.com^
@@ -141252,6 +140599,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.bayer.co^
 ||smetrics.bayer.com^
 ||smetrics.bayer.ec^
+||smetrics.bayer.gt^
 ||smetrics.bayer.ma^
 ||smetrics.bbb.org^
 ||smetrics.bbva.com.uy^
@@ -141492,6 +140840,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.nexgard.com.co^
 ||smetrics.nexgardbrasil.com.br^
 ||smetrics.nisbets.be^
+||smetrics.nisbets.co.uk^
 ||smetrics.nisbets.com.au^
 ||smetrics.nisbets.fr^
 ||smetrics.nisbets.ie^
@@ -141615,6 +140964,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.yourdot.com^
 ||smetrics.ytv.com^
 ||sw88.foxtv.rs^
+||target.zeiss.com^
 ||trackingaa.hitachienergy.com^
 ||adbmetrics.caravantur.eus^
 ||adbmetrics.vehiculosdeocasion.eus^
@@ -141705,6 +141055,55 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||analytics.visible.com^
 ||asd.nl.bauhaus^
 ||cs.analytics.lego.com^
+||di2.zooplus.es^
+||dii1.zoochic-eu.ru^
+||dii1.zoohit.cz^
+||dii1.zoohit.si^
+||dii1.zoohit.sk^
+||dii1.zooplus.at^
+||dii1.zooplus.be^
+||dii1.zooplus.ch^
+||dii1.zooplus.co.uk^
+||dii1.zooplus.com^
+||dii1.zooplus.dk^
+||dii1.zooplus.fi^
+||dii1.zooplus.fr^
+||dii1.zooplus.hu^
+||dii1.zooplus.ie^
+||dii1.zooplus.it^
+||dii1.zooplus.nl^
+||dii1.zooplus.no^
+||dii1.zooplus.pl^
+||dii1.zooplus.pt^
+||dii1.zooplus.ro^
+||dii1.zooplus.se^
+||dii2.shpd.ext.zooplus.io^
+||dii2.shpp.ext.zooplus.io^
+||dii2.zoochic-eu.ru^
+||dii2.zoohit.cz^
+||dii2.zoohit.si^
+||dii2.zoohit.sk^
+||dii2.zooplus.at^
+||dii2.zooplus.be^
+||dii2.zooplus.bg^
+||dii2.zooplus.ch^
+||dii2.zooplus.co.uk^
+||dii2.zooplus.com^
+||dii2.zooplus.de^
+||dii2.zooplus.dk^
+||dii2.zooplus.es^
+||dii2.zooplus.fi^
+||dii2.zooplus.fr^
+||dii2.zooplus.gr^
+||dii2.zooplus.hr^
+||dii2.zooplus.hu^
+||dii2.zooplus.ie^
+||dii2.zooplus.nl^
+||dii2.zooplus.no^
+||dii2.zooplus.pl^
+||dii2.zooplus.pt^
+||dii2.zooplus.ro^
+||dii2.zooplus.se^
 ||ig.ig.ig.com^
 ||metric.vodafone.com.eg^
 ||metrics.aa.com^
@@ -141923,6 +141322,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||metrics.worldmarket.com^
 ||metrics.xfinity.com^
 ||metrics.yellowpages.com^
+||metrix.youravon.com^
 ||omniture-dc-sec.cadence.com^
 ||omniture-ssl.direct.asda.com^
 ||omniture-ssl.kia.com^
@@ -141937,10 +141337,15 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||omniture.walmart.ca^
 ||omniture.walmart.com^
 ||omniture.yell.com^
+||s-omniture.yell.com^
 ||s.metric.vodacom.co.za^
+||saa.zdnet.com^
+||sadbmetrics.zendalibros.com^
+||samc.zkb.ch^
 ||secure.info.seek.com^
 ||securemetrics.experience.apple^
 ||smetric.ads.microsoft.com^
+||smetric.yardhouse.com^
 ||smetrics.1075daverocks.com^
 ||smetrics.10play.com.au^
 ||smetrics.1800contacts.com^
@@ -142250,6 +141655,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.faceipf.com^
 ||smetrics.fancl.jp^
 ||smetrics.farnell.com^
+||smetrics.fatface.com^
 ||smetrics.faz.net^
 ||smetrics.fcacert.com^
 ||smetrics.fcbarcelona.cat^
@@ -142395,6 +141801,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||smetrics.kao.co.jp^
 ||smetrics.kao.com^
 ||smetrics.kawai-juku.ac.jp^
+||stats.yourfone.de^
+||swebmetrics.zebra.com^
 ||swebstats.americanbar.org^
 ||tags.esri.rw^
 ||track.collegeboard.org^
@@ -142410,10 +141818,13 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||baptisthealth.hrm.healthgrades.com^
 ||bjc.hrm.healthgrades.com^
 ||communication.promo.skf.com^
+||communications.ypo.org^
 ||elcaminohospital.hrm.healthgrades.com^
+||email.zumaoffice.com^
 ||emea.promo.skf.com^
 ||gundersenhealth.hrm.healthgrades.com^
 ||info.healthycommunitiesinstitute.com^
+||info.zuidema.nl^
 ||kumed.hrm.healthgrades.com^
 ||marketing.aluz.lighting^
 ||marketing.atlanticdiagnosticlaboratories.com^
@@ -142427,13 +141838,416 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||valleyhealth.hrm.healthgrades.com^
 ||www.bcaeurope.eu^
 ||www.akane-ad.com^
+||0-owazo4.net.zooplus.de^
+||0.data.net.zooplus.de^
+||0.net.zooplus.nl^
+||00d1n000002btifuae.net.zooplus.com^
+||00da0000000ya3ymag.net.zooplus.com^
+||01-csr31.net.zooplus.de^
+||01-csr41.net.zooplus.de^
+||01.2lab.net.zooplus.de^
+||01.net.zooplus.fr^
+||01933310313.net.zooplus.de^
+||02.net.zooplus.de^
+||07.net.zooplus.de^
+||09-internal.net.zooplus.nl^
+||09-marketing.09-marketing.net.zooplus.nl^
+||09csh1.net.zooplus.de^
+||0p10g000000tnbisaw.net.zooplus.com^
+||1-administrators-mail.confluence.net.zooplus.de^
+||1-alpha-disabled-mail.support-confluence.net.zooplus.de^
+||1-api-mail.confluence.net.zooplus.de^
+||1-cvs-mail.support-confluence.net.zooplus.de^
+||1-development-pay-mail.2lab-testbed.net.zooplus.de^
+||1-ids-mail.2lab-testbed.pay.net.zooplus.de^
+||1-internal-mail.2lab-testbed.net.zooplus.de^
+||1-machine-decsr12.2lab-testbed.net.zooplus.de^
+||1-machine-frontnodemgmt.support-confluence.net.zooplus.de^
+||1-machine-mail-api-git.lax.sandbox.repo.lab2frontuploads.net.zooplus.de^
+||1-machine-mail-lab2frontuploads.2lab-testbed.net.zooplus.de^
+||1-machine-mail-mgmt.signed-repositorysystem01.2lab.net.zooplus.de^
+||1-machine-mail-regionmanagement.idsdata-api-backend.alpha-disabled.net.zooplus.de^
+||1-machine-mail-support-northamerica.partner.apimail-v2api.net.zooplus.de^
+||1-machine-mail-uploadsevents.idsdata-api-backend.alpha-disabled.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.analyticsdisabled.dev.preview.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.chd-backend.alpha-disabled.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.idsdata-api-backend.2lab-gh.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.idsdata-api-backend.alpha-disabledstg.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.idsdata-api-backend.alpha-machineapi.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.idsdata-api-backend.gitalpha-disabled.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.idsdata-api-backend.legacy.net.zooplus.de^
+||1-machine-mail-uploadsmanagement.lbidsdata-api-backend.alpha-disabled.net.zooplus.de^
+||1-machine-mail-uploadsmanagementapi.engine-lax.repopromo.2uploads.net.zooplus.de^
+||1-machine-mail.2lab-lb.net.zooplus.de^
+||1-machine-mail.2lab-legacy-privsupport-confluence.net.zooplus.de^
+||1-machine-mail.2lab-testbed.pay-productions.net.zooplus.de^
+||1-machine-mail.2lab-testbed.server-pay.net.zooplus.de^
+||1-machine-mail.2lab-testbed.zooplus-passpay.net.zooplus.de^
+||1-machine-mail.2lab-testbedsvcgatewayv3.net.zooplus.de^
+||1-machine-mail.eventss.2lab-testbed.pay.net.zooplus.de^
+||1-machine-mail.iad.pay.net.zooplus.de^
+||1-machine-mail.ids.2lab-testbed.net.zooplus.de^
+||1-machine-mail.laxphpscmsigned.2lab-testbed.pay.net.zooplus.de^
+||1-machine-mail.payment-elastic-uploads-v3.api.tpealpha-disabled.net.zooplus.de^
+||1-machine-mail.secure-mgmt.support-confluence.net.zooplus.de^
+||1-machine-mail.supportmanagement.net.zooplus.de^
+||1-machine-mail.v.pay.net.zooplus.de^
+||1-machine-mail2lab-svcgateway.2lab-testbed.pay.net.zooplus.de^
+||1-machine-mailredirector.confluence.net.zooplus.de^
+||1-machine-mailv1.2lab-testbed.pay.net.zooplus.de^
+||1-proxy-mail-tpealpha-disabled.marketing.account.net.zooplus.de^
+||1-proxy-mail.static-mgmtstage.net.zooplus.de^
+||1-twitch-mail.2lab-testbed.pay.net.zooplus.de^
+||1.ctl.api-mail03.net.zooplus.de^
+||120.net.zooplus.de^
+||150.net.zooplus.fr^
+||173.net.zooplus.de^
+||178.net.zooplus.de^
+||178.net.zooplus.nl^
+||19-marketing.net.zooplus.it^
+||2-14.net.zooplus.de^
+||2-exchange2.net.zooplus.de^
+||2.aws-data.net.zooplus.de^
+||2.net.zooplus.de^
+||2.service-cgd2iptccmpin21.net.zooplus.de^
+||2asana.net.zooplus.de^
+||2eventss.europe.net.zooplus.de^
+||2eventssapi.2eventsss.net.zooplus.de^
+||2lab-gh.mgmtteam.api-docs.1-machine-mail.2lab-svcgateway.net.zooplus.de^
+||2lab-legacy-priv-apiops.hw-lax.repobrandfw.staging-swagger.lab2.net.zooplus.de^
+||2lab-mail.net.zooplus.de^
+||2lab-netnode-netrepobed.api-ci.engine-lax.repo.2uploads.net.zooplus.de^
+||2lab-pass.www-admins.controlapplication-legacying.net.zooplus.de^
+||2lab-svcgateway-uploads-v3cloudfrontrepository.api.alpha-disabled.net.zooplus.de^
+||2lab-svcgateway.decsr12.developer2eventss.net.zooplus.de^
+||2lab-svcgateway.lab.net.zooplus.de^
+||2lab-svcgatewaymgmt.mail01-docker.events2lab-pass.net.zooplus.de^
+||2lab-testbed.uploads.idsdata-api.alpha-disabled.net.zooplus.de^
+||2lab-testbeddevelopment.mgmt.docker.internal2lab.net.zooplus.de^
+||2lab-testbedgetter-priv.management-wwwowa-int.net.zooplus.de^
+||2labmanagement-wwwowa.uploadsphp.machineapi.alpha-disabled-management.net.zooplus.de^
+||2labzxtm.net.zooplus.de^
+||2mail01-docker.partner.api.net.zooplus.de^
+||2mail01-dockerdockernginx-oid.auth-apiserver-mgmt.net.zooplus.de^
+||2mail01-mgmt.2uploadsgetterstage.2lab.net.zooplus.de^
+||2uploads-elasticbackendsntor-data-docsdrop.azuresupport-northamerica.net.zooplus.de^
+||2uploads.development.mgmtbucket.docker.engine-2lab.net.zooplus.de^
+||2uploads.mgmtbucket.privategetter-docker.2lab.net.zooplus.de^
 ||2uploadsgetterstage.toolbar.transit-beta-priv.mgmtmo.management.net.zooplus.de^
+||2uploadsprivategetter-priv.mgmt.docker.eventss.2lab.net.zooplus.de^
+||3-114-184-59.sta.inspire.net.zooplus.fr^
+||3457owa-acccms.controlprivate.train.net.zooplus.nl^
+||3457owa-analyticsnsnginx.dii3.adm-ids.net.zooplus.nl^
+||511-mail.net.zooplus.com^
+||68-131.net.zooplus.de^
+||70-139.net.zooplus.fr^
+||acc-productions.controller.net.zooplus.com^
+||acc-resetdata.partner.api.net.zooplus.de^
+||acc-ssl.testingnetcms-m-frontpagesslanalytics.marketingnetprofile.net.zooplus.es^
+||acc-support-origin-dockernginx.net.zooplus.de^
+||acc-support-origin-lbappappschefrepository.net.zooplus.de^
+||acc-support-origin.int-partner.api.net.zooplus.de^
+||acc-support-origin.partnerlb.api.net.zooplus.de^
+||acc-support.developerpartner.api.net.zooplus.de^
+||acc-support.development.partner.svcgateway-northamericaapi.net.zooplus.de^
+||acc-support.partner-docker-private-nautilus.api.net.zooplus.de^
+||acc-support.partner-metrics.svcgateway-northamericaapi.net.zooplus.de^
+||acc-support.partner.api-partner.net.zooplus.de^
+||acc-support.partner.api-rawwebowazo4.net.zooplus.de^
+||acc-support.partner.apimarketingengine-lax.net.zooplus.de^
+||acc-support.partner.apitest.net.zooplus.de^
+||acc-support.partner.svcgateway-2mail01-dockerapi.net.zooplus.de^
+||acc-support.partner.svcgateway-northamericaapi-serverelastic.net.zooplus.de^
+||acc-support.privatebackendsntor-data-partner.api.net.zooplus.de^
+||acc.developmentstaticsvcgateway.administrator.tester.net.zooplus.com^
+||acc.mail.net.zooplus.it^
+||acc.marketingcgd2iptccmpin21.net.zooplus.de^
+||acc.metric.owa.net.zooplus.it^
+||acc.net-ext.zooplusmail-aws.net.prod.raw.net.zooplus.es^
+||acc.net.zooplusmail-aws.net.ghcpi.zoossl.net.zooplus.es^
+||acc.ometricinga.net.zooplus.it^
+||acc.owa-ext.net.zooplus.it^
+||acc.owa-fw.net.zooplus.it^
+||acc.owa.net.zooplus.it^
+||acc.owagitlab.net.zooplus.it^
+||acc.owawwww.net.zooplus.it^
+||acc.prd-owa.net.zooplus.it^
+||acc.rawwebowazo4-transit-net-stg.net.zooplus.de^
+||acc.repositorydii3.ids.net.zooplus.nl^
+||acc.ssl.cms-m-frontpagesslanalytics.marketingnet.net.zooplus.es^
+||acc.sslsigned.net.zooplus.it^
+||acc.vpnlbm-release.net.zooplus.nl^
+||accalpha-accountingingssl-svc-accountingingssl.net.zooplus.nl^
+||accalpha-mail-svcalpha-security.net.zooplus.nl^
+||accalphac.ns.gitlabvision.net.zooplus.nl^
+||acccms.elasticlb-v1dii2-marketing.train.net.zooplus.nl^
+||acccms.lb-v1dii2-svcgateway.train.net.zooplus.nl^
+||acccms.v1.lb-v1dii2-marketing.train.net.zooplus.nl^
+||acccmsacccms-mail-svc.net.zooplus.nl^
+||accect-ssl.data-v3.activecvsarketing.net.zooplus.it^
+||accect-sslmachinens-appbucketgit.net.zooplus.it^
+||accect-sslmachineswaggerv3bucketgit.net.zooplus.it^
+||accectnsmachinens-service-corpailapidocsmachinevision.net.zooplus.it^
+||accectnsmachinens-service.apacns.developer.beta.administrator.net.zooplus.it^
+||accector.acc-dii3.skins-vpn-ids.net.zooplus.nl^
+||accgitlabvision-mail-svc-mail.net.zooplus.nl^
+||account-elastic-gitlab-passwebv2.europewest.tester.net.zoopl.net.zooplus.com^
+||account-elastic-uploads-v3.northamerica-profileapi.tpealpha-disabled.net.zooplus.de^
+||account-ssl-cgi-payment.net.zooplus.de^
+||account-ssl-netlab.net.zooplus.de^
+||account-tester-gitlab.core-corerepository.ssl.idswindows.net.zooplus.com^
+||accounting-cms-m-frontpagesslanalyticsengineering.marketingnet.net.zooplus.es^
+||accounting-preview-cloudfront.docker-private-nautilus.net.zooplus.de^
+||accounting-preview.docker-private-nautilus-jenkins.net.zooplus.de^
+||accounting-preview.docker-private-nautilusgit-wwwlogin.net.zooplus.de^
+||accounting-preview.login.docker-private-nautilus.net.zooplus.de^
+||accounting-preview.svc-prod-docker-private-nautilusgit.net.zooplus.de^
+||accounting-preview.webhotel.net.zooplus.de^
+||accounting-previewedge.docker-private-nautilus.net.zooplus.de^
+||accounting-priv-csr11.data.net.zooplus.de^
+||accounting-ssl.net.zooplus.es^
+||accounting.marketing-authdocker.api-edge.net.zooplus.de^
+||accounting.net.zooplus.it^
+||accountingail.net.zooplus.it^
+||accountingdevelopment.frontpagemgmt.docker.mail01-dockerhelps.2lab.net.zooplus.de^
+||accountingeurope-mgmt.mail01-docker.events2lab-pass.net.zooplus.de^
+||accountingmail.page.net.resetdata-sandbox.net.net-testingnet.zoossl.net.zooplus.es^
+||accountingmirror-northamerica.api.net.zooplus.de^
+||accountreco.chdauthorizationdocumentsachinevision.ns.machinevision.net.zooplus.it^
+||accpartner.net.zooplus.com^
 ||acsail.net.shop.com.mm^
+||active-redirect-sslpaymentreco.nshw.hwcdnvision.testbedsystem.net.zooplus.it^
+||activecdn-events.dii1machineredirectornorthamericarestricted.net.zooplus.it^
+||activecdn.chef-twitch.dii1machinevision-emea.net.zooplus.it^
+||activeloginarketing.net.zooplus.it^
+||activemarketing.cafe.net.zooplus.it^
+||activemarketing.machinevisionnet-gateway.net.zooplus.it^
+||activemarketingadministratorsect-ssl-region.activecvsarketingdii1.net.zooplus.it^
+||activemarketingcms.net.zooplus.it^
+||activeornorthamerica.tomcatactivemarketing.net.zooplus.it^
+||adm-mail.net.zooplus.es^
+||adm-mgmt.dockergetter.events2lab.hw-2lab.net.zooplus.de^
+||adm-secure-mgmt.signed-dockerus.2lab.net.zooplus.de^
+||adm-ssl.net.zooplus.fr^
 ||adm.idsdata.cdndocker-disabledpayvpn.net.zooplus.de^
 ||adm.jenkins.metrics.development.mgmt.cloudfront.docker.2lab.net.zooplus.de^
 ||admin.net.shop.com.mm^
+||admin.ns.frontpagemachineacc.net.zooplus.it^
+||adminapi.admins-idsdata-frontpage-scm-marketing.net.zooplus.de^
+||adminapi.admins-toolbar.repobrandfw.net.zooplus.de^
 ||adminapi.analytics-admins.net.zooplus.de^
+||adminapi.gh.net.zooplus.de^
+||adminapi.legacyingadmins.net.zooplus.de^
+||adminapi.ssl.admins.net.zooplus.de^
+||admindata.active.net.zooplus.de^
+||administrator-ids.pantheon.pass-vision-machinevisiongit.net.zooplus.it^
+||administrator-transit-net-stg.net.zooplus.de^
+||administrator2uploads.application-legacyingmo.net.zooplus.de^
+||administratormail-cert.net.ids.zooplusmail-aws.net.lb.zoosslawsadmins.net.zooplus.es^
+||administratormail-devops.azurenet.zooplusmail-aws.enginenet.redir.net.zooplus.es^
+||administratormail-webxchdev.net-chd.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail-webxchdev.net-partner.cgi.net.zoossl.net.zooplus.es^
+||administratormail-webxchdev.net.cgi.net-azurenet.zoossl.net.zooplus.es^
+||administratormail-webxchdev.net.zooplusmail-aws.cert.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.client.net.auth.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.europe-aws.net-engineering.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.europe-aws.net.zoosslcontainer.net.zooplus.es^
+||administratormail.alphamailnet.scm.europe-aws.netazure.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.net-web-europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.s3-europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.testing.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.twitcheurope-aws.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnetnorthamerica.scm.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.alphanet.zooplusmail-administratormailfile.net.org.net.zooplus.es^
+||administratormail.apac.azurenet.engine-aws.appnet.zoossl.net.zooplus.es^
+||administratormail.apac.azurenet.svc-marketingnet.appnet.zoossl.net.zooplus.es^
+||administratormail.apac.azurenet.zooplusmail-aws.appnet.control-zoossl.net.zooplus.es^
+||administratormail.apac.azurenet.zooplusmail-aws.appnet.net-web.net.zooplus.es^
+||administratormail.apac.azurenet.zooplusmail-aws.appnet.zoossl-mirror.net.zooplus.es^
+||administratormail.apac.azurenet.zooplusmail-aws.appnet.zoossl.cgi.net.zooplus.es^
+||administratormail.apac.azurenet.zooplusmail-aws.payazurenet.zoossl.net.zooplus.es^
+||administratormail.apac.testingnet.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
+||administratormail.apac.wwwsvc.azurenet.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
+||administratormail.apinet.zooplusmail-awsfirewall.net.netaccount.net.zooplus.es^
+||administratormail.aws-net-iad.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
+||administratormail.aws-netapache.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
+||administratormail.awshwcdnnet.europe-aws.net-testing-mail.zoossl.net.zooplus.es^
+||administratormail.azurenet.events-zooplusmail-aws-php.appnet.zoossl.net.zooplus.es^
+||administratormail.azurenet.nautilusm.net.zoossl.net.zooplus.es^
+||administratormail.azurenet.zooplusmail-aws.net.zoossl.firewall.net.zooplus.es^
+||administratormail.azurenet.zooplusmail-aws.netdev.zoossl.net.zooplus.es^
+||administratormail.azurenet.zooplusmail-aws.netmirror.zoossl.net.zooplus.es^
+||administratormail.azurenet.zooplusmail-aws.orgdocsdrop.appnet.zoossl.net.zooplus.es^
+||administratormail.azurenet.zoosslzooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.azurenethelp.zooplusmail-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
+||administratormail.azurenetproxy.zooplusmail-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
+||administratormail.backend-netcloudfront.login.net.lb.zoossl.net.zooplus.es^
+||administratormail.billingnet.zooplusmail-aws.net.lb.zoosslawsadmins.net.zooplus.es^
+||administratormail.bucketnet.acc-net-aws.net.administratorszoossl.net.zooplus.es^
+||administratormail.bucketnet.engineering.net.administratorszoossl.net.zooplus.es^
+||administratormail.bucketnet.nginx-aws.bucket-net.administratorszoossl.net.zooplus.es^
+||administratormail.bucketnet.nginx-aws.net.administratorszoossl-backend.net.zooplus.es^
+||administratormail.bucketnet.nginx-aws.net.authzoossl.net.zooplus.es^
+||administratormail.bucketnet.nginx-aws.net.awsfirewall.net.zooplus.es^
+||administratormail.bucketnet.nginx-aws.net.uploadmarketing.net.zooplus.es^
+||administratormail.bucketnet.teamnginx-aws.net.administratorszoossl.net.zooplus.es^
+||administratormail.bucketnetmirror.nginx-aws.net.administratorszoossl.net.zooplus.es^
+||administratormail.chd.acc-net.nautilus-aws-cdn.net.zoossl.net.zooplus.es^
+||administratormail.chd.netcloudfront.ops.profiles-net.lb.zoossl.net.zooplus.es^
+||administratormail.chefnet-cert.devops.zooplusmail-aws.staff.net.zoossl.net.zooplus.es^
+||administratormail.ci.zooplusmail-aws.appnet.zoossl.net.zooplus.es^
+||administratormail.client-nginx.net.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svc-iad.net.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.devsnet.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.net.partner-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.net.pay.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.net.regionnetzooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.net.zooplusmail-aws.net.europewest.zoossl.net.zooplus.es^
+||administratormail.client-svc.net.zooplusmail-awsprofile.net.zoossl.net.zooplus.es^
+||administratormail.client-svc.netdevelopment.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-svcw3.net.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client-v3.eng.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.docker-eng.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.eng.net.aws-net.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.eng.net.docker.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.eng.net.resetdata-zoosslnetwww.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.eng.net.zooplusmail-aws.net.login.tpe.partner.net.zooplus.es^
+||administratormail.client.eng.net.zooplusmail-aws.net.tpe.stage-zoossl.net.zooplus.es^
+||administratormail.client.eng.net.zooplusmail-aws.net.tpe.swagger.net.zooplus.es^
+||administratormail.client.net-azurenet.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
+||administratormail.client.net-pantheon.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
+||administratormail.client.net-skins.net.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.certdocsdrop.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client.net.certpage.bucketnet.net.zoossl.net.zooplus.es^
+||administratormail.client.net.certpage.zooplusmail-aws.accnet.zoossl.net.zooplus.es^
+||administratormail.client.net.certpage.zooplusmail-aws.net-test.zoossl.net.zooplus.es^
+||administratormail.client.net.certpage.zooplusmail-aws.net.payment.net.zooplus.es^
+||administratormail.client.net.certssl.githubzooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client.net.dev-aws.net.zoossl.pass.net.zooplus.es^
+||administratormail.client.net.helppage.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client.net.nginx.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.client.net.raw.zooplusmail-aws.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.scm.europe-awsnautilus-aws-cdn.net.zoossl.net.zooplus.es^
+||administratormail.client.net.v2.net.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws-hw.net.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.apinet.zoossl.pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net-alphaswag.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net-tomcat.zoossl.pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net-tpe.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.apache-zoossl.pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.jenkins.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.tpe.zoossl-pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.vpn-zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.zoossl-web.pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.net.zoossl.hwcdn-pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.netprivate.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.redirectornet.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.searchnet.zoossl.pass.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.server.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.sslnet.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-aws.staffnet.tpe.zoossl.net.zooplus.es^
+||administratormail.client.net.zooplusmail-awslb.net.zoossl.pass.net.zooplus.es^
+||administratormail.client.netapp.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.clientzoossl.net.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
+||administratormail.cms.hw.net.resetdata.net.zoossl.net.zooplus.es^
+||administratormail.cms.netus.europe-aws.net-testing.zoossl.confluence.net.zooplus.es^
+||administratormail.containerinternal.netservice.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.control-aws-net.zooplusmail-awsfirewall.net.zoossl.net.zooplus.es^
+||administratormail.control-hw.net.resetdata.net.zoossl.net.zooplus.es^
+||administratormail.control.netaccount.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.data.net.europe-aws.net.test.net.zooplus.es^
+||administratormail.developer.bucket-payment.profile.net.zoossl.net.zooplus.es^
+||administratormail.development.net.promonet.net.zoossl.net.zooplus.es^
+||administratormail.devops-net.zooplusmail-administratormailfile.net.org.net.zooplus.es^
+||administratormail.docker.net-emea.certpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.docker.net.certpage.cizooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.docker.net.certpage.net-edge-aws.net.zoossl.net.zooplus.es^
+||administratormail.docker.net.certpage.zooplusmail-aws.net.ghcpizoossl.net.zooplus.es^
+||administratormail.docker.net.certpagelegacy.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.docker.net.privcertpage.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.edge-bucketnet.nginx-aws-lb.net.netzoossl.net.zooplus.es^
+||administratormail.edge-bucketnet.nginx-aws.net.frontpage.net.zooplus.es^
+||administratormail.edge-bucketnet.nginx-aws.net.netproductions.net.zooplus.es^
+||administratormail.edge-webnet.nginx-aws.net.administratorszoossl.net.zooplus.es^
+||administratormail.elastic.net.zooplusmail-chd.net.netaccount.net.zooplus.es^
+||administratormail.email.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.emailvisionhw.net.resetdata.net.zoossl.net.zooplus.es^
+||administratormail.engine.zooplusmail-aws.docsdrop.appnet.zoossl.net.zooplus.es^
+||administratormail.engineering.net.nginx-aws.net.zoossl.net.zooplus.es^
+||administratormail.europe-aws-oid.net.resetpantheon.net.zoossl.net.zooplus.es^
+||administratormail.europe-awsglobal-page.net.zooplusmail-aws.net.trial.net.zooplus.es^
+||administratormail.europewest.zooplusmail-aws.profiles-net.lb.zoossl.net.zooplus.es^
+||administratormail.events.net.resetdata-sandbox.net.zoossl.net.zooplus.es^
+||administratormail.eventsregionnet.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.extadm-client.net.zooplusmail-aws.net.zoossl.pass.net.zooplus.es^
+||administratormail.extazurenet.zooplusmail-aws.appnet.payment-hw.net.zooplus.es^
+||administratormail.extazurenet.zooplusmail-aws.nodeappnet.zoossl-hw.net.zooplus.es^
+||administratormail.extelastic.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
+||administratormail.extnet-wwwauthnet.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
+||administratormail.extuszooplusmail.zooplusmail-aws.appnet.zoossl-hw.net.zooplus.es^
+||administratormail.firewall.zooplusmaiacc-support.partner.svcgateway-northamericaapi.net.zooplus.de^
+||transitapi-git.lax.repo.lab2-firewall.net.zooplus.de^
+||transitfrontpagemgmt-pay.azuremgmt.docker.2lab-netnode-netrepobed.net.zooplus.de^
+||transitfrontpagemgmt-pay.elasticmgmt.docker.2lab-netnode-netrepobed.net.zooplus.de^
+||transitfrontpagemgmt-pay.mgmt.docker.2lab-netnode-dockernginx.net.zooplus.de^
+||transitfrontpagemgmt-pay.mgmt.docker.2lab-netpriv-netrepobed.net.zooplus.de^
+||uploads.docsdropapi-chef.eventss.net.zooplus.de^
+||uploads.docsdropapi-chef.webappectoraccountalpha-disabledbackend.net.zooplus.de^
+||uploads.docsdropapi.2lab-ci-disabled.swagger.net.zooplus.de^
+||uploads.docsdropapi.2lab-netnodeectoraccountalpha-disabled.swagger.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-cms.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-disabled-dev.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-disabled-webapp.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.ghcpi.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.swagger.repov3.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-disabled.swagger2mail01.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountalpha-svcgateway.swagger.net.zooplus.de^
+||uploads.docsdropapi.2lab-passectoraccountregion.swagger.net.zooplus.de^
+||uploads.docsdropapi.cmsmirror-alpha-disabled.net.zooplus.de^
+||uploads.docsdropapi.containerredirectoraccountalpha-disabled.net.zooplus.de^
+||uploads.docsdropapi.engine-proxy.net.zooplus.de^
+||uploads.docsdropapi.gh.swagger.net.zooplus.de^
+||uploads.docsdropapi.github-proxy.net.zooplus.de^
+||uploads.owa.net.zooplus.fr^
+||uploadsmanagement.brandidsdata-api-backend.apache-docker.net.zooplus.de^
+||uploadsmanagement.brandidsdata-api-backend.managementapi-docs.net.zooplus.de^
+||uploadsmanagement.brandidsdata-api-resetrestricted.alpha-disabled.net.zooplus.de^
+||uploadsmanagement.cert-idsdata-api.alpha-disabled.net.zooplus.de^
+||uploadsmanagement.disabled.brandidsdata-api-backend.2lab-pass-disabled.net.zooplus.de^
+||uploadsmanagement.idsbeta-api.alpha-disabled.net.zooplus.de^
+||uploadsmanagement.idsdata-api-backend.raw.net.zooplus.de^
+||uploadsmanagement.idsdata-api-backendgit.alpha-disabled.net.zooplus.de^
+||uploadsmanagement.idsdata-api.alpha-app-uploads.net.zooplus.de^
+||uploadsmanagement.idsdata-apiaws.alpha-lab.net.zooplus.de^
+||uploadsmanagement.idsdata-apiaws.gwswebapialpha-disabled.net.zooplus.de^
+||v1-preview-wwwowa-csr12.assets.net.zooplus.de^
+||v1-preview-wwwowa-datasvcbackend.idsdataingsvcanalytics-lax-getter.net.zooplus.de^
+||v1-preview-wwwowa-emea.dockertrial.net.zooplus.de^
+||v1-preview-wwwowa.apac-dockertrial.net.zooplus.de^
+||v1-preview-wwwowa.dockercert.net.zooplus.de^
+||v1-preview-wwwowa.frontpagedockertrial.net.zooplus.de^
+||v1-preview-wwwowagetter-privwwweurope.application-legacying.net.zooplus.de^
+||v1-testing-wwwowa.net.zooplus.de^
+||v1.development.privatebackendsntor-data.docker.2lab.net.zooplus.de^
+||v1.mail.net.zooplus.it^
+||v1development.mgmt.chef.api-docsowazo4-transit-net.2lab-testbed.net.zooplus.de^
+||v1owa.opsadmins.net.zooplus.it^
+||v1svcapiserver.marketing.account.net.zooplus.de^
+||v2nginxowaoid.development.net.zooplus.nl^
 ||v3.mail.net.shop.com.mm^
+||vip-mail.net.zooplus.it^
+||vpn-ids-documents.net.zooplus.nl^
+||vpn-ids-latin.developer.net.zooplus.nl^
+||vpn-marketing.net.zooplus.it^
+||vpn-partner.net.zooplus.com^
+||vpn4-238.net.zooplus.fr^
+||w3.pantheon.payazurenet.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||wdatatats.net.zooplus.com^
+||web.ssl-raw-emailvision.net.zooplus.nl^
+||webapp.net.zooplus.nl^
+||webbitbucket.net.zooplus.com^
+||webdashboard.net.zooplus.com^
+||webstats-proxy.net.zooplus.com^
 ||webstats.priv.net.zooplus.com^
 ||webstats.production.net.zooplus.com^
 ||www.authenticate.net.zooplus.es^
@@ -142451,8 +142265,137 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||www.internal-europewest.net.zooplus.de^
 ||www.marketing.app.net.zooplus.de^
 ||www.marketing.email.net.zooplus.es^
+||accalpha-fw-svc-fw.net.zooplus.nl^
+||accalpha-mail-svc-mail-fw.net.zooplus.nl^
+||accalpha-oid-svc-oid.net.zooplus.nl^
+||acccms.lb-v1dii2-marketing.trainstg.net.zooplus.nl^
+||accgatewayvisionmail.net.europe-aws-oid.net.service.net.zooplus.es^
 ||accounting.webstats.net.zooplus.com^
+||accountnodeapi.lax.repobrandfw.lab2.net.zooplus.de^
+||active-redirect-sslchefbeanstalkchef-marketing.net.zooplus.it^
+||activemarketing-admin.dii1.sslengine.redir-disabled.net.zooplus.it^
+||activemarketing.dii1.administratorsectsslengine-naus.net.zooplus.it^
+||activemarketingowa-ns-productions.apiserver.accect.net.zooplus.it^
+||administratormail-apac.net-cert.pagebucket-zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail-aws.net-cert.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail-chd-ids.netrepo.zooplusmail-aws.netanalytics.zoossl.net.zooplus.es^
+||administratormail-chd.net.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail-client.net.zooplusmail-aws.net.lb.zoossl.net.zooplus.es^
+||administratormail-devops-administratormail.net.promonet.net.zoossl.net.zooplus.es^
+||administratormail-devops-org.azurenet.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail-devops-training.azurenet.zooplusmail-aws.net.redir.net.zooplus.es^
+||administratormail-devops.azurenet.legacy-aws.net.zoossl.net.zooplus.es^
+||administratormail-devops.azurenet.zooplusmail-aws.alphamail-net.redir.net.zooplus.es^
+||administratormail-devops.azurenet.zooplusmail-aws.bucket.net.zoossl.net.zooplus.es^
+||administratormail-devops.azurenet.zooplusmail-aws.docsdrop-net.redir.net.zooplus.es^
+||administratormail-devops.azurenet.zooplusmail-aws.net-metrics.zoossl.net.zooplus.es^
+||administratormail-webxchdev.net.test-zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail-webxchdev.net.zooplusmail-aws.net.static.zoossl.net.zooplus.es^
+||administratormail.adminmailnet.scm.europe-aws.net.zoossl.net.zooplus.es^
+||administratormail.adminnet.europe-aws.net-testing-mail.zoossl.net.zooplus.es^
+||administratormail.alphamailhw.net.resetdata.net.zoossl.net.zooplus.es^
+||administratormail.alphamailnet.scm.europe-aws.internal.net.zoossl.net.zooplus.es^
 ||administratormail.alphamailnet.scm.europe-aws.net.zoossl.adm.net.zooplus.es^
+||administratormail.azurenet.nginxzooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.azurenet.oid-aws.alpha-appnet.zoossl-hw.net.zooplus.es^
+||administratormail.azurenet.zooplusmail-aws.alpha-appnet-priv.zoossl-hw.net.zooplus.es^
+||administratormail.globalconfluenceate.system-aws.net.zoosslreset.net.zooplus.es^
+||administratormail.globalconfluenceate.zooplusmail-aws.net.oid.net.zooplus.es^
+||administratormail.globalconfluenceate.zooplusmail-aws.net.redir.net.zooplus.es^
+||administratormail.globalnet.ghcpieurope-aws.net.zoossl-account.net.zooplus.es^
+||administratormail.hw.net.alphamaildata.net.zoossl.net.zooplus.es^
+||administratormail.hw.net.iaddata.net.zoossl.net.zooplus.es^
+||administratormail.hw.net.northamerica-resetdata.net.zoossl.net.zooplus.es^
+||administratormail.hw.net.resetdata.net.netzooplusmail-zoossl.net.zooplus.es^
+||administratormail.marketing-wwwauth.ghcpieurope-aws.net.zoossl-account.net.zooplus.es^
+||administratormail.marketingnet.signed-page.net.resetdata.net.zoossl.net.zooplus.es^
+||administratormail.metricsnet.zooplusmail-administratormailfile.net.org.net.zooplus.es^
+||administratormail.mirrornetcloudfront.development.net.lb.zoossl.net.zooplus.es^
+||administratormail.net-acc.zooplusmail-aws-cdn.net.emailvisionzoossl.net.zooplus.es^
+||administratormail.net-adm.uszooplusmail-awsfirewall.net.netaccount.iad.net.zooplus.es^
+||administratormail.net-apac.repository.netlatin.servicezoossl.net.zooplus.es^
+||administratormail.net-apac.zooplusmail-aws-cdn.netcdn.servicezoossl.net.zooplus.es^
+||administratormail.net-git.marketingnet-europewest.profile.net.zoossl.net.zooplus.es^
+||administratormail.net-git.net-zooplusmail-aws.profile.net.zoossl.net.zooplus.es^
+||administratormail.net-latin.europe-aws.net.test.net.zooplus.es^
+||administratormail.net-lb.alpha4zooplusmail-aws.net.zoossl.net.zooplus.es^
+||administratormail.net-lb.elasticbeanstalk.net.productionzoossl.net.zooplus.es^
+||administratormail.net.client.labnet.auth.zoossl.net.zooplus.es^
+||administratormail.net.client.net-app.auth.zoossl.net.zooplus.es^
+||administratormail.net.client.net.auth.accounting-zoossl.net.zooplus.es^
+||administratormail.net.client.net.auth.zoossl-netapp.net.zooplus.es^
+||administratormail.net.client.net.auth.zoosslgateway.net.zooplus.es^
+||disabled.owa-paywall.net.zooplus.fr^
+||disabled.owa.betaarketing.net.zooplus.fr^
+||disabled.owa.prod.net.zooplus.fr^
+||disabled.owademo.net.zooplus.fr^
+||mgmteventss.mail01-docker.profiles-pass-testing.net.zooplus.de^
+||mgmtmanagement-uploadsmanagement.idsdata-api-backend.alpha-disabled.net.zooplus.de^
+||mgmtmanagement.apache-email.net.zooplus.de^
+||mgmtmo-v1-preview-wwwowa.net.zooplus.de^
+||mgmtmoazure-promo.development-apiserver-mgmt.net.zooplus.de^
+||mgmtoid.1-machine-mail.decsr12.2lab-staging.net.zooplus.de^
+||mirror-datacdn.application-legacying.net.zooplus.de^
+||mirror-northamerica.elasticapi.net.zooplus.de^
+||mirror.brandidsdata-api-backend.2lab-pass-disabled.net.zooplus.de^
+||ns-service-secure.ns-promo-team.europe.machinevision.net.zooplus.it^
+||ns-service-secure.ns-promo.europe-hwcdn.machinevisionlegacy.private.net.zooplus.it^
+||ns-service-secure.ns-promo.europereset.machinevision.net.zooplus.it^
+||ns-service-secure.ns-promo.redir.europe.machinevision.net.zooplus.it^
+||ns-service-secure.pay-europe-machinevision.v1machinevision-server.net.zooplus.it^
+||privatebackendsntor-data.signed.search.authtoolbar-elasticbeanstalk.net.zooplus.de^
+||qa1.dr.alphacmsearch.gwsweb.admins-v.net.zooplus.it^
+||qa1.dr.v2acc-cmsearch.gwswebns-authorization.net.zooplus.it^
+||qa1.gatewaydr.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
+||qa1.ghcpi.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
+||qa1.machinevisionmachinensdr.alphacmsearch.elasticbeanstalkelastic.net.zooplus.it^
+||qa1.ns-promostaging.dr.v2acc-cmsearch.gwswebns-ciocloudfrontavision.net.zooplus.it^
+||qa1.svc-dr.acc-cmsearch.gwsweb.net.zooplus.it^
+||qa1testing.w3dr.alphacmsearch.gwsweb.net.zooplus.it^
+||qa4.globalredirector.gwsweb.net.zooplus.fr^
+||scm.region.api-mgmtteammgmt.docker.2lab.v1-preview-wwwowa.net.zooplus.de^
+||scm.region.git-mgmt.docker-demo.devs.2lab.ops-v1-preview-wwwowa.net.zooplus.de^
+||scm.regiongitlabhe.mgmt.docker-training.2lab.devs-development-pay.net.zooplus.de^
+||scm.regiongitlabhe.mgmt.docker-training.twitch2lab.development-pay.net.zooplus.de^
+||scm.regionhw.mgmt.dockerproxy.alpha2lab.v1-iad-wwwowa.net.zooplus.de^
+||support-northamerica.partnerrestricted.apimail-v2api.net.zooplus.de^
+||support-northamerica.repopartner.api.github.net.zooplus.de^
+||support-northamerica.s3beanstalksystem-partner.apimail-v2api.net.zooplus.de^
+||support-northamerica.test.partner.apisandbox.net.zooplus.de^
+||support-northamerica.train.engineering.api.idsdata.net.zooplus.de^
+||support-northamerica.twitchering.api.idsdata.net.zooplus.de^
+||support-northamericamanagement-rawweb.partner.apimail-v2api.net.zooplus.de^
+||support-northamericapantheon-jenkins.partner.api-edge.net.zooplus.de^
+||support-northamericapantheon.partner.api-edge-repobrandfw.net.zooplus.de^
+||support-northamericapantheon.partner.api-edgegist.net.zooplus.de^
+||support-northamericapantheon.partner.api-secure.net.zooplus.de^
+||support-pass.partner.engineering-docker-csr41jenkins.api.net.zooplus.de^
+||support-pass.partner.repositorymail01-docker-csr41jenkins.latinlab2api.net.zooplus.de^
+||support-pass.partner.repositorytestbed-docker-csr41jenkins.api.net.zooplus.de^
+||svc-ghcpi.marketing-docsdropapi.net.zooplus.de^
+||svc-ghcpi.marketingadmins.net.zooplus.de^
+||svc-ghcpi.marketingredirector.net.zooplus.de^
+||svc-gistdockerapi.marketing-authdocker.api-edge.net.zooplus.de^
+||svc-gitistrators-engine-lax-auth.marketing.account.net.zooplus.de^
+||testbed2labrepositorysystem01.lax.repobrandfw.lab2.net.zooplus.de^
+||tomcat.wwwsvcnet.zooplusmail-awsfirewall.net.zoosslsvcgateway.net.zooplus.es^
+||tomcat.wwwsvcnet.zooplusmail-awsfirewallsecurenet.net.zoossl-eng.net.zooplus.es^
+||tomcatbackend.net.marketingnetfirewall-v.net-cloudfront.zoossl.net.zooplus.es^
+||tomcatns.chef.emailvision.net.zooplus.es^
+||toolbar-fw-beta.transit-beta-priv.mgmtmo.management.net.zooplus.de^
+||toolbar-gwsweb-accounting-eventss.net.zooplus.de^
+||toolbar-mail-cms.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
+||toolbar-mail-server.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
+||toolbar-mail-v2api.development-apipriv-mgmt-privcgi.mgmtmo.management.net.zooplus.de^
+||toolbar-mail.api.alpha-disabled.net.zooplus.de^
+||toolbar-mail.legacy-priv-demo-api.mgmtmo.management.net.zooplus.de^
+||toolbar-mail.legacy-priv-demo.file.mgmtmo.management.net.zooplus.de^
+||toolbar-mail.legacy-priv-demo.mgmtmo.promo-management.net.zooplus.de^
+||toolbar-mailadministrator.legacy-priv-demo.mgmtmo.management.net.zooplus.de^
+||toolbar-profile.privategetter-priv.management.net.zooplus.de^
+||toolbar-redir.privategetter-priv.management-proxy.net.zooplus.de^
+||toolbar-search.development-apiserver-mgmt-privcgi.mgmtmo.management.net.zooplus.de^
+||toolbar-zooplus.decsr12-training.frontpagegw.net.zooplus.de^
 ||toolbar.legacy-priv.fw-webhotel-toolbar-gitlab.mgmtmo.management.net.zooplus.de^
 ||toolbar.legacy-priv.fw-webhotel-toolbar.control.management.net.zooplus.de^
 ||toolbar.legacy-priv.fw-webhotel-toolbar.mgmtmo-org.management.net.zooplus.de^
@@ -142466,7 +142409,17 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||toolbar.legacy-priv.mgmtmo.apacheapi-docswebapp.net.zooplus.de^
 ||toolbar.legacy-priv.mgmtmo.apacheelastic-uploads-v3.net.zooplus.de^
 ||toolbar.legacy-priv.testbed-mgmtmo.managementapi-docsrepository.net.zooplus.de^
+||w3.zooplusmail-aws.payzooplusmail-aws.zooplusmail-aws.net.zoossl.net.zooplus.es^
+||w3administratormail.nettesting.zooplusmail-nettesting.net.zoossl.net.zooplus.es^
+||w3csr12-svcgateway-northamericanode.githubcsr41.net.zooplus.de^
+||w3docsdropapi.development-apiserver-mgmt.net.zooplus.de^
+||w3repo-wwwowa-banner.decsr12.net.zooplus.de^
 ||web-marketing.analytics-getter-priv.management.net.zooplus.de^
+||web-reco-stage.ns.machinevision.net.zooplus.it^
+||web-reco.apacnsweb-reco.marketing-ns.engineering.net.zooplus.it^
+||web-reco.machineelastic-cvs-ns.machineelastic-cvs.net.zooplus.it^
+||web-reco.marketing-ns.developer.net.zooplus.it^
+||web-reco.marketing-ns.machinetrain-cvs.net.zooplus.it^
 ||www.images.net.zooplus.com^
 ||www.immobilier-marseille.net.zooplus.it^
 ||www.int.application-legacying.net.zooplus.de^
@@ -142476,6 +142429,53 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||www.w3partner.trial-php.application-legacying.net.zooplus.de^
 ||www.wiki-ail-mgmt-w3.application-legacying.net.zooplus.de^
 ||www.work-marketing.net.zooplus.es^
+||wwwaccounting2lab.testing.net.zooplus.de^
+||wwwclient-email.application-legacying.net.zooplus.de^
+||wwwdecsr12netrepo.application-legacying.net.zooplus.de^
+||wwwdevelopment-apiserver-mgmt-priv-email.application-legacying.net.zooplus.de^
+||wwwlegacy.testing.net.zooplus.de^
+||wwwlogin-edecsr12-managementfw-alpha.application-legacying.net.zooplus.de^
+||wwwlogin-email-alpha.application-legacyingapplication.net.zooplus.de^
+||wwwlogin-email-alpha.application-v1-preview-wwwowa.net.zooplus.de^
+||wwwlogin-email-alpha.cms-application-legacying.net.zooplus.de^
+||wwwlogin-email-alpha.us-legacying.net.zooplus.de^
+||wwwlogin-email.application-disabledsandbox.net.zooplus.de^
+||wwwlogin-email.application-legacying-legacying.net.zooplus.de^
+||wwwlogin-email.application-legacying-node.net.zooplus.de^
+||wwwlogin-redirectoraccount-ssl.net.zooplus.de^
+||wwwlogin-secure-mgmt.marketing-authdocker-legacying.net.zooplus.de^
+||wwwlogin.application-gateway.net.zooplus.de^
+||wwwlogin.application-legacying-europe.net.zooplus.de^
+||wwwlogin.application-legacying.devops.net.zooplus.de^
+||wwwlogin.docker-private-nautilusgit.net.zooplus.de^
+||wwwlogin.machine.application-legacying.net.zooplus.de^
+||wwwlogin.marketing-authdocker-emeaing.net.zooplus.de^
+||wwwlogin.marketing-authdocker-legacying-api.net.zooplus.de^
+||wwwlogin.marketing-authdocker-phplab2frontuploads.net.zooplus.de^
+||wwwlogin.marketing-azuredocker-legacying.net.zooplus.de^
+||wwwlogin.marketing-gwdocker-legacying.net.zooplus.de^
+||wwwlogin.northamericaapi.net.zooplus.de^
+||wwwlogin.phpscm-application-legacying.net.zooplus.de^
+||wwwloginnetrepo.application-legacying-dockerrepositorysystem01.net.zooplus.de^
+||wwwloginnetrepo.application-legacying.application-legacying.net.zooplus.de^
+||wwwloginnetrepo.application-repository.net.zooplus.de^
+||wwwloginnetrepo.development-apipriv-mgmt-privcgi-application-legacying.net.zooplus.de^
+||wwwloginnetrepo.security-legacying.net.zooplus.de^
+||wwwloginscm.marketing-authdocker-legacying.net.zooplus.de^
+||wwwmgmt-fwdkim1.marketing-paylax.account.net.zooplus.de^
+||wwwmgmt-fwdkim1docker.marketing.account.net.zooplus.de^
+||wwwmgmt-php.marketingstg.net.zooplus.de^
+||wwworg.w3.php.application-legacying.net.zooplus.de^
+||wwwowaaccounting-preview.docker-private-nautilusgit.net.zooplus.de^
+||wwwowadatastaffrepo.net.zooplus.de^
+||wwwprivatebackendsfile-getter-priv.controlapplication-legacying.net.zooplus.de^
+||wwwsandbox.legacy-priv-frontpage-management-wwwowa.net.zooplus.de^
+||wwww.owa.net.zooplus.nl^
+||wwwweb.controlapplication-idsdataing-devs.net.zooplus.de^
+||yskins-restricted.developmentstaticsvcgateway.administrator.tester.net.zooplus.com^
+||yskins.staticsvcgateway.controllerbackender.net.zooplus.com^
+||zabbix.net.zooplus.nl^
+||zoohit-naapidocsmachinevision.secure-git.ghcpi-machinevision.net.zooplus.it^
 ||12build.actonservice.com^
 ||a.evergage.com^
 ||a10655.actonservice.com^
