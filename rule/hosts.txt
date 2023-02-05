@@ -1,4 +1,4 @@
-# Update time: 2023-02-05 08:44:30
+# Update time: 2023-02-05 16:09:28
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -18551,6 +18551,7 @@
 0.0.0.0 scrippsbathvert.112.2o7.net
 0.0.0.0 scrippsfoodnet.112.2o7.net
 0.0.0.0 scrippswfts.112.2o7.net
+0.0.0.0 scrippswxyz.112.2o7.net
 0.0.0.0 seacoastonlinecom.112.2o7.net
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 smibs.112.2o7.net
@@ -18701,6 +18702,7 @@
 0.0.0.0 sportat.oewabox.at
 0.0.0.0 ssl-compass.oewabox.at
 0.0.0.0 ssl-geizhals.oewabox.at
+0.0.0.0 ssl-helpgvat.oewabox.at
 0.0.0.0 ssl-karriere.oewabox.at
 0.0.0.0 ssl-msn.oewabox.at
 0.0.0.0 ssl-top.oewabox.at
@@ -18864,6 +18866,7 @@
 0.0.0.0 estatearea.net
 0.0.0.0 exchangenerate.com
 0.0.0.0 existingpass.com
+0.0.0.0 expiredsession.com
 0.0.0.0 exploreemail.net
 0.0.0.0 externalprivacy.com
 0.0.0.0 extractsight.com
@@ -19083,6 +19086,7 @@
 0.0.0.0 securedlogin.org
 0.0.0.0 securisurf.com
 0.0.0.0 send2url.com
+0.0.0.0 sendhtml.net
 0.0.0.0 sendingurl.com
 0.0.0.0 sendingurl.net
 0.0.0.0 servingshade.com
@@ -19491,7 +19495,6 @@
 0.0.0.0 ad05.focalink.com
 0.0.0.0 ad06.focalink.com
 0.0.0.0 ad07.focalink.com
-0.0.0.0 ad08.focalink.com
 0.0.0.0 ad09.focalink.com
 0.0.0.0 ad1.bannerbank.ru
 0.0.0.0 ad1.checkm8.com
@@ -19807,6 +19810,7 @@
 0.0.0.0 ads.adsonar.com
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 ads.adsrvmedia.net
+0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
@@ -20645,6 +20649,7 @@
 0.0.0.0 affiliates.eblastengine.com
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 affiliates.globat.com
+0.0.0.0 affiliation-france.com
 0.0.0.0 affimg.pop6.com
 0.0.0.0 afform.co.uk
 0.0.0.0 affpartners.com
@@ -21280,6 +21285,7 @@
 0.0.0.0 cloudadservers.com
 0.0.0.0 cloudcrown.com
 0.0.0.0 cloudserver098095.home.pl
+0.0.0.0 clubwinnerz.com
 0.0.0.0 cluster.adultadworld.com
 0.0.0.0 cluster3.adultadworld.com
 0.0.0.0 cmads.sv.publicus.com
@@ -21394,6 +21400,7 @@
 0.0.0.0 cuntwars.com
 0.0.0.0 cyberfaery.com
 0.0.0.0 cyberprotection.pro
+0.0.0.0 cz.bbelements.com
 0.0.0.0 cz8.clickzs.com
 0.0.0.0 czilladx.com
 0.0.0.0 d-road.com
@@ -21721,6 +21728,7 @@
 0.0.0.0 freecamerasource.com
 0.0.0.0 freecamsexposed.com
 0.0.0.0 freedvddept.com
+0.0.0.0 freefoodsource.com
 0.0.0.0 freefuelcard.com
 0.0.0.0 freefuelcoupon.com
 0.0.0.0 freeipoduk.co.uk
@@ -21732,6 +21740,7 @@
 0.0.0.0 ftpadmin.edv-stumpf.de
 0.0.0.0 funtabsafe.com
 0.0.0.0 fuuze.net
+0.0.0.0 fvaweb.it
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
 0.0.0.0 fwdservice.com
@@ -22439,6 +22448,7 @@
 0.0.0.0 media.espace-plus.net
 0.0.0.0 media.fairlink.ru
 0.0.0.0 media.funpic.de
+0.0.0.0 media.markethealth.com
 0.0.0.0 media.naked.com
 0.0.0.0 media.nk-net.pl
 0.0.0.0 media.ontarionorth.com
@@ -22492,6 +22502,7 @@
 0.0.0.0 messardu.com
 0.0.0.0 meteon.org
 0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 metrics.ikea.com
 0.0.0.0 metrics.natmags.co.uk
 0.0.0.0 metrics.sfr.fr
 0.0.0.0 metrics.target.com
@@ -22593,6 +22604,7 @@
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 mybinaryoptionsrobot.com
+0.0.0.0 mycashback.co.uk
 0.0.0.0 mychoicerewards.com
 0.0.0.0 myexclusiverewards.com
 0.0.0.0 myfreedinner.com
@@ -22618,7 +22630,6 @@
 0.0.0.0 napimigrans.com
 0.0.0.0 napimigrans.info
 0.0.0.0 napitrend.blogspot.hu
-0.0.0.0 napiujsag.hu
 0.0.0.0 naplo-extra.com
 0.0.0.0 nationalissuepanel.com
 0.0.0.0 nationalpost.adperfect.com
@@ -22670,6 +22681,7 @@
 0.0.0.0 ngp1.intnotif.club
 0.0.0.0 nhn.dk
 0.0.0.0 nitrous.exitfuel.com
+0.0.0.0 nkcache.brandreachsys.com
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 nl.adserver.yahoo.com
 0.0.0.0 nlink.com.br
@@ -23033,6 +23045,7 @@
 0.0.0.0 protection.FXpolice.com
 0.0.0.0 protection.GApolice.com
 0.0.0.0 protection.HKpolice.com
+0.0.0.0 protection.HNpolice.com
 0.0.0.0 protection.ILpolice.com
 0.0.0.0 protection.ITpolice.com
 0.0.0.0 protection.JMpolice.com
@@ -23074,6 +23087,7 @@
 0.0.0.0 pt5.titans-gel.net
 0.0.0.0 pteenoum.com
 0.0.0.0 ptirgaux.com
+0.0.0.0 ptrads.mp3.com
 0.0.0.0 pttsite.com
 0.0.0.0 pub.sapo.pt
 0.0.0.0 pub.web.sapo.io
@@ -23169,6 +23183,7 @@
 0.0.0.0 relevantairbornefantastic.com
 0.0.0.0 remekcikkek.com
 0.0.0.0 rencontreavenue.com
+0.0.0.0 reninet.com
 0.0.0.0 report02.adtech.fr
 0.0.0.0 report02.adtech.us
 0.0.0.0 reporter.adtech.fr
@@ -23228,6 +23243,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rtb-lb-event-sjc.tubemogul.com
 0.0.0.0 rtb.pclick.yahoo.com
+0.0.0.0 rtb.tubemogul.com
 0.0.0.0 rtb1.adscience.nl
 0.0.0.0 rtb10.adscience.nl
 0.0.0.0 rtb11.adscience.nl
@@ -23293,6 +23309,7 @@
 0.0.0.0 s.rev2pub.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.spolecznosci.net
+0.0.0.0 s.spoutable.com
 0.0.0.0 s.tcimg.com
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.visilabs.net
@@ -23529,6 +23546,7 @@
 0.0.0.0 spolecznosci.net
 0.0.0.0 sponsor1.com
 0.0.0.0 sponsorships.net
+0.0.0.0 sportreisen.de
 0.0.0.0 spotxchange.com
 0.0.0.0 sq2trk2.com
 0.0.0.0 srs.targetpoint.com
@@ -24063,6 +24081,7 @@
 0.0.0.0 windows-cnd-update.com
 0.0.0.0 windows-en-us-update.com
 0.0.0.0 windows-fsd-update.com
+0.0.0.0 windows-msd-update.com
 0.0.0.0 windows-office365.com
 0.0.0.0 windows-service-en.com
 0.0.0.0 windows-several-update.com
@@ -24173,6 +24192,7 @@
 0.0.0.0 www.advertpro.com
 0.0.0.0 www.adverts.dcthomson.co.uk
 0.0.0.0 www.advertyz.com
+0.0.0.0 www.adzerk.net
 0.0.0.0 www.aero-source.net
 0.0.0.0 www.afcyhf.com
 0.0.0.0 www.affiliate-fr.com
@@ -24890,6 +24910,7 @@
 0.0.0.0 www4.bannerspace.com
 0.0.0.0 www4.glam.com
 0.0.0.0 www4.smartadserver.com
+0.0.0.0 www4176uc.sakura.ne.jp
 0.0.0.0 www5.bannerspace.com
 0.0.0.0 www5.zoosi.club
 0.0.0.0 www6.bannerspace.com
@@ -24977,6 +24998,7 @@
 0.0.0.0 ct1.addthis.com
 0.0.0.0 cya2.net
 0.0.0.0 i.ligatus.com
+0.0.0.0 images.revtrax.com
 0.0.0.0 shorte.st
 0.0.0.0 src.kitcode.net
 0.0.0.0 ar.hao123.com
@@ -25150,8 +25172,10 @@
 0.0.0.0 idb.hitbox.com
 0.0.0.0 js1.hitbox.com
 0.0.0.0 lookup.hitbox.com
+0.0.0.0 mrtg.hitbox.com
 0.0.0.0 myhitbox.com
 0.0.0.0 nei.hitbox.com
+0.0.0.0 noc.hitbox.com
 0.0.0.0 ns1.hitbox.com
 0.0.0.0 oas.hitbox.com
 0.0.0.0 phg.hitbox.com
@@ -25324,7 +25348,9 @@
 0.0.0.0 oascentral.canadianliving.com
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 oascentral.chicagobusiness.com
+0.0.0.0 oascentral.chron.com
 0.0.0.0 oascentral.citypages.com
+0.0.0.0 oascentral.clearchannel.com
 0.0.0.0 oascentral.comcast.net
 0.0.0.0 oascentral.comics.com
 0.0.0.0 oascentral.construction.com
@@ -25718,6 +25744,7 @@
 0.0.0.0 nv.5.p2l.info
 0.0.0.0 ny.5.p2l.info
 0.0.0.0 o8.aus.cc
+0.0.0.0 oh.5.p2l.info
 0.0.0.0 ok.5.p2l.info
 0.0.0.0 on.5.p2l.info
 0.0.0.0 online-casino.shengen.ru
@@ -25814,6 +25841,7 @@
 0.0.0.0 ultracet.1.p2l.info
 0.0.0.0 ultram.1.p2l.info
 0.0.0.0 urlcut.net
+0.0.0.0 ut.5.p2l.info
 0.0.0.0 utairway.com
 0.0.0.0 va.5.p2l.info
 0.0.0.0 valium.este.ru
