@@ -1,4 +1,4 @@
-# Update time: 2023-03-12 00:09:17
+# Update time: 2023-03-12 08:43:32
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -17060,6 +17060,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -19826,7 +19827,6 @@
 0.0.0.0 s.appjiagu.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 res.qhupdate.com
-0.0.0.0 tran.news.so.com
 0.0.0.0 spro.so.com
 0.0.0.0 u.api.look.360.cn
 0.0.0.0 ad.dev.360.cn
@@ -19989,7 +19989,6 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
-0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -20112,7 +20111,6 @@
 0.0.0.0 help.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
-0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs4.cnzz.com
 0.0.0.0 hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
@@ -20396,7 +20394,6 @@
 0.0.0.0 ssxd.mediav.com
 0.0.0.0 static-ssl.mediav.com
 0.0.0.0 t.dsp.mediav.com
-0.0.0.0 track.mediav.com
 0.0.0.0 tran.mediav.com
 0.0.0.0 view.mediav.com
 0.0.0.0 www.mediav.com
@@ -20546,7 +20543,6 @@
 0.0.0.0 rm.sina.com.cn
 0.0.0.0 sax1.sina.com.cn
 0.0.0.0 sax2.sina.com.cn
-0.0.0.0 sax3.sina.com.cn
 0.0.0.0 sax4.sina.com.cn
 0.0.0.0 sax5.sina.com.cn
 0.0.0.0 sax6.sina.com.cn
@@ -21185,7 +21181,6 @@
 0.0.0.0 ad-beta.flipboard.com
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 ax.ifeng.com
-0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 err.ifengcloud.ifeng.com
@@ -21224,7 +21219,6 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 d.toutiao.com
 0.0.0.0 dm.bytedance.com
-0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm-hl.toutiao.com
 0.0.0.0 dsp.toutiao.com
@@ -21497,7 +21491,6 @@
 0.0.0.0 g3.iqilu.com
 0.0.0.0 g4.iqilu.com
 0.0.0.0 0.up.qingdaonews.com
-0.0.0.0 1.up.qingdaonews.com
 0.0.0.0 2.up.qingdaonews.com
 0.0.0.0 3.up.qingdaonews.com
 0.0.0.0 4.up.qingdaonews.com
@@ -22275,7 +22268,6 @@
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
-0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
@@ -22412,7 +22404,6 @@
 0.0.0.0 anfeng.com
 0.0.0.0 api.aixifan.com
 0.0.0.0 api.hfyhjg.cn
-0.0.0.0 api.ijunhai.com
 0.0.0.0 api.jsfc8.cn
 0.0.0.0 api.mlinks.co
 0.0.0.0 api.ppoi.org
@@ -22760,7 +22751,6 @@
 0.0.0.0 fdelphaswcealifornica.com
 0.0.0.0 ff.xue63.com
 0.0.0.0 ff123.hao0202.com
-0.0.0.0 fflsn.com
 0.0.0.0 ffre.ffrepair.com
 0.0.0.0 fghmc.ga25.com
 0.0.0.0 flux.faloo.com
@@ -22784,11 +22774,9 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
-0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
-0.0.0.0 gg.kkcaicai.com
 0.0.0.0 ggcode.2345.com
 0.0.0.0 gho.ysbjgjwh.com
 0.0.0.0 global.ymtracking.com
@@ -22944,7 +22932,6 @@
 0.0.0.0 js412.yqjxzw.com
 0.0.0.0 js4163.yongkang6.com
 0.0.0.0 js5162.yongkang6.com
-0.0.0.0 js74.yqjxzw.com
 0.0.0.0 js84.enyayinxiang.com
 0.0.0.0 js883.yongkang6.com
 0.0.0.0 js9318.bllzgqbyp.com
@@ -22958,7 +22945,6 @@
 0.0.0.0 jy.ggweb.net
 0.0.0.0 jyz.fjtzjy.com
 0.0.0.0 k.85wa.cn
-0.0.0.0 k.bnuni.com
 0.0.0.0 k.jinxiuzhilv.com
 0.0.0.0 k.qzzxjc.com
 0.0.0.0 k.wudejia.com
@@ -22978,7 +22964,6 @@
 0.0.0.0 kti.mcjjsdhfg.cn
 0.0.0.0 kveaa.com
 0.0.0.0 kvecc.com
-0.0.0.0 kvemm.com
 0.0.0.0 kvezz.com
 0.0.0.0 l.dalemax.cn
 0.0.0.0 l.ksxcxb.cn
@@ -23571,7 +23556,6 @@
 0.0.0.0 v.dengbaozx.cn
 0.0.0.0 v.heygugu.com
 0.0.0.0 v.jumorecn.com.cn
-0.0.0.0 v.lovame.com.cn
 0.0.0.0 v.oq68.com
 0.0.0.0 v.originz.cn
 0.0.0.0 v.oumaite168.com.cn
@@ -23847,7 +23831,6 @@
 0.0.0.0 www.ynbojie.com
 0.0.0.0 www.yqjxzw.com
 0.0.0.0 www.yueyelive.com
-0.0.0.0 www.yzaosite.com
 0.0.0.0 www.zshacker.com
 0.0.0.0 wxb.wxbdfm.com
 0.0.0.0 wxtz.houmags.com
@@ -23871,7 +23854,6 @@
 0.0.0.0 xg4ken.com
 0.0.0.0 xia.chemdraw.com
 0.0.0.0 xiaoshuo.kp53.cn
-0.0.0.0 xiazai.cdren.com
 0.0.0.0 xinghao89.com
 0.0.0.0 xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
@@ -24099,7 +24081,6 @@
 0.0.0.0 l.minisplat.cn
 0.0.0.0 o.minisplat.cn
 0.0.0.0 u0.s.minisplat.cn
-0.0.0.0 u1.s.minisplat.cn
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
@@ -24107,7 +24088,6 @@
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
-0.0.0.0 rcv.union-wifi.com
 0.0.0.0 817.dopa.com
 0.0.0.0 818.dopa.com
 0.0.0.0 bd1.dopa.com
@@ -24228,7 +24208,6 @@
 0.0.0.0 api.bayimob.com
 0.0.0.0 client.bayimob.com
 0.0.0.0 dev.bayimob.com
-0.0.0.0 interaction1.bayimob.com
 0.0.0.0 alicdn.bayimob.com
 0.0.0.0 wannianli.bayimob.com
 0.0.0.0 adscdn.baidu.com
@@ -24468,7 +24447,6 @@
 0.0.0.0 www.adsmogo.net
 0.0.0.0 adsmogo.com
 0.0.0.0 click1forhz.adsmogo.com
-0.0.0.0 click2forhz.adsmogo.com
 0.0.0.0 click3forhz.adsmogo.com
 0.0.0.0 adfill.adview.cn
 0.0.0.0 adview.cn
@@ -24663,7 +24641,6 @@
 0.0.0.0 impression.gridsumdissector.com
 0.0.0.0 recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
-0.0.0.0 sso-cas.gridsumdissector.com
 0.0.0.0 static.gridsumdissector.com
 0.0.0.0 api.growingio.com
 0.0.0.0 assets.growingio.com
@@ -24794,7 +24771,6 @@
 0.0.0.0 c.data.mob.com
 0.0.0.0 cca.mob.com
 0.0.0.0 devs.data.mob.com
-0.0.0.0 m.data.mob.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.mobgi.com
 0.0.0.0 mobgi.com
@@ -24964,7 +24940,6 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
-0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -25175,7 +25150,6 @@
 0.0.0.0 secure-yt.imrworldwide.com
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 au.w.inmobi.cn
-0.0.0.0 sdkm.w.inmobi.cn
 0.0.0.0 api.w.inmobi.com
 0.0.0.0 apptv.w.inmobi.com
 0.0.0.0 au.w.inmobi.com
@@ -25296,7 +25270,6 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.adss.yahoo.com
-0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 n.gemini.yahoo.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
@@ -25318,7 +25291,6 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 sync.crwdcntrl.net
-0.0.0.0 server.exposebox.com
 0.0.0.0 api-secure.solvemedia.com
 0.0.0.0 c.adsco.re
 0.0.0.0 fans.bestvogue.com
