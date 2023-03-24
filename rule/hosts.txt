@@ -1,4 +1,4 @@
-# Update time: 2023-03-24 00:10:42
+# Update time: 2023-03-24 08:39:02
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -17065,7 +17065,6 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
-0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -23511,6 +23510,7 @@
 0.0.0.0 tongji.bohe.cn
 0.0.0.0 tongji.coccccc.cc
 0.0.0.0 tongji.wlongchina.com
+0.0.0.0 tp.vinuxhome.com
 0.0.0.0 tqd.ntpddq.com
 0.0.0.0 track.hujiang.com
 0.0.0.0 trafficfactory.biz
