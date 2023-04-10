@@ -1,4 +1,4 @@
-# Update time: 2023-04-10 00:08:22
+# Update time: 2023-04-10 08:37:16
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -25129,6 +25129,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
+0.0.0.0 afptrack.csbew.com
 0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
@@ -25344,6 +25345,7 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 server.exposebox.com
 0.0.0.0 api-secure.solvemedia.com
 0.0.0.0 c.adsco.re
 0.0.0.0 fans.bestvogue.com
