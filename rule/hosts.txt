@@ -1,4 +1,4 @@
-# Update time: 2023-04-21 16:09:42
+# Update time: 2023-04-22 00:09:24
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8283,7 +8283,6 @@
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
-0.0.0.0 dressimage.img-cn-beijing.aliyuncs.com
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 img-dsp.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
@@ -8312,7 +8311,6 @@
 0.0.0.0 cctv.mmstat.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 log.gds.mmstat.com
-0.0.0.0 log5.mmstat.com
 0.0.0.0 log1.mmstat.com
 0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 init.phpwind.net
@@ -11306,7 +11304,6 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
-0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
@@ -13123,7 +13120,6 @@
 0.0.0.0 c41.clicki.cn
 0.0.0.0 cdn.scdng.com
 0.0.0.0 cdn.tianmidian.com
-0.0.0.0 ana.masky.biddingx.com
 0.0.0.0 cm.masky.biddingx.com
 0.0.0.0 stuff.cdn.biddingx.com
 0.0.0.0 tu.biddingx.com
@@ -13725,7 +13721,6 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 afp.csbew.com
-0.0.0.0 afptrack.csbew.com
 0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
@@ -14155,7 +14150,6 @@
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 counter.yadro.ru
-0.0.0.0 mg.yadro.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 st.yandexadexchange.net
@@ -14188,7 +14182,6 @@
 0.0.0.0 www.mrelko.com
 0.0.0.0 adriver-sync.rutarget.ru
 0.0.0.0 advombat.ru
-0.0.0.0 bam.nr-data.net
 0.0.0.0 betsonsport.ru
 0.0.0.0 faggrim.com
 0.0.0.0 openstat.net
@@ -14719,7 +14712,6 @@
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 tag.sp.advertising.com
-0.0.0.0 pixel.advertising.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-ec.adaptv.advertising.com
 0.0.0.0 ads-eu.adaptv.advertising.com
@@ -15037,6 +15029,7 @@
 0.0.0.0 aus-smv-tracking.adalyser.com
 0.0.0.0 auspice.augur.io
 0.0.0.0 b.stats.paypal.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.0catch.com
 0.0.0.0 banners.webcounter.com
 0.0.0.0 be.sitestat.com
@@ -15134,7 +15127,6 @@
 0.0.0.0 convertro.com
 0.0.0.0 convnjmp.basebanner.com
 0.0.0.0 cookies.cmpnet.com
-0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.123counts.com
 0.0.0.0 counter.adultcheck.com
@@ -15609,6 +15601,7 @@
 0.0.0.0 pix02.revsci.net
 0.0.0.0 pix03.revsci.net
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.staticworld.net
@@ -16179,7 +16172,6 @@
 0.0.0.0 aca-languedoc.fr
 0.0.0.0 accounts.secure-ua.website
 0.0.0.0 acessoires-electromenager.fr
-0.0.0.0 acglgoa.com
 0.0.0.0 acmen.fr
 0.0.0.0 acnenomor.com
 0.0.0.0 acsentia.fr
@@ -16188,6 +16180,7 @@
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adblock.fr
 0.0.0.0 addthis.fr
+0.0.0.0 adebooks.fr
 0.0.0.0 adef-residences.fr
 0.0.0.0 adexchangetracker.com
 0.0.0.0 adn.plxnt.com
@@ -16516,7 +16509,6 @@
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
 0.0.0.0 digicub.fr
-0.0.0.0 digipote.fr
 0.0.0.0 digipsote.fr
 0.0.0.0 digitfoto.fr
 0.0.0.0 diomedia.fr
@@ -16561,7 +16553,6 @@
 0.0.0.0 eol1.egyptonline.com
 0.0.0.0 eondershare.fr
 0.0.0.0 equitaine.fr
-0.0.0.0 erobot-pisicne.fr
 0.0.0.0 erogames.fr
 0.0.0.0 ertbaudet.fr
 0.0.0.0 escplus.fr
@@ -17245,6 +17236,7 @@
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
+0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
 0.0.0.0 qbittorrent.com
 0.0.0.0 qevia.doubleclick.bond
@@ -18151,7 +18143,6 @@
 0.0.0.0 mgjournalnow.112.2o7.net
 0.0.0.0 mgtbo.112.2o7.net
 0.0.0.0 mgtimesdispatch.112.2o7.net
-0.0.0.0 mgwsls.112.2o7.net
 0.0.0.0 mgwspa.112.2o7.net
 0.0.0.0 microsoftconsumermarketing.112.2o7.net
 0.0.0.0 microsofteup.112.2o7.net
@@ -18448,7 +18439,6 @@
 0.0.0.0 a-redirect.com
 0.0.0.0 a-resolver.com
 0.0.0.0 accomodation-tastes.net
-0.0.0.0 accountcanceled.com
 0.0.0.0 accountnotify.com
 0.0.0.0 accounts.mx
 0.0.0.0 accountsections.com
@@ -19520,7 +19510,6 @@
 0.0.0.0 ads.adsonar.com
 0.0.0.0 ads.adsrvmedia.com
 0.0.0.0 ads.adsrvmedia.net
-0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
@@ -20077,7 +20066,6 @@
 0.0.0.0 adserver-2.ig.com.br
 0.0.0.0 adserver-4.ig.com.br
 0.0.0.0 adserver-5.ig.com.br
-0.0.0.0 adserver-espnet.sportszone.net
 0.0.0.0 adserver-images.adikteev.com
 0.0.0.0 adserver.100free.com
 0.0.0.0 adserver.3digit.de
@@ -20585,7 +20573,6 @@
 0.0.0.0 banners.affiliatefuture.com
 0.0.0.0 banners.aftrk.com
 0.0.0.0 banners.blogads.com
-0.0.0.0 banners.bol.se
 0.0.0.0 banners.celebritybling.com
 0.0.0.0 banners.img.uol.com.br
 0.0.0.0 banners.ims.nl
@@ -20662,7 +20649,6 @@
 0.0.0.0 bitburg.adtech.fr
 0.0.0.0 bitburg.adtech.us
 0.0.0.0 bitcast-d.bitgravity.com
-0.0.0.0 bitcoadz.io
 0.0.0.0 bitmedia.io
 0.0.0.0 bitonclick.com
 0.0.0.0 bitraffic.com
@@ -20673,7 +20659,6 @@
 0.0.0.0 bizographics.com
 0.0.0.0 bizony.eu
 0.0.0.0 bl.wavecdn.de
-0.0.0.0 blackbass.mx
 0.0.0.0 blackqpid.org.uk
 0.0.0.0 blockchaintop.nl
 0.0.0.0 blog.addthis.com
@@ -21112,7 +21097,6 @@
 0.0.0.0 cuntwars.com
 0.0.0.0 cyberfaery.com
 0.0.0.0 cyberprotection.pro
-0.0.0.0 cz.bbelements.com
 0.0.0.0 cz8.clickzs.com
 0.0.0.0 czilladx.com
 0.0.0.0 d-road.com
@@ -21454,7 +21438,6 @@
 0.0.0.0 ftpadmin.edv-stumpf.de
 0.0.0.0 funtabsafe.com
 0.0.0.0 fuuze.net
-0.0.0.0 fvaweb.it
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
 0.0.0.0 g.thinktarget.com
@@ -21700,6 +21683,7 @@
 0.0.0.0 i.libertystmedia.com
 0.0.0.0 i.media.cz
 0.0.0.0 i.seznam.cz
+0.0.0.0 i.simpli.fi
 0.0.0.0 i.total-media.net
 0.0.0.0 i.trkjmp.com
 0.0.0.0 i1.teaser-goods.ru
@@ -21887,7 +21871,6 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.ad-score.com
 0.0.0.0 js.adlink.net
-0.0.0.0 js.adscale.de
 0.0.0.0 js.adserverpub.com
 0.0.0.0 js.adsonar.com
 0.0.0.0 js.adspro.it
@@ -22320,7 +22303,6 @@
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 mybinaryoptionsrobot.com
-0.0.0.0 mycashback.co.uk
 0.0.0.0 mychoicerewards.com
 0.0.0.0 myexclusiverewards.com
 0.0.0.0 myfreedinner.com
@@ -22975,7 +22957,6 @@
 0.0.0.0 rtb2.adscience.nl
 0.0.0.0 rtb20.adscience.nl
 0.0.0.0 rtb21.adscience.nl
-0.0.0.0 rtb22.adscience.nl
 0.0.0.0 rtb23.adscience.nl
 0.0.0.0 rtb24.adscience.nl
 0.0.0.0 rtb25.adscience.nl
@@ -23446,7 +23427,6 @@
 0.0.0.0 telusplanet.net
 0.0.0.0 testapp.adhood.com
 0.0.0.0 testensie.de
-0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 tewxda71.secure.ne.jp
 0.0.0.0 texas-diesel.com
 0.0.0.0 text-link-ads.com
@@ -23532,7 +23512,6 @@
 0.0.0.0 track.omgpl.com
 0.0.0.0 track.roularta.adhese.com
 0.0.0.0 track.tooplay.com
-0.0.0.0 track.vscash.com
 0.0.0.0 tracker.awr.im
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracking.aatkit.com
@@ -23720,7 +23699,6 @@
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 vnumedia03.webtrekk.net
 0.0.0.0 vnumedia04.webtrekk.net
-0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 vodoustoichivshperplat.com
 0.0.0.0 vodus-api-serverless.azurewebsites.net
 0.0.0.0 vodus-api.azurewebsites.net
@@ -24362,7 +24340,6 @@
 0.0.0.0 www.popuptraffic.com
 0.0.0.0 www.postmasterbannernet.com
 0.0.0.0 www.postmasterdirect.com
-0.0.0.0 www.postnewsads.com
 0.0.0.0 www.praktijkmariekehuisman.nl
 0.0.0.0 www.predictivadnetwork.com
 0.0.0.0 www.premiumproductsonline.com
@@ -24380,7 +24357,6 @@
 0.0.0.0 www.qcoldtui1999.com
 0.0.0.0 www.quickbrowsersearch.com
 0.0.0.0 www.radiate.com
-0.0.0.0 www.rankyou.com
 0.0.0.0 www.redactiepartners.nl
 0.0.0.0 www.regflow.com
 0.0.0.0 www.registrarads.com
@@ -24780,7 +24756,6 @@
 0.0.0.0 ehg-futurepub.hitbox.com
 0.0.0.0 ehg-gamedaily.hitbox.com
 0.0.0.0 ehg-gamespot.hitbox.com
-0.0.0.0 ehg-gatehousemedia.hitbox.com
 0.0.0.0 ehg-glam.hitbox.com
 0.0.0.0 ehg-groceryworks.hitbox.com
 0.0.0.0 ehg-groupernetworks.hitbox.com
@@ -24896,7 +24871,6 @@
 0.0.0.0 mrtg.hitbox.com
 0.0.0.0 myhitbox.com
 0.0.0.0 nei.hitbox.com
-0.0.0.0 noc.hitbox.com
 0.0.0.0 ns1.hitbox.com
 0.0.0.0 oas.hitbox.com
 0.0.0.0 phg.hitbox.com
@@ -25070,8 +25044,8 @@
 0.0.0.0 oascentral.canadianliving.com
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 oascentral.chicagobusiness.com
-0.0.0.0 oascentral.chron.com
 0.0.0.0 oascentral.citypages.com
+0.0.0.0 oascentral.clearchannel.com
 0.0.0.0 oascentral.comcast.net
 0.0.0.0 oascentral.comics.com
 0.0.0.0 oascentral.construction.com
@@ -25102,7 +25076,6 @@
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
-0.0.0.0 oascentral.onwisconsin.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
 0.0.0.0 oascentral.poconorecord.com
@@ -25294,7 +25267,6 @@
 0.0.0.0 buyfioricetonline.freeservers.com
 0.0.0.0 buyhydrocodoneonline.findmenow.info
 0.0.0.0 buylevitra.3xforum.ro
-0.0.0.0 buylevitraonline.7h.com
 0.0.0.0 buylortabonline.7h.com
 0.0.0.0 buypaxilonline.7h.com
 0.0.0.0 buyphentermineonline.7h.com
@@ -25558,7 +25530,6 @@
 0.0.0.0 tramadol.4.p2l.info
 0.0.0.0 tramadol2006.3xforum.ro
 0.0.0.0 triphasil.1.p2l.info
-0.0.0.0 triphasil.3.p2l.info
 0.0.0.0 triphasil.4.p2l.info
 0.0.0.0 tx.5.p2l.info
 0.0.0.0 ultracet.1.p2l.info
