@@ -1,4 +1,4 @@
-# Update time: 2023-04-28 00:07:56
+# Update time: 2023-04-28 08:39:26
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -14165,6 +14165,7 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
+0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -16424,6 +16425,7 @@
 0.0.0.0 pt5.titans-gel.net
 0.0.0.0 pteenoum.com
 0.0.0.0 ptirgaux.com
+0.0.0.0 ptrads.mp3.com
 0.0.0.0 pttsite.com
 0.0.0.0 pub.sapo.pt
 0.0.0.0 pub.web.sapo.io
@@ -16766,6 +16768,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -17780,6 +17783,7 @@
 0.0.0.0 www.emarketmakers.com
 0.0.0.0 www.entertainment-specials.com
 0.0.0.0 www.eshopads2.com
+0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
 0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
@@ -18839,6 +18843,7 @@
 0.0.0.0 oascentralnx.comcast.net
 0.0.0.0 fastclick.net
 0.0.0.0 te.about.com
+0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
 0.0.0.0 te.ap.org
 0.0.0.0 te.astrology.com
@@ -19816,6 +19821,7 @@
 0.0.0.0 help.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
+0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs4.cnzz.com
 0.0.0.0 hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
@@ -20765,6 +20771,7 @@
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 0.0.0.0 m.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
+0.0.0.0 agn.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 g.dtv.cn.miaozhen.com
@@ -20888,6 +20895,7 @@
 0.0.0.0 ad-beta.flipboard.com
 0.0.0.0 api.newad.ifeng.com
 0.0.0.0 ax.ifeng.com
+0.0.0.0 dmpclick.deliver.ifeng.com
 0.0.0.0 dol.deliver.ifeng.com
 0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 err.ifengcloud.ifeng.com
@@ -20896,6 +20904,7 @@
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
@@ -20926,6 +20935,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 d.toutiao.com
 0.0.0.0 dm.bytedance.com
+0.0.0.0 dm.pstatp.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dm-hl.toutiao.com
 0.0.0.0 dsp.toutiao.com
@@ -21645,7 +21655,6 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 wappv.zol.com.cn
-0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 afp.zol-img.com.cn
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 ca.w8.com.cn
@@ -21971,15 +21980,16 @@
 0.0.0.0 valc.atm.youku.com
 0.0.0.0 valf.atm.youku.com
 0.0.0.0 valp.atm.youku.com
-0.0.0.0 valt.atm.youku.com
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
+0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
 0.0.0.0 y76.ylems.club
 0.0.0.0 y71.ylems.club
+0.0.0.0 yule.fulevmy.com
 0.0.0.0 01daa.lutci.com
 0.0.0.0 02fcnbg.trqpfc.cn
 0.0.0.0 09_19.supfree.net
@@ -22212,6 +22222,7 @@
 0.0.0.0 c.pengmingx.cn
 0.0.0.0 c.piliangzhuce.cn
 0.0.0.0 c.qhruisen.cn
+0.0.0.0 c.queene.cn
 0.0.0.0 c.rexuebi.com
 0.0.0.0 c.sssgao999.com
 0.0.0.0 c.sy123888.com
@@ -22675,6 +22686,7 @@
 0.0.0.0 kti.mcjjsdhfg.cn
 0.0.0.0 kveaa.com
 0.0.0.0 kvecc.com
+0.0.0.0 kvemm.com
 0.0.0.0 kvezz.com
 0.0.0.0 l.dalemax.cn
 0.0.0.0 l.ksxcxb.cn
@@ -23022,6 +23034,7 @@
 0.0.0.0 ppl.xunzhuo123.com
 0.0.0.0 pro.baidu.com
 0.0.0.0 ps.dlads.cn
+0.0.0.0 psma02.com
 0.0.0.0 psptoolapi.ctags.cn
 0.0.0.0 pstarv.cn
 0.0.0.0 push2.eastmoney.com
@@ -23054,6 +23067,7 @@
 0.0.0.0 r.zlongad.com
 0.0.0.0 r01.g1c5.com
 0.0.0.0 rabc1.iteye.com
+0.0.0.0 rabc2.iteye.com
 0.0.0.0 raeqqe.cn
 0.0.0.0 rapi.cmgadx.com
 0.0.0.0 redir.wggames.cn
@@ -23567,6 +23581,7 @@
 0.0.0.0 xg4ken.com
 0.0.0.0 xia.chemdraw.com
 0.0.0.0 xiaoshuo.kp53.cn
+0.0.0.0 xiazai.cdren.com
 0.0.0.0 xinghao89.com
 0.0.0.0 xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
@@ -23722,6 +23737,7 @@
 0.0.0.0 p8u.hinet.net
 0.0.0.0 vatrack.hinet.net
 0.0.0.0 adasad.myweb.hinet.net
+0.0.0.0 blogad01.myweb.hinet.net
 0.0.0.0 blogad02.myweb.hinet.net
 0.0.0.0 mobileeventad-hamivideo.cdn.hinet.net
 0.0.0.0 mobilevodad-hamivideo.cdn.hinet.net
@@ -23980,6 +23996,7 @@
 0.0.0.0 img9.1133.cc
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdsearch.2345.com
+0.0.0.0 jifen.2345.com
 0.0.0.0 wan.2345.com
 0.0.0.0 zhushou.2345.com
 0.0.0.0 app.50bang.org
@@ -24244,7 +24261,6 @@
 0.0.0.0 tra2.api.baifendian.com
 0.0.0.0 www.baifendian.com
 0.0.0.0 ana.stg8.com
-0.0.0.0 cm.stg8.com
 0.0.0.0 c41.clicki.cn
 0.0.0.0 cdn.scdng.com
 0.0.0.0 cdn.tianmidian.com
@@ -24302,6 +24318,7 @@
 0.0.0.0 track.dmrtb.com
 0.0.0.0 api.domob.cn
 0.0.0.0 e.domob.cn
+0.0.0.0 sd.domob.cn
 0.0.0.0 sm.domob.cn
 0.0.0.0 sm.domobcdn.com
 0.0.0.0 img.img18.com
@@ -24402,6 +24419,7 @@
 0.0.0.0 www.juzi.cn
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 www.adpolestar.net
+0.0.0.0 as.kejet.net
 0.0.0.0 aw.kejet.net
 0.0.0.0 ck.kejet.net
 0.0.0.0 cmarket.kejet.net
@@ -24454,6 +24472,7 @@
 0.0.0.0 www.mgogo.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
 0.0.0.0 baofeng.m.cn.miaozhen.com
+0.0.0.0 cm.cn.miaozhen.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 g.ads.cn.miaozhen.com
 0.0.0.0 g.cn.miaozhen.com
@@ -24793,6 +24812,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 www.criteo.com
 0.0.0.0 afp.csbew.com
+0.0.0.0 afptrack.csbew.com
 0.0.0.0 csbew.com
 0.0.0.0 s.csbew.com
 0.0.0.0 static.csbew.com
@@ -25275,6 +25295,7 @@
 0.0.0.0 notice.iqiyi.com
 0.0.0.0 policy.video.iqiyi.com
 0.0.0.0 static.g.iqiyi.com
+0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 nl.rcd.iqiyi.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 msg.video.ptqy.gitv.tv
@@ -25329,6 +25350,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 ad.api.3g.youku.com
 0.0.0.0 ad.api.mobile.youku.com
+0.0.0.0 b.smartvideo.youku.com
 0.0.0.0 c.yes.youku.com
 0.0.0.0 cm.atm.youku.com
 0.0.0.0 cm.miaozhen.atm.youku.com
@@ -25579,6 +25601,7 @@
 0.0.0.0 s3.pkg.toponad.com
 0.0.0.0 pkg.toponad.com
 0.0.0.0 ad.alimama.com
+0.0.0.0 c.click.alimama.com
 0.0.0.0 adsh.wagbridge.taobao.alimama.com
 0.0.0.0 adsh.wagbridge.tmall.alimama.com
 0.0.0.0 adsz.wagbridge.taobao.alimama.com
