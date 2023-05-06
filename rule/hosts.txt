@@ -1,4 +1,4 @@
-# Update time: 2023-05-06 08:35:23
+# Update time: 2023-05-06 16:08:37
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8216,6 +8216,7 @@
 0.0.0.0 sexcounter.com
 0.0.0.0 seznam.hit.gemius.pl
 0.0.0.0 showads.pubmatic.com
+0.0.0.0 showcount.honest.com
 0.0.0.0 sideshow.directtrack.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 sitestat.com
@@ -8361,6 +8362,7 @@
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ceio.com
+0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.dgt.com
 0.0.0.0 track.msadcenter.dxr.com
 0.0.0.0 track.msadcenter.emee.com
@@ -8733,6 +8735,7 @@
 0.0.0.0 ad.g-content.bid
 0.0.0.0 adblock.fr
 0.0.0.0 addthis.fr
+0.0.0.0 adebooks.fr
 0.0.0.0 adef-residences.fr
 0.0.0.0 adexchangetracker.com
 0.0.0.0 adn.plxnt.com
@@ -9597,6 +9600,7 @@
 0.0.0.0 ms-shopplus.su
 0.0.0.0 mshelp247.weebly.com
 0.0.0.0 msssante.fr
+0.0.0.0 mundilite.fr
 0.0.0.0 murcia-ban.es
 0.0.0.0 musculaation.fr
 0.0.0.0 muttuelle.fr
@@ -9793,6 +9797,7 @@
 0.0.0.0 pullipstyle.fr
 0.0.0.0 puppygames.fr
 0.0.0.0 puppylover.fr
+0.0.0.0 purchasingpower.fr
 0.0.0.0 purepods.fr
 0.0.0.0 qbittorrent.com
 0.0.0.0 qevia.doubleclick.bond
@@ -11000,6 +11005,7 @@
 0.0.0.0 sportat.oewabox.at
 0.0.0.0 ssl-compass.oewabox.at
 0.0.0.0 ssl-geizhals.oewabox.at
+0.0.0.0 ssl-helpgvat.oewabox.at
 0.0.0.0 ssl-karriere.oewabox.at
 0.0.0.0 ssl-msn.oewabox.at
 0.0.0.0 ssl-top.oewabox.at
@@ -11841,6 +11847,7 @@
 0.0.0.0 ad13.focalink.com
 0.0.0.0 ad131m.adk2.co
 0.0.0.0 ad13digital.checkm8.com
+0.0.0.0 ad14.checkm8.com
 0.0.0.0 ad14.focalink.com
 0.0.0.0 ad14digital.checkm8.com
 0.0.0.0 ad15.checkm8.com
@@ -12427,6 +12434,7 @@
 0.0.0.0 ads.nytimes.com
 0.0.0.0 ads.o2.pl
 0.0.0.0 ads.ole.com
+0.0.0.0 ads.omaha.com
 0.0.0.0 ads.online.ie
 0.0.0.0 ads.onvertise.com
 0.0.0.0 ads.open.pl
@@ -12841,6 +12849,7 @@
 0.0.0.0 adserver.smashtv.com
 0.0.0.0 adserver.snowball.com
 0.0.0.0 adserver.softonic.com
+0.0.0.0 adserver.soloserver.com
 0.0.0.0 adserver.swiatobrazu.pl
 0.0.0.0 adserver.te.pt
 0.0.0.0 adserver.terra.com.br
@@ -13341,6 +13350,7 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
+0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -13403,6 +13413,7 @@
 0.0.0.0 broadcast.piximedia.fr
 0.0.0.0 brokertraffic.com
 0.0.0.0 browser-tools.systems
+0.0.0.0 browsergames2018.com
 0.0.0.0 browsergames2019.com
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
@@ -13482,6 +13493,7 @@
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.popads.net
+0.0.0.0 c1.teaser-goods.ru
 0.0.0.0 c1.zedo.com
 0.0.0.0 c11370896.c.youradexchange.com
 0.0.0.0 c2.l.qq.com
@@ -13828,6 +13840,7 @@
 0.0.0.0 czilladx.com
 0.0.0.0 d-road.com
 0.0.0.0 d.101m3.com
+0.0.0.0 d.adroll.com
 0.0.0.0 d.adup-tech.com
 0.0.0.0 d.adxcore.com
 0.0.0.0 d.agkn.com
@@ -13875,6 +13888,7 @@
 0.0.0.0 dataidea.it
 0.0.0.0 date.and-have.fun
 0.0.0.0 date.ventivmedia.com
+0.0.0.0 datedate.today
 0.0.0.0 datingadvertising.com
 0.0.0.0 dawnnationaladvertiser.com
 0.0.0.0 db4.net-filter.com
@@ -13944,6 +13958,7 @@
 0.0.0.0 djbanners.deadjournal.com
 0.0.0.0 djugoogs.com
 0.0.0.0 dk.adserver.yahoo.com
+0.0.0.0 dlvr.readserver.net
 0.0.0.0 dmatica.it
 0.0.0.0 dmp.vihub.ru
 0.0.0.0 dmxleo.dailymotion.com
@@ -14185,6 +14200,7 @@
 0.0.0.0 fvaweb.it
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fw.qq.com
+0.0.0.0 fwdservice.com
 0.0.0.0 g.adnxs.com
 0.0.0.0 g.thinktarget.com
 0.0.0.0 g1-globo.com-b4.info
@@ -14510,6 +14526,7 @@
 0.0.0.0 img.layer-ads.de
 0.0.0.0 img.liczniki.org
 0.0.0.0 img.marketgid.com
+0.0.0.0 img.sn00.net
 0.0.0.0 img.xnxx.com
 0.0.0.0 img2.ru.redtram.com
 0.0.0.0 imgg-cdn.adskeeper.co.uk
@@ -14683,6 +14700,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
+0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -15005,6 +15023,7 @@
 0.0.0.0 minden-egyben.com
 0.0.0.0 mindenegyben.com
 0.0.0.0 mindenegybenblog.hu
+0.0.0.0 mindenegybenblog.net
 0.0.0.0 mini.videostrip.com
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mizvan.com
@@ -15084,6 +15103,7 @@
 0.0.0.0 myao.adocean.pl
 0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 mybinaryoptionsrobot.com
+0.0.0.0 mycashback.co.uk
 0.0.0.0 mychoicerewards.com
 0.0.0.0 myexclusiverewards.com
 0.0.0.0 myfreedinner.com
@@ -15120,6 +15140,7 @@
 0.0.0.0 naturainmente.com
 0.0.0.0 naxnet.or.jp
 0.0.0.0 nbads.com
+0.0.0.0 nbc.adbureau.net
 0.0.0.0 nbimg.dt00.net
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 nctracking.com
@@ -15659,6 +15680,7 @@
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 record.commissionlounge.com
 0.0.0.0 redherring.ngadcenter.net
+0.0.0.0 redir.bebi.com
 0.0.0.0 redir9.alteabz.it
 0.0.0.0 redirect.click2net.com
 0.0.0.0 redirect.hotkeys.com
@@ -16013,6 +16035,7 @@
 0.0.0.0 smartlifeguides.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 smarttopchain.nl
+0.0.0.0 smitt.nl
 0.0.0.0 smokersopinionpoll.com
 0.0.0.0 smsmovies.net
 0.0.0.0 smutstone.com
@@ -16357,6 +16380,7 @@
 0.0.0.0 tracker.baidu.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.craktraffic.com
+0.0.0.0 tracking.edvisors.com
 0.0.0.0 tracking.feedmob.com
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.joker.com
@@ -16639,6 +16663,7 @@
 0.0.0.0 wm.baidu.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wms-eu.amazon-adsystem.com
+0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wonderlandads.com
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 work-offer.com
@@ -16941,6 +16966,7 @@
 0.0.0.0 www.emarketmakers.com
 0.0.0.0 www.entertainment-specials.com
 0.0.0.0 www.eshopads2.com
+0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
 0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
@@ -17012,6 +17038,7 @@
 0.0.0.0 www.greencentral.plus.com
 0.0.0.0 www.groupm.com
 0.0.0.0 www.grtexch.com
+0.0.0.0 www.guesstheview.com
 0.0.0.0 www.hansvanderwerf.nl
 0.0.0.0 www.healthbeautyncs.com
 0.0.0.0 www.hebdotop.com
@@ -17435,6 +17462,7 @@
 0.0.0.0 www18.glam.com
 0.0.0.0 www2.ad-server.online
 0.0.0.0 www2.adserverpub.com
+0.0.0.0 www2.bannerspace.com
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.gorillavid.in
 0.0.0.0 www2.pubdirecte.com
@@ -17545,6 +17573,7 @@
 0.0.0.0 zc1.zeroredirect11.com
 0.0.0.0 zdads.e-media.com
 0.0.0.0 zem.outbrainimg.com
+0.0.0.0 zemgo.com
 0.0.0.0 zeroredirect.com
 0.0.0.0 zeroredirect1.com
 0.0.0.0 zeroredirect11.com
@@ -17594,6 +17623,7 @@
 0.0.0.0 ehg-backweb.hitbox.com
 0.0.0.0 ehg-bestbuy.hitbox.com
 0.0.0.0 ehg-bizjournals.hitbox.com
+0.0.0.0 ehg-boschsiemens.hitbox.com
 0.0.0.0 ehg-bskyb.hitbox.com
 0.0.0.0 ehg-cafepress.hitbox.com
 0.0.0.0 ehg-careerbuilder.hitbox.com
@@ -17740,6 +17770,7 @@
 0.0.0.0 mrtg.hitbox.com
 0.0.0.0 myhitbox.com
 0.0.0.0 nei.hitbox.com
+0.0.0.0 noc.hitbox.com
 0.0.0.0 ns1.hitbox.com
 0.0.0.0 oas.hitbox.com
 0.0.0.0 phg.hitbox.com
@@ -17770,6 +17801,7 @@
 0.0.0.0 w103.hitbox.com
 0.0.0.0 w104.hitbox.com
 0.0.0.0 w105.hitbox.com
+0.0.0.0 w106.hitbox.com
 0.0.0.0 w107.hitbox.com
 0.0.0.0 w108.hitbox.com
 0.0.0.0 w109.hitbox.com
@@ -17800,6 +17832,7 @@
 0.0.0.0 w133.hitbox.com
 0.0.0.0 w135.hitbox.com
 0.0.0.0 w136.hitbox.com
+0.0.0.0 w137.hitbox.com
 0.0.0.0 w138.hitbox.com
 0.0.0.0 w139.hitbox.com
 0.0.0.0 w14.hitbox.com
@@ -17913,6 +17946,7 @@
 0.0.0.0 oascentral.canadianliving.com
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 oascentral.chicagobusiness.com
+0.0.0.0 oascentral.chron.com
 0.0.0.0 oascentral.citypages.com
 0.0.0.0 oascentral.clearchannel.com
 0.0.0.0 oascentral.comcast.net
@@ -17980,6 +18014,7 @@
 0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -17991,6 +18026,7 @@
 0.0.0.0 oascentralnx.comcast.net
 0.0.0.0 fastclick.net
 0.0.0.0 te.about.com
+0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
 0.0.0.0 te.ap.org
 0.0.0.0 te.astrology.com
@@ -18426,6 +18462,7 @@
 0.0.0.0 viagra-pill.blogspot.com
 0.0.0.0 viagra-soft-tabs.1.p2l.info
 0.0.0.0 viagra-store.shengen.ru
+0.0.0.0 viagra.1.p2l.info
 0.0.0.0 viagra.3.p2l.info
 0.0.0.0 viagra.4.p2l.info
 0.0.0.0 viagraviagra.3xforum.ro
@@ -18718,6 +18755,7 @@
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
+0.0.0.0 dressimage.img-cn-beijing.aliyuncs.com
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 img-dsp.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
@@ -18744,6 +18782,7 @@
 0.0.0.0 cctv.mmstat.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 log.gds.mmstat.com
+0.0.0.0 log5.mmstat.com
 0.0.0.0 log1.mmstat.com
 0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 init.phpwind.net
@@ -18821,6 +18860,7 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -18842,7 +18882,6 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
-0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -18869,6 +18908,7 @@
 0.0.0.0 umeng.com
 0.0.0.0 www.umeng.com
 0.0.0.0 ulogs.umeng.com
+0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 udash.umengcloud.com
@@ -19490,6 +19530,7 @@
 0.0.0.0 mocast.ra.icast.cn
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
+0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 src.leju.com
@@ -19707,6 +19748,7 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
+0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -19895,6 +19937,7 @@
 0.0.0.0 conf.funshion.com
 0.0.0.0 pub.funshion.com
 0.0.0.0 vs.funshion.com
+0.0.0.0 rt.funshion.net
 0.0.0.0 stat.funshion.net
 0.0.0.0 fun.adx.admaster.com.cn
 0.0.0.0 ads.wasu.tv
@@ -20039,6 +20082,7 @@
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
@@ -21024,6 +21068,7 @@
 0.0.0.0 rec.moviebox.baofeng.net
 0.0.0.0 corner.houyi.baofeng.net
 0.0.0.0 app.houyi.baofeng.net
+0.0.0.0 ck.houyi.baofeng.net
 0.0.0.0 d3f.houyi.baofeng.net
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 mid.houyi.baofeng.net
@@ -21046,6 +21091,7 @@
 0.0.0.0 www.zamplus.com
 0.0.0.0 cm.fancyapi.com
 0.0.0.0 as.mgtv.com
+0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -21130,6 +21176,7 @@
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
 0.0.0.0 2.1010pic.com
+0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
@@ -21966,6 +22013,7 @@
 0.0.0.0 m.sanjiangge.com
 0.0.0.0 m.sdaih.com
 0.0.0.0 m.sfscooter.cn
+0.0.0.0 m.sobiquge.com
 0.0.0.0 m.symad.cn
 0.0.0.0 m.symaj.cn
 0.0.0.0 m.szqifu.com
@@ -22374,6 +22422,7 @@
 0.0.0.0 uidesign.gbtcdn.com
 0.0.0.0 uimg.123hala.com
 0.0.0.0 uimg.1qwe3r.com
+0.0.0.0 uimg.27admin.com
 0.0.0.0 um.cavuc.com
 0.0.0.0 um29.com
 0.0.0.0 union.baidustatic.guannin.com
@@ -22902,6 +22951,7 @@
 0.0.0.0 ad.hiiir.com
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ads.fetnet.net
+0.0.0.0 ads.ttv.com.tw
 0.0.0.0 drd.hauchi.com.tw
 0.0.0.0 ysm.hauchi.com.tw
 0.0.0.0 r.pixgold.com
@@ -22931,6 +22981,7 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
+0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
@@ -23293,6 +23344,7 @@
 0.0.0.0 www.adsmogo.net
 0.0.0.0 adsmogo.com
 0.0.0.0 click1forhz.adsmogo.com
+0.0.0.0 click2forhz.adsmogo.com
 0.0.0.0 click3forhz.adsmogo.com
 0.0.0.0 adfill.adview.cn
 0.0.0.0 adview.cn
@@ -23612,6 +23664,7 @@
 0.0.0.0 c.data.mob.com
 0.0.0.0 cca.mob.com
 0.0.0.0 devs.data.mob.com
+0.0.0.0 m.data.mob.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 api.mobgi.com
 0.0.0.0 mobgi.com
@@ -24189,6 +24242,7 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
