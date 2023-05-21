@@ -1,4 +1,4 @@
-# Update time: 2023-05-21 08:41:50
+# Update time: 2023-05-21 16:08:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -19766,6 +19766,7 @@
 0.0.0.0 bu1.duba.com
 0.0.0.0 bu2.duba.com
 0.0.0.0 d.union.ijinshan.com
+0.0.0.0 dl.union.ijinshan.com
 0.0.0.0 gallery.pandora.xiaomi.com
 0.0.0.0 gvod.aiseejapp.atianqi.com
 0.0.0.0 js.stat.ijinshan.com
@@ -20401,6 +20402,7 @@
 0.0.0.0 phpad.cqnews.net
 0.0.0.0 adf.dahe.cn
 0.0.0.0 app.xizi.com
+0.0.0.0 adi.cnool.net
 0.0.0.0 adi2007.cnool.net
 0.0.0.0 adp.cnool.net
 0.0.0.0 adp1.cnool.net
@@ -21069,6 +21071,7 @@
 0.0.0.0 rec.moviebox.baofeng.net
 0.0.0.0 corner.houyi.baofeng.net
 0.0.0.0 app.houyi.baofeng.net
+0.0.0.0 ck.houyi.baofeng.net
 0.0.0.0 d3f.houyi.baofeng.net
 0.0.0.0 log.houyi.baofeng.net
 0.0.0.0 mid.houyi.baofeng.net
@@ -22654,6 +22657,7 @@
 0.0.0.0 www.lynndollin.com
 0.0.0.0 www.lyztdz.com
 0.0.0.0 www.mbai.cn
+0.0.0.0 www.meitumq.com
 0.0.0.0 www.mengyuanwei.com
 0.0.0.0 www.mie99.net
 0.0.0.0 www.minghui.org
@@ -22844,6 +22848,7 @@
 0.0.0.0 ar.atwola.com
 0.0.0.0 at.atwola.com
 0.0.0.0 oascentral.hosted.ap.org
+0.0.0.0 cnn.dyn.cnn.com
 0.0.0.0 customad.cnn.com
 0.0.0.0 gdyn.cnn.com
 0.0.0.0 i.l.cnn.net
@@ -24395,6 +24400,7 @@
 0.0.0.0 www.4242lll.com
 0.0.0.0 www.4242uuu.com
 0.0.0.0 www.4wad.com
+0.0.0.0 www.555p555p.com
 0.0.0.0 www.6666349.com
 0.0.0.0 www.66992949.com
 0.0.0.0 www.700900.com
