@@ -1,4 +1,4 @@
-# Update time: 2023-05-25 00:09:14
+# Update time: 2023-05-25 08:37:52
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -6953,18 +6953,11 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
-0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -6972,7 +6965,6 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
-0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7016,7 +7008,6 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -7244,13 +7235,10 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 presence.teams.live.com
 0.0.0.0 preview.msn.com
-0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 romeccs.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
-0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -7281,7 +7269,6 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 v20.vortex-win.data.microsoft.com
-0.0.0.0 view.atdmt.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
@@ -11589,6 +11576,8 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11609,6 +11598,7 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
@@ -12094,6 +12084,7 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -12626,6 +12617,8 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -13063,6 +13056,7 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -13234,6 +13228,7 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
+0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -13420,6 +13415,7 @@
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -15778,6 +15774,8 @@
 0.0.0.0 r7.ritikajoshi.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 r7mediar.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -16032,6 +16030,7 @@
 0.0.0.0 secserv.adtech.us
 0.0.0.0 secure-js.kontera.com
 0.0.0.0 secure.addthis.com
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.bidvertiserr.com
 0.0.0.0 secure.netscope.marktest.pt
@@ -16694,6 +16693,7 @@
 0.0.0.0 videovip.org
 0.0.0.0 vidnline.com
 0.0.0.0 vidroll.ru
+0.0.0.0 view.atdmt.com
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
 0.0.0.0 views.m4n.nl
@@ -20114,6 +20114,7 @@
 0.0.0.0 agn.aty.cp45.ott.cibntv.net
 0.0.0.0 m.aty.cp45.ott.cibntv.net
 0.0.0.0 mmg.aty.cp45.ott.cibntv.net
+0.0.0.0 agn.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.snmsohu.aisee.tv
 0.0.0.0 mmg.aty.snmsohu.aisee.tv
 0.0.0.0 g.dtv.cn.miaozhen.com
@@ -20245,6 +20246,7 @@
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
+0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
@@ -20993,6 +20995,7 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 stat.zol.com.cn
 0.0.0.0 wappv.zol.com.cn
+0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 afp.zol-img.com.cn
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 ca.w8.com.cn
@@ -21829,6 +21832,7 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
+0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
@@ -21948,6 +21952,7 @@
 0.0.0.0 jc.bubbleandyeson.com
 0.0.0.0 jc.lgtianma.cn
 0.0.0.0 jdw.zjuwjdc.com
+0.0.0.0 jecoglegru.com
 0.0.0.0 jg.bjpengyi.com
 0.0.0.0 jhhkl.25ku.com
 0.0.0.0 jhwj88.com
@@ -23327,6 +23332,7 @@
 0.0.0.0 img9.1133.cc
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdsearch.2345.com
+0.0.0.0 jifen.2345.com
 0.0.0.0 wan.2345.com
 0.0.0.0 zhushou.2345.com
 0.0.0.0 app.50bang.org
@@ -23591,9 +23597,11 @@
 0.0.0.0 tra2.api.baifendian.com
 0.0.0.0 www.baifendian.com
 0.0.0.0 ana.stg8.com
+0.0.0.0 cm.stg8.com
 0.0.0.0 c41.clicki.cn
 0.0.0.0 cdn.scdng.com
 0.0.0.0 cdn.tianmidian.com
+0.0.0.0 ana.masky.biddingx.com
 0.0.0.0 cm.masky.biddingx.com
 0.0.0.0 stuff.cdn.biddingx.com
 0.0.0.0 tu.biddingx.com
@@ -24454,6 +24462,7 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
+0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync.1dmp.io
