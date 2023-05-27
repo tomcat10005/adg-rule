@@ -1,4 +1,4 @@
-# Update time: 2023-05-27 16:08:23
+# Update time: 2023-05-28 00:08:40
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -11006,6 +11006,7 @@
 0.0.0.0 sportat.oewabox.at
 0.0.0.0 ssl-compass.oewabox.at
 0.0.0.0 ssl-geizhals.oewabox.at
+0.0.0.0 ssl-helpgvat.oewabox.at
 0.0.0.0 ssl-karriere.oewabox.at
 0.0.0.0 ssl-msn.oewabox.at
 0.0.0.0 ssl-top.oewabox.at
@@ -16082,6 +16083,7 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
+0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -18915,7 +18917,6 @@
 0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
-0.0.0.0 dressimage.img-cn-beijing.aliyuncs.com
 0.0.0.0 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 img-dsp.oss-cn-beijing.aliyuncs.com
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
@@ -18942,7 +18943,6 @@
 0.0.0.0 cctv.mmstat.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 log.gds.mmstat.com
-0.0.0.0 log5.mmstat.com
 0.0.0.0 log1.mmstat.com
 0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 init.phpwind.net
@@ -19476,7 +19476,6 @@
 0.0.0.0 catalog.video.msn.com
 0.0.0.0 h.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 popup.msn.com
 0.0.0.0 r.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
@@ -19688,7 +19687,6 @@
 0.0.0.0 mocast.ra.icast.cn
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
-0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.media.innity.net
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 src.leju.com
@@ -19850,7 +19848,6 @@
 0.0.0.0 m.ishangtong.com
 0.0.0.0 wodeai.cn
 0.0.0.0 www.goubt.top
-0.0.0.0 yhd.com
 0.0.0.0 www.yhd.com
 0.0.0.0 www.hisense.cn
 0.0.0.0 www.hisense.com
@@ -19906,7 +19903,6 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
-0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -20238,7 +20234,6 @@
 0.0.0.0 ifengad.3g.ifeng.com
 0.0.0.0 iis1.deliver.ifeng.com
 0.0.0.0 iis3g.deliver.ifeng.com
-0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadig0.ifeng.com
 0.0.0.0 c0.ifengimg.com
@@ -21245,7 +21240,6 @@
 0.0.0.0 www.zamplus.com
 0.0.0.0 cm.fancyapi.com
 0.0.0.0 as.mgtv.com
-0.0.0.0 audit.aaa.mgtv.com
 0.0.0.0 cdn.cmop.mgtv.com
 0.0.0.0 cmop.mgtv.com
 0.0.0.0 imgaliyun.res.mgtv.com
@@ -21330,7 +21324,6 @@
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
 0.0.0.0 2.1010pic.com
-0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
@@ -22782,7 +22775,6 @@
 0.0.0.0 www.jiq336.com
 0.0.0.0 www.jiq339.com
 0.0.0.0 www.jisucn.com
-0.0.0.0 www.jixunkyy.cn
 0.0.0.0 www.jndczg.com
 0.0.0.0 www.jrhaigou.com
 0.0.0.0 www.jschuangnuo.com
@@ -22960,7 +22952,6 @@
 0.0.0.0 zhongzicili.cc
 0.0.0.0 zhtjdl.com
 0.0.0.0 zhuanshenghuo1.kuaizhan.com
-0.0.0.0 zhuuv.maoyumao.net
 0.0.0.0 zhy333.com
 0.0.0.0 zjyl365.cn
 0.0.0.0 ztd.szkdst.com
@@ -23024,7 +23015,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adimp.excite.co.jp
-0.0.0.0 ai.yimg.jp
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 adimg1.chosun.com
@@ -23133,7 +23123,6 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
-0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
@@ -23496,7 +23485,6 @@
 0.0.0.0 www.adsmogo.net
 0.0.0.0 adsmogo.com
 0.0.0.0 click1forhz.adsmogo.com
-0.0.0.0 click2forhz.adsmogo.com
 0.0.0.0 click3forhz.adsmogo.com
 0.0.0.0 adfill.adview.cn
 0.0.0.0 adview.cn
@@ -23605,7 +23593,6 @@
 0.0.0.0 b.bshare.cn
 0.0.0.0 static.bshare.cn
 0.0.0.0 www.bshare.cn
-0.0.0.0 c03.optimix.asia
 0.0.0.0 s03.optimix.asia
 0.0.0.0 www.optimix.cn
 0.0.0.0 casee.cn
