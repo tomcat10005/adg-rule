@@ -1,4 +1,4 @@
-# Update time: 2023-06-07 16:10:02
+# Update time: 2023-06-08 00:09:34
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -20592,7 +20592,6 @@
 0.0.0.0 baidua1.cardbaobao.com
 0.0.0.0 baidua2.cardbaobao.com
 0.0.0.0 b1.0430.com
-0.0.0.0 b2.0430.com
 0.0.0.0 bdjs.guangyuanol.cn
 0.0.0.0 bdjsym.guangyuanol.cn
 0.0.0.0 53m.kuk8.com
