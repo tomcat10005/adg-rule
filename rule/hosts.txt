@@ -1,4 +1,4 @@
-# Update time: 2023-06-26 16:16:20
+# Update time: 2023-06-27 00:10:00
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -19080,7 +19080,6 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
@@ -19173,6 +19172,7 @@
 0.0.0.0 help.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
+0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs4.cnzz.com
 0.0.0.0 hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
@@ -19987,7 +19987,6 @@
 0.0.0.0 hoplink.ksosoft.com
 0.0.0.0 ic.ksosoft.com
 0.0.0.0 pixiu.shangshufang.ksosoft.com
-0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 info.meihua.docer.com
 0.0.0.0 ap.ksrong.com
@@ -20640,7 +20639,6 @@
 0.0.0.0 kepler.jd.com
 0.0.0.0 knicks.jd.com
 0.0.0.0 m.jd.watbc.top
-0.0.0.0 m.jd.watbe.top
 0.0.0.0 mars.jd.com
 0.0.0.0 mercury.jd.com
 0.0.0.0 orbit.jd.com
@@ -22853,7 +22851,6 @@
 0.0.0.0 www.qinchugudao.com
 0.0.0.0 www.qwupoq.com
 0.0.0.0 www.rannabio.com
-0.0.0.0 www.sa909.com
 0.0.0.0 www.schborg.com
 0.0.0.0 www.seerpiu002.com
 0.0.0.0 www.shglegle.com
@@ -23304,7 +23301,6 @@
 0.0.0.0 unionimage.baidu.com
 0.0.0.0 pups.bdimg.com
 0.0.0.0 rigel.baidustatic.com
-0.0.0.0 api0.tuisong.baidu.com
 0.0.0.0 api1.tuisong.baidu.com
 0.0.0.0 api2.tuisong.baidu.com
 0.0.0.0 api3.tuisong.baidu.com
@@ -23461,7 +23457,6 @@
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 js.admin6.com
 0.0.0.0 conversion.adpro.cn
-0.0.0.0 m.adpro.cn
 0.0.0.0 x.adpro.cn
 0.0.0.0 adpro.pro.cn
 0.0.0.0 adx.pro.cn
@@ -23999,7 +23994,6 @@
 0.0.0.0 a3.img.static.youmi.net
 0.0.0.0 au.youmi.net
 0.0.0.0 notifiter.youmi.net
-0.0.0.0 t.youmi.net
 0.0.0.0 youmi.net
 0.0.0.0 www.youmi.net
 0.0.0.0 ad1.img.static.youmi.net
