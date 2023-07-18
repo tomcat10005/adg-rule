@@ -1,4 +1,4 @@
-# Update time: 2023-07-18 16:10:26
+# Update time: 2023-07-19 00:10:24
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -16096,7 +16096,6 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
-0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -21343,6 +21342,7 @@
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
+0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
@@ -22289,7 +22289,6 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -23351,7 +23350,6 @@
 0.0.0.0 img9.1133.cc
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdsearch.2345.com
-0.0.0.0 jifen.2345.com
 0.0.0.0 wan.2345.com
 0.0.0.0 zhushou.2345.com
 0.0.0.0 app.50bang.org
