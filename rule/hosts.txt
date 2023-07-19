@@ -1,4 +1,4 @@
-# Update time: 2023-07-19 00:10:24
+# Update time: 2023-07-19 09:16:15
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -13364,7 +13364,6 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
-0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -19088,6 +19087,7 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
+0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
@@ -22289,6 +22289,7 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
+0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -23350,6 +23351,7 @@
 0.0.0.0 img9.1133.cc
 0.0.0.0 bdcode.2345.com
 0.0.0.0 bdsearch.2345.com
+0.0.0.0 jifen.2345.com
 0.0.0.0 wan.2345.com
 0.0.0.0 zhushou.2345.com
 0.0.0.0 app.50bang.org
