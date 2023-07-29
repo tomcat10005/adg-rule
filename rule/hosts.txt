@@ -1,4 +1,4 @@
-# Update time: 2023-07-29 16:08:18
+# Update time: 2023-07-30 00:07:57
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -16101,7 +16101,6 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
-0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -21858,6 +21857,7 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
+0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
@@ -24142,6 +24142,7 @@
 0.0.0.0 image.atdmt.com
 0.0.0.0 img.atdmt.com
 0.0.0.0 srch.atdmt.com
+0.0.0.0 www.atdmt.com
 0.0.0.0 counter.awempire.com
 0.0.0.0 iframes.awempire.com
 0.0.0.0 static.awempire.com
