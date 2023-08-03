@@ -1,4 +1,4 @@
-# Update time: 2023-08-03 16:09:30
+# Update time: 2023-08-04 00:08:13
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -6953,9 +6953,13 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msads.net
 0.0.0.0 ads1.msn.com
@@ -11602,8 +11606,6 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11624,7 +11626,6 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
@@ -12110,7 +12111,6 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
-0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -13368,7 +13368,6 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
-0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -15338,7 +15337,6 @@
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc05050.247realmedia.com
 0.0.0.0 oasc16.247realmedia.com
-0.0.0.0 oasc18065.247realmedia.com
 0.0.0.0 oasis.promon.cz
 0.0.0.0 oasis.zmh.zope.com
 0.0.0.0 oasis.zmh.zope.net
@@ -16102,7 +16100,6 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
-0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -18790,7 +18787,6 @@
 0.0.0.0 ggic.cmvideo.cn
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 gz-data.com
-0.0.0.0 gozendata.com
 0.0.0.0 gzads.com
 0.0.0.0 tracker1.zmzfile.com
 0.0.0.0 tracker2.zmzfile.com
@@ -19046,7 +19042,6 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
-0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -19097,7 +19092,6 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
@@ -19496,14 +19490,12 @@
 0.0.0.0 a.global.msads.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 global.msads.net
-0.0.0.0 0.r.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 c.msn.com.cn
 0.0.0.0 catalog.video.msn.com
 0.0.0.0 h.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 popup.msn.com
 0.0.0.0 r.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
@@ -19934,7 +19926,6 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
-0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -20629,7 +20620,6 @@
 0.0.0.0 ad.egou.com
 0.0.0.0 a.dangdang.com
 0.0.0.0 click.dangdang.com
-0.0.0.0 ads.union.jd.com
 0.0.0.0 ads-union.jd.com
 0.0.0.0 bdsp.x.jd.com
 0.0.0.0 blackhole.m.jd.com
@@ -21365,7 +21355,6 @@
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
 0.0.0.0 2.1010pic.com
-0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
@@ -22202,7 +22191,6 @@
 0.0.0.0 m.sanjiangge.com
 0.0.0.0 m.sdaih.com
 0.0.0.0 m.sfscooter.cn
-0.0.0.0 m.sobiquge.com
 0.0.0.0 m.symad.cn
 0.0.0.0 m.symaj.cn
 0.0.0.0 m.szqifu.com
@@ -22293,7 +22281,6 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -22930,7 +22917,6 @@
 0.0.0.0 x7581.com
 0.0.0.0 xavingtsun.com
 0.0.0.0 xc.08an.com
-0.0.0.0 xco.qwxcs.com
 0.0.0.0 xc.hubeijieshikj.cn
 0.0.0.0 xd.code.tanwanyx.com
 0.0.0.0 xdn.cqqc3.com
@@ -23063,7 +23049,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adimp.excite.co.jp
-0.0.0.0 ai.yimg.jp
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 adimg1.chosun.com
@@ -23173,7 +23158,6 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
-0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
@@ -23194,7 +23178,6 @@
 0.0.0.0 sp3.cndm.com
 0.0.0.0 ssp.kss.ksyun.com
 0.0.0.0 s2.yandui.com
-0.0.0.0 www.tz-dsp.com
 0.0.0.0 maxwebsearch.com
 0.0.0.0 dl.sybspools.com
 0.0.0.0 kr.sybspools.com
@@ -23844,7 +23827,6 @@
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
-0.0.0.0 yktd.m.cn.miaozhen.com
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
 0.0.0.0 d-cache.microad-cn.com
 0.0.0.0 d-track.send.microad-cn.com
@@ -24438,7 +24420,6 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
-0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
