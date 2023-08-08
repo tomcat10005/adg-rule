@@ -1,4 +1,4 @@
-# Update time: 2023-08-08 00:08:57
+# Update time: 2023-08-08 08:39:49
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8216,7 +8216,6 @@
 0.0.0.0 sexcounter.com
 0.0.0.0 seznam.hit.gemius.pl
 0.0.0.0 showads.pubmatic.com
-0.0.0.0 showcount.honest.com
 0.0.0.0 sideshow.directtrack.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 sitestat.com
@@ -8362,7 +8361,6 @@
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ceio.com
-0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.dgt.com
 0.0.0.0 track.msadcenter.dxr.com
 0.0.0.0 track.msadcenter.emee.com
@@ -10798,7 +10796,6 @@
 0.0.0.0 mxmacromedia.112.2o7.net
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 nasdaq.122.2o7.net
-0.0.0.0 natgeoeditco.112.2o7.net
 0.0.0.0 natgeoeditcom.112.2o7.net
 0.0.0.0 natgeonews.112.2o7.net
 0.0.0.0 natgeongmcom.112.2o7.net
@@ -15969,7 +15966,6 @@
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
 0.0.0.0 s.moatads.com
-0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
 0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
@@ -16550,7 +16546,6 @@
 0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
-0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
@@ -18209,7 +18204,6 @@
 0.0.0.0 oascentralnx.comcast.net
 0.0.0.0 fastclick.net
 0.0.0.0 te.about.com
-0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
 0.0.0.0 te.ap.org
 0.0.0.0 te.astrology.com
@@ -18692,7 +18686,6 @@
 0.0.0.0 www.computerxchange.com
 0.0.0.0 www.credit-dreams.com
 0.0.0.0 www.exe-file.de
-0.0.0.0 www.fetisch-pornos.cxa.de
 0.0.0.0 www.ficken-ficken-ficken.cxa.de
 0.0.0.0 www.ficken-xxx.cxa.de
 0.0.0.0 www.heimlich-gefilmt.cxa.de
@@ -19042,6 +19035,7 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -19705,6 +19699,7 @@
 0.0.0.0 cdn3.icast.cn
 0.0.0.0 ssp.icast.cn
 0.0.0.0 h2.res.icast.cn
+0.0.0.0 mocast.ra.icast.cn
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
 0.0.0.0 cdn.innity.net
@@ -21772,7 +21767,6 @@
 0.0.0.0 e.xkqpco.com.com
 0.0.0.0 e.xmgysweb.com
 0.0.0.0 e.xxkio.com
-0.0.0.0 e.zkwsdf.com
 0.0.0.0 eco.myt7th.xyz
 0.0.0.0 ee.0pi84.cn
 0.0.0.0 ee.1s8pj.cn
@@ -22190,6 +22184,7 @@
 0.0.0.0 m.sanjiangge.com
 0.0.0.0 m.sdaih.com
 0.0.0.0 m.sfscooter.cn
+0.0.0.0 m.sobiquge.com
 0.0.0.0 m.symad.cn
 0.0.0.0 m.symaj.cn
 0.0.0.0 m.szqifu.com
@@ -23177,6 +23172,7 @@
 0.0.0.0 sp3.cndm.com
 0.0.0.0 ssp.kss.ksyun.com
 0.0.0.0 s2.yandui.com
+0.0.0.0 www.tz-dsp.com
 0.0.0.0 maxwebsearch.com
 0.0.0.0 dl.sybspools.com
 0.0.0.0 kr.sybspools.com
@@ -24420,6 +24416,7 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
