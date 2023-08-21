@@ -1,4 +1,4 @@
-# Update time: 2023-08-21 08:33:05
+# Update time: 2023-08-21 16:09:56
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -6953,11 +6953,18 @@
 127.0.0.1 log-collector.svctr.zynga.com
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
 0.0.0.0 37bvsblobprodcus311.blob.core.windows.net
+0.0.0.0 a.ads1.msn.com
 0.0.0.0 a.ads2.msads.net
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 a.rad.msn.com
 0.0.0.0 ac3.msn.com
 0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
 0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
 0.0.0.0 aidps.atdmt.com
+0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.edgeoffer.microsoft.com
@@ -6965,6 +6972,7 @@
 0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b.ads1.msn.com
 0.0.0.0 b.ads2.msads.net
+0.0.0.0 b.rad.msn.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 blobcollector.events.data.trafficmanager.net
 0.0.0.0 bn2-ris-ap-prod-atm.trafficmanager.net
@@ -7008,6 +7016,7 @@
 0.0.0.0 bn4sch101123202.wns.windows.com
 0.0.0.0 bn4sch102110124.wns.windows.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 c.atdmt.com
 0.0.0.0 c.msn.com
 0.0.0.0 ca.telemetry.microsoft.com
@@ -7235,10 +7244,13 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 presence.teams.live.com
 0.0.0.0 preview.msn.com
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 romeccs.microsoft.com
 0.0.0.0 schemas.microsoft.akadns.net
+0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
@@ -7269,6 +7281,7 @@
 0.0.0.0 v10.vortex-win.data.microsoft.com
 0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
 0.0.0.0 v20.vortex-win.data.microsoft.com
+0.0.0.0 view.atdmt.com
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
@@ -8354,7 +8367,6 @@
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ceio.com
-0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.dgt.com
 0.0.0.0 track.msadcenter.dxr.com
 0.0.0.0 track.msadcenter.emee.com
@@ -10792,7 +10804,6 @@
 0.0.0.0 mxmacromedia.112.2o7.net
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 nasdaq.122.2o7.net
-0.0.0.0 natgeoeditco.112.2o7.net
 0.0.0.0 natgeoeditcom.112.2o7.net
 0.0.0.0 natgeonews.112.2o7.net
 0.0.0.0 natgeongmcom.112.2o7.net
@@ -11600,8 +11611,6 @@
 0.0.0.0 a.adorika.net
 0.0.0.0 a.adready.com
 0.0.0.0 a.adroll.com
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
 0.0.0.0 a.adstome.com
 0.0.0.0 a.adtng.com
 0.0.0.0 a.applvn.com
@@ -11622,7 +11631,6 @@
 0.0.0.0 a.o333o.com
 0.0.0.0 a.prisacom.com
 0.0.0.0 a.rad.live.com
-0.0.0.0 a.rad.msn.com
 0.0.0.0 a.slunecnice.cz
 0.0.0.0 a.spolecznosci.net
 0.0.0.0 a.ss34.on9mail.com
@@ -12108,7 +12116,6 @@
 0.0.0.0 adnetwork.nextgen.net
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetworkperformance.com
-0.0.0.0 adnxs.com
 0.0.0.0 adnxs.revsci.net
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobee.com
@@ -12169,7 +12176,6 @@
 0.0.0.0 ads.adsrvmedia.net
 0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtiger.de
-0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.adviva.net
@@ -12641,8 +12647,6 @@
 0.0.0.0 ads1.destructoid.com
 0.0.0.0 ads1.erotism.com
 0.0.0.0 ads1.jev.co.za
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
 0.0.0.0 ads1.performancingads.com
 0.0.0.0 ads1.realcities.com
 0.0.0.0 ads1.revenue.net
@@ -13080,7 +13084,6 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
-0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
@@ -13251,7 +13254,6 @@
 0.0.0.0 b.liquidustv.com
 0.0.0.0 b.myspace.com
 0.0.0.0 b.rad.live.com
-0.0.0.0 b.rad.msn.com
 0.0.0.0 b.recwwcc5.info
 0.0.0.0 b1fe8a95ae27823.com
 0.0.0.0 b34rightym.com
@@ -13370,7 +13372,6 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
-0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -13434,12 +13435,10 @@
 0.0.0.0 broadcast.piximedia.fr
 0.0.0.0 brokertraffic.com
 0.0.0.0 browser-tools.systems
-0.0.0.0 browsergames2018.com
 0.0.0.0 browsergames2019.com
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
 0.0.0.0 brxfinance.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 bs.url.tw
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 btbuyerapp.com
@@ -15341,7 +15340,6 @@
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc05050.247realmedia.com
 0.0.0.0 oasc16.247realmedia.com
-0.0.0.0 oasc18065.247realmedia.com
 0.0.0.0 oasis.promon.cz
 0.0.0.0 oasis.zmh.zope.com
 0.0.0.0 oasis.zmh.zope.net
@@ -15799,8 +15797,6 @@
 0.0.0.0 r7.ritikajoshi.com
 0.0.0.0 r7.romeflirt.com
 0.0.0.0 r7mediar.com
-0.0.0.0 rad.live.com
-0.0.0.0 rad.msn.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 railroadtomato.com
 0.0.0.0 rassegnavermentino.it
@@ -15975,7 +15971,6 @@
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
 0.0.0.0 s.moatads.com
-0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
 0.0.0.0 s.oroll.com
 0.0.0.0 s.ppjol.net
@@ -16055,7 +16050,6 @@
 0.0.0.0 secserv.adtech.us
 0.0.0.0 secure-js.kontera.com
 0.0.0.0 secure.addthis.com
-0.0.0.0 secure.adnxs.com
 0.0.0.0 secure.bidvertiser.com
 0.0.0.0 secure.bidvertiserr.com
 0.0.0.0 secure.netscope.marktest.pt
@@ -16107,7 +16101,6 @@
 0.0.0.0 service002.adtech.fr
 0.0.0.0 service002.adtech.us
 0.0.0.0 service003.adtech.fr
-0.0.0.0 service003.adtech.us
 0.0.0.0 service004.adtech.fr
 0.0.0.0 service004.adtech.us
 0.0.0.0 service00x.adtech.fr
@@ -16193,7 +16186,6 @@
 0.0.0.0 smartlifeguides.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 smarttopchain.nl
-0.0.0.0 smitt.nl
 0.0.0.0 smokersopinionpoll.com
 0.0.0.0 smsmovies.net
 0.0.0.0 smutstone.com
@@ -16558,7 +16550,6 @@
 0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
-0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
@@ -16624,7 +16615,6 @@
 0.0.0.0 u.videoamp.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uav.tidaltv.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
@@ -16723,7 +16713,6 @@
 0.0.0.0 videovip.org
 0.0.0.0 vidnline.com
 0.0.0.0 vidroll.ru
-0.0.0.0 view.atdmt.com
 0.0.0.0 view.binlayer.com
 0.0.0.0 view.jamba.de
 0.0.0.0 views.m4n.nl
@@ -16778,7 +16767,6 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -17255,7 +17243,6 @@
 0.0.0.0 www.isistech.com.tw
 0.0.0.0 www.istats.nl
 0.0.0.0 www.itrackerpro.com
-0.0.0.0 www.itsfree123.com
 0.0.0.0 www.izmsj.co.jp
 0.0.0.0 www.izu.co.jp
 0.0.0.0 www.jetseeker.com
@@ -17443,7 +17430,6 @@
 0.0.0.0 www.rubyfortune.com
 0.0.0.0 www.ryosuke.plus.com
 0.0.0.0 www.sa44.net
-0.0.0.0 www.sagent.io
 0.0.0.0 www.sarge05.plus.com
 0.0.0.0 www.savings-time.com
 0.0.0.0 www.sayfabulunamadi.com
@@ -18701,7 +18687,6 @@
 0.0.0.0 www.computerxchange.com
 0.0.0.0 www.credit-dreams.com
 0.0.0.0 www.exe-file.de
-0.0.0.0 www.fetisch-pornos.cxa.de
 0.0.0.0 www.ficken-ficken-ficken.cxa.de
 0.0.0.0 www.ficken-xxx.cxa.de
 0.0.0.0 www.heimlich-gefilmt.cxa.de
@@ -18796,7 +18781,6 @@
 0.0.0.0 ggic.cmvideo.cn
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 gz-data.com
-0.0.0.0 gozendata.com
 0.0.0.0 gzads.com
 0.0.0.0 tracker1.zmzfile.com
 0.0.0.0 tracker2.zmzfile.com
@@ -19074,6 +19058,7 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
+0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -19103,7 +19088,6 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
@@ -19146,6 +19130,7 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 ms.bdimg.com
@@ -19160,6 +19145,7 @@
 0.0.0.0 fex.bdstatic.com
 0.0.0.0 nspt.bdstatic.com
 0.0.0.0 su.bdstatic.com
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 datax.baidu.com
@@ -19509,7 +19495,6 @@
 0.0.0.0 catalog.video.msn.com
 0.0.0.0 h.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 popup.msn.com
 0.0.0.0 r.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
@@ -20637,7 +20622,6 @@
 0.0.0.0 ad.egou.com
 0.0.0.0 a.dangdang.com
 0.0.0.0 click.dangdang.com
-0.0.0.0 ads.union.jd.com
 0.0.0.0 ads-union.jd.com
 0.0.0.0 bdsp.x.jd.com
 0.0.0.0 blackhole.m.jd.com
@@ -21374,7 +21358,6 @@
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
 0.0.0.0 2.1010pic.com
-0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
@@ -22304,7 +22287,6 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -22852,7 +22834,6 @@
 0.0.0.0 www.lynndollin.com
 0.0.0.0 www.lyztdz.com
 0.0.0.0 www.mbai.cn
-0.0.0.0 www.meitumq.com
 0.0.0.0 www.mengyuanwei.com
 0.0.0.0 www.mie99.net
 0.0.0.0 www.minghui.org
@@ -23184,7 +23165,6 @@
 0.0.0.0 u2.s.minisplat.cn
 0.0.0.0 144.dragonparking.com
 0.0.0.0 930.dragonparking.com
-0.0.0.0 track.dragonparking.com
 0.0.0.0 cdn.dragonstatic.com
 0.0.0.0 dl.9xu.com
 0.0.0.0 js.union-wifi.com
@@ -23790,7 +23770,6 @@
 0.0.0.0 www.juzi.cn
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 www.adpolestar.net
-0.0.0.0 as.kejet.net
 0.0.0.0 aw.kejet.net
 0.0.0.0 ck.kejet.net
 0.0.0.0 cmarket.kejet.net
@@ -23843,7 +23822,6 @@
 0.0.0.0 www.mgogo.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
 0.0.0.0 baofeng.m.cn.miaozhen.com
-0.0.0.0 cm.cn.miaozhen.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 g.ads.cn.miaozhen.com
 0.0.0.0 g.cn.miaozhen.com
@@ -23861,7 +23839,6 @@
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
-0.0.0.0 yktd.m.cn.miaozhen.com
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
 0.0.0.0 d-cache.microad-cn.com
 0.0.0.0 d-track.send.microad-cn.com
