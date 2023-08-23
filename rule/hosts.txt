@@ -1,4 +1,4 @@
-# Update time: 2023-08-23 08:32:43
+# Update time: 2023-08-23 16:09:21
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -12178,6 +12178,7 @@
 0.0.0.0 ads.adsrvmedia.net
 0.0.0.0 ads.adtegrity.net
 0.0.0.0 ads.adtiger.de
+0.0.0.0 ads.adultfriendfinder.com
 0.0.0.0 ads.advance.net
 0.0.0.0 ads.adverline.com
 0.0.0.0 ads.adviva.net
@@ -21165,7 +21166,6 @@
 0.0.0.0 ipengtai.huanqiu.com
 0.0.0.0 stats.infzm.com
 0.0.0.0 x.infzm.com
-0.0.0.0 sgg.southcn.com
 0.0.0.0 pmm.people.com.cn
 0.0.0.0 tmisc.home.news.cn
 0.0.0.0 webd.home.news.cn
@@ -21858,10 +21858,10 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
-0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
+0.0.0.0 gg.kkcaicai.com
 0.0.0.0 ggcode.2345.com
 0.0.0.0 gho.ysbjgjwh.com
 0.0.0.0 global.ymtracking.com
@@ -22844,6 +22844,7 @@
 0.0.0.0 www.lynndollin.com
 0.0.0.0 www.lyztdz.com
 0.0.0.0 www.mbai.cn
+0.0.0.0 www.meitumq.com
 0.0.0.0 www.mengyuanwei.com
 0.0.0.0 www.mie99.net
 0.0.0.0 www.minghui.org
@@ -24142,7 +24143,6 @@
 0.0.0.0 image.atdmt.com
 0.0.0.0 img.atdmt.com
 0.0.0.0 srch.atdmt.com
-0.0.0.0 www.atdmt.com
 0.0.0.0 counter.awempire.com
 0.0.0.0 iframes.awempire.com
 0.0.0.0 static.awempire.com
