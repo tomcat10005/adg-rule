@@ -1,4 +1,4 @@
-# Update time: 2023-09-03 00:07:52
+# Update time: 2023-09-03 08:35:38
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8367,6 +8367,7 @@
 0.0.0.0 track.msadcenter.afgz.com
 0.0.0.0 track.msadcenter.ajfy.com
 0.0.0.0 track.msadcenter.ceio.com
+0.0.0.0 track.msadcenter.cxtv.com
 0.0.0.0 track.msadcenter.dgt.com
 0.0.0.0 track.msadcenter.dxr.com
 0.0.0.0 track.msadcenter.emee.com
@@ -8701,6 +8702,7 @@
 0.0.0.0 3mfrances.fr
 0.0.0.0 59-106-20-39.r-bl100.sakura.ne.jp
 0.0.0.0 6range.fr
+0.0.0.0 6w1.sharedlinkconnect.com
 0.0.0.0 75esession.fr
 0.0.0.0 7frenchweb.fr
 0.0.0.0 7zip.fr
@@ -9065,6 +9067,7 @@
 0.0.0.0 delamaisn.fr
 0.0.0.0 deloitteca.com
 0.0.0.0 delphix.fr
+0.0.0.0 deltarviews.bond
 0.0.0.0 denx.fr
 0.0.0.0 department06.fr
 0.0.0.0 deposit-cra2023.com
@@ -10806,6 +10809,7 @@
 0.0.0.0 mxmacromedia.112.2o7.net
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 nasdaq.122.2o7.net
+0.0.0.0 natgeoeditco.112.2o7.net
 0.0.0.0 natgeoeditcom.112.2o7.net
 0.0.0.0 natgeonews.112.2o7.net
 0.0.0.0 natgeongmcom.112.2o7.net
@@ -13375,6 +13379,7 @@
 0.0.0.0 bidtraffic.com
 0.0.0.0 bidvertiser.com
 0.0.0.0 bigads.guj.de
+0.0.0.0 bigbrandpromotions.com
 0.0.0.0 bigbrandrewards.com
 0.0.0.0 bigfreelotto.com
 0.0.0.0 biggestgiftrewards.com
@@ -14881,6 +14886,7 @@
 0.0.0.0 legjava.com
 0.0.0.0 legjava.pro
 0.0.0.0 leklicht.net
+0.0.0.0 lemmynsfw.com
 0.0.0.0 lesrivesdechambesy.ch
 0.0.0.0 letmefind.co
 0.0.0.0 letsfinder.com
@@ -15344,6 +15350,7 @@
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc05050.247realmedia.com
 0.0.0.0 oasc16.247realmedia.com
+0.0.0.0 oasc18065.247realmedia.com
 0.0.0.0 oasis.promon.cz
 0.0.0.0 oasis.zmh.zope.com
 0.0.0.0 oasis.zmh.zope.net
@@ -19037,6 +19044,7 @@
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 aecpm.alicdn.com
 0.0.0.0 alimama.alicdn.com
+0.0.0.0 gen.alicdn.com
 0.0.0.0 strip.alicdn.com
 0.0.0.0 i.ipinyou.com
 0.0.0.0 ipinyou.com
@@ -19044,6 +19052,7 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
+0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -19492,6 +19501,7 @@
 0.0.0.0 a.global.msads.net
 0.0.0.0 ads2.msads.net
 0.0.0.0 global.msads.net
+0.0.0.0 0.r.msn.com
 0.0.0.0 analytics.msn.com
 0.0.0.0 analytics.r.msn.com
 0.0.0.0 c.msn.com.cn
@@ -19658,6 +19668,7 @@
 0.0.0.0 wbapp.mobile.sina.cn
 0.0.0.0 wbclick.mobile.sina.cn
 0.0.0.0 wbpctips.mobile.sina.cn
+0.0.0.0 newspush.sinajs.cn
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 d0.sinaimg.cn
 0.0.0.0 d1.sinaimg.cn
@@ -19928,6 +19939,7 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
+0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -20223,6 +20235,7 @@
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ad.hpplay.cn
 0.0.0.0 adeng.hpplay.cn
+0.0.0.0 jrlt.beacon.qq.com
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 activeqq.3g.qq.com
 0.0.0.0 masdk.3g.qq.com
@@ -21728,6 +21741,7 @@
 0.0.0.0 e.bentengcn.com
 0.0.0.0 e.bsnnk.com
 0.0.0.0 e.cdntlz.cn
+0.0.0.0 e.coenr.com
 0.0.0.0 e.czggcj.com
 0.0.0.0 e.deimm.com
 0.0.0.0 e.dydd.xyz
@@ -21811,6 +21825,7 @@
 0.0.0.0 erwqw.zh1155.com
 0.0.0.0 ewg9465443.y4j32.cn
 0.0.0.0 extstat.com
+0.0.0.0 f.hongm.com
 0.0.0.0 f3.souid.com
 0.0.0.0 f3.vedeh.com
 0.0.0.0 f5w.as12df.top
@@ -21846,6 +21861,7 @@
 0.0.0.0 gafxa.code.mytanwan.com
 0.0.0.0 game.9xzj.com
 0.0.0.0 game.baichuanhd.cn
+0.0.0.0 gdc2091.cc-club.com.cn
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
@@ -22192,6 +22208,7 @@
 0.0.0.0 m.sanjiangge.com
 0.0.0.0 m.sdaih.com
 0.0.0.0 m.sfscooter.cn
+0.0.0.0 m.sobiquge.com
 0.0.0.0 m.symad.cn
 0.0.0.0 m.symaj.cn
 0.0.0.0 m.szqifu.com
@@ -22383,6 +22400,7 @@
 0.0.0.0 ppl.xunzhuo123.com
 0.0.0.0 pro.baidu.com
 0.0.0.0 ps.dlads.cn
+0.0.0.0 psma02.com
 0.0.0.0 psptoolapi.ctags.cn
 0.0.0.0 pstarv.cn
 0.0.0.0 push2.eastmoney.com
@@ -22617,6 +22635,7 @@
 0.0.0.0 utp.ucweb.com
 0.0.0.0 uu38.vip
 0.0.0.0 uuboos.com
+0.0.0.0 uzi66.jozee.cn
 0.0.0.0 uzixia.zwdu.com
 0.0.0.0 v.7times.top
 0.0.0.0 v.9y88.com
@@ -22958,6 +22977,7 @@
 0.0.0.0 yahafda.qivsod.com
 0.0.0.0 yds.kebi1.top
 0.0.0.0 yihuifu.cn
+0.0.0.0 yijuxie.com
 0.0.0.0 yiqitiao.chushoushijian.cn
 0.0.0.0 ymjs.adutp.com
 0.0.0.0 ynwqls.com
@@ -23178,6 +23198,7 @@
 0.0.0.0 sp3.cndm.com
 0.0.0.0 ssp.kss.ksyun.com
 0.0.0.0 s2.yandui.com
+0.0.0.0 www.tz-dsp.com
 0.0.0.0 maxwebsearch.com
 0.0.0.0 dl.sybspools.com
 0.0.0.0 kr.sybspools.com
@@ -23243,6 +23264,7 @@
 0.0.0.0 m.analytics.126.net
 0.0.0.0 news.push.126.net
 0.0.0.0 haitaoad.nosdn.127.net
+0.0.0.0 analytics.hz.netease.com
 0.0.0.0 h5.analytics.126.net
 0.0.0.0 statis.push.netease.com
 0.0.0.0 mr.da.netease.com
@@ -24682,6 +24704,7 @@
 0.0.0.0 ad.api.3g.tudou.com
 0.0.0.0 ad.api.3g.youku.com
 0.0.0.0 ad.api.mobile.youku.com
+0.0.0.0 b.smartvideo.youku.com
 0.0.0.0 c.yes.youku.com
 0.0.0.0 cm.atm.youku.com
 0.0.0.0 cm.miaozhen.atm.youku.com
