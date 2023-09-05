@@ -1,4 +1,4 @@
-# Update time: 2023-09-05 08:33:24
+# Update time: 2023-09-05 16:10:07
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -18100,6 +18100,7 @@
 0.0.0.0 w0.extreme-dm.com
 0.0.0.0 w1.extreme-dm.com
 0.0.0.0 www.extreme-dm.com
+0.0.0.0 x3.extreme-dm.com
 0.0.0.0 y.extreme-dm.com
 0.0.0.0 y0.extreme-dm.com
 0.0.0.0 y1.extreme-dm.com
@@ -18796,7 +18797,6 @@
 0.0.0.0 ggic.cmvideo.cn
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 gz-data.com
-0.0.0.0 gozendata.com
 0.0.0.0 gzads.com
 0.0.0.0 tracker1.zmzfile.com
 0.0.0.0 tracker2.zmzfile.com
@@ -19195,7 +19195,6 @@
 0.0.0.0 help.cnzz.com
 0.0.0.0 hm2.cnzz.com
 0.0.0.0 hm3.cnzz.com
-0.0.0.0 hqs1.cnzz.com
 0.0.0.0 hqs4.cnzz.com
 0.0.0.0 hqs7.cnzz.com
 0.0.0.0 hqs9.cnzz.com
@@ -21374,7 +21373,6 @@
 0.0.0.0 1495039.com
 0.0.0.0 181ue.com
 0.0.0.0 2.1010pic.com
-0.0.0.0 2.92caijing.com
 0.0.0.0 2.bashenghuo.com
 0.0.0.0 2017img.myxh999.com
 0.0.0.0 2341.a.dlads.cn
@@ -22213,7 +22211,6 @@
 0.0.0.0 m.sanjiangge.com
 0.0.0.0 m.sdaih.com
 0.0.0.0 m.sfscooter.cn
-0.0.0.0 m.sobiquge.com
 0.0.0.0 m.symad.cn
 0.0.0.0 m.symaj.cn
 0.0.0.0 m.szqifu.com
@@ -22304,7 +22301,6 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -22559,7 +22555,6 @@
 0.0.0.0 t.iz55.com
 0.0.0.0 t.qiuqiuqipai.com
 0.0.0.0 t.quandangdang.net
-0.0.0.0 t.sdpaji.com
 0.0.0.0 t.targetuse.com
 0.0.0.0 t.yunsoka.com
 0.0.0.0 t188.dazhonghua.cn
@@ -23075,7 +23070,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adimp.excite.co.jp
-0.0.0.0 ai.yimg.jp
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 adimg1.chosun.com
@@ -23860,7 +23854,6 @@
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
-0.0.0.0 yktd.m.cn.miaozhen.com
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
 0.0.0.0 d-cache.microad-cn.com
 0.0.0.0 d-track.send.microad-cn.com
