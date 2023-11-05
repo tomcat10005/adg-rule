@@ -1,4 +1,4 @@
-# Update time: 2023-11-05 08:37:44
+# Update time: 2023-11-05 16:09:09
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -10829,7 +10829,6 @@
 0.0.0.0 mxmacromedia.112.2o7.net
 0.0.0.0 myfamilyancestry.112.2o7.net
 0.0.0.0 nasdaq.122.2o7.net
-0.0.0.0 natgeoeditco.112.2o7.net
 0.0.0.0 natgeoeditcom.112.2o7.net
 0.0.0.0 natgeonews.112.2o7.net
 0.0.0.0 natgeongmcom.112.2o7.net
@@ -15372,7 +15371,6 @@
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc05050.247realmedia.com
 0.0.0.0 oasc16.247realmedia.com
-0.0.0.0 oasc18065.247realmedia.com
 0.0.0.0 oasis.promon.cz
 0.0.0.0 oasis.zmh.zope.com
 0.0.0.0 oasis.zmh.zope.net
@@ -18284,7 +18282,6 @@
 0.0.0.0 www.smsmovies.net
 0.0.0.0 www.wowjs.1www.cn
 0.0.0.0 www.xxxnations.com
-0.0.0.0 www.xxxtoolbar.com
 0.0.0.0 www.yourfuckbook.com
 0.0.0.0 2000greetings.com
 0.0.0.0 celebwelove.com
@@ -18539,7 +18536,6 @@
 0.0.0.0 mens.1.p2l.info
 0.0.0.0 meridia.1.p2l.info
 0.0.0.0 meridia.3.p2l.info
-0.0.0.0 meridia.4.p2l.info
 0.0.0.0 meridiameridia.3xforum.ro
 0.0.0.0 mesotherapy.jino-net.ru
 0.0.0.0 mi.5.p2l.info
@@ -19103,7 +19099,6 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
-0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -19133,7 +19128,6 @@
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 ex.umengcloud.com
 0.0.0.0 msg.umengcloud.com
-0.0.0.0 udash.umengcloud.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 cdn0.mobmore.com
@@ -19540,7 +19534,6 @@
 0.0.0.0 catalog.video.msn.com
 0.0.0.0 h.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 popup.msn.com
 0.0.0.0 r.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
@@ -21145,7 +21138,6 @@
 0.0.0.0 guitarpro.cc
 0.0.0.0 www.guitarpro.cc
 0.0.0.0 www.mindmanager.cc
-0.0.0.0 xia.mindmanager.cc
 0.0.0.0 kingdeecn.cn
 0.0.0.0 www.kingdeecn.cn
 0.0.0.0 xshellcn.com
@@ -21396,7 +21388,6 @@
 0.0.0.0 wpan.sc2yun.com
 0.0.0.0 y76.ylems.club
 0.0.0.0 y71.ylems.club
-0.0.0.0 yule.fulevmy.com
 0.0.0.0 01daa.lutci.com
 0.0.0.0 02fcnbg.trqpfc.cn
 0.0.0.0 09_19.supfree.net
@@ -21904,7 +21895,6 @@
 0.0.0.0 gdgy56.com
 0.0.0.0 gfd.huigoushop.com
 0.0.0.0 gg.1whour.com
-0.0.0.0 gg.kkcaicai.com
 0.0.0.0 ggcode.2345.com
 0.0.0.0 gho.ysbjgjwh.com
 0.0.0.0 global.ymtracking.com
@@ -22340,7 +22330,6 @@
 0.0.0.0 ms.actingidekex.cn
 0.0.0.0 ms.cnczjy.com
 0.0.0.0 ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessible.cn
 0.0.0.0 mscs.svaeuzh.cn
 0.0.0.0 msg.eclicks.cn
 0.0.0.0 mt.4go.cc
@@ -23828,7 +23817,6 @@
 0.0.0.0 www.juzi.cn
 0.0.0.0 gfyoyo.adpolestar.net
 0.0.0.0 www.adpolestar.net
-0.0.0.0 as.kejet.net
 0.0.0.0 aw.kejet.net
 0.0.0.0 ck.kejet.net
 0.0.0.0 cmarket.kejet.net
@@ -23881,7 +23869,6 @@
 0.0.0.0 www.mgogo.com
 0.0.0.0 alicdnv2.sitemonitor.cn.miaozhen.com
 0.0.0.0 baofeng.m.cn.miaozhen.com
-0.0.0.0 cm.cn.miaozhen.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 g.ads.cn.miaozhen.com
 0.0.0.0 g.cn.miaozhen.com
@@ -23899,7 +23886,6 @@
 0.0.0.0 tyaqy.m.cn.miaozhen.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 xiangchaokankan.m.cn.miaozhen.com
-0.0.0.0 yktd.m.cn.miaozhen.com
 0.0.0.0 youku-dtv.m.cn.miaozhen.com
 0.0.0.0 d-cache.microad-cn.com
 0.0.0.0 d-track.send.microad-cn.com
@@ -24083,7 +24069,6 @@
 0.0.0.0 d.yoyi.tv
 0.0.0.0 g.d.yoyi.tv
 0.0.0.0 js.yoyi.tv
-0.0.0.0 t.d.yoyi.tv
 0.0.0.0 aim.yoyi.com.cn
 0.0.0.0 air.yoyi.com.cn
 0.0.0.0 amps.yoyi.com.cn
@@ -24705,7 +24690,6 @@
 0.0.0.0 notice.iqiyi.com
 0.0.0.0 policy.video.iqiyi.com
 0.0.0.0 static.g.iqiyi.com
-0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 nl.rcd.iqiyi.com
 0.0.0.0 api.cupid.ptqy.gitv.tv
 0.0.0.0 msg.video.ptqy.gitv.tv
