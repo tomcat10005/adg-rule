@@ -1,4 +1,4 @@
-# Update time: 2023-11-09 16:10:22
+# Update time: 2023-11-10 00:09:37
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -19082,7 +19082,6 @@
 0.0.0.0 sdsp.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
-0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
@@ -19537,7 +19536,6 @@
 0.0.0.0 catalog.video.msn.com
 0.0.0.0 h.msn.com
 0.0.0.0 otf.msn.com
-0.0.0.0 popup.msn.com
 0.0.0.0 r.msn.com
 0.0.0.0 rmads.eu.msn.com
 0.0.0.0 rmads.msn.com
@@ -19969,7 +19967,6 @@
 0.0.0.0 uuidapi.yunos.com
 0.0.0.0 cs02-pps-drcn.dbankcdn.com
 0.0.0.0 ads.gionee.com
-0.0.0.0 adres.myaora.net
 0.0.0.0 adcore.lenovomm.com
 0.0.0.0 pushapi.lenovomm.com
 0.0.0.0 susapi.lenovomm.com
@@ -20782,7 +20779,6 @@
 0.0.0.0 taou.cn
 0.0.0.0 u51.me
 0.0.0.0 u6.gg
-0.0.0.0 uee.me
 0.0.0.0 url.ms
 0.0.0.0 v.u22l.cc
 0.0.0.0 weq.me
@@ -21710,7 +21706,6 @@
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 0.0.0.0 d29qt51jeyi6xb.cloudfront.net
 0.0.0.0 d2klx87bgzngce.cloudfront.net
-0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d3g5ovfngjw9bw.cloudfront.net
 0.0.0.0 d3v1lb83psg9di.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
@@ -22941,7 +22936,6 @@
 0.0.0.0 www.xbzzzx.com
 0.0.0.0 www.xiacai.com
 0.0.0.0 www.xiaodaoyuedu.com
-0.0.0.0 www.xiaohui2.cn
 0.0.0.0 www.xtcdbb.cn
 0.0.0.0 www.xtwjx.cn
 0.0.0.0 www.xxeden.com
@@ -23099,7 +23093,6 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adimp.excite.co.jp
-0.0.0.0 ai.yimg.jp
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 adimg1.chosun.com
@@ -23230,7 +23223,6 @@
 0.0.0.0 sp3.cndm.com
 0.0.0.0 ssp.kss.ksyun.com
 0.0.0.0 s2.yandui.com
-0.0.0.0 www.tz-dsp.com
 0.0.0.0 maxwebsearch.com
 0.0.0.0 dl.sybspools.com
 0.0.0.0 kr.sybspools.com
@@ -23660,7 +23652,6 @@
 0.0.0.0 c41.clicki.cn
 0.0.0.0 cdn.scdng.com
 0.0.0.0 cdn.tianmidian.com
-0.0.0.0 ana.masky.biddingx.com
 0.0.0.0 cm.masky.biddingx.com
 0.0.0.0 stuff.cdn.biddingx.com
 0.0.0.0 tu.biddingx.com
@@ -23848,7 +23839,6 @@
 0.0.0.0 clk.madserving.com
 0.0.0.0 clk.pdb.madserving.com
 0.0.0.0 imp.madserving.com
-0.0.0.0 imp.pdb.madserving.com
 0.0.0.0 api.dsp.madserving.com
 0.0.0.0 aws.dsp.madserving.com
 0.0.0.0 ad.beta.madserving.com
@@ -24479,7 +24469,6 @@
 0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
-0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
@@ -24928,7 +24917,6 @@
 0.0.0.0 mms2017.admaster.com.cn
 0.0.0.0 open.admaster.com.cn
 0.0.0.0 p.admaster.com.cn
-0.0.0.0 survey.admaster.com.cn
 0.0.0.0 tag.admaster.com.cn
 0.0.0.0 track-help.admaster.com.cn
 0.0.0.0 track.admaster.com.cn
