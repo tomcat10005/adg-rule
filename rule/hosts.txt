@@ -1,4 +1,4 @@
-# Update time: 2023-11-18 08:36:01
+# Update time: 2023-11-18 16:09:19
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -728,9 +728,7 @@
 0.0.0.0 tele.trafficmanager.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
-0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 teredo.ipv6.microsoft.com
 0.0.0.0 test.activity.windows.com
 0.0.0.0 uks.b.prd.ags.trafficmanager.net
@@ -744,12 +742,7 @@
 0.0.0.0 vortex-sandbox.data.microsoft.com
 0.0.0.0 vortex.data.glbdns2.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.ppe.telemetry.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
-0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 win10.ipv6.microsoft.com
@@ -8046,7 +8039,14 @@
 0.0.0.0 c.live.com
 0.0.0.0 digg.analytics.live.com
 0.0.0.0 ms.analytics.live.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
 0.0.0.0 www.bingads.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
@@ -19299,6 +19299,7 @@
 0.0.0.0 adserv.maineguide.com
 0.0.0.0 adserv.mywebtimes.com
 0.0.0.0 adserv.postbulletin.com
+0.0.0.0 adserv.quality-channel.de
 0.0.0.0 adserv.usps.com
 0.0.0.0 adserv001.adtech.fr
 0.0.0.0 adserv001.adtech.us
@@ -19479,6 +19480,7 @@
 0.0.0.0 adseu.novem.pl
 0.0.0.0 adsfac.eu
 0.0.0.0 adsfac.net
+0.0.0.0 adsfac.us
 0.0.0.0 adsinimages.com
 0.0.0.0 adsino24.com
 0.0.0.0 adsm.soush.com
@@ -19779,6 +19781,7 @@
 0.0.0.0 axp.zedo.com
 0.0.0.0 azcentra.app.ur.gcion.com
 0.0.0.0 azoaltou.com
+0.0.0.0 azoogleads.com
 0.0.0.0 aztbeszelik.com
 0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.ads2.msn.com
@@ -21477,6 +21480,7 @@
 0.0.0.0 maxmusics.com
 0.0.0.0 maxonclick.com
 0.0.0.0 maxserving.com
+0.0.0.0 mb01.com
 0.0.0.0 mbox9.offermatica.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mccafee-orientador.com-br.site
@@ -22405,6 +22409,7 @@
 0.0.0.0 s.innovid.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
+0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
 0.0.0.0 s.oroll.com
@@ -22614,6 +22619,7 @@
 0.0.0.0 smartlifeguides.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 smarttopchain.nl
+0.0.0.0 smitt.nl
 0.0.0.0 smokersopinionpoll.com
 0.0.0.0 smsmovies.net
 0.0.0.0 smutstone.com
@@ -22955,6 +22961,7 @@
 0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
+0.0.0.0 traffic.adxprts.com
 0.0.0.0 traffic.adxprtz.com
 0.0.0.0 traffic.focuusing.com
 0.0.0.0 traffic.getmyads.com
@@ -22975,6 +22982,7 @@
 0.0.0.0 trendingpatrol.com
 0.0.0.0 trendnews.com
 0.0.0.0 trends.revcontent.com
+0.0.0.0 triangle.dealsaver.com
 0.0.0.0 tridentenvironmental.co.uk
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.etrigue.com
@@ -23006,6 +23014,7 @@
 0.0.0.0 tvshowsnow.tvmax.hop.clickbank.net
 0.0.0.0 tw.adserver.yahoo.com
 0.0.0.0 tw2.adserver.yahoo.com
+0.0.0.0 twofish.freeuk.com
 0.0.0.0 twoj-typ.pl
 0.0.0.0 twoj-voucher.com
 0.0.0.0 twoje-nagrody.com.pl
@@ -23097,6 +23106,7 @@
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 victorlutte.cl
+0.0.0.0 vidamsag.postr.hu
 0.0.0.0 video-bazis.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
@@ -23322,6 +23332,7 @@
 0.0.0.0 www.adtechus.com
 0.0.0.0 www.adtrader.com
 0.0.0.0 www.adtrix.com
+0.0.0.0 www.advaliant.com
 0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
@@ -23524,6 +23535,7 @@
 0.0.0.0 www.eshopads2.com
 0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
+0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 www.expoteam.net
@@ -23866,6 +23878,7 @@
 0.0.0.0 www.sponsoradulto.com
 0.0.0.0 www.sq2trk2.com
 0.0.0.0 www.ssquire.plus.com
+0.0.0.0 www.star-advertising.com
 0.0.0.0 www.startnewtab.com
 0.0.0.0 www.studiomugnaini.eu
 0.0.0.0 www.subsitesadserver.co.uk
@@ -24482,6 +24495,7 @@
 0.0.0.0 oas.ibnlive.com
 0.0.0.0 oas.publicitas.ch
 0.0.0.0 oas.sciencemag.org
+0.0.0.0 oas.startribune.com
 0.0.0.0 oas.toronto.com
 0.0.0.0 oas.uniontrib.com
 0.0.0.0 oas.villagevoice.com
@@ -24657,6 +24671,7 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
+0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
@@ -24874,6 +24889,7 @@
 0.0.0.0 mens.1.p2l.info
 0.0.0.0 meridia.1.p2l.info
 0.0.0.0 meridia.3.p2l.info
+0.0.0.0 meridia.4.p2l.info
 0.0.0.0 meridiameridia.3xforum.ro
 0.0.0.0 mesotherapy.jino-net.ru
 0.0.0.0 mi.5.p2l.info
@@ -25064,6 +25080,7 @@
 0.0.0.0 www.computerxchange.com
 0.0.0.0 www.credit-dreams.com
 0.0.0.0 www.exe-file.de
+0.0.0.0 www.fetisch-pornos.cxa.de
 0.0.0.0 www.ficken-ficken-ficken.cxa.de
 0.0.0.0 www.ficken-xxx.cxa.de
 0.0.0.0 www.heimlich-gefilmt.cxa.de
