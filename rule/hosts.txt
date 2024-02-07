@@ -1,4 +1,4 @@
-# Update time: 2024-02-07 08:33:44
+# Update time: 2024-02-07 16:09:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -12390,6 +12390,7 @@
 0.0.0.0 msspjh.emarbox.com
 0.0.0.0 msspsvr.emarbox.com
 0.0.0.0 s.emarbox.com
+0.0.0.0 www.emarbox.com
 0.0.0.0 cm.fastapi.net
 0.0.0.0 g.fastapi.net
 0.0.0.0 l.fastapi.net
@@ -12966,6 +12967,7 @@
 0.0.0.0 cm.gtags.net
 0.0.0.0 cms.gtags.net
 0.0.0.0 dat.gtags.net
+0.0.0.0 uma.gtags.net
 0.0.0.0 ut.gtags.net
 0.0.0.0 s10.histats.com
 0.0.0.0 s4.histats.com
@@ -13791,6 +13793,7 @@
 0.0.0.0 ue.applovin.com
 0.0.0.0 zn7zcrzms3zdyzvrobkdqdrphkvijejz-a.applovin.com
 0.0.0.0 s.tribalfusion.com
+0.0.0.0 events.tribalfusion.com
 0.0.0.0 ads.tribalfusion.com
 0.0.0.0 a3.tribalfusion.com
 0.0.0.0 a-dev1.tribalfusion.com
@@ -16797,6 +16800,7 @@
 0.0.0.0 vieques.fr
 0.0.0.0 viessman.fr
 0.0.0.0 vietnamdiscovery.fr
+0.0.0.0 viglink.fr
 0.0.0.0 villepariis.fr
 0.0.0.0 vinoscout.fr
 0.0.0.0 vins-bourgorne.fr
@@ -16925,6 +16929,7 @@
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
+0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.launchbuffer.com
 0.0.0.0 www.magento-analytics.com
@@ -16962,6 +16967,7 @@
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.thunderbird.es
+0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.unetbootin.net
@@ -18229,6 +18235,7 @@
 0.0.0.0 32red.it
 0.0.0.0 360ads.com
 0.0.0.0 3fns.com
+0.0.0.0 411playz.com
 0.0.0.0 4c28d6.r.axf8.net
 0.0.0.0 4qinvite.4q.iperceptions.com
 0.0.0.0 4th3d48.com
@@ -18447,6 +18454,7 @@
 0.0.0.0 ad.pravda.ru
 0.0.0.0 ad.premiumonlinemedia.com
 0.0.0.0 ad.prv.pl
+0.0.0.0 ad.qyer.com
 0.0.0.0 ad.realist.gen.tr
 0.0.0.0 ad.realmcdn.net
 0.0.0.0 ad.reklamport.com
@@ -18475,6 +18483,7 @@
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad.zodera.hu
 0.0.0.0 ad0.haynet.com
+0.0.0.0 ad01.focalink.com
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad02.focalink.com
 0.0.0.0 ad03.focalink.com
@@ -19050,6 +19059,7 @@
 0.0.0.0 ads.nerve.com
 0.0.0.0 ads.netbul.com
 0.0.0.0 ads.networkwcs.net
+0.0.0.0 ads.networldmedia.net
 0.0.0.0 ads.neudesicmediagroup.com
 0.0.0.0 ads.newgrounds.com
 0.0.0.0 ads.newsint.co.uk
@@ -19301,6 +19311,7 @@
 0.0.0.0 ads4.advance.net
 0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.realcities.com
+0.0.0.0 ads4cheap.com
 0.0.0.0 ads4homes.com
 0.0.0.0 ads5.advance.net
 0.0.0.0 ads5.fxdepo.com
@@ -19706,6 +19717,7 @@
 0.0.0.0 ap.read.mediation.pns.ap.orangeads.fr
 0.0.0.0 apex-ad.com
 0.0.0.0 api-public.addthis.com
+0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api.adcalls.nl
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adlure.net
@@ -20059,6 +20071,7 @@
 0.0.0.0 c.th.msn.com
 0.0.0.0 c.tr.msn.com
 0.0.0.0 c.tw.msn.com
+0.0.0.0 c.uk.msn.com
 0.0.0.0 c.za.msn.com
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c1.cembuyukhanli.com
@@ -20307,6 +20320,7 @@
 0.0.0.0 code2.adtlgc.com
 0.0.0.0 codevexillium.org
 0.0.0.0 coin-ad.com
+0.0.0.0 coinad.com
 0.0.0.0 coinhits.com
 0.0.0.0 coinurl.com
 0.0.0.0 coinverti.com
@@ -20500,6 +20514,7 @@
 0.0.0.0 diesilberamis.meeriwelt.de
 0.0.0.0 diff1.smartadserver.com
 0.0.0.0 diff2.smartadserver.com
+0.0.0.0 diff3.smartadserver.com
 0.0.0.0 diff4.smartadserver.com
 0.0.0.0 digitaldsp.com
 0.0.0.0 dinsalgsvagt.adservinginternational.com
@@ -20525,6 +20540,7 @@
 0.0.0.0 dobbenetes.com
 0.0.0.0 docs-downloading.com
 0.0.0.0 doctorschoicenursing.com
+0.0.0.0 doesok.top
 0.0.0.0 dolohen.com
 0.0.0.0 dondolino.it
 0.0.0.0 dorianbaroque.org
@@ -21291,6 +21307,7 @@
 0.0.0.0 kh6.kimhasa.com
 0.0.0.0 kh7.kimhasa.com
 0.0.0.0 kilomniadst.info
+0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kitaramarketplace.com
 0.0.0.0 kitaramedia.com
 0.0.0.0 kithrup.matchlogic.com
@@ -21600,6 +21617,7 @@
 0.0.0.0 mirror.pointroll.com
 0.0.0.0 mizvan.com
 0.0.0.0 mjlunalaw.com
+0.0.0.0 mjonkers.nl
 0.0.0.0 mjxads.internet.com
 0.0.0.0 mklik.gazeta.pl
 0.0.0.0 ml314.com
@@ -21970,6 +21988,7 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
+0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -21990,6 +22009,7 @@
 0.0.0.0 ph-ad16.focalink.com
 0.0.0.0 ph-ad17.focalink.com
 0.0.0.0 ph-ad18.focalink.com
+0.0.0.0 ph-ad19.focalink.com
 0.0.0.0 ph-ad20.focalink.com
 0.0.0.0 ph-ad21.focalink.com
 0.0.0.0 ph-cdn.effectivemeasure.net
@@ -22017,6 +22037,7 @@
 0.0.0.0 phpads.flipcorp.com
 0.0.0.0 phpads.foundrymusic.com
 0.0.0.0 phpadsnew.wn.com
+0.0.0.0 phuphi.com
 0.0.0.0 pic.casee.cn
 0.0.0.0 pickytime.com
 0.0.0.0 pictures-album.com
@@ -22628,6 +22649,7 @@
 0.0.0.0 smartlifeguides.com
 0.0.0.0 smartshare.lgtvsdp.com
 0.0.0.0 smarttopchain.nl
+0.0.0.0 smitt.nl
 0.0.0.0 smokersopinionpoll.com
 0.0.0.0 smsmovies.net
 0.0.0.0 smutstone.com
@@ -22818,6 +22840,7 @@
 0.0.0.0 szupertanacsok.blog.hu
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t-o-kitano.com
+0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 t.dynad.net
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.mdn2015x3.com
@@ -22990,6 +23013,7 @@
 0.0.0.0 trendingpatrol.com
 0.0.0.0 trendnews.com
 0.0.0.0 trends.revcontent.com
+0.0.0.0 triangle.dealsaver.com
 0.0.0.0 tridentenvironmental.co.uk
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.etrigue.com
@@ -23150,6 +23174,7 @@
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 vnumedia03.webtrekk.net
 0.0.0.0 vnumedia04.webtrekk.net
+0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 vodoustoichivshperplat.com
 0.0.0.0 vodus-api-serverless.azurewebsites.net
 0.0.0.0 vodus-api.azurewebsites.net
@@ -23335,6 +23360,7 @@
 0.0.0.0 www.adtechus.com
 0.0.0.0 www.adtrader.com
 0.0.0.0 www.adtrix.com
+0.0.0.0 www.advaliant.com
 0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
@@ -23539,6 +23565,7 @@
 0.0.0.0 www.everifymatch.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 www.expoteam.net
+0.0.0.0 www.eyewonder.com
 0.0.0.0 www.ezl.com
 0.0.0.0 www.ezlink.ca
 0.0.0.0 www.fast-adv.it
@@ -24432,6 +24459,7 @@
 0.0.0.0 w23.hitbox.com
 0.0.0.0 w24.hitbox.com
 0.0.0.0 w25.hitbox.com
+0.0.0.0 w26.hitbox.com
 0.0.0.0 w27.hitbox.com
 0.0.0.0 w28.hitbox.com
 0.0.0.0 w29.hitbox.com
@@ -24606,6 +24634,7 @@
 0.0.0.0 te.scrippsnewspapersprivacy.com
 0.0.0.0 te.sfgate.com
 0.0.0.0 te.signonsandiego.com
+0.0.0.0 te.stamfordadvocate.com
 0.0.0.0 te.thestar.ca
 0.0.0.0 te.thestar.com
 0.0.0.0 te.trb.com
@@ -24728,6 +24757,7 @@
 0.0.0.0 buy-vicodin-online.supersite.fr
 0.0.0.0 buy-vicodin.hut1.ru
 0.0.0.0 buy-vicodin.iscool.nl
+0.0.0.0 buy-xanax-cheap-xanax-online.com
 0.0.0.0 buy-xanax.aztecaonline.net
 0.0.0.0 buy-xanax.hut1.ru
 0.0.0.0 buycialisonline.7h.com
@@ -24751,6 +24781,7 @@
 0.0.0.0 cash-advance.now-cash.com
 0.0.0.0 cat.onlinepeople.net
 0.0.0.0 cc5f.dnyp.com
+0.0.0.0 celebrex.1.p2l.info
 0.0.0.0 celexa.1.p2l.info
 0.0.0.0 celexa.3.p2l.info
 0.0.0.0 celexa.4.p2l.info
