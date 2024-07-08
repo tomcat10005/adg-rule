@@ -1,4 +1,4 @@
-# Update time: 2024-07-08 08:41:43
+# Update time: 2024-07-08 16:11:59
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -19384,6 +19384,7 @@
 0.0.0.0 adserv.maineguide.com
 0.0.0.0 adserv.mywebtimes.com
 0.0.0.0 adserv.postbulletin.com
+0.0.0.0 adserv.quality-channel.de
 0.0.0.0 adserv.usps.com
 0.0.0.0 adserv001.adtech.fr
 0.0.0.0 adserv001.adtech.us
@@ -20053,6 +20054,7 @@
 0.0.0.0 broadcast.piximedia.fr
 0.0.0.0 brokertraffic.com
 0.0.0.0 browser-tools.systems
+0.0.0.0 browsergames2018.com
 0.0.0.0 browsergames2019.com
 0.0.0.0 browserprotecter.com
 0.0.0.0 browsesentinel.com
@@ -20163,6 +20165,7 @@
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
+0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
 0.0.0.0 cam2cam.xlovecam.com
@@ -20746,6 +20749,7 @@
 0.0.0.0 falcon1.net
 0.0.0.0 falkag.net
 0.0.0.0 famwillems.nl
+0.0.0.0 fangirlmag.com
 0.0.0.0 farm.plista.com
 0.0.0.0 fastfixing.tech
 0.0.0.0 fasts-downloads.com
@@ -21315,6 +21319,7 @@
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.zevents.com
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsfactory.net
 0.0.0.0 jsn.dt07.net
 0.0.0.0 juggler.inetinteractive.com
@@ -21877,6 +21882,7 @@
 0.0.0.0 nytva-nmz.ru
 0.0.0.0 o0.winfuture.de
 0.0.0.0 o1.qnsr.com
+0.0.0.0 o2.eyereturn.com
 0.0.0.0 o3sndvzo25.com
 0.0.0.0 oads.cracked.com
 0.0.0.0 oamsrhads.us.publicus.com
@@ -22118,6 +22124,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 piz7ohhujogi.com
 0.0.0.0 pl.ads.justpremium.com
+0.0.0.0 pl.bbelements.com
 0.0.0.0 pl.betclic.com
 0.0.0.0 pl.spanel.gem.pl
 0.0.0.0 pl.web.toleadoo.com
@@ -22498,6 +22505,7 @@
 0.0.0.0 s.innovid.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 s.megaclick.com
+0.0.0.0 s.moatads.com
 0.0.0.0 s.ntv.io
 0.0.0.0 s.optnx.com
 0.0.0.0 s.oroll.com
@@ -22561,6 +22569,7 @@
 0.0.0.0 search.freeonline.com
 0.0.0.0 search.keywordblocks.com
 0.0.0.0 search.netseer.com
+0.0.0.0 search.spotxchange.com
 0.0.0.0 searchwe.com
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 secimage.adtech.fr
@@ -22932,6 +22941,7 @@
 0.0.0.0 tcadops.ca
 0.0.0.0 tcimg.com
 0.0.0.0 tcss.qq.com
+0.0.0.0 tdameritrade.tt.omtrdc.net
 0.0.0.0 tdc.advertorials.dk
 0.0.0.0 te.kontera.com
 0.0.0.0 te1.techgeetam.com
@@ -23072,6 +23082,7 @@
 0.0.0.0 trendingpatrol.com
 0.0.0.0 trendnews.com
 0.0.0.0 trends.revcontent.com
+0.0.0.0 triangle.dealsaver.com
 0.0.0.0 tridentenvironmental.co.uk
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.etrigue.com
@@ -23198,10 +23209,12 @@
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 victorlutte.cl
+0.0.0.0 vidamsag.postr.hu
 0.0.0.0 video-bazis.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
 0.0.0.0 videobox.com
+0.0.0.0 videocop.com
 0.0.0.0 videoegg.adbureau.net
 0.0.0.0 videogamerewardscentral.com
 0.0.0.0 videomediagroep.nl
@@ -23250,6 +23263,7 @@
 0.0.0.0 vq91811.com
 0.0.0.0 vu.veoxa.com
 0.0.0.0 vzarabotke.ru
+0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.ic.tynt.com
 0.0.0.0 w1.am15.net
 0.0.0.0 w1.webcompteur.com
@@ -23422,6 +23436,7 @@
 0.0.0.0 www.adtechus.com
 0.0.0.0 www.adtrader.com
 0.0.0.0 www.adtrix.com
+0.0.0.0 www.advaliant.com
 0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
@@ -23451,6 +23466,7 @@
 0.0.0.0 www.andyhawk.free-online.co.uk
 0.0.0.0 www.andymurray.plus.com
 0.0.0.0 www.annuaire-autosurf.com
+0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.api.taboola.com
 0.0.0.0 www.apogara.plus.com
 0.0.0.0 www.applelounge.com
@@ -23702,6 +23718,7 @@
 0.0.0.0 www.hibids10.com
 0.0.0.0 www.hieroglyph.freeuk.com
 0.0.0.0 www.hightrafficads.com
+0.0.0.0 www.hiroden-con.jp
 0.0.0.0 www.histats.com
 0.0.0.0 www.hooqy.com
 0.0.0.0 www.hotchatdate.com
@@ -23777,6 +23794,7 @@
 0.0.0.0 www.lpmxp2024.com
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.lysabarnard.plus.com
+0.0.0.0 www.m2trk.com
 0.0.0.0 www.ma-kaeser.ch
 0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.macatawa.org
@@ -23972,6 +23990,7 @@
 0.0.0.0 www.subsitesadserver.co.uk
 0.0.0.0 www.sudokuwhiz.com
 0.0.0.0 www.sun-inet.or.jp
+0.0.0.0 www.superbrewards.com
 0.0.0.0 www.superinterstitial.com
 0.0.0.0 www.surplus-suppliers.com
 0.0.0.0 www.sweetsforfree.com
@@ -24636,6 +24655,7 @@
 0.0.0.0 oascentral.looksmart.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
+0.0.0.0 oascentral.minnpost.com
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
@@ -24825,6 +24845,7 @@
 0.0.0.0 buy-vicodin.hut1.ru
 0.0.0.0 buy-vicodin.iscool.nl
 0.0.0.0 buy-xanax-cheap-xanax-online.com
+0.0.0.0 buy-xanax.aztecaonline.net
 0.0.0.0 buy-xanax.hut1.ru
 0.0.0.0 buycialisonline.7h.com
 0.0.0.0 buyfioricet.findmenow.info
@@ -25118,6 +25139,7 @@
 0.0.0.0 viagra-pill.blogspot.com
 0.0.0.0 viagra-soft-tabs.1.p2l.info
 0.0.0.0 viagra-store.shengen.ru
+0.0.0.0 viagra.1.p2l.info
 0.0.0.0 viagra.3.p2l.info
 0.0.0.0 viagra.4.p2l.info
 0.0.0.0 viagraviagra.3xforum.ro
@@ -25239,4 +25261,5 @@
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 statsfe2.ws.microsoft.com
