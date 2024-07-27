@@ -1,4 +1,4 @@
-# Update time: 2024-07-27 08:40:31
+# Update time: 2024-07-27 16:10:25
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -14418,6 +14418,7 @@
 0.0.0.0 counter30.bravenet.com
 0.0.0.0 counter31.bravenet.com
 0.0.0.0 counter32.bravenet.com
+0.0.0.0 counter33.bravenet.com
 0.0.0.0 counter34.bravenet.com
 0.0.0.0 counter35.bravenet.com
 0.0.0.0 counter36.bravenet.com
@@ -15482,6 +15483,7 @@
 0.0.0.0 audacity.pl
 0.0.0.0 augi.fr
 0.0.0.0 auirbnb.fr
+0.0.0.0 autheasywinformationreq.com
 0.0.0.0 authscotia-signinscotia.com
 0.0.0.0 auto-entrereneur.fr
 0.0.0.0 autohipnose.com
@@ -17019,6 +17021,7 @@
 0.0.0.0 www.unetbootin.org
 0.0.0.0 www.upgradebasic.com
 0.0.0.0 www.uqz.com
+0.0.0.0 www.urldelivery.com
 0.0.0.0 www.venturead.com
 0.0.0.0 www.videolove.clanteam.com
 0.0.0.0 www.videostan.ru
@@ -18530,6 +18533,7 @@
 0.0.0.0 ad.zanox.com
 0.0.0.0 ad.zodera.hu
 0.0.0.0 ad0.haynet.com
+0.0.0.0 ad01.focalink.com
 0.0.0.0 ad01.mediacorpsingapore.com
 0.0.0.0 ad02.focalink.com
 0.0.0.0 ad03.focalink.com
@@ -18881,7 +18885,6 @@
 0.0.0.0 ads.araba.com
 0.0.0.0 ads.aroundtherings.com
 0.0.0.0 ads.as4x.tmcs.net
-0.0.0.0 ads.as4x.tmcs.ticketmaster.com
 0.0.0.0 ads.aspalliance.com
 0.0.0.0 ads.aspentimes.com
 0.0.0.0 ads.associatedcontent.com
@@ -19133,7 +19136,6 @@
 0.0.0.0 ads.oregonlive.com
 0.0.0.0 ads.osdn.com
 0.0.0.0 ads.panoramtech.net
-0.0.0.0 ads.paper.li
 0.0.0.0 ads.parrysound.com
 0.0.0.0 ads.paxnet.co.kr
 0.0.0.0 ads.peel.com
@@ -19289,6 +19291,7 @@
 0.0.0.0 ads.yimg.com.edgesuite.net
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.youtube.com
+0.0.0.0 ads.zamunda.se
 0.0.0.0 ads.zynga.com
 0.0.0.0 ads01.com
 0.0.0.0 ads01.focalink.com
@@ -20021,6 +20024,7 @@
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 blueeyesintelligence.org
 0.0.0.0 bmgiventures.com
+0.0.0.0 bn.bfast.com
 0.0.0.0 bnmgr.adinjector.net
 0.0.0.0 bnrs.ilm.ee
 0.0.0.0 bodelen.com
@@ -20269,6 +20273,7 @@
 0.0.0.0 cent.adbureau.net
 0.0.0.0 center-message-mobile.com
 0.0.0.0 certifiedwinners.info
+0.0.0.0 cetelemportugal2.solution.weborama.fr
 0.0.0.0 cf.kampyle.com
 0.0.0.0 cfg.adsmogo.com
 0.0.0.0 cfg.datafastguru.info
@@ -20320,6 +20325,7 @@
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.minimob.com
+0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks.totemcash.com
 0.0.0.0 clicks.toteme.com
 0.0.0.0 clicks.virtuagirl.com
@@ -21174,6 +21180,7 @@
 0.0.0.0 import.globalsources.com
 0.0.0.0 import43.com
 0.0.0.0 imppl.tradedoubler.com
+0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imrk.net
 0.0.0.0 imserv001.adtech.fr
 0.0.0.0 imserv001.adtech.us
@@ -21363,6 +21370,7 @@
 0.0.0.0 klikk.linkpulse.com
 0.0.0.0 kliks.affiliate4you.nl
 0.0.0.0 kliksaya.com
+0.0.0.0 klipmart.forbes.com
 0.0.0.0 knc.lv
 0.0.0.0 kodu.neti.ee
 0.0.0.0 konax.kontera.com
@@ -21952,6 +21960,7 @@
 0.0.0.0 opsonew3org.sg
 0.0.0.0 optimaconsulting.com.au
 0.0.0.0 optimize.indieclick.com
+0.0.0.0 optimized.by.vitalads.net
 0.0.0.0 ordie.adbureau.net
 0.0.0.0 organic-harmony.com
 0.0.0.0 organikusok.blogspot.hu
@@ -22038,7 +22047,6 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
-0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -22553,6 +22561,7 @@
 0.0.0.0 search.freeonline.com
 0.0.0.0 search.keywordblocks.com
 0.0.0.0 search.netseer.com
+0.0.0.0 search.spotxchange.com
 0.0.0.0 searchwe.com
 0.0.0.0 sec.hit.gemius.pl
 0.0.0.0 secimage.adtech.fr
@@ -22795,6 +22804,7 @@
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freenet.de
 0.0.0.0 static.freeskreen.com
+0.0.0.0 static.ifa.camads.net
 0.0.0.0 static.l3.cdn.adbucks.com
 0.0.0.0 static.l3.cdn.adsucks.com
 0.0.0.0 static.linkz.net
@@ -22851,6 +22861,7 @@
 0.0.0.0 support.sweepstakes.com
 0.0.0.0 suprama.online
 0.0.0.0 surfindave.com
+0.0.0.0 surfsecured.net
 0.0.0.0 surplus-suppliers.com
 0.0.0.0 survey.china.alibaba.com
 0.0.0.0 survey.nuggad.net
@@ -23037,6 +23048,7 @@
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.veoxa.com
 0.0.0.0 trackvoluum.com
+0.0.0.0 tradearabia.advertserve.com
 0.0.0.0 tradelax.com
 0.0.0.0 tradem.com
 0.0.0.0 tradetracker.net
@@ -23061,7 +23073,6 @@
 0.0.0.0 trendingpatrol.com
 0.0.0.0 trendnews.com
 0.0.0.0 trends.revcontent.com
-0.0.0.0 triangle.dealsaver.com
 0.0.0.0 tridentenvironmental.co.uk
 0.0.0.0 trk.ablogica.com
 0.0.0.0 trk.etrigue.com
@@ -23075,6 +23086,7 @@
 0.0.0.0 tsbm.ch
 0.0.0.0 tsp2002.com
 0.0.0.0 tste.startribune.com
+0.0.0.0 tsyndicate.com
 0.0.0.0 ttarget.adbureau.net
 0.0.0.0 ttnet.yandex.com.tr
 0.0.0.0 ttoc8ok.com
@@ -23187,6 +23199,7 @@
 0.0.0.0 vibrantmedia.com
 0.0.0.0 vice-ads-cdn.vice.com
 0.0.0.0 victorlutte.cl
+0.0.0.0 vidamsag.postr.hu
 0.0.0.0 video-bazis.com
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
@@ -23239,6 +23252,7 @@
 0.0.0.0 vq91811.com
 0.0.0.0 vu.veoxa.com
 0.0.0.0 vzarabotke.ru
+0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.ic.tynt.com
 0.0.0.0 w1.am15.net
 0.0.0.0 w1.webcompteur.com
@@ -23290,6 +23304,7 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 widespace.com
 0.0.0.0 widget.achetezfacile.com
+0.0.0.0 widget.adcovery.com
 0.0.0.0 widget3.linkwithin.com
 0.0.0.0 widget5.linkwithin.com
 0.0.0.0 widgets.amung.us
@@ -23325,6 +23340,7 @@
 0.0.0.0 wtp101.com
 0.0.0.0 ww1.flashx.net
 0.0.0.0 ww1510.smartadserver.com
+0.0.0.0 ww690.smartadserver.com
 0.0.0.0 www-x-videos.com
 0.0.0.0 www.0202.com.tw
 0.0.0.0 www.1-1ads.com
@@ -23358,6 +23374,7 @@
 0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.adbrite.com
 0.0.0.0 www.adcanadian.com
+0.0.0.0 www.adcash.com
 0.0.0.0 www.addthis.com
 0.0.0.0 www.adengage.com
 0.0.0.0 www.adexchangecloud.com
@@ -23612,6 +23629,7 @@
 0.0.0.0 www.eshopads2.com
 0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
+0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 www.expoteam.net
@@ -23763,6 +23781,7 @@
 0.0.0.0 www.lpmxp2024.com
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.lysabarnard.plus.com
+0.0.0.0 www.m2trk.com
 0.0.0.0 www.ma-kaeser.ch
 0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.macatawa.org
@@ -24221,6 +24240,7 @@
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zemgo.com
 0.0.0.0 zeroredirect.com
+0.0.0.0 zeroredirect1.com
 0.0.0.0 zeroredirect11.com
 0.0.0.0 zeroredirect12.com
 0.0.0.0 zeroredirect2.com
@@ -24621,6 +24641,7 @@
 0.0.0.0 oascentral.looksmart.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
+0.0.0.0 oascentral.minnpost.com
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
@@ -24653,6 +24674,7 @@
 0.0.0.0 oascentral.tnr.com
 0.0.0.0 oascentral.tourismvancouver.com
 0.0.0.0 oascentral.townhall.com
+0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
@@ -24741,6 +24763,7 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
+0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
@@ -24772,6 +24795,7 @@
 0.0.0.0 arthritis.atspace.com
 0.0.0.0 as.5.p2l.info
 0.0.0.0 ativan.ourtablets.com
+0.0.0.0 auto.allewagen.de
 0.0.0.0 az.5.p2l.info
 0.0.0.0 azz.badazz.org
 0.0.0.0 balabass.peerserver.com
@@ -24807,6 +24831,7 @@
 0.0.0.0 buy-vicodin.hut1.ru
 0.0.0.0 buy-vicodin.iscool.nl
 0.0.0.0 buy-xanax-cheap-xanax-online.com
+0.0.0.0 buy-xanax.aztecaonline.net
 0.0.0.0 buy-xanax.hut1.ru
 0.0.0.0 buycialisonline.7h.com
 0.0.0.0 buyfioricet.findmenow.info
@@ -25134,6 +25159,7 @@
 0.0.0.0 wv.5.p2l.info
 0.0.0.0 www.31d.net
 0.0.0.0 www.adspoll.com
+0.0.0.0 www.adult-top-list.com
 0.0.0.0 www.aektschen.de
 0.0.0.0 www.aeqs.com
 0.0.0.0 www.atlantis-asia.com
@@ -25161,6 +25187,7 @@
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.obesitycheck.com
 0.0.0.0 www.pawnauctions.net
+0.0.0.0 www.poker-new.com
 0.0.0.0 www.poker-unique.com
 0.0.0.0 www.poker4spain.com
 0.0.0.0 www.porno-lesben.cxa.de
@@ -25219,4 +25246,5 @@
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 cds26.ams9.msecn.net
+0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 statsfe2.ws.microsoft.com
