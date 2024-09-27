@@ -1,4 +1,4 @@
-# Update time: 2024-09-27 08:46:49
+# Update time: 2024-09-27 16:13:29
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -19180,6 +19180,7 @@
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 ads.rdstore.com
 0.0.0.0 ads.realcastmedia.com
+0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.register.com
@@ -20173,7 +20174,6 @@
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
-0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
 0.0.0.0 cam2cam.xlovecam.com
@@ -23801,6 +23801,7 @@
 0.0.0.0 www.lpmxp2024.com
 0.0.0.0 www.lucky-day-uk.com
 0.0.0.0 www.lysabarnard.plus.com
+0.0.0.0 www.m2trk.com
 0.0.0.0 www.ma-kaeser.ch
 0.0.0.0 www.maaxmarket.com
 0.0.0.0 www.macatawa.org
@@ -24661,6 +24662,7 @@
 0.0.0.0 oascentral.looksmart.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
+0.0.0.0 oascentral.minnpost.com
 0.0.0.0 oascentral.mochila.com
 0.0.0.0 oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
@@ -24782,7 +24784,6 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
-0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
