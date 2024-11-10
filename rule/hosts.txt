@@ -1,4 +1,4 @@
-# Update time: 2024-11-10 08:51:03
+# Update time: 2024-11-10 16:11:35
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -13138,6 +13138,7 @@
 0.0.0.0 www.startappexchange.com
 0.0.0.0 c2.statcounter.com
 0.0.0.0 secure.statcounter.com
+0.0.0.0 www.statcounter.com
 0.0.0.0 px.steelhousemedia.com
 0.0.0.0 rto.steelhousemedia.com
 0.0.0.0 15.taboola.com
@@ -15297,7 +15298,6 @@
 0.0.0.0 www.specificpop.com
 0.0.0.0 www.spklds.com
 0.0.0.0 www.statcount.com
-0.0.0.0 www.statcounter.com
 0.0.0.0 www.statsession.com
 0.0.0.0 www.stattrax.com
 0.0.0.0 www.stiffnetwork.com
@@ -18379,6 +18379,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -22072,6 +22073,7 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
+0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -24709,6 +24711,7 @@
 0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
