@@ -1,4 +1,4 @@
-# Update time: 2024-11-29 08:52:01
+# Update time: 2024-11-29 16:14:05
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -14416,7 +14416,6 @@
 0.0.0.0 counter30.bravenet.com
 0.0.0.0 counter31.bravenet.com
 0.0.0.0 counter32.bravenet.com
-0.0.0.0 counter33.bravenet.com
 0.0.0.0 counter34.bravenet.com
 0.0.0.0 counter35.bravenet.com
 0.0.0.0 counter36.bravenet.com
@@ -15760,7 +15759,6 @@
 0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
-0.0.0.0 digipote.fr
 0.0.0.0 digipsote.fr
 0.0.0.0 digitfoto.fr
 0.0.0.0 diomedia.fr
@@ -17117,7 +17115,6 @@
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 ukrpts.net
-0.0.0.0 contactmusic.uk.intellitxt.com
 0.0.0.0 ferrago.uk.intellitxt.com
 0.0.0.0 freedownloadcenter.uk.intellitxt.com
 0.0.0.0 gadgets.fosfor.se.intellitxt.com
@@ -17157,6 +17154,7 @@
 0.0.0.0 jgen14.cjt1.net
 0.0.0.0 jgen15.cjt1.net
 0.0.0.0 jgen16.cjt1.net
+0.0.0.0 jgen17.cjt1.net
 0.0.0.0 jgen18.cjt1.net
 0.0.0.0 jgen19.cjt1.net
 0.0.0.0 jgen2.cjt1.net
@@ -17783,7 +17781,6 @@
 0.0.0.0 warda.oewabox.at
 0.0.0.0 webprog.oewabox.at
 0.0.0.0 wfussb.oewabox.at
-0.0.0.0 wienerz.oewabox.at
 0.0.0.0 wiengvat.oewabox.at
 0.0.0.0 willhab.oewabox.at
 0.0.0.0 wirtvlg.oewabox.at
@@ -18054,7 +18051,6 @@
 0.0.0.0 nouvelles247.com
 0.0.0.0 novosti247.com
 0.0.0.0 now-online.net
-0.0.0.0 nsoqa.com
 0.0.0.0 offspringperform.net
 0.0.0.0 old-glasses.net
 0.0.0.0 online-loading.com
@@ -18304,7 +18300,6 @@
 0.0.0.0 6kup12tgxx.com
 0.0.0.0 7500.com
 0.0.0.0 76.a.boom.ro
-0.0.0.0 7adpower.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7xc4n.com
 0.0.0.0 820.joomsearch.com
@@ -18479,7 +18474,6 @@
 0.0.0.0 ad.icasthq.com
 0.0.0.0 ad.iconadserver.com
 0.0.0.0 ad.iloveinterracial.com
-0.0.0.0 ad.insightexpressai.com
 0.0.0.0 ad.ir.ru
 0.0.0.0 ad.jamba.net
 0.0.0.0 ad.jamster.ca
@@ -19833,6 +19827,7 @@
 0.0.0.0 asb.tynt.com
 0.0.0.0 ash.creativecdn.com
 0.0.0.0 ask-gps.ru
+0.0.0.0 asklots.com
 0.0.0.0 asm2.z1.adserver.com
 0.0.0.0 asm3.z1.adserver.com
 0.0.0.0 asmedia.adsupplyssl.com
@@ -19846,6 +19841,7 @@
 0.0.0.0 at.m1.nedstatbasic.net
 0.0.0.0 atemda.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 atout-energie-69.com
 0.0.0.0 au.ads.link4ads.com
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -19966,7 +19962,6 @@
 0.0.0.0 beacon-3.newrelic.com
 0.0.0.0 beaconin2.notinote.me
 0.0.0.0 bell.adcentriconline.com
-0.0.0.0 benimreklam.com
 0.0.0.0 best2017games.com
 0.0.0.0 best2019-games-web1.com
 0.0.0.0 best2020-games-web1.com
@@ -20025,6 +20020,7 @@
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 blueeyesintelligence.org
 0.0.0.0 bmgiventures.com
+0.0.0.0 bn.bfast.com
 0.0.0.0 bnmgr.adinjector.net
 0.0.0.0 bnrs.ilm.ee
 0.0.0.0 bodelen.com
@@ -20533,7 +20529,6 @@
 0.0.0.0 delivery.adyea.com
 0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 delivery.myswitchads.com
-0.0.0.0 delivery.reklamz.com
 0.0.0.0 delivery.swid.switchads.com
 0.0.0.0 delivery.trafficjunky.net
 0.0.0.0 delivery.us.myswitchads.com
@@ -21311,6 +21306,7 @@
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.zevents.com
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsfactory.net
 0.0.0.0 jsn.dt07.net
 0.0.0.0 juggler.inetinteractive.com
@@ -21953,6 +21949,7 @@
 0.0.0.0 openxxx.viragemedia.com
 0.0.0.0 oplaca-sie.pl
 0.0.0.0 opr.adx.opera.com
+0.0.0.0 opsonew3org.sg
 0.0.0.0 optimaconsulting.com.au
 0.0.0.0 optimize.indieclick.com
 0.0.0.0 optimized.by.vitalads.net
@@ -22105,7 +22102,6 @@
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel-secure.solvemedia.com
-0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.watch
@@ -22237,7 +22233,6 @@
 0.0.0.0 protection.MDpolice.com
 0.0.0.0 protection.MEpolice.com
 0.0.0.0 protection.MNpolice.com
-0.0.0.0 protection.NApolice.com
 0.0.0.0 protection.NCpolice.com
 0.0.0.0 protection.NZpolice.com
 0.0.0.0 protection.PApolice.com
@@ -22277,7 +22272,6 @@
 0.0.0.0 publishers.bidtraffic.com
 0.0.0.0 publishing.kalooga.com
 0.0.0.0 pubpress.net
-0.0.0.0 pubserver.xl.pt
 0.0.0.0 pubshop.img.uol.com.br
 0.0.0.0 purryowl.com
 0.0.0.0 push-ad.com
@@ -22379,7 +22373,6 @@
 0.0.0.0 reporter.adtech.fr
 0.0.0.0 reporter.adtech.us
 0.0.0.0 reporter001.adtech.fr
-0.0.0.0 reporter001.adtech.us
 0.0.0.0 reportimage.adtech.fr
 0.0.0.0 reportimage.adtech.us
 0.0.0.0 reporting.aatkit.com
@@ -22628,7 +22621,6 @@
 0.0.0.0 services.adtech.fr
 0.0.0.0 services.adtech.us
 0.0.0.0 services1.adtech.fr
-0.0.0.0 services1.adtech.us
 0.0.0.0 serving-sys.com
 0.0.0.0 serving.plexop.net
 0.0.0.0 serving.stat-rock.com
@@ -22820,6 +22812,7 @@
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 statistic.ads24h.net
 0.0.0.0 statistik-gallup.dk
+0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.defense.gov
 0.0.0.0 stats.fd.nl
 0.0.0.0 stats.shopify.com
@@ -22970,6 +22963,7 @@
 0.0.0.0 this.content.served.by.addshuffle.com
 0.0.0.0 this.content.served.by.adshuffle.com
 0.0.0.0 throwingsevens.co.uk
+0.0.0.0 thruport.com
 0.0.0.0 tic.filmstoon.cam
 0.0.0.0 tidebuy.com
 0.0.0.0 tiltott.net
@@ -23164,6 +23158,7 @@
 0.0.0.0 v2profit.com
 0.0.0.0 v3.toolbar.soso.com
 0.0.0.0 v3.viayonetici.com
+0.0.0.0 v4.viayonetici.com
 0.0.0.0 v5.viayonetici.com
 0.0.0.0 v6.viayonetici.com
 0.0.0.0 v7.viayonetici.com
@@ -23228,7 +23223,6 @@
 0.0.0.0 vnumedia02.webtrekk.net
 0.0.0.0 vnumedia03.webtrekk.net
 0.0.0.0 vnumedia04.webtrekk.net
-0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 vodoustoichivshperplat.com
 0.0.0.0 vodus-api-serverless.azurewebsites.net
 0.0.0.0 vodus-api.azurewebsites.net
@@ -23332,7 +23326,6 @@
 0.0.0.0 wtp101.com
 0.0.0.0 ww1.flashx.net
 0.0.0.0 ww1510.smartadserver.com
-0.0.0.0 ww690.smartadserver.com
 0.0.0.0 www-x-videos.com
 0.0.0.0 www.0202.com.tw
 0.0.0.0 www.1-1ads.com
@@ -23600,7 +23593,6 @@
 0.0.0.0 www.diaita.ch
 0.0.0.0 www.digimedia.com
 0.0.0.0 www.directnetadvertising.net
-0.0.0.0 www.dirtyrhino.com
 0.0.0.0 www.djugoogs.com
 0.0.0.0 www.dragonawaken.com
 0.0.0.0 www.drowle.com
@@ -23998,7 +23990,6 @@
 0.0.0.0 www.topconsumergifts.com
 0.0.0.0 www.topdemaroc.com
 0.0.0.0 www.topreward.site
-0.0.0.0 www.topsecretmagic.co.uk
 0.0.0.0 www.topworld.nl
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.track2cash.com
@@ -24452,6 +24443,7 @@
 0.0.0.0 w1.hitbox.com
 0.0.0.0 w10.hitbox.com
 0.0.0.0 w100.hitbox.com
+0.0.0.0 w101.hitbox.com
 0.0.0.0 w102.hitbox.com
 0.0.0.0 w103.hitbox.com
 0.0.0.0 w104.hitbox.com
@@ -24602,6 +24594,7 @@
 0.0.0.0 oascentral.chron.com
 0.0.0.0 oascentral.citypages.com
 0.0.0.0 oascentral.clearchannel.com
+0.0.0.0 oascentral.comcast.net
 0.0.0.0 oascentral.comics.com
 0.0.0.0 oascentral.construction.com
 0.0.0.0 oascentral.consumerreports.org
@@ -24814,7 +24807,6 @@
 0.0.0.0 buy-xanax-cheap-xanax-online.com
 0.0.0.0 buy-xanax.aztecaonline.net
 0.0.0.0 buy-xanax.hut1.ru
-0.0.0.0 buycialisonline.7h.com
 0.0.0.0 buyfioricet.findmenow.info
 0.0.0.0 buyfioricetonline.7h.com
 0.0.0.0 buyfioricetonline.freeservers.com
@@ -25066,6 +25058,7 @@
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
+0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
@@ -25113,7 +25106,6 @@
 0.0.0.0 vicodin.t-amo.net
 0.0.0.0 viewtools.com
 0.0.0.0 vioxx.1.p2l.info
-0.0.0.0 vitalitymax.1.p2l.info
 0.0.0.0 vt.5.p2l.info
 0.0.0.0 wa.5.p2l.info
 0.0.0.0 water-bed.8p.org.uk
@@ -25148,7 +25140,6 @@
 0.0.0.0 www.bigsister-puff.cxa.de
 0.0.0.0 www.bigsister.cxa.de
 0.0.0.0 www.bitlocker.net
-0.0.0.0 www.cheap-online-stamp.cast.cc
 0.0.0.0 www.computerxchange.com
 0.0.0.0 www.credit-dreams.com
 0.0.0.0 www.exe-file.de
