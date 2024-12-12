@@ -1,4 +1,4 @@
-# Update time: 2024-12-12 00:13:30
+# Update time: 2024-12-12 08:52:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -14180,6 +14180,7 @@
 0.0.0.0 20585485p.rfihub.com
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
+0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3dns-4.adobe.com
 0.0.0.0 3dns.adobe.com
 0.0.0.0 4-counter.com
@@ -15706,7 +15707,6 @@
 0.0.0.0 conseil-coaching-jardinage.fr
 0.0.0.0 conseildentaire.fr
 0.0.0.0 consorsbank.fr
-0.0.0.0 consumerspanel.frge.io
 0.0.0.0 cookeatshare.fr
 0.0.0.0 coordino.com
 0.0.0.0 cosmopolian.fr
@@ -18381,7 +18381,6 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
-0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -19073,7 +19072,6 @@
 0.0.0.0 ads.injersey.com
 0.0.0.0 ads.intellicast.com
 0.0.0.0 ads.internic.co.il
-0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.ireport.com
 0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 ads.itv.com
@@ -21207,6 +21205,7 @@
 0.0.0.0 import.globalsources.com
 0.0.0.0 import43.com
 0.0.0.0 imppl.tradedoubler.com
+0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imrk.net
 0.0.0.0 imserv001.adtech.fr
 0.0.0.0 imserv001.adtech.us
@@ -21536,7 +21535,6 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
-0.0.0.0 m.quantcount.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
@@ -22074,7 +22072,6 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
-0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -23663,6 +23660,7 @@
 0.0.0.0 www.eshopads2.com
 0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
+0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 www.expoteam.net
@@ -24709,6 +24707,7 @@
 0.0.0.0 oascentral.tnr.com
 0.0.0.0 oascentral.tourismvancouver.com
 0.0.0.0 oascentral.townhall.com
+0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
@@ -25221,7 +25220,6 @@
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.obesitycheck.com
 0.0.0.0 www.pawnauctions.net
-0.0.0.0 www.poker-new.com
 0.0.0.0 www.poker-unique.com
 0.0.0.0 www.poker4spain.com
 0.0.0.0 www.porno-lesben.cxa.de
