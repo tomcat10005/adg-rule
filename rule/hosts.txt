@@ -1,4 +1,4 @@
-# Update time: 2024-12-24 16:13:19
+# Update time: 2024-12-25 00:11:26
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -15708,6 +15708,7 @@
 0.0.0.0 conseil-coaching-jardinage.fr
 0.0.0.0 conseildentaire.fr
 0.0.0.0 consorsbank.fr
+0.0.0.0 consumerspanel.frge.io
 0.0.0.0 cookeatshare.fr
 0.0.0.0 coordino.com
 0.0.0.0 cosmopolian.fr
@@ -17386,6 +17387,7 @@
 0.0.0.0 gntbcstglobal.112.2o7.net
 0.0.0.0 gntbcstkxtv.112.2o7.net
 0.0.0.0 gntbcstwtsp.112.2o7.net
+0.0.0.0 gpaper104.112.2o7.net
 0.0.0.0 gpaper105.112.2o7.net
 0.0.0.0 gpaper107.112.2o7.net
 0.0.0.0 gpaper108.112.2o7.net
@@ -18382,6 +18384,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -19192,6 +19195,7 @@
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 ads.rdstore.com
 0.0.0.0 ads.realcastmedia.com
+0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.register.com
@@ -19706,6 +19710,7 @@
 0.0.0.0 afdyfxfrwbfy.com
 0.0.0.0 afe.specificclick.net
 0.0.0.0 afe2.specificclick.net
+0.0.0.0 aff.promodeals.nl
 0.0.0.0 aff.ringtonepartner.com
 0.0.0.0 aff3.gittigidiyor.com
 0.0.0.0 affiliate-fr.com
@@ -20185,6 +20190,7 @@
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
+0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
 0.0.0.0 cam2cam.xlovecam.com
@@ -21338,6 +21344,7 @@
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.zevents.com
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsfactory.net
 0.0.0.0 jsn.dt07.net
 0.0.0.0 juggler.inetinteractive.com
@@ -21373,6 +21380,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
+0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -21534,6 +21542,7 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
+0.0.0.0 m.quantcount.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
@@ -22071,6 +22080,7 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
+0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -24709,6 +24719,7 @@
 0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -25116,6 +25127,7 @@
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
+0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
