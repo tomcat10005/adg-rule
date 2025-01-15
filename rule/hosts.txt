@@ -1,4 +1,4 @@
-# Update time: 2025-01-15 00:12:01
+# Update time: 2025-01-15 08:47:20
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -14180,7 +14180,6 @@
 0.0.0.0 20585485p.rfihub.com
 0.0.0.0 3dns-1.adobe.com
 0.0.0.0 3dns-2.adobe.com
-0.0.0.0 3dns-3.adobe.com
 0.0.0.0 3dns-4.adobe.com
 0.0.0.0 3dns.adobe.com
 0.0.0.0 4-counter.com
@@ -14279,6 +14278,7 @@
 0.0.0.0 c5.statcounter.com
 0.0.0.0 c6.statcounter.com
 0.0.0.0 c7.statcounter.com
+0.0.0.0 c8.statcounter.com
 0.0.0.0 c9.statcounter.com
 0.0.0.0 ca.cqcounter.com
 0.0.0.0 cashcounter.com
@@ -17389,6 +17389,7 @@
 0.0.0.0 gntbcstglobal.112.2o7.net
 0.0.0.0 gntbcstkxtv.112.2o7.net
 0.0.0.0 gntbcstwtsp.112.2o7.net
+0.0.0.0 gpaper104.112.2o7.net
 0.0.0.0 gpaper105.112.2o7.net
 0.0.0.0 gpaper107.112.2o7.net
 0.0.0.0 gpaper108.112.2o7.net
@@ -17480,6 +17481,7 @@
 0.0.0.0 jitmj4.122.2o7.net
 0.0.0.0 johnlewis.112.2o7.net
 0.0.0.0 journalregistercompany.122.2o7.net
+0.0.0.0 kddi.122.2o7.net
 0.0.0.0 krafteurope.112.2o7.net
 0.0.0.0 ktva.112.2o7.net
 0.0.0.0 ladieshj.112.2o7.net
@@ -18384,6 +18386,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -18585,7 +18588,6 @@
 0.0.0.0 ad12.bannerbank.ru
 0.0.0.0 ad12.checkm8.com
 0.0.0.0 ad12.focalink.com
-0.0.0.0 ad12digital.checkm8.com
 0.0.0.0 ad13.checkm8.com
 0.0.0.0 ad13.focalink.com
 0.0.0.0 ad131m.adk2.co
@@ -18720,7 +18722,6 @@
 0.0.0.0 ad8digital.checkm8.com
 0.0.0.0 ad9.bannerbank.ru
 0.0.0.0 ad9.checkm8.com
-0.0.0.0 ad9digital.checkm8.com
 0.0.0.0 adagiobanner.s3.amazonaws.com
 0.0.0.0 adaos-ads.net
 0.0.0.0 adap.tv
@@ -19315,6 +19316,7 @@
 0.0.0.0 ads.yimg.com.edgesuite.net
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.youtube.com
+0.0.0.0 ads.zamunda.se
 0.0.0.0 ads.zynga.com
 0.0.0.0 ads01.com
 0.0.0.0 ads01.focalink.com
@@ -19707,6 +19709,7 @@
 0.0.0.0 afdyfxfrwbfy.com
 0.0.0.0 afe.specificclick.net
 0.0.0.0 afe2.specificclick.net
+0.0.0.0 aff.promodeals.nl
 0.0.0.0 aff.ringtonepartner.com
 0.0.0.0 aff3.gittigidiyor.com
 0.0.0.0 affiliate-fr.com
@@ -20204,7 +20207,6 @@
 0.0.0.0 cas.clickability.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cashback.co.uk
-0.0.0.0 cashbackwow.co.uk
 0.0.0.0 cashflowmarketing.com
 0.0.0.0 cashreportz.com
 0.0.0.0 casino770.com
@@ -20350,7 +20352,6 @@
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.minimob.com
-0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks.totemcash.com
 0.0.0.0 clicks.toteme.com
 0.0.0.0 clicks.virtuagirl.com
@@ -21207,7 +21208,6 @@
 0.0.0.0 import.globalsources.com
 0.0.0.0 import43.com
 0.0.0.0 imppl.tradedoubler.com
-0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 imrk.net
 0.0.0.0 imserv001.adtech.fr
 0.0.0.0 imserv001.adtech.us
@@ -21340,6 +21340,7 @@
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.zevents.com
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsfactory.net
 0.0.0.0 jsn.dt07.net
 0.0.0.0 juggler.inetinteractive.com
@@ -21375,6 +21376,7 @@
 0.0.0.0 kdconstructionusa.com
 0.0.0.0 keepyoungphone.bid
 0.0.0.0 kelder.nl
+0.0.0.0 kergaukr.com
 0.0.0.0 keys.dmtracker.com
 0.0.0.0 keywordblocks.com
 0.0.0.0 keywords.adtlgc.com
@@ -21536,6 +21538,7 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
+0.0.0.0 m.quantcount.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
@@ -22072,6 +22075,7 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
+0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -23201,6 +23205,7 @@
 0.0.0.0 v2profit.com
 0.0.0.0 v3.toolbar.soso.com
 0.0.0.0 v3.viayonetici.com
+0.0.0.0 v4.viayonetici.com
 0.0.0.0 v5.viayonetici.com
 0.0.0.0 v6.viayonetici.com
 0.0.0.0 v7.viayonetici.com
@@ -23455,6 +23460,7 @@
 0.0.0.0 www.adtrader.com
 0.0.0.0 www.adtrix.com
 0.0.0.0 www.advaliant.com
+0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
 0.0.0.0 www.adverterenbijsbs.nl
@@ -24520,6 +24526,7 @@
 0.0.0.0 w126.hitbox.com
 0.0.0.0 w128.hitbox.com
 0.0.0.0 w129.hitbox.com
+0.0.0.0 w13.hitbox.com
 0.0.0.0 w130.hitbox.com
 0.0.0.0 w131.hitbox.com
 0.0.0.0 w132.hitbox.com
@@ -24705,6 +24712,7 @@
 0.0.0.0 oascentral.townhall.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -24810,7 +24818,6 @@
 0.0.0.0 ambien.1.p2l.info
 0.0.0.0 ambien.3.p2l.info
 0.0.0.0 ambien.4.p2l.info
-0.0.0.0 ambien.ourtablets.com
 0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 anklets.shengen.ru
 0.0.0.0 antidepressants.1.p2l.info
@@ -24821,7 +24828,6 @@
 0.0.0.0 arthritis.atspace.com
 0.0.0.0 as.5.p2l.info
 0.0.0.0 ativan.ourtablets.com
-0.0.0.0 auto.allewagen.de
 0.0.0.0 az.5.p2l.info
 0.0.0.0 azz.badazz.org
 0.0.0.0 balabass.peerserver.com
