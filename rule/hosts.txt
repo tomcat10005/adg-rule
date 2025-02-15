@@ -1,4 +1,4 @@
-# Update time: 2025-02-15 00:12:16
+# Update time: 2025-02-15 08:47:17
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -13871,6 +13871,7 @@
 0.0.0.0 c5.statcounter.com
 0.0.0.0 c6.statcounter.com
 0.0.0.0 c7.statcounter.com
+0.0.0.0 c8.statcounter.com
 0.0.0.0 c9.statcounter.com
 0.0.0.0 ca.cqcounter.com
 0.0.0.0 cashcounter.com
@@ -18912,7 +18913,6 @@
 0.0.0.0 ads.yimg.com.edgesuite.net
 0.0.0.0 ads.yldmgrimg.net
 0.0.0.0 ads.youtube.com
-0.0.0.0 ads.zamunda.se
 0.0.0.0 ads.zynga.com
 0.0.0.0 ads01.com
 0.0.0.0 ads01.focalink.com
@@ -20366,6 +20366,7 @@
 0.0.0.0 fadadosexo.com.br
 0.0.0.0 fadskis.com
 0.0.0.0 fajnefanty.com
+0.0.0.0 falcon1.net
 0.0.0.0 falkag.net
 0.0.0.0 famwillems.nl
 0.0.0.0 fangirlmag.com
@@ -22787,7 +22788,6 @@
 0.0.0.0 us-u.openx.net
 0.0.0.0 usatoday.app.ur.gcion.com
 0.0.0.0 usc.adserver.snapads.com
-0.0.0.0 usemax.de
 0.0.0.0 users.cuci.nl
 0.0.0.0 users.tpg.com.au
 0.0.0.0 usswrite.com
@@ -23060,7 +23060,6 @@
 0.0.0.0 www.adtrader.com
 0.0.0.0 www.adtrix.com
 0.0.0.0 www.advaliant.com
-0.0.0.0 www.advanpromo.com
 0.0.0.0 www.advconversion.com
 0.0.0.0 www.adverterenbijrtl.nl
 0.0.0.0 www.adverterenbijsbs.nl
@@ -23824,7 +23823,6 @@
 0.0.0.0 xbox-ms-store-debug.com
 0.0.0.0 xch.smrtgs.com
 0.0.0.0 xl-trk.com
-0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.adservme.com
 0.0.0.0 xml.adtech.fr
@@ -24399,7 +24397,6 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
-0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
@@ -24465,6 +24462,7 @@
 0.0.0.0 buy-vicodin-online.seumala.net
 0.0.0.0 buy-vicodin-online.supersite.fr
 0.0.0.0 buy-vicodin.hut1.ru
+0.0.0.0 buy-vicodin.iscool.nl
 0.0.0.0 buy-xanax-cheap-xanax-online.com
 0.0.0.0 buy-xanax.aztecaonline.net
 0.0.0.0 buy-xanax.hut1.ru
@@ -24767,6 +24765,7 @@
 0.0.0.0 vicodin.t-amo.net
 0.0.0.0 viewtools.com
 0.0.0.0 vioxx.1.p2l.info
+0.0.0.0 vitalitymax.1.p2l.info
 0.0.0.0 vt.5.p2l.info
 0.0.0.0 wa.5.p2l.info
 0.0.0.0 water-bed.8p.org.uk
