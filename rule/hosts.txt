@@ -1,4 +1,4 @@
-# Update time: 2025-03-28 08:52:12
+# Update time: 2025-03-28 16:14:54
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -15615,6 +15615,7 @@
 0.0.0.0 conseil-coaching-jardinage.fr
 0.0.0.0 conseildentaire.fr
 0.0.0.0 consorsbank.fr
+0.0.0.0 consumerspanel.frge.io
 0.0.0.0 cookeatshare.fr
 0.0.0.0 coordino.com
 0.0.0.0 cosi.iprive.net
@@ -17981,6 +17982,7 @@
 0.0.0.0 novosti247.com
 0.0.0.0 now-online.net
 0.0.0.0 nsoqa.com
+0.0.0.0 offspringperform.net
 0.0.0.0 old-glasses.net
 0.0.0.0 online-loading.com
 0.0.0.0 onlycart.net
@@ -18297,6 +18299,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
+0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -18988,6 +18991,7 @@
 0.0.0.0 ads.injersey.com
 0.0.0.0 ads.intellicast.com
 0.0.0.0 ads.internic.co.il
+0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.ireport.com
 0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 ads.itv.com
@@ -19107,6 +19111,7 @@
 0.0.0.0 ads.rcgroups.com
 0.0.0.0 ads.rdstore.com
 0.0.0.0 ads.realcastmedia.com
+0.0.0.0 ads.realcities.com
 0.0.0.0 ads.realmedia.de
 0.0.0.0 ads.rediff.com
 0.0.0.0 ads.register.com
@@ -19217,6 +19222,7 @@
 0.0.0.0 ads.webmd.com
 0.0.0.0 ads.webnet.advance.net
 0.0.0.0 ads.winsite.com
+0.0.0.0 ads.worldstarhiphop.com
 0.0.0.0 ads.x17online.com
 0.0.0.0 ads.xbox-scene.com
 0.0.0.0 ads.xtra.ca
@@ -19748,6 +19754,7 @@
 0.0.0.0 appodeal.com
 0.0.0.0 apps-blue.com
 0.0.0.0 apps-cloud.xyz
+0.0.0.0 apps5.oingo.com
 0.0.0.0 appswiss.ch
 0.0.0.0 arbomedia.pl
 0.0.0.0 arcadia1998.web.fc2.com
@@ -19781,6 +19788,7 @@
 0.0.0.0 at.m1.nedstatbasic.net
 0.0.0.0 atemda.com
 0.0.0.0 athena-ads.wikia.com
+0.0.0.0 atout-energie-69.com
 0.0.0.0 au.ads.link4ads.com
 0.0.0.0 au.adserver.yahoo.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -20100,6 +20108,7 @@
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
+0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
 0.0.0.0 cam2cam.xlovecam.com
@@ -20212,6 +20221,7 @@
 0.0.0.0 cent.adbureau.net
 0.0.0.0 center-message-mobile.com
 0.0.0.0 certifiedwinners.info
+0.0.0.0 cetelemportugal2.solution.weborama.fr
 0.0.0.0 cf.kampyle.com
 0.0.0.0 cfg.adsmogo.com
 0.0.0.0 cfg.datafastguru.info
@@ -20679,6 +20689,7 @@
 0.0.0.0 fadadosexo.com.br
 0.0.0.0 fadskis.com
 0.0.0.0 fajnefanty.com
+0.0.0.0 falcon1.net
 0.0.0.0 falkag.net
 0.0.0.0 famwillems.nl
 0.0.0.0 fangirlmag.com
@@ -21252,6 +21263,7 @@
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
 0.0.0.0 js.zevents.com
+0.0.0.0 jsc.dt07.net
 0.0.0.0 jsfactory.net
 0.0.0.0 jsn.dt07.net
 0.0.0.0 juggler.inetinteractive.com
@@ -21449,6 +21461,7 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
+0.0.0.0 m.quantcount.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 m.tidebuy.com
 0.0.0.0 m.tribalfusion.com
@@ -21630,6 +21643,7 @@
 0.0.0.0 mobileleads.msn.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mochibot.com
+0.0.0.0 modescrips.info
 0.0.0.0 modlily.com
 0.0.0.0 modlily.net
 0.0.0.0 mokavilag.com
@@ -21916,6 +21930,7 @@
 0.0.0.0 overlay.ringtonematcher.com
 0.0.0.0 overstock.tt.omtrdc.net
 0.0.0.0 owabgxis.wp.pl
+0.0.0.0 own-eu-cloud.com
 0.0.0.0 ox-d.hbr.org
 0.0.0.0 ox-d.hulkshare.com
 0.0.0.0 ox-d.hypeads.org
@@ -21985,6 +22000,7 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
+0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -22692,6 +22708,7 @@
 0.0.0.0 speeltuintalud.nl
 0.0.0.0 spensa.co
 0.0.0.0 spin.spinbox.net
+0.0.0.0 spinbox.com
 0.0.0.0 spinbox.freedom.com
 0.0.0.0 spinbox.techtracker.com
 0.0.0.0 spiralfolderrollers.com
@@ -22760,6 +22777,7 @@
 0.0.0.0 static.vertamedia.com
 0.0.0.0 static.virgul.com
 0.0.0.0 static.vpptechnologies.com
+0.0.0.0 staticads.btopenworld.com
 0.0.0.0 staticb.mydirtyhobby.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 statistic.ads24h.net
@@ -22884,6 +22902,7 @@
 0.0.0.0 teeser.ru
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telusplanet.net
+0.0.0.0 testapp.adhood.com
 0.0.0.0 testensie.de
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 tewxda71.secure.ne.jp
@@ -23113,6 +23132,7 @@
 0.0.0.0 v2profit.com
 0.0.0.0 v3.toolbar.soso.com
 0.0.0.0 v3.viayonetici.com
+0.0.0.0 v4.viayonetici.com
 0.0.0.0 v5.viayonetici.com
 0.0.0.0 v6.viayonetici.com
 0.0.0.0 v7.viayonetici.com
@@ -23571,6 +23591,7 @@
 0.0.0.0 www.eshopads2.com
 0.0.0.0 www.euros4click.de
 0.0.0.0 www.eva.hi-ho.ne.jp
+0.0.0.0 www.everestgroupcorp.com
 0.0.0.0 www.everifymatch.com
 0.0.0.0 www.exclusivegiftcards.com
 0.0.0.0 www.expoteam.net
@@ -24435,6 +24456,7 @@
 0.0.0.0 w126.hitbox.com
 0.0.0.0 w128.hitbox.com
 0.0.0.0 w129.hitbox.com
+0.0.0.0 w13.hitbox.com
 0.0.0.0 w130.hitbox.com
 0.0.0.0 w131.hitbox.com
 0.0.0.0 w132.hitbox.com
@@ -24576,6 +24598,7 @@
 0.0.0.0 oascentral.herenb.com
 0.0.0.0 oascentral.hollywood.com
 0.0.0.0 oascentral.houstonpress.com
+0.0.0.0 oascentral.inq7.net
 0.0.0.0 oascentral.investorwords.com
 0.0.0.0 oascentral.itbusiness.ca
 0.0.0.0 oascentral.laptopmag.com
@@ -24591,6 +24614,7 @@
 0.0.0.0 oascentral.onwisconsin.com
 0.0.0.0 oascentral.phoenixnewtimes.com
 0.0.0.0 oascentral.phoenixvillenews.com
+0.0.0.0 oascentral.poconorecord.com
 0.0.0.0 oascentral.politico.com
 0.0.0.0 oascentral.post-gazette.com
 0.0.0.0 oascentral.pottsmerc.com
@@ -24616,8 +24640,10 @@
 0.0.0.0 oascentral.tnr.com
 0.0.0.0 oascentral.tourismvancouver.com
 0.0.0.0 oascentral.townhall.com
+0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
+0.0.0.0 oascentral.virtualtourist.com
 0.0.0.0 oascentral.washtimes.com
 0.0.0.0 oascentral.wciv.com
 0.0.0.0 oascentral.westword.com
@@ -24703,6 +24729,7 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
+0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
@@ -24936,6 +24963,7 @@
 0.0.0.0 nasonex.1.p2l.info
 0.0.0.0 nb.5.p2l.info
 0.0.0.0 nc.5.p2l.info
+0.0.0.0 nd.5.p2l.info
 0.0.0.0 ne.5.p2l.info
 0.0.0.0 nexium.1.p2l.info
 0.0.0.0 nextel-ringtone.spb.su
@@ -25023,6 +25051,7 @@
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
+0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
@@ -25048,6 +25077,7 @@
 0.0.0.0 urlcut.net
 0.0.0.0 ut.5.p2l.info
 0.0.0.0 utairway.com
+0.0.0.0 va.5.p2l.info
 0.0.0.0 valium.este.ru
 0.0.0.0 valium.hut1.ru
 0.0.0.0 valium.ourtablets.com
@@ -25076,6 +25106,7 @@
 0.0.0.0 webhosting.hut1.ru
 0.0.0.0 weborg.hut1.ru
 0.0.0.0 weight-loss.1.p2l.info
+0.0.0.0 weight-loss.3.p2l.info
 0.0.0.0 weight-loss.4.p2l.info
 0.0.0.0 weight-loss.hut1.ru
 0.0.0.0 wellbutrin.1.p2l.info
@@ -25123,6 +25154,7 @@
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.obesitycheck.com
 0.0.0.0 www.pawnauctions.net
+0.0.0.0 www.poker-new.com
 0.0.0.0 www.poker-unique.com
 0.0.0.0 www.poker4spain.com
 0.0.0.0 www.porno-lesben.cxa.de
