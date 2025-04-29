@@ -1,4 +1,4 @@
-# Update time: 2025-04-29 00:13:21
+# Update time: 2025-04-29 08:54:41
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -13052,8 +13052,6 @@
 0.0.0.0 req.startappservice.com
 0.0.0.0 init.startappexchange.com
 0.0.0.0 www.startappexchange.com
-0.0.0.0 c.statcounter.com
-0.0.0.0 c1.statcounter.com
 0.0.0.0 c2.statcounter.com
 0.0.0.0 secure.statcounter.com
 0.0.0.0 www.statcounter.com
@@ -13067,7 +13065,6 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 cdn.taboola.com.cn
-0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 tapjoy.cn
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
@@ -13143,7 +13140,6 @@
 0.0.0.0 rad.reporo.net
 0.0.0.0 ads.traffichunt.com
 0.0.0.0 nexus.ensighten.com
-0.0.0.0 beacon.krxd.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 stats.wp.com
 0.0.0.0 rum-collector.pingdom.net
@@ -13252,7 +13248,6 @@
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
-0.0.0.0 counter.yadro.ru
 0.0.0.0 mg.yadro.ru
 0.0.0.0 an.yandex.ru
 0.0.0.0 mc.yandex.ru
@@ -13286,7 +13281,6 @@
 0.0.0.0 www.mrelko.com
 0.0.0.0 adriver-sync.rutarget.ru
 0.0.0.0 advombat.ru
-0.0.0.0 bam.nr-data.net
 0.0.0.0 betsonsport.ru
 0.0.0.0 faggrim.com
 0.0.0.0 openstat.net
@@ -13819,7 +13813,6 @@
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 tag.sp.advertising.com
-0.0.0.0 pixel.advertising.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-ec.adaptv.advertising.com
 0.0.0.0 ads-eu.adaptv.advertising.com
@@ -14142,10 +14135,12 @@
 0.0.0.0 aus-smv-tracking.adalyser.com
 0.0.0.0 auspice.augur.io
 0.0.0.0 b.stats.paypal.com
+0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.0catch.com
 0.0.0.0 banners.webcounter.com
 0.0.0.0 be.sitestat.com
 0.0.0.0 beacon-1.newrelic.com
+0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 belierlaine.com
 0.0.0.0 benchemail.bmetrack.com
@@ -14160,8 +14155,10 @@
 0.0.0.0 brucelead.com
 0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 c.go-mpulse.net
+0.0.0.0 c.statcounter.com
 0.0.0.0 c.thecounter.de
 0.0.0.0 c0.adalyser.com
+0.0.0.0 c1.statcounter.com
 0.0.0.0 c1.thecounter.de
 0.0.0.0 c1.xxxcounter.com
 0.0.0.0 c10.statcounter.com
@@ -14195,6 +14192,7 @@
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.doublepimpssl.com
 0.0.0.0 cdn.simpleanalytics.io
+0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdn.zarget.com
 0.0.0.0 cf.addthis.com
 0.0.0.0 cgi.sexlist.com
@@ -14275,6 +14273,7 @@
 0.0.0.0 counter.w3open.com
 0.0.0.0 counter.webmedia.pl
 0.0.0.0 counter.xxxcool.com
+0.0.0.0 counter.yadro.ru
 0.0.0.0 counter1.bravenet.com
 0.0.0.0 counter1.sextracker.be
 0.0.0.0 counter1.sextracker.com
@@ -14715,6 +14714,7 @@
 0.0.0.0 pix02.revsci.net
 0.0.0.0 pix03.revsci.net
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.staticworld.net
@@ -18299,7 +18299,6 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 ab.tweakers.nl
-0.0.0.0 ab913aa797e78b3.com
 0.0.0.0 abi83-schramberg.de
 0.0.0.0 abourselfi.com
 0.0.0.0 abseckw.adtlgc.com
@@ -21643,7 +21642,6 @@
 0.0.0.0 mobileleads.msn.com
 0.0.0.0 mobrevflwms.com
 0.0.0.0 mochibot.com
-0.0.0.0 modescrips.info
 0.0.0.0 modlily.com
 0.0.0.0 modlily.net
 0.0.0.0 mokavilag.com
@@ -22000,7 +21998,6 @@
 0.0.0.0 performanceadexchange.com
 0.0.0.0 persgroepadvertising.nl
 0.0.0.0 perso.menara.ma
-0.0.0.0 petzel.be
 0.0.0.0 pg2.solution.weborama.fr
 0.0.0.0 pg308-zmbra.ads.tremorhub.com
 0.0.0.0 ph-ad01.focalink.com
@@ -22902,6 +22899,7 @@
 0.0.0.0 teeser.ru
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telusplanet.net
+0.0.0.0 testapp.adhood.com
 0.0.0.0 testensie.de
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 tewxda71.secure.ne.jp
@@ -24637,6 +24635,7 @@
 0.0.0.0 oascentral.tnr.com
 0.0.0.0 oascentral.tourismvancouver.com
 0.0.0.0 oascentral.townhall.com
+0.0.0.0 oascentral.trutv.com
 0.0.0.0 oascentral.upi.com
 0.0.0.0 oascentral.villagevoice.com
 0.0.0.0 oascentral.virtualtourist.com
@@ -24725,6 +24724,7 @@
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 adderall.ourtablets.com
 0.0.0.0 adipex.1.p2l.info
+0.0.0.0 adipex.24sws.ws
 0.0.0.0 adipex.3.p2l.info
 0.0.0.0 adipex.4.p2l.info
 0.0.0.0 adipex.hut1.ru
@@ -25045,6 +25045,7 @@
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
+0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
@@ -25147,6 +25148,7 @@
 0.0.0.0 www.nutten-verzeichnis.cxa.de
 0.0.0.0 www.obesitycheck.com
 0.0.0.0 www.pawnauctions.net
+0.0.0.0 www.poker-new.com
 0.0.0.0 www.poker-unique.com
 0.0.0.0 www.poker4spain.com
 0.0.0.0 www.porno-lesben.cxa.de
