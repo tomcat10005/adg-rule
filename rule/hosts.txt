@@ -1,4 +1,4 @@
-# Update time: 2025-06-27 00:14:40
+# Update time: 2025-06-27 08:58:47
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -22905,6 +22905,7 @@
 0.0.0.0 teeser.ru
 0.0.0.0 telefoniabologna.it
 0.0.0.0 telusplanet.net
+0.0.0.0 testapp.adhood.com
 0.0.0.0 testensie.de
 0.0.0.0 testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0 tewxda71.secure.ne.jp
@@ -23167,7 +23168,6 @@
 0.0.0.0 video.cynogage.com
 0.0.0.0 video.entertaintastic.com
 0.0.0.0 videobox.com
-0.0.0.0 videocop.com
 0.0.0.0 videoegg.adbureau.net
 0.0.0.0 videogamerewardscentral.com
 0.0.0.0 videomediagroep.nl
@@ -24501,7 +24501,6 @@
 0.0.0.0 w28.hitbox.com
 0.0.0.0 w29.hitbox.com
 0.0.0.0 w3.hitbox.com
-0.0.0.0 w30.hitbox.com
 0.0.0.0 w31.hitbox.com
 0.0.0.0 w32.hitbox.com
 0.0.0.0 w33.hitbox.com
@@ -25052,6 +25051,7 @@
 0.0.0.0 soma.1.p2l.info
 0.0.0.0 soma.3xforum.ro
 0.0.0.0 sonata.1.p2l.info
+0.0.0.0 spyware-removers.shengen.ru
 0.0.0.0 sq7.co.uk
 0.0.0.0 stop-smoking.1.p2l.info
 0.0.0.0 supplements.1.p2l.info
