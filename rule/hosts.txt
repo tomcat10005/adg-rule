@@ -1,4 +1,4 @@
-# Update time: 2025-07-19 00:16:25
+# Update time: 2025-07-19 08:59:21
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -20649,6 +20649,7 @@
 0.0.0.0 revive.outin.cn
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rubicon-match.dotomi.com
+0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.extend.tv
@@ -21245,6 +21246,7 @@
 0.0.0.0 pdfexpert.cc
 0.0.0.0 zhzzx.com
 0.0.0.0 logoshejishi.mairuan.com
+0.0.0.0 www.hypersnap.net
 0.0.0.0 www.mairuan.cn
 0.0.0.0 www.mairuan.net
 0.0.0.0 www.mairuan.com.cn
@@ -21848,6 +21850,7 @@
 0.0.0.0 e.apxyz.com
 0.0.0.0 e.ayues.com
 0.0.0.0 e.bentengcn.com
+0.0.0.0 e.bsnnk.com
 0.0.0.0 e.cdntlz.cn
 0.0.0.0 e.coenr.com
 0.0.0.0 e.czggcj.com
@@ -22511,6 +22514,7 @@
 0.0.0.0 ppl.xunzhuo123.com
 0.0.0.0 pro.baidu.com
 0.0.0.0 ps.dlads.cn
+0.0.0.0 psma02.com
 0.0.0.0 psptoolapi.ctags.cn
 0.0.0.0 pstarv.cn
 0.0.0.0 push2.eastmoney.com
@@ -22564,6 +22568,7 @@
 0.0.0.0 rwq.youle55.com
 0.0.0.0 s.652748.com
 0.0.0.0 s.adyun.com
+0.0.0.0 s.bipian.top
 0.0.0.0 s.ddgjjj.com
 0.0.0.0 s.ddstu.com
 0.0.0.0 s.doyo.cn
@@ -23260,6 +23265,7 @@
 0.0.0.0 ad.hiiir.com
 0.0.0.0 ad.obuy.tw
 0.0.0.0 ads.fetnet.net
+0.0.0.0 ads.ttv.com.tw
 0.0.0.0 drd.hauchi.com.tw
 0.0.0.0 ysm.hauchi.com.tw
 0.0.0.0 r.pixgold.com
@@ -23446,6 +23452,7 @@
 0.0.0.0 api8.tuisong.baidu.com
 0.0.0.0 api9.tuisong.baidu.com
 0.0.0.0 sa.tuisong.baidu.com
+0.0.0.0 sa0.tuisong.baidu.com
 0.0.0.0 sa1.tuisong.baidu.com
 0.0.0.0 sa3.tuisong.baidu.com
 0.0.0.0 hdj.baidu.com
@@ -23815,6 +23822,7 @@
 0.0.0.0 s.emarbox.com
 0.0.0.0 www.emarbox.com
 0.0.0.0 cm.fastapi.net
+0.0.0.0 g.fastapi.net
 0.0.0.0 l.fastapi.net
 0.0.0.0 pic.fastapi.net
 0.0.0.0 s.fastapi.net
@@ -24122,6 +24130,7 @@
 0.0.0.0 yijifen.com
 0.0.0.0 www.yinooo.com
 0.0.0.0 ylunion.com
+0.0.0.0 www.ylunion.com
 0.0.0.0 w.ymapp.com
 0.0.0.0 img-cdn-spot.ymcdn.cn
 0.0.0.0 a.img.static.youmi.net
@@ -24704,6 +24713,7 @@
 0.0.0.0 www.4242lll.com
 0.0.0.0 www.4242uuu.com
 0.0.0.0 www.4wad.com
+0.0.0.0 www.555p555p.com
 0.0.0.0 www.6666349.com
 0.0.0.0 www.66992949.com
 0.0.0.0 www.700900.com
@@ -24863,6 +24873,7 @@
 0.0.0.0 www.sundady.online
 0.0.0.0 show.govjiangsu.cn
 0.0.0.0 pv.dakawm.cc
+0.0.0.0 xzj.kebi1.top
 0.0.0.0 n.35kds.com
 0.0.0.0 fjjmnh.com
 0.0.0.0 jsmxkj.com
@@ -24968,6 +24979,7 @@
 0.0.0.0 8b26nu.viqiyi.admaster.com.cn
 0.0.0.0 8b6fqu.vyk.admaster.com.cn
 0.0.0.0 8b6fxa.viqiyi.admaster.com.cn
+0.0.0.0 8b8a4a.viqiyi.admaster.com.cn
 0.0.0.0 8b8a6a.vsohu.admaster.com.cn
 0.0.0.0 8b8a7u.vyk.admaster.com.cn
 0.0.0.0 8c8vqu.vyk.admaster.com.cn
@@ -25000,6 +25012,7 @@
 0.0.0.0 coocaa.admaster.com.cn
 0.0.0.0 hdt.adx.admaster.com.cn
 0.0.0.0 i18q.admaster.com.cn
+0.0.0.0 jice.admaster.com.cn
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 mma.admaster.com.cn
 0.0.0.0 mms2017.admaster.com.cn
@@ -25070,6 +25083,7 @@
 0.0.0.0 s3.pkg.toponad.com
 0.0.0.0 pkg.toponad.com
 0.0.0.0 ad.alimama.com
+0.0.0.0 c.click.alimama.com
 0.0.0.0 adsh.wagbridge.taobao.alimama.com
 0.0.0.0 adsh.wagbridge.tmall.alimama.com
 0.0.0.0 adsz.wagbridge.taobao.alimama.com
@@ -25151,6 +25165,7 @@
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads-ec.adaptv.advertising.com
 0.0.0.0 ads-eu.adaptv.advertising.com
+0.0.0.0 ads-wc.adaptv.advertising.com
 0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver.adtech.advertising.com
