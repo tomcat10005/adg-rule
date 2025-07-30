@@ -1,4 +1,4 @@
-# Update time: 2025-07-30 16:17:36
+# Update time: 2025-07-31 00:15:43
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -494,12 +494,18 @@
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.terorie.com
 0.0.0.0 mine.torrent.pw
+0.0.0.0 minemytraffic.com
 0.0.0.0 miner.beeppool.org
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.nablabee.com
 0.0.0.0 minerad.com
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 minero.pw
 0.0.0.0 minescripts.info
 0.0.0.0 minexmr.stream
+0.0.0.0 minr.pw
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 monerominer.rocks
 0.0.0.0 money-maker-default.info
@@ -554,6 +560,7 @@
 0.0.0.0 roastedvolt.net
 0.0.0.0 rock.reauthenticator.com
 0.0.0.0 rock2.authcaptcha.com
+0.0.0.0 rocks.io
 0.0.0.0 s01.hostcontent.live
 0.0.0.0 s03.hostcontent.live
 0.0.0.0 s04.hostcontent.live
@@ -606,6 +613,7 @@
 0.0.0.0 vuryua.ru
 0.0.0.0 webapi.salamantex.com
 0.0.0.0 webapi.staging.salamantex.com
+0.0.0.0 webassembly.stream
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
@@ -621,6 +629,7 @@
 0.0.0.0 www.authedwebmine.cz
 0.0.0.0 www.besocial.online
 0.0.0.0 www.cloudflane.com
+0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.science
@@ -640,6 +649,7 @@
 0.0.0.0 www.notmining.org
 0.0.0.0 www.sparechange.io
 0.0.0.0 www.verifier.live
+0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webmine.cz
 0.0.0.0 xmr.cool
 0.0.0.0 xmr.2miners.com
@@ -9553,15 +9563,9 @@
 0.0.0.0 minecraftr.fr
 0.0.0.0 minecraftt.fr
 0.0.0.0 minefieald.fr
-0.0.0.0 minemytraffic.com
 0.0.0.0 minence.fr
 0.0.0.0 minencraft.fr
 0.0.0.0 miner.pr0gramm.com
-0.0.0.0 minero-proxy-01.now.sh
-0.0.0.0 minero-proxy-02.now.sh
-0.0.0.0 minero-proxy-03.now.sh
-0.0.0.0 minero.pw
-0.0.0.0 minr.pw
 0.0.0.0 mipay.fr
 0.0.0.0 mipsa.ciae.ac.cn
 0.0.0.0 mirillis.fr
@@ -9878,7 +9882,6 @@
 0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
-0.0.0.0 rocks.io
 0.0.0.0 rockthebretzel.fr
 0.0.0.0 rogers-wirelessphone.com
 0.0.0.0 roivant.fr
@@ -10175,7 +10178,6 @@
 0.0.0.0 waterstudio.fr
 0.0.0.0 waudeesestew.com
 0.0.0.0 weapfuh.originalriver-tone.top
-0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
 0.0.0.0 webmedic.fr
 0.0.0.0 webnetra.entelnet.bo
@@ -10239,7 +10241,6 @@
 0.0.0.0 www.clearalgorithm.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
-0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.didata.bw
@@ -10324,7 +10325,6 @@
 0.0.0.0 www.videolove.clanteam.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.wantsfly.com
-0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.webwise.com
 0.0.0.0 www.webwise.org
@@ -20650,6 +20650,7 @@
 0.0.0.0 revive.outin.cn
 0.0.0.0 rp.gwallet.com
 0.0.0.0 rubicon-match.dotomi.com
+0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.extend.tv
@@ -21458,6 +21459,7 @@
 0.0.0.0 valc.atm.youku.com
 0.0.0.0 valf.atm.youku.com
 0.0.0.0 valp.atm.youku.com
+0.0.0.0 valt.atm.youku.com
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
@@ -21473,6 +21475,7 @@
 0.0.0.0 09_19.supfree.net
 0.0.0.0 1.1010pic.com
 0.0.0.0 1.bashenghuo.com
+0.0.0.0 1.qksapp.net
 0.0.0.0 1.yitooo.net
 0.0.0.0 1178.shucong.com
 0.0.0.0 1234xm.com
@@ -23818,6 +23821,7 @@
 0.0.0.0 msspjh.emarbox.com
 0.0.0.0 msspsvr.emarbox.com
 0.0.0.0 s.emarbox.com
+0.0.0.0 www.emarbox.com
 0.0.0.0 cm.fastapi.net
 0.0.0.0 g.fastapi.net
 0.0.0.0 l.fastapi.net
@@ -25009,6 +25013,7 @@
 0.0.0.0 coocaa.admaster.com.cn
 0.0.0.0 hdt.adx.admaster.com.cn
 0.0.0.0 i18q.admaster.com.cn
+0.0.0.0 jice.admaster.com.cn
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 mma.admaster.com.cn
 0.0.0.0 mms2017.admaster.com.cn
@@ -25079,6 +25084,7 @@
 0.0.0.0 s3.pkg.toponad.com
 0.0.0.0 pkg.toponad.com
 0.0.0.0 ad.alimama.com
+0.0.0.0 c.click.alimama.com
 0.0.0.0 adsh.wagbridge.taobao.alimama.com
 0.0.0.0 adsh.wagbridge.tmall.alimama.com
 0.0.0.0 adsz.wagbridge.taobao.alimama.com
@@ -25180,6 +25186,7 @@
 0.0.0.0 www.adeaz.com
 0.0.0.0 hz.adeaz.com
 0.0.0.0 newsbee.adeaz.com
+0.0.0.0 touch.adeaz.com
 0.0.0.0 sx.adm.adeaz.com
 0.0.0.0 third.adeaz.com
 0.0.0.0 sa.adeaz.com
