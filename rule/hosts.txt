@@ -1,4 +1,4 @@
-# Update time: 2025-08-06 00:13:26
+# Update time: 2025-08-06 09:02:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
