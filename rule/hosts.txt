@@ -1,4 +1,4 @@
-# Update time: 2025-08-21 16:15:55
+# Update time: 2025-08-22 00:13:36
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -9975,10 +9975,8 @@
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adeq.hiidc.com.cn
 0.0.0.0 adktrack.com
-0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.oneway.mobi
 0.0.0.0 ads.passiontimes.hk
-0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.reader.yueyouxs.com
 0.0.0.0 ads.vipbaihe.com
 0.0.0.0 adsc.wasu.tv
@@ -12666,7 +12664,6 @@
 0.0.0.0 m.admedia.com
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 fim.adnxs.com
-0.0.0.0 photobucket.adnxs.com
 0.0.0.0 secure-sin.adnxs.com
 0.0.0.0 sin1.g.adnxs.com
 0.0.0.0 ym.adnxs.com
@@ -12679,7 +12676,6 @@
 0.0.0.0 growth-tracking.adroll.com
 0.0.0.0 mob.adroll.com
 0.0.0.0 logs.adroll.com
-0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 cdn.adsfactor.net
 0.0.0.0 servedby.adsfactor.net
@@ -12716,7 +12712,6 @@
 0.0.0.0 www.atdmt.com
 0.0.0.0 counter.awempire.com
 0.0.0.0 iframes.awempire.com
-0.0.0.0 promo.awempire.com
 0.0.0.0 static.awempire.com
 0.0.0.0 www.beintoo.com
 0.0.0.0 www.bidvertiser.com
@@ -12726,7 +12721,6 @@
 0.0.0.0 castplatform.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 tracking2.channeladvisor.com
-0.0.0.0 ping.chartbeat.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 vz-cdn.contentabc.com
 0.0.0.0 cdn.fastclick.net
@@ -12784,7 +12778,6 @@
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 s0.2mdn.net
-0.0.0.0 s1.2mdn.net
 0.0.0.0 media.admob.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data2.gosquared.com
@@ -12890,7 +12883,6 @@
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 b.scorecardresearch.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 activity.serving-sys.com
@@ -12994,7 +12986,6 @@
 0.0.0.0 pix.tagcdn.com
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 static.bepolite.eu
-0.0.0.0 s1.adform.net
 0.0.0.0 www.tradeadexchange.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 pl14369502.puserving.com
@@ -13081,7 +13072,6 @@
 0.0.0.0 mg.yadro.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
-0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync.1dmp.io
 0.0.0.0 x01.aidata.io
 0.0.0.0 api.rees46.com
@@ -13093,7 +13083,6 @@
 0.0.0.0 sync.rambler.ru
 0.0.0.0 recreativ.ru
 0.0.0.0 track.recreativ.ru
-0.0.0.0 sync.audtd.com
 0.0.0.0 sync2.audtd.com
 0.0.0.0 relap.io
 0.0.0.0 s.uuidksinc.net
@@ -18858,6 +18847,7 @@
 0.0.0.0 ads.erotism.com
 0.0.0.0 ads.espn.adsonar.com
 0.0.0.0 ads.examiner.net
+0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.expekt.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fayettevillenc.com
@@ -19041,6 +19031,7 @@
 0.0.0.0 ads.program3.com
 0.0.0.0 ads.prospect.org
 0.0.0.0 ads.pruc.org
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.queendom.com
 0.0.0.0 ads.ratemyprofessors.com
 0.0.0.0 ads.rcgroups.com
@@ -22046,6 +22037,7 @@
 0.0.0.0 phoenixinvestigations.ca
 0.0.0.0 phones4you.be
 0.0.0.0 photo-cam.com
+0.0.0.0 photobucket.adnxs.com
 0.0.0.0 photography-hq.com
 0.0.0.0 photos.daily-deals.analoganalytics.com
 0.0.0.0 photos.pop6.com
@@ -22067,6 +22059,7 @@
 0.0.0.0 pic.casee.cn
 0.0.0.0 pickytime.com
 0.0.0.0 pictures-album.com
+0.0.0.0 ping.chartbeat.net
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingfore.soso.com
 0.0.0.0 pipslab.nl
@@ -22079,6 +22072,7 @@
 0.0.0.0 pix522.adtech.fr
 0.0.0.0 pix522.adtech.us
 0.0.0.0 pixel-secure.solvemedia.com
+0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.sitescout.com
@@ -22170,6 +22164,7 @@
 0.0.0.0 profiline-berlin.de
 0.0.0.0 profitboosterapp.com
 0.0.0.0 programe.top
+0.0.0.0 promo.awempire.com
 0.0.0.0 promo.betcity.net
 0.0.0.0 promo.easy-dating.org
 0.0.0.0 promo.mes-meilleurs-films.fr
@@ -22485,6 +22480,8 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 s.visilabs.net
 0.0.0.0 s0b.bluestreak.com
+0.0.0.0 s1.2mdn.net
+0.0.0.0 s1.adform.net
 0.0.0.0 s3.adbers.com
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7clean.com
@@ -22506,6 +22503,7 @@
 0.0.0.0 sayac.hurriyet.com.tr
 0.0.0.0 sayfabulunamadi.com
 0.0.0.0 sb.freeskreen.com
+0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb1.shble.com
 0.0.0.0 sb2.shble.com
 0.0.0.0 sb3.shble.com
@@ -22854,7 +22852,9 @@
 0.0.0.0 syn.verticalacuity.com
 0.0.0.0 synad.nuffnang.com.sg
 0.0.0.0 synad2.nuffnang.com.cn
+0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync-share.com
+0.0.0.0 sync.audtd.com
 0.0.0.0 sync.credebat.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.pulseradius.com
