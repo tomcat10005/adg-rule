@@ -1,4 +1,4 @@
-# Update time: 2025-09-12 08:51:14
+# Update time: 2025-09-12 16:14:46
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -14579,6 +14579,7 @@
 0.0.0.0 hurricaneprotection.com
 0.0.0.0 hyperion.adtech.fr
 0.0.0.0 hyperion.adtech.us
+0.0.0.0 hz.mmstat.com
 0.0.0.0 i-sharecloud.com
 0.0.0.0 i.adwise.bg
 0.0.0.0 i.blogads.com
@@ -19053,7 +19054,6 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
-0.0.0.0 hz.mmstat.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
