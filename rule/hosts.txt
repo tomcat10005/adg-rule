@@ -1,4 +1,4 @@
-# Update time: 2025-10-04 08:48:26
+# Update time: 2025-10-04 16:12:41
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -362,6 +362,7 @@
 0.0.0.0 andlache.com
 0.0.0.0 anybest.pw
 0.0.0.0 api.browsermine.com
+0.0.0.0 api.inwemo.com
 0.0.0.0 api.miner.beeppool.org
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 ashgrrwt.click
@@ -406,7 +407,11 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
+0.0.0.0 cnhv.co
+0.0.0.0 cnt.statistic.date
+0.0.0.0 coin-have.com
 0.0.0.0 coinblind.com
+0.0.0.0 coinerra.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinminingonline.com
 0.0.0.0 coinnebula.com
@@ -415,6 +420,7 @@
 0.0.0.0 coinrail.io
 0.0.0.0 contribute.to-support.me
 0.0.0.0 cryptaloot.pro
+0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-webminer.com
 0.0.0.0 crypto.csgocpu.com
 0.0.0.0 cryptoloot.pro
@@ -462,6 +468,7 @@
 0.0.0.0 gramombird.com
 0.0.0.0 gridiogrid.com
 0.0.0.0 gxbrowser.net
+0.0.0.0 hashing.win
 0.0.0.0 hemnes.win
 0.0.0.0 hhb123.tk
 0.0.0.0 hide.ovh
@@ -8521,7 +8528,6 @@
 0.0.0.0 antoinettepoisson.fr
 0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
-0.0.0.0 api.inwemo.com
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 appale.fr
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -8757,18 +8763,14 @@
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
-0.0.0.0 cnhv.co
 0.0.0.0 cnnews.fr
-0.0.0.0 cnt.statistic.date
 0.0.0.0 codebiogblog.com
 0.0.0.0 codeexplain.com
 0.0.0.0 codegur.com
 0.0.0.0 codelogic.fr
 0.0.0.0 codeotel.com
 0.0.0.0 coderexception.com
-0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
-0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinimp.com
 0.0.0.0 coldcertainchannel.com
@@ -8810,7 +8812,6 @@
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
-0.0.0.0 crypto-loot.com
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
 0.0.0.0 culturalfoundation.fr
@@ -9060,7 +9061,6 @@
 0.0.0.0 handbrake.es
 0.0.0.0 happyfresh.fr
 0.0.0.0 hartamann.fr
-0.0.0.0 hashing.win
 0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hcg82f2b.com
 0.0.0.0 healpublic.best
@@ -15365,9 +15365,7 @@
 0.0.0.0 p2.preppypm.com
 0.0.0.0 p232207.mybestmv.com
 0.0.0.0 p3.preppypm.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4.preppypm.com
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p5.preppypm.com
 0.0.0.0 p6.preppypm.com
 0.0.0.0 p7.preppypm.com
@@ -15549,7 +15547,6 @@
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pornstargals.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postmasterdirect.com
@@ -15905,7 +15902,6 @@
 0.0.0.0 s1.adform.net
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.buysellads.com
-0.0.0.0 s3.pfp.sina.net
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s7clean.com
@@ -16203,7 +16199,6 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.criteo.net
-0.0.0.0 static.doubleclick.net
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.everyone.net
 0.0.0.0 static.fmpub.net
@@ -16215,7 +16210,6 @@
 0.0.0.0 static.linkz.net
 0.0.0.0 static.loboclick.com
 0.0.0.0 static.mackeeper.com
-0.0.0.0 static.mediav.com
 0.0.0.0 static.oroll.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.plugrush.com
@@ -16238,7 +16232,6 @@
 0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.defense.gov
 0.0.0.0 stats.fd.nl
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.x14.eu
@@ -16320,7 +16313,6 @@
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t-o-kitano.com
 0.0.0.0 t-odx.op-mobile.opera.com
-0.0.0.0 t.atpanel.com
 0.0.0.0 t.dynad.net
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.mdn2015x3.com
@@ -16440,7 +16432,6 @@
 0.0.0.0 tour.cineble.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpads.ovguide.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
 0.0.0.0 tps20519.doubleverify.com
@@ -16543,7 +16534,6 @@
 0.0.0.0 u.videoamp.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uav.tidaltv.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
@@ -16615,7 +16605,6 @@
 0.0.0.0 vast.ssp.optimatic.com
 0.0.0.0 vast.tubemogul.com
 0.0.0.0 vast.vertamedia.com
-0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdbunt.net
 0.0.0.0 ve1.claker.top
@@ -16688,7 +16677,6 @@
 0.0.0.0 vzarabotke.ru
 0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.ic.tynt.com
-0.0.0.0 w.l.qq.com
 0.0.0.0 w1.am15.net
 0.0.0.0 w1.webcompteur.com
 0.0.0.0 w10.centralmediaserver.com
@@ -16699,7 +16687,6 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -17135,7 +17122,6 @@
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.gmads.net
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.greatdexchange.com
@@ -19075,6 +19061,7 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
@@ -19146,9 +19133,11 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.ucfly.com
 0.0.0.0 cntv.wrating.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 fm.p0y.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
+0.0.0.0 t.atpanel.com
 0.0.0.0 afp.adchina.com
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 aecpm.alicdn.com
@@ -19159,6 +19148,7 @@
 0.0.0.0 ipinyou.com
 0.0.0.0 s.ipinyou.com
 0.0.0.0 sdsp.ipinyou.com
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 acookie.linezing.com
@@ -19183,6 +19173,7 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
+0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -19252,9 +19243,11 @@
 0.0.0.0 mobads.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
+0.0.0.0 pos.baidu.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 ms.bdimg.com
@@ -19269,6 +19262,7 @@
 0.0.0.0 fex.bdstatic.com
 0.0.0.0 nspt.bdstatic.com
 0.0.0.0 su.bdstatic.com
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 datax.baidu.com
@@ -19542,8 +19536,11 @@
 0.0.0.0 union.dangdang.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
+0.0.0.0 www.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.google-analytics.com
@@ -19588,6 +19585,7 @@
 0.0.0.0 sina.mediav.com
 0.0.0.0 ssxd.mediav.com
 0.0.0.0 static-ssl.mediav.com
+0.0.0.0 static.mediav.com
 0.0.0.0 t.dsp.mediav.com
 0.0.0.0 track.mediav.com
 0.0.0.0 tran.mediav.com
@@ -19598,6 +19596,7 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
+0.0.0.0 vcdn.adnxs.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 analytics.live.com
@@ -19712,6 +19711,7 @@
 0.0.0.0 ls.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 t.l.qq.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 ad4.sina.com.cn
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 beacon.sina.com.cn
@@ -19831,6 +19831,7 @@
 0.0.0.0 ssp.icast.cn
 0.0.0.0 h2.res.icast.cn
 0.0.0.0 mocast.ra.icast.cn
+0.0.0.0 s3.pfp.sina.net
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
 0.0.0.0 cdn.innity.net
@@ -21294,6 +21295,7 @@
 0.0.0.0 ad1.yangjinyou.com
 0.0.0.0 ad2.yangjinyou.com
 0.0.0.0 pro.heiguang.com
+0.0.0.0 a-m-s.poco.cn
 0.0.0.0 stat.fengniao.com
 0.0.0.0 js.fengniao.com
 0.0.0.0 bd1.nipic.com
@@ -23060,6 +23062,7 @@
 0.0.0.0 xc.08an.com
 0.0.0.0 xco.qwxcs.com
 0.0.0.0 xc.hubeijieshikj.cn
+0.0.0.0 xd.code.tanwanyx.com
 0.0.0.0 xdn.cqqc3.com
 0.0.0.0 xfo.monesyy.com
 0.0.0.0 xg.gars57.cn
@@ -23605,6 +23608,7 @@
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 js.admin6.com
 0.0.0.0 conversion.adpro.cn
+0.0.0.0 m.adpro.cn
 0.0.0.0 x.adpro.cn
 0.0.0.0 adpro.pro.cn
 0.0.0.0 adx.pro.cn
@@ -24537,6 +24541,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 pl14369502.puserving.com
 0.0.0.0 ie8eamus.com
+0.0.0.0 adinfo.aol.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
 0.0.0.0 ad-stir.com
