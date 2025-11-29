@@ -1,4 +1,4 @@
-# Update time: 2025-11-29 00:14:10
+# Update time: 2025-11-29 08:55:11
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -7862,6 +7862,7 @@
 0.0.0.0 p.addthis.com
 0.0.0.0 p.bm23.com
 0.0.0.0 p.reuters.com
+0.0.0.0 pa-cd.com
 0.0.0.0 passpport.com
 0.0.0.0 paycounter.com
 0.0.0.0 pei-ads.thesmokingjacket.com
@@ -19850,6 +19851,7 @@
 0.0.0.0 888.tv.sohu.com
 0.0.0.0 ad.mail.sohu.com
 0.0.0.0 ad.sohu.com
+0.0.0.0 corp.sohu.com
 0.0.0.0 cpc.sohu.com
 0.0.0.0 doc.go.sohu.com
 0.0.0.0 i.go.sohu.com
@@ -21470,6 +21472,7 @@
 0.0.0.0 valc.atm.youku.com
 0.0.0.0 valf.atm.youku.com
 0.0.0.0 valp.atm.youku.com
+0.0.0.0 valt.atm.youku.com
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
@@ -22309,6 +22312,7 @@
 0.0.0.0 m.lusrg.cn
 0.0.0.0 m.m19ud.cn
 0.0.0.0 m.mLabf.cn
+0.0.0.0 m.maiduoer.com
 0.0.0.0 m.mcnnic.com
 0.0.0.0 m.miaoxinqipei.com
 0.0.0.0 m.msujd.cn
@@ -22702,6 +22706,7 @@
 0.0.0.0 tipcatscarola.com
 0.0.0.0 tips.gamevvip.com
 0.0.0.0 tisnky4img.iagc.com.cn
+0.0.0.0 titi.18tzx.com
 0.0.0.0 tj.dushu.ru
 0.0.0.0 tj.haiwainet.cn
 0.0.0.0 tj.jinyuewang.cn
@@ -24139,6 +24144,7 @@
 0.0.0.0 yijifen.com
 0.0.0.0 www.yinooo.com
 0.0.0.0 ylunion.com
+0.0.0.0 www.ylunion.com
 0.0.0.0 w.ymapp.com
 0.0.0.0 img-cdn-spot.ymcdn.cn
 0.0.0.0 a.img.static.youmi.net
@@ -24540,6 +24546,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 pl14369502.puserving.com
 0.0.0.0 ie8eamus.com
+0.0.0.0 adinfo.aol.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
 0.0.0.0 ad-stir.com
@@ -25019,6 +25026,7 @@
 0.0.0.0 coocaa.admaster.com.cn
 0.0.0.0 hdt.adx.admaster.com.cn
 0.0.0.0 i18q.admaster.com.cn
+0.0.0.0 jice.admaster.com.cn
 0.0.0.0 kz.admaster.com.cn
 0.0.0.0 mma.admaster.com.cn
 0.0.0.0 mms2017.admaster.com.cn
