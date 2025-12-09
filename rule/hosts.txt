@@ -1,4 +1,4 @@
-# Update time: 2025-12-09 08:58:04
+# Update time: 2025-12-09 16:18:03
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -13306,7 +13306,9 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 blueeyesintelligence.org
+0.0.0.0 bm.alimama.cn
 0.0.0.0 bmgiventures.com
+0.0.0.0 bmvip.alimama.cn
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnmgr.adinjector.net
 0.0.0.0 bnrs.ilm.ee
@@ -16902,6 +16904,7 @@
 0.0.0.0 www.biz-offer.com
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.bjhdrx.com
+0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.blockchaintop.nl
 0.0.0.0 www.blossomtel.com
 0.0.0.0 www.bluecrabhosting.co.uk
@@ -16943,6 +16946,7 @@
 0.0.0.0 www.casino770.com
 0.0.0.0 www.cati.com.tw
 0.0.0.0 www.cdn.taboola.com
+0.0.0.0 www.cdn4ads.com
 0.0.0.0 www.cellphoneincentives.com
 0.0.0.0 www.chartbeat.com
 0.0.0.0 www.chartercare.plus.com
@@ -19134,8 +19138,6 @@
 0.0.0.0 www.linezing.com
 0.0.0.0 app.linezing.com
 0.0.0.0 data.linezing.com
-0.0.0.0 bm.alimama.cn
-0.0.0.0 bmvip.alimama.cn
 0.0.0.0 cb.alimama.cn
 0.0.0.0 img.alimama.cn
 0.0.0.0 tw.alimama.cn
@@ -22893,10 +22895,8 @@
 0.0.0.0 www.billionfocus.com
 0.0.0.0 www.biqubao.com
 0.0.0.0 www.bkdg.net
-0.0.0.0 www.blockadsnot.com
 0.0.0.0 www.boxercrazy.org
 0.0.0.0 www.brightadnetwork.com
-0.0.0.0 www.cdn4ads.com
 0.0.0.0 www.cfdanet.com
 0.0.0.0 www.chemdraw.com
 0.0.0.0 www.chenyanjiao.cn
