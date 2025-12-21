@@ -1,4 +1,4 @@
-# Update time: 2025-12-21 16:15:27
+# Update time: 2025-12-22 00:13:33
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -19132,6 +19132,7 @@
 0.0.0.0 adtrack.ucweb.com
 0.0.0.0 hk.napi.ucweb.com
 0.0.0.0 kwurl.ucweb.com
+0.0.0.0 puds.ucweb.com
 0.0.0.0 rescn.u3.ucweb.com
 0.0.0.0 sea.napi.ucweb.com
 0.0.0.0 uc9.ucweb.com
@@ -19188,6 +19189,7 @@
 0.0.0.0 s.phpwind.com
 0.0.0.0 click.tanx.com
 0.0.0.0 cmc.tanx.com
+0.0.0.0 cms.opendsp.tanx.com
 0.0.0.0 ef.opendsp.tanx.com
 0.0.0.0 et.tanx.com
 0.0.0.0 ex.tanx.com
@@ -21972,6 +21974,7 @@
 0.0.0.0 fpbbdx1.51240.com
 0.0.0.0 fpbbdx1.bmcx.com
 0.0.0.0 fsjsp.com
+0.0.0.0 g.6sfg.com
 0.0.0.0 g.aligames.com
 0.0.0.0 g.f11w.com
 0.0.0.0 g.f5gh.com
@@ -21995,6 +21998,7 @@
 0.0.0.0 gm.uc003.com
 0.0.0.0 go2021-1955280580.bceapp.com
 0.0.0.0 go.dlads.cn
+0.0.0.0 go.imgdudu.xyz
 0.0.0.0 go.kukudm.com
 0.0.0.0 go.lanmeifeel.xyz
 0.0.0.0 go.mudoudou.net
@@ -22498,6 +22502,7 @@
 0.0.0.0 pc.weizhenwx.com
 0.0.0.0 photo.boweineng.cn
 0.0.0.0 photo.ccjxybj.cn
+0.0.0.0 photo.dhford.cn
 0.0.0.0 photo.domainrank.cn
 0.0.0.0 photo.epowuxiao.cn
 0.0.0.0 photo.headwell.cn
@@ -22520,6 +22525,7 @@
 0.0.0.0 pop.code.poyang.cn
 0.0.0.0 postut.cn
 0.0.0.0 poweredby.jads.co
+0.0.0.0 pp.lbsjrw.cn
 0.0.0.0 ppl.xunzhuo123.com
 0.0.0.0 pro.baidu.com
 0.0.0.0 ps.dlads.cn
@@ -23608,6 +23614,7 @@
 0.0.0.0 xunlei.adx.admaster.com.cn
 0.0.0.0 js.admin6.com
 0.0.0.0 conversion.adpro.cn
+0.0.0.0 m.adpro.cn
 0.0.0.0 x.adpro.cn
 0.0.0.0 adpro.pro.cn
 0.0.0.0 adx.pro.cn
@@ -23828,6 +23835,7 @@
 0.0.0.0 msspjh.emarbox.com
 0.0.0.0 msspsvr.emarbox.com
 0.0.0.0 s.emarbox.com
+0.0.0.0 www.emarbox.com
 0.0.0.0 cm.fastapi.net
 0.0.0.0 g.fastapi.net
 0.0.0.0 l.fastapi.net
@@ -24522,6 +24530,7 @@
 0.0.0.0 fans.bestvogue.com
 0.0.0.0 code.hot-mob.com
 0.0.0.0 rad.reporo.net
+0.0.0.0 ads.traffichunt.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 rum-collector.pingdom.net
@@ -24538,6 +24547,7 @@
 0.0.0.0 static.addtoany.com
 0.0.0.0 pl14369502.puserving.com
 0.0.0.0 ie8eamus.com
+0.0.0.0 adinfo.aol.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
 0.0.0.0 ad-stir.com
@@ -24548,6 +24558,7 @@
 0.0.0.0 rtb.ad-stir.com
 0.0.0.0 blue-ad.ad-stir.com
 0.0.0.0 nad.ad-stir.com
+0.0.0.0 js2.ad-stir.com
 0.0.0.0 dl.ad-stir.com
 0.0.0.0 cf-ad.ad-stir.com
 0.0.0.0 stage-uev.ad-stir.com
@@ -24774,6 +24785,7 @@
 0.0.0.0 cm.passport.iqiyi.com
 0.0.0.0 gamecenter.iqiyi.com
 0.0.0.0 ifacelog.iqiyi.com
+0.0.0.0 mbdlog.iqiyi.com
 0.0.0.0 msg.iqiyi.com
 0.0.0.0 msga.cupid.iqiyi.com
 0.0.0.0 nl.notice.iqiyi.com
@@ -25086,6 +25098,7 @@
 0.0.0.0 s3.pkg.toponad.com
 0.0.0.0 pkg.toponad.com
 0.0.0.0 ad.alimama.com
+0.0.0.0 c.click.alimama.com
 0.0.0.0 adsh.wagbridge.taobao.alimama.com
 0.0.0.0 adsh.wagbridge.tmall.alimama.com
 0.0.0.0 adsz.wagbridge.taobao.alimama.com
