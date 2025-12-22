@@ -1,4 +1,4 @@
-# Update time: 2025-12-22 00:13:33
+# Update time: 2025-12-22 09:02:48
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -18994,7 +18994,6 @@
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 impservice.dictapp.youdao.com
 0.0.0.0 log.yex.youdao.com
-0.0.0.0 ydpushserver.youdao.com
 0.0.0.0 api.so.lianmeng.360.cn
 0.0.0.0 cm.lianmeng.360.cn
 0.0.0.0 s.lianmeng.360.cn
@@ -19712,7 +19711,6 @@
 0.0.0.0 cb.l.qq.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 lb.l.qq.com
-0.0.0.0 livec.l.qq.com
 0.0.0.0 livem.l.qq.com
 0.0.0.0 livep.l.qq.com
 0.0.0.0 lives.l.qq.com
@@ -20006,7 +20004,6 @@
 0.0.0.0 www.yhd.com
 0.0.0.0 www.hisense.cn
 0.0.0.0 www.hisense.com
-0.0.0.0 www.baihe.com
 0.0.0.0 www.jiayuan.com
 0.0.0.0 www.haier.com
 0.0.0.0 www.zhongmin.cn
@@ -20498,7 +20495,6 @@
 0.0.0.0 o.if.qidian.com
 0.0.0.0 uedas.qidian.com
 0.0.0.0 uedas.qdmm.com
-0.0.0.0 finead.cn
 0.0.0.0 www.cpv6.com
 0.0.0.0 imagelx.yidianzixun.com
 0.0.0.0 l.yidianzixun.com
@@ -21673,7 +21669,6 @@
 0.0.0.0 bd2-china.xsfaya.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd4.chuiyue.com
-0.0.0.0 bdcode.qinglm.com
 0.0.0.0 bdjiaoben.wmxa.cn
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 bdjs1.ixiumei.com
@@ -21733,7 +21728,6 @@
 0.0.0.0 cache.xw126.com
 0.0.0.0 castatic.fengkongcloud.com
 0.0.0.0 cc.365yigou.cn
-0.0.0.0 cd.dabansuan.cn
 0.0.0.0 cdn.0i-i0.com
 0.0.0.0 cdn.810236.com
 0.0.0.0 cdn.9823df.com
@@ -22418,7 +22412,6 @@
 0.0.0.0 mo.hc872.cn
 0.0.0.0 mo.qitouch.cn
 0.0.0.0 mo.yun-pdm2000.cn
-0.0.0.0 mob29.shqcbus.com
 0.0.0.0 mobixc.japsmma.cyou
 0.0.0.0 moren-1252794300.file.myqcloud.com
 0.0.0.0 motoe.plokr.com
@@ -23776,7 +23769,6 @@
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 pic2.bloggerads.net
 0.0.0.0 piccdn.bloggerads.net
-0.0.0.0 img.scupio.com
 0.0.0.0 ab.hysdknb.com
 0.0.0.0 file.bmob.cn
 0.0.0.0 static.bmob.cn
@@ -24195,7 +24187,6 @@
 0.0.0.0 www.ad-survey.com
 0.0.0.0 sspmservice.ad-survey.com
 0.0.0.0 cdn.ad4game.com
-0.0.0.0 delivery05.ad4game.com
 0.0.0.0 tracking07.ad4game.com
 0.0.0.0 delivery04.ad4game.com
 0.0.0.0 ads-dev.ad4game.com
@@ -24584,7 +24575,6 @@
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 spdeliver.i-mobile.co.jp
-0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
 0.0.0.0 spnet33.i-mobile.co.jp
@@ -24862,7 +24852,6 @@
 0.0.0.0 s.p.youku.com
 0.0.0.0 sdk.api.gamex.mobile.youku.com
 0.0.0.0 static.atm.youku.com
-0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.xl.api.3g.youku.com
 0.0.0.0 urchin.lstat.youku.com
 0.0.0.0 valo.atm.youku.com
@@ -24899,7 +24888,6 @@
 0.0.0.0 fangniaowang.net
 0.0.0.0 api.aiclk.com
 0.0.0.0 cdn.aiclk.com
-0.0.0.0 oss.cdn.aiclk.com
 0.0.0.0 rcv.aiclk.com
 0.0.0.0 update0.aiclk.com
 0.0.0.0 adv.aiclk.com
