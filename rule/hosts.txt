@@ -1,4 +1,4 @@
-# Update time: 2026-01-14 09:03:41
+# Update time: 2026-01-14 16:18:35
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
