@@ -1,4 +1,4 @@
-# Update time: 2026-02-25 00:55:20
+# Update time: 2026-02-25 09:19:11
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -15,7 +15,6 @@
 0.0.0.0 andlache.com
 0.0.0.0 anybest.pw
 0.0.0.0 api.browsermine.com
-0.0.0.0 api.inwemo.com
 0.0.0.0 api.miner.beeppool.org
 0.0.0.0 as.cfcdist.loan
 0.0.0.0 ashgrrwt.click
@@ -60,11 +59,7 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
-0.0.0.0 cnhv.co
-0.0.0.0 cnt.statistic.date
-0.0.0.0 coin-have.com
 0.0.0.0 coinblind.com
-0.0.0.0 coinerra.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinminingonline.com
 0.0.0.0 coinnebula.com
@@ -8533,6 +8528,7 @@
 0.0.0.0 antoinettepoisson.fr
 0.0.0.0 apconsultantgroup.com
 0.0.0.0 apel3.fr
+0.0.0.0 api.inwemo.com
 0.0.0.0 app2.letslowbefast.life
 0.0.0.0 appale.fr
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -8777,14 +8773,18 @@
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
+0.0.0.0 cnhv.co
 0.0.0.0 cnnews.fr
+0.0.0.0 cnt.statistic.date
 0.0.0.0 codebiogblog.com
 0.0.0.0 codeexplain.com
 0.0.0.0 codegur.com
 0.0.0.0 codelogic.fr
 0.0.0.0 codeotel.com
 0.0.0.0 coderexception.com
+0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
+0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinimp.com
 0.0.0.0 coldcertainchannel.com
@@ -8816,6 +8816,7 @@
 0.0.0.0 costorama.fr
 0.0.0.0 countrystore.fr
 0.0.0.0 coupondio.fr
+0.0.0.0 cp.forest-host.cc
 0.0.0.0 cplelangues.fr
 0.0.0.0 cra-arc-gc-ca.noads.biz
 0.0.0.0 cra-etransfer.online
@@ -9429,6 +9430,7 @@
 0.0.0.0 mightyfungi.fr
 0.0.0.0 mije.fr
 0.0.0.0 mikvr.comfortykive.xyz
+0.0.0.0 mimikacooney.acemlnc.com
 0.0.0.0 mindshareworld.fr
 0.0.0.0 mineacraft.fr
 0.0.0.0 minecraft-frannce.fr
@@ -10239,7 +10241,10 @@
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
+0.0.0.0 www.googdiy.com
+0.0.0.0 www.gotorobeks.com
 0.0.0.0 www.gparted.fr
+0.0.0.0 www.gpolitico.com
 0.0.0.0 www.gradedoctortutoring.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
@@ -10280,6 +10285,7 @@
 0.0.0.0 www.libanco.com
 0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.magento-analytics.com
+0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
 0.0.0.0 www.mikras.nl
@@ -10308,14 +10314,17 @@
 0.0.0.0 www.oppery.com
 0.0.0.0 www.otsserver.com
 0.0.0.0 www.outonixan.com
+0.0.0.0 www.pagibigfundservicers.com
 0.0.0.0 www.paintnet.es
 0.0.0.0 www.paintnet.fr
 0.0.0.0 www.paramutplus.com
 0.0.0.0 www.parejaamateur.com
 0.0.0.0 www.partsttown.com
 0.0.0.0 www.paviro.cfd
+0.0.0.0 www.pdrill.com
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 www.pearlyappss.pro
+0.0.0.0 www.peopleesbancorp.com
 0.0.0.0 www.pepernity.com
 0.0.0.0 www.phantomluck.com
 0.0.0.0 www.phormlabs.com
@@ -10398,6 +10407,7 @@
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.zenithvault.uk
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
 0.0.0.0 wyoutube.fr
@@ -24176,7 +24186,6 @@
 0.0.0.0 pic.bloggerads.net
 0.0.0.0 pic2.bloggerads.net
 0.0.0.0 piccdn.bloggerads.net
-0.0.0.0 img.scupio.com
 0.0.0.0 ab.hysdknb.com
 0.0.0.0 file.bmob.cn
 0.0.0.0 static.bmob.cn
@@ -24984,7 +24993,6 @@
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 spdeliver.i-mobile.co.jp
-0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
 0.0.0.0 spnet33.i-mobile.co.jp
