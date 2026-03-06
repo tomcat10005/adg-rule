@@ -1,4 +1,4 @@
-# Update time: 2026-03-06 09:17:45
+# Update time: 2026-03-06 16:27:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1oavsblobprodcus350.blob.core.windows.net
@@ -406,11 +406,7 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloudcdn.gdn
-0.0.0.0 cnhv.co
-0.0.0.0 cnt.statistic.date
-0.0.0.0 coin-have.com
 0.0.0.0 coinblind.com
-0.0.0.0 coinerra.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinminingonline.com
 0.0.0.0 coinnebula.com
@@ -419,7 +415,6 @@
 0.0.0.0 coinrail.io
 0.0.0.0 contribute.to-support.me
 0.0.0.0 cryptaloot.pro
-0.0.0.0 crypto-loot.com
 0.0.0.0 crypto-webminer.com
 0.0.0.0 crypto.csgocpu.com
 0.0.0.0 cryptoloot.pro
@@ -467,7 +462,6 @@
 0.0.0.0 gramombird.com
 0.0.0.0 gridiogrid.com
 0.0.0.0 gxbrowser.net
-0.0.0.0 hashing.win
 0.0.0.0 hemnes.win
 0.0.0.0 hhb123.tk
 0.0.0.0 hide.ovh
@@ -500,18 +494,12 @@
 0.0.0.0 mine.nahnoji.cz
 0.0.0.0 mine.terorie.com
 0.0.0.0 mine.torrent.pw
-0.0.0.0 minemytraffic.com
 0.0.0.0 miner.beeppool.org
 0.0.0.0 miner.cryptobara.com
 0.0.0.0 miner.nablabee.com
 0.0.0.0 minerad.com
-0.0.0.0 minero-proxy-01.now.sh
-0.0.0.0 minero-proxy-02.now.sh
-0.0.0.0 minero-proxy-03.now.sh
-0.0.0.0 minero.pw
 0.0.0.0 minescripts.info
 0.0.0.0 minexmr.stream
-0.0.0.0 minr.pw
 0.0.0.0 mm.zubovskaya-banya.ru
 0.0.0.0 monerominer.rocks
 0.0.0.0 money-maker-default.info
@@ -566,7 +554,6 @@
 0.0.0.0 roastedvolt.net
 0.0.0.0 rock.reauthenticator.com
 0.0.0.0 rock2.authcaptcha.com
-0.0.0.0 rocks.io
 0.0.0.0 s01.hostcontent.live
 0.0.0.0 s03.hostcontent.live
 0.0.0.0 s04.hostcontent.live
@@ -619,7 +606,6 @@
 0.0.0.0 vuryua.ru
 0.0.0.0 webapi.salamantex.com
 0.0.0.0 webapi.staging.salamantex.com
-0.0.0.0 webassembly.stream
 0.0.0.0 webmine.cz
 0.0.0.0 webmine.pro
 0.0.0.0 webminepool.com
@@ -635,7 +621,6 @@
 0.0.0.0 www.authedwebmine.cz
 0.0.0.0 www.besocial.online
 0.0.0.0 www.cloudflane.com
-0.0.0.0 www.coinimp.com
 0.0.0.0 www.coinimp.net
 0.0.0.0 www.freecontent.date
 0.0.0.0 www.freecontent.science
@@ -655,7 +640,6 @@
 0.0.0.0 www.notmining.org
 0.0.0.0 www.sparechange.io
 0.0.0.0 www.verifier.live
-0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webmine.cz
 0.0.0.0 xmr.cool
 0.0.0.0 xmr.2miners.com
@@ -8777,14 +8761,18 @@
 0.0.0.0 cltxhot.fun
 0.0.0.0 cmcre.fr
 0.0.0.0 cndpt.fr
+0.0.0.0 cnhv.co
 0.0.0.0 cnnews.fr
+0.0.0.0 cnt.statistic.date
 0.0.0.0 codebiogblog.com
 0.0.0.0 codeexplain.com
 0.0.0.0 codegur.com
 0.0.0.0 codelogic.fr
 0.0.0.0 codeotel.com
 0.0.0.0 coderexception.com
+0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
+0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinimp.com
 0.0.0.0 coldcertainchannel.com
@@ -8794,6 +8782,7 @@
 0.0.0.0 coloradosoccerbuddies.acemlna.com
 0.0.0.0 colssimo.fr
 0.0.0.0 comfortykive.xyz
+0.0.0.0 comineeis.vu
 0.0.0.0 commax.fr
 0.0.0.0 commdev.fr
 0.0.0.0 compe-nickel.fr
@@ -8829,6 +8818,7 @@
 0.0.0.0 croissieres.fr
 0.0.0.0 crouslyon.fr
 0.0.0.0 crpo.fr
+0.0.0.0 crypto-loot.com
 0.0.0.0 ctmsapp.com
 0.0.0.0 cuder.fr
 0.0.0.0 cullligan.fr
@@ -9098,6 +9088,7 @@
 0.0.0.0 handbrake.es
 0.0.0.0 happyfresh.fr
 0.0.0.0 hartamann.fr
+0.0.0.0 hashing.win
 0.0.0.0 hatdfg-rhgreh684.frge.io
 0.0.0.0 hcg82f2b.com
 0.0.0.0 headization.lexkd.cn
@@ -9441,9 +9432,15 @@
 0.0.0.0 minecraftr.fr
 0.0.0.0 minecraftt.fr
 0.0.0.0 minefieald.fr
+0.0.0.0 minemytraffic.com
 0.0.0.0 minence.fr
 0.0.0.0 minencraft.fr
 0.0.0.0 miner.pr0gramm.com
+0.0.0.0 minero-proxy-01.now.sh
+0.0.0.0 minero-proxy-02.now.sh
+0.0.0.0 minero-proxy-03.now.sh
+0.0.0.0 minero.pw
+0.0.0.0 minr.pw
 0.0.0.0 mipay.fr
 0.0.0.0 mipsa.ciae.ac.cn
 0.0.0.0 mirillis.fr
@@ -9575,6 +9572,7 @@
 0.0.0.0 onemanga.fr
 0.0.0.0 onepager.fr
 0.0.0.0 onilne.fr
+0.0.0.0 online.analytiks.click
 0.0.0.0 onlinewebfind.com
 0.0.0.0 onyxboox.fr
 0.0.0.0 oolo.fr
@@ -9781,6 +9779,7 @@
 0.0.0.0 riosaladohp.com
 0.0.0.0 robertgraham.fr
 0.0.0.0 rockrose.fr
+0.0.0.0 rocks.io
 0.0.0.0 rockthebretzel.fr
 0.0.0.0 rogers-wirelessphone.com
 0.0.0.0 roivant.fr
@@ -10105,6 +10104,7 @@
 0.0.0.0 waudeesestew.com
 0.0.0.0 wealthsimple-dwvip.com
 0.0.0.0 weapfuh.originalriver-tone.top
+0.0.0.0 webassembly.stream
 0.0.0.0 webatic.fr
 0.0.0.0 webmail.grahachemical.co.id
 0.0.0.0 webmedic.fr
@@ -10115,6 +10115,7 @@
 0.0.0.0 webwise.com
 0.0.0.0 webwise.net
 0.0.0.0 webwise.org
+0.0.0.0 weddinglovers.pl
 0.0.0.0 wenda.io
 0.0.0.0 west.05tz2e9.com
 0.0.0.0 westerdayeol.site
@@ -10150,6 +10151,7 @@
 0.0.0.0 www.7zip.fr
 0.0.0.0 www.a2uu36g43l.download
 0.0.0.0 www.abetterinternet.com
+0.0.0.0 www.abnehmenkabofit.de
 0.0.0.0 www.adblock.fr
 0.0.0.0 www.adshufffle.com
 0.0.0.0 www.aerodriftcore.uk
@@ -10165,6 +10167,7 @@
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
+0.0.0.0 www.auto-runmz.com
 0.0.0.0 www.availablefiles.com
 0.0.0.0 www.avemoo.com
 0.0.0.0 www.azureus.es
@@ -10205,6 +10208,7 @@
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
 0.0.0.0 www.cloudverge.uk
+0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.consultingbyelevate.com
@@ -10253,6 +10257,7 @@
 0.0.0.0 www.gadgetbonanzamarket.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gameqnt.com
+0.0.0.0 www.gandiatv.com
 0.0.0.0 www.gavelandcap.com
 0.0.0.0 www.gekorn.com
 0.0.0.0 www.gentleshadeox.pro
@@ -10456,8 +10461,10 @@
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
+0.0.0.0 www.walkhelp.net
 0.0.0.0 www.wantsfly.com
 0.0.0.0 www.warrenmovers.net
+0.0.0.0 www.webassembly.stream
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.webwise.com
 0.0.0.0 www.webwise.org
@@ -14824,6 +14831,7 @@
 0.0.0.0 hurricaneprotection.com
 0.0.0.0 hyperion.adtech.fr
 0.0.0.0 hyperion.adtech.us
+0.0.0.0 hz.mmstat.com
 0.0.0.0 i-sharecloud.com
 0.0.0.0 i.adwise.bg
 0.0.0.0 i.blogads.com
@@ -15081,6 +15089,7 @@
 0.0.0.0 js.smi2.ru
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
+0.0.0.0 js.tongji.linezing.com
 0.0.0.0 js.zevents.com
 0.0.0.0 js1.bloggerads.net
 0.0.0.0 jsc.adskeeper.co.uk
@@ -15673,6 +15682,7 @@
 0.0.0.0 nsads.hotwired.com
 0.0.0.0 nsads.us.publicus.com
 0.0.0.0 nsads4.us.publicus.com
+0.0.0.0 nsclick.baidu.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 ntskeptics.org
@@ -15804,15 +15814,19 @@
 0.0.0.0 p.nexac.com
 0.0.0.0 p.profistats.net
 0.0.0.0 p1.preppypm.com
+0.0.0.0 p2.l.qq.com
 0.0.0.0 p2.preppypm.com
 0.0.0.0 p232207.mybestmv.com
 0.0.0.0 p3.preppypm.com
+0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4.preppypm.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p5.preppypm.com
 0.0.0.0 p6.preppypm.com
 0.0.0.0 p7.preppypm.com
 0.0.0.0 paclitor.com
 0.0.0.0 page.0ffer.eu
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pageplop.com
 0.0.0.0 pagesense.com
 0.0.0.0 paid.outbrain.com
@@ -15989,6 +16003,7 @@
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pornstargals.com
+0.0.0.0 pos.baidu.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postmasterdirect.com
@@ -16354,6 +16369,7 @@
 0.0.0.0 s1.adform.net
 0.0.0.0 s3.adbers.com
 0.0.0.0 s3.buysellads.com
+0.0.0.0 s3.pfp.sina.net
 0.0.0.0 s5.addthis.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s7clean.com
@@ -16384,6 +16400,7 @@
 0.0.0.0 sb6.shble.com
 0.0.0.0 sb7.shble.com
 0.0.0.0 scalemonk.com
+0.0.0.0 scdown.qq.com
 0.0.0.0 scegli-vinci.it
 0.0.0.0 scgis.co.uk
 0.0.0.0 schoorsteen.geenstijl.nl
@@ -16520,6 +16537,7 @@
 0.0.0.0 show-msgch.qq.com
 0.0.0.0 showads1000.pubmatic.com
 0.0.0.0 showadsak.pubmatic.com
+0.0.0.0 shrek.6.cn
 0.0.0.0 shrimpsqueezed.com
 0.0.0.0 si.hit.gemius.pl
 0.0.0.0 sidare.homes
@@ -16652,6 +16670,7 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.criteo.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.everyone.net
 0.0.0.0 static.fmpub.net
@@ -16662,6 +16681,8 @@
 0.0.0.0 static.l3.cdn.adsucks.com
 0.0.0.0 static.linkz.net
 0.0.0.0 static.loboclick.com
+0.0.0.0 static.mackeeper.com
+0.0.0.0 static.mediav.com
 0.0.0.0 static.oroll.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.plugrush.com
@@ -16684,6 +16705,7 @@
 0.0.0.0 stats.askmoses.com
 0.0.0.0 stats.defense.gov
 0.0.0.0 stats.fd.nl
+0.0.0.0 stats.ipinyou.com
 0.0.0.0 stats.shopify.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.x14.eu
@@ -16742,9 +16764,11 @@
 0.0.0.0 synad2.nuffnang.com.cn
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync-share.com
+0.0.0.0 sync.1rx.io
 0.0.0.0 sync.audtd.com
 0.0.0.0 sync.console.adtarget.com.tr
 0.0.0.0 sync.credebat.com
+0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.pulseradius.com
 0.0.0.0 sync.upravel.com
@@ -16767,6 +16791,7 @@
 0.0.0.0 t-ads.adap.tv
 0.0.0.0 t-o-kitano.com
 0.0.0.0 t-odx.op-mobile.opera.com
+0.0.0.0 t.atpanel.com
 0.0.0.0 t.dynad.net
 0.0.0.0 t.frtyg.com
 0.0.0.0 t.mdn2015x3.com
@@ -16889,6 +16914,7 @@
 0.0.0.0 tour.cineble.com
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpads.ovguide.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
 0.0.0.0 tps20519.doubleverify.com
@@ -16993,6 +17019,7 @@
 0.0.0.0 u.videoamp.com
 0.0.0.0 uac.advertising.com
 0.0.0.0 uav.tidaltv.com
+0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 ucstat.baidu.com
 0.0.0.0 ud.adkmob.com
 0.0.0.0 udarem.com
@@ -17008,6 +17035,7 @@
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ultrasponsor.com
 0.0.0.0 ulusalofis.com
+0.0.0.0 um.simpli.fi
 0.0.0.0 ums.adtechus.com
 0.0.0.0 unclechunk.com
 0.0.0.0 undertonenetworks.com
@@ -17066,6 +17094,7 @@
 0.0.0.0 vast.ssp.optimatic.com
 0.0.0.0 vast.tubemogul.com
 0.0.0.0 vast.vertamedia.com
+0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vda.oipzyrzffum.ovh
 0.0.0.0 vdbunt.net
 0.0.0.0 ve1.claker.top
@@ -17138,6 +17167,7 @@
 0.0.0.0 vzarabotke.ru
 0.0.0.0 w-chat.xf.cz
 0.0.0.0 w.ic.tynt.com
+0.0.0.0 w.l.qq.com
 0.0.0.0 w1.am15.net
 0.0.0.0 w1.webcompteur.com
 0.0.0.0 w10.centralmediaserver.com
@@ -17148,6 +17178,7 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -17589,6 +17620,7 @@
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.gmads.net
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.greatdexchange.com
@@ -19535,8 +19567,6 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
-0.0.0.0 hz.mmstat.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
@@ -19608,11 +19638,9 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.ucfly.com
 0.0.0.0 cntv.wrating.com
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 fm.p0y.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
-0.0.0.0 t.atpanel.com
 0.0.0.0 afp.adchina.com
 0.0.0.0 match.p4p.1688.com
 0.0.0.0 aecpm.alicdn.com
@@ -19623,12 +19651,10 @@
 0.0.0.0 ipinyou.com
 0.0.0.0 s.ipinyou.com
 0.0.0.0 sdsp.ipinyou.com
-0.0.0.0 stats.ipinyou.com
 0.0.0.0 www.ipinyou.com
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
-0.0.0.0 js.tongji.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
 0.0.0.0 app.linezing.com
@@ -19717,14 +19743,11 @@
 0.0.0.0 mipengine.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads.baidu.com
-0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 ms.bdimg.com
@@ -19739,7 +19762,6 @@
 0.0.0.0 fex.bdstatic.com
 0.0.0.0 nspt.bdstatic.com
 0.0.0.0 su.bdstatic.com
-0.0.0.0 ubmcmm.baidustatic.com
 0.0.0.0 zz.bdstatic.com
 0.0.0.0 bdplus.baidu.com
 0.0.0.0 datax.baidu.com
@@ -20013,12 +20035,8 @@
 0.0.0.0 union.dangdang.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.google-analytics.com
@@ -20063,7 +20081,6 @@
 0.0.0.0 sina.mediav.com
 0.0.0.0 ssxd.mediav.com
 0.0.0.0 static-ssl.mediav.com
-0.0.0.0 static.mediav.com
 0.0.0.0 t.dsp.mediav.com
 0.0.0.0 track.mediav.com
 0.0.0.0 tran.mediav.com
@@ -20074,7 +20091,6 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
-0.0.0.0 vcdn.adnxs.com
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 analytics.live.com
@@ -20187,10 +20203,8 @@
 0.0.0.0 livep.l.qq.com
 0.0.0.0 lives.l.qq.com
 0.0.0.0 ls.l.qq.com
-0.0.0.0 p2.l.qq.com
 0.0.0.0 p3.l.qq.com
 0.0.0.0 t.l.qq.com
-0.0.0.0 w.l.qq.com
 0.0.0.0 ad4.sina.com.cn
 0.0.0.0 adm.leju.sina.com.cn
 0.0.0.0 beacon.sina.com.cn
@@ -20310,7 +20324,6 @@
 0.0.0.0 ssp.icast.cn
 0.0.0.0 h2.res.icast.cn
 0.0.0.0 mocast.ra.icast.cn
-0.0.0.0 s3.pfp.sina.net
 0.0.0.0 avn.innity.com
 0.0.0.0 cast.innity.com
 0.0.0.0 cdn.innity.net
@@ -20512,7 +20525,6 @@
 0.0.0.0 jdb.jiudingcapital.cn
 0.0.0.0 jdb.jiudingcapital.com
 0.0.0.0 www.jiedaibao.com
-0.0.0.0 scdown.qq.com
 0.0.0.0 download.sj.qq.com
 0.0.0.0 c.gj.qq.com
 0.0.0.0 t.sj.qq.com
@@ -20526,7 +20538,6 @@
 0.0.0.0 download.mackeeper.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 mackeeper.com
-0.0.0.0 static.mackeeper.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
 0.0.0.0 tvupgrade.yunos.com
@@ -20823,7 +20834,6 @@
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 openstorage.ad.cmvideo.cn
 0.0.0.0 advert.mting.info
-0.0.0.0 shrek.6.cn
 0.0.0.0 sclick.6rooms.com
 0.0.0.0 ad.huajiao.com
 0.0.0.0 mlog.hiido.com
@@ -21141,16 +21151,13 @@
 0.0.0.0 rp.gwallet.com
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-tm.everesttech.net
-0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.extend.tv
 0.0.0.0 sync.intentiq.com
 0.0.0.0 sync.ipredictive.com
-0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tracking.m6r.eu
-0.0.0.0 um.simpli.fi
 0.0.0.0 um2.eqads.com
 0.0.0.0 ad.jxnews.com.cn
 0.0.0.0 adv.jxnews.com.cn
