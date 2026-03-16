@@ -1,4 +1,4 @@
-# Update time: 2026-03-16 09:23:59
+# Update time: 2026-03-16 16:44:17
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -13791,9 +13791,7 @@
 0.0.0.0 blueconic.net
 0.0.0.0 bluediamondoffers.com
 0.0.0.0 blueeyesintelligence.org
-0.0.0.0 bm.alimama.cn
 0.0.0.0 bmgiventures.com
-0.0.0.0 bmvip.alimama.cn
 0.0.0.0 bn.bfast.com
 0.0.0.0 bnmgr.adinjector.net
 0.0.0.0 bnrs.ilm.ee
@@ -13969,7 +13967,6 @@
 0.0.0.0 casino770.com
 0.0.0.0 caslemedia.com
 0.0.0.0 casting.openv.com
-0.0.0.0 cb.alimama.cn
 0.0.0.0 cb.baidu.com
 0.0.0.0 cbango.com.ar
 0.0.0.0 cbanners.virtuagirlhd.com
@@ -14228,7 +14225,6 @@
 0.0.0.0 count6.51yes.com
 0.0.0.0 cpm20.com
 0.0.0.0 cpmadvisors.com
-0.0.0.0 cpro.baidu.com
 0.0.0.0 cpxdeliv.com
 0.0.0.0 creatiby1.unicast.com
 0.0.0.0 creative.ad131m.com
@@ -14284,9 +14280,7 @@
 0.0.0.0 d11.zedo.com
 0.0.0.0 d12.zedo.com
 0.0.0.0 d14.zedo.com
-0.0.0.0 d2.sina.com.cn
 0.0.0.0 d2.zedo.com
-0.0.0.0 d3.sina.com.cn
 0.0.0.0 d3.zedo.com
 0.0.0.0 d3v3bqdndm4erx.cloudfront.net
 0.0.0.0 d4.zedo.com
@@ -14326,7 +14320,6 @@
 0.0.0.0 dazzler.liquidus.net
 0.0.0.0 db4.net-filter.com
 0.0.0.0 dbbsrv.com
-0.0.0.0 dcads.sina.com.cn
 0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dctracking.com
 0.0.0.0 de.ads.justpremium.com
@@ -14491,7 +14484,6 @@
 0.0.0.0 egyazegyben.com
 0.0.0.0 egyenesen.com
 0.0.0.0 egyveleg.com
-0.0.0.0 eiv.baidu.com
 0.0.0.0 ej.progresas.lt
 0.0.0.0 elzaservis.cz
 0.0.0.0 emea-bidder.mathtag.com
@@ -14590,7 +14582,6 @@
 0.0.0.0 figyelo-net.com
 0.0.0.0 filateliadimauro.com
 0.0.0.0 file-shares.com
-0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 fileshare-storage.com
 0.0.0.0 filipelucio.com
 0.0.0.0 filmes-hd.com
@@ -14875,8 +14866,6 @@
 0.0.0.0 hk.adserver.yahoo.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlok.qertewrt.com
-0.0.0.0 hm.baidu.com
-0.0.0.0 hm.l.qq.com
 0.0.0.0 hmw42.host-my-website.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 home.foni.net
@@ -14943,7 +14932,6 @@
 0.0.0.0 iad-usadmm.dotomi.com
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 ialaddin.genieesspv.jp
-0.0.0.0 ib.adnxs.com
 0.0.0.0 ibis.lgappstv.com
 0.0.0.0 iceman30.de
 0.0.0.0 iceonecasino.com
@@ -14989,7 +14977,6 @@
 0.0.0.0 images.people2people.com
 0.0.0.0 images.persgroepadvertising.be
 0.0.0.0 images.sexlist.com
-0.0.0.0 images.sohu.com
 0.0.0.0 images.steamray.com
 0.0.0.0 images.taboola.com
 0.0.0.0 images.trafficmp.com
@@ -15000,7 +14987,6 @@
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 imarker.com
 0.0.0.0 imarker.ru
-0.0.0.0 imc.l.qq.com
 0.0.0.0 img-a2.ak.imagevz.net
 0.0.0.0 img.3lift.com
 0.0.0.0 img.alibaba.com
@@ -15249,9 +15235,7 @@
 0.0.0.0 l.admob.com
 0.0.0.0 l.linkpulse.com
 0.0.0.0 l.ohmyad.co
-0.0.0.0 l.qq.com
 0.0.0.0 l.yieldmanager.net
-0.0.0.0 l2.l.qq.com
 0.0.0.0 labas-hl.de
 0.0.0.0 labashl.de
 0.0.0.0 laborex.hu
@@ -15397,7 +15381,6 @@
 0.0.0.0 macaxpower.com.br
 0.0.0.0 maccleanersecurity.com
 0.0.0.0 macdamaged.tech
-0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 mackeeperapp1.zeobit.com
 0.0.0.0 mackeeperapp2.mackeeper.com
 0.0.0.0 mackeeperapp3.mackeeper.com
@@ -15884,7 +15867,6 @@
 0.0.0.0 oz.valueclick.ne.jp
 0.0.0.0 ozonemedia.adbureau.net
 0.0.0.0 p.ic.tynt.com
-0.0.0.0 p.l.qq.com
 0.0.0.0 p.nexac.com
 0.0.0.0 p.profistats.net
 0.0.0.0 p1.preppypm.com
@@ -16015,7 +15997,6 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.everesttech.net
-0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.watch
 0.0.0.0 piz7ohhujogi.com
@@ -16393,7 +16374,6 @@
 0.0.0.0 rts.sparkstudios.com
 0.0.0.0 ru.redtram.com
 0.0.0.0 ru4.com
-0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rubyfortune.com
 0.0.0.0 ruegenfleisch.de
 0.0.0.0 runcpa.com
@@ -16826,11 +16806,9 @@
 0.0.0.0 synad2.nuffnang.com.cn
 0.0.0.0 sync-eu.exe.bid
 0.0.0.0 sync-share.com
-0.0.0.0 sync.1rx.io
 0.0.0.0 sync.audtd.com
 0.0.0.0 sync.console.adtarget.com.tr
 0.0.0.0 sync.credebat.com
-0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.pulseradius.com
 0.0.0.0 sync.upravel.com
@@ -18597,7 +18575,6 @@
 0.0.0.0 oasc08008.247realmedia.com
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 oascentral.123greetings.com
-0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 oascentral.adage.com
 0.0.0.0 oascentral.adageglobal.com
 0.0.0.0 oascentral.aircanada.com
@@ -18639,7 +18616,6 @@
 0.0.0.0 oascentral.law.com
 0.0.0.0 oascentral.laweekly.com
 0.0.0.0 oascentral.looksmart.com
-0.0.0.0 oascentral.lycos.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
 0.0.0.0 oascentral.minnpost.com
@@ -19705,6 +19681,7 @@
 0.0.0.0 alimama.alicdn.com
 0.0.0.0 gen.alicdn.com
 0.0.0.0 strip.alicdn.com
+0.0.0.0 file.ipinyou.com.cn
 0.0.0.0 i.ipinyou.com
 0.0.0.0 ipinyou.com
 0.0.0.0 s.ipinyou.com
@@ -19719,6 +19696,9 @@
 0.0.0.0 www.linezing.com
 0.0.0.0 app.linezing.com
 0.0.0.0 data.linezing.com
+0.0.0.0 bm.alimama.cn
+0.0.0.0 bmvip.alimama.cn
+0.0.0.0 cb.alimama.cn
 0.0.0.0 img.alimama.cn
 0.0.0.0 tw.alimama.cn
 0.0.0.0 acookie.alimama.com
@@ -19788,14 +19768,17 @@
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cm.baidu.com
 0.0.0.0 cm.pos.baidu.com
+0.0.0.0 cpro.baidu.com
 0.0.0.0 cpu.baidu.com
 0.0.0.0 cpucdn.baidu.com
 0.0.0.0 publish-pic-cpu.baidu.com
 0.0.0.0 crs.baidu.com
 0.0.0.0 eclick.baidu.com
+0.0.0.0 eiv.baidu.com
 0.0.0.0 em.baidu.com
 0.0.0.0 entry.baidu.com
 0.0.0.0 feed-image.baidu.com
+0.0.0.0 hm.baidu.com
 0.0.0.0 hpd.baidu.com
 0.0.0.0 idm-su.baidu.com
 0.0.0.0 idm.bce.baidu.com
@@ -20158,6 +20141,7 @@
 0.0.0.0 xd.mediav.com
 0.0.0.0 xdssp.mediav.com
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 ib.adnxs.com
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 vcdn.adnxs.com
@@ -20204,6 +20188,7 @@
 0.0.0.0 sngmta.qq.com
 0.0.0.0 strategy.beacon.qq.com
 0.0.0.0 dp3.qq.com
+0.0.0.0 imc.l.qq.com
 0.0.0.0 ad.qun.qq.com
 0.0.0.0 adpm.app.qq.com
 0.0.0.0 adrdir.qq.com
@@ -20267,6 +20252,9 @@
 0.0.0.0 bs.l.qq.com
 0.0.0.0 cb.l.qq.com
 0.0.0.0 cm.l.qq.com
+0.0.0.0 hm.l.qq.com
+0.0.0.0 l.qq.com
+0.0.0.0 l2.l.qq.com
 0.0.0.0 lb.l.qq.com
 0.0.0.0 livec.l.qq.com
 0.0.0.0 livem.l.qq.com
@@ -20286,12 +20274,15 @@
 0.0.0.0 d0.sina.com.cn
 0.0.0.0 d00.sina.com.cn
 0.0.0.0 d1.sina.com.cn
+0.0.0.0 d2.sina.com.cn
+0.0.0.0 d3.sina.com.cn
 0.0.0.0 d4.sina.com.cn
 0.0.0.0 d5.sina.com.cn
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 d7.sina.com.cn
 0.0.0.0 d8.sina.com.cn
 0.0.0.0 d9.sina.com.cn
+0.0.0.0 dcads.sina.com.cn
 0.0.0.0 img.adbox.sina.com.cn
 0.0.0.0 img.amp.ad.sina.com.cn
 0.0.0.0 interest.mix.sina.com.cn
@@ -20415,6 +20406,7 @@
 0.0.0.0 cpc.sohu.com
 0.0.0.0 doc.go.sohu.com
 0.0.0.0 i.go.sohu.com
+0.0.0.0 images.sohu.com
 0.0.0.0 imp.go.sohu.com
 0.0.0.0 s.ads.sohu.com
 0.0.0.0 s.go.sohu.com
@@ -20612,6 +20604,7 @@
 0.0.0.0 download.mackeeper.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 mackeeper.com
+0.0.0.0 mackeeperapp.mackeeper.com
 0.0.0.0 static.mackeeper.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
@@ -20972,6 +20965,7 @@
 0.0.0.0 rpnews.itaoxiaoshuo.com
 0.0.0.0 com-eonsun-owl.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 news.l.qq.com
+0.0.0.0 p.l.qq.com
 0.0.0.0 swa.gtimg.com
 0.0.0.0 tui.gtimg.com
 0.0.0.0 ss.missyouxi.com
@@ -21214,6 +21208,7 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 p.rfihub.com
 0.0.0.0 pixel-a.sitescout.com
+0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.owneriq.net
@@ -21225,12 +21220,15 @@
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 revive.outin.cn
 0.0.0.0 rp.gwallet.com
+0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 sync.1rx.io
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.extend.tv
 0.0.0.0 sync.intentiq.com
 0.0.0.0 sync.ipredictive.com
+0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tracking.m6r.eu
@@ -23723,6 +23721,7 @@
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 log.go.com
 0.0.0.0 ngads.go.com
+0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
 0.0.0.0 ads.aol.co.uk
@@ -23748,6 +23747,7 @@
 0.0.0.0 cm8.lycos.com
 0.0.0.0 guestworld.tripod.lycos.com
 0.0.0.0 install.sidesearch.lycos.com
+0.0.0.0 oascentral.lycos.com
 0.0.0.0 ratings.lycos.com
 0.0.0.0 titan.guestworld.tripod.lycos.com
 0.0.0.0 fe.lea.lycos.co.uk
