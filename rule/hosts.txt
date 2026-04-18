@@ -1,4 +1,4 @@
-# Update time: 2026-04-18 00:43:41
+# Update time: 2026-04-18 09:23:57
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8854,9 +8854,9 @@
 0.0.0.0 cures.ru.com
 0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 cutesaucepuppy.com
-0.0.0.0 cvbnff.s3.eu-central-003.backblazeb2.com
 0.0.0.0 cyberpanel.fr
 0.0.0.0 cyfe.fr
+0.0.0.0 czr.customzonereview.com
 0.0.0.0 d.phormlabs.com
 0.0.0.0 d2o9ozfswytaqz.cloudfront.net
 0.0.0.0 dahenie.accsvc.cfd
@@ -8984,8 +8984,6 @@
 0.0.0.0 expired-antiviruses.com
 0.0.0.0 extrashop.fr
 0.0.0.0 f-voyance.fr
-0.0.0.0 f003.backblazeb2.com
-0.0.0.0 f006.backblazeb2.com
 0.0.0.0 f05098.privacy4browsers.com
 0.0.0.0 f18085.privacy4browsers.com
 0.0.0.0 fabhabitat.fr
@@ -10040,6 +10038,7 @@
 0.0.0.0 thesimsresource.fr
 0.0.0.0 thetorrentz.fr
 0.0.0.0 thickporter.sa.com
+0.0.0.0 thislocalhost.com
 0.0.0.0 thisone.online
 0.0.0.0 thomasmore.fr
 0.0.0.0 thunderbird.es
@@ -10069,6 +10068,7 @@
 0.0.0.0 trevia.za.com
 0.0.0.0 trifama.com
 0.0.0.0 trioadvisor.fr
+0.0.0.0 trk.arenachat.xyz
 0.0.0.0 trk.wizzdeal.trade
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 trovi.com
@@ -10195,6 +10195,7 @@
 0.0.0.0 westerdayeol.site
 0.0.0.0 wetter24.fr
 0.0.0.0 wewillrocknow.com
+0.0.0.0 wfflxx.com
 0.0.0.0 whiscas.fr
 0.0.0.0 whiteenamel.fr
 0.0.0.0 whqxzx.com
@@ -10526,6 +10527,7 @@
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.kiwicares.com
 0.0.0.0 www.knowinteractive.com
+0.0.0.0 www.knoxmenus.com
 0.0.0.0 www.kpremium.com
 0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.lahoreautismcentre.com
@@ -10596,6 +10598,7 @@
 0.0.0.0 www.nzgamingworld.com
 0.0.0.0 www.oakridgeflows.uk
 0.0.0.0 www.objectopoly.info
+0.0.0.0 www.officerreport.com
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
@@ -10649,6 +10652,7 @@
 0.0.0.0 www.presidency.site
 0.0.0.0 www.prgwbn.cfd
 0.0.0.0 www.primecrestnq.name
+0.0.0.0 www.primitivecountrydecor.com
 0.0.0.0 www.princessuppies.com
 0.0.0.0 www.promoskills.com
 0.0.0.0 www.properrayam.pro
@@ -10669,6 +10673,7 @@
 0.0.0.0 www.raspberryketoneslim.com
 0.0.0.0 www.reachtaxi.com
 0.0.0.0 www.readyviews.com
+0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.reandrogames.com
 0.0.0.0 www.recallblog.com
 0.0.0.0 www.rekonsise.com
@@ -10706,6 +10711,7 @@
 0.0.0.0 www.smashchampionsat.com
 0.0.0.0 www.smionecare.com
 0.0.0.0 www.smokyshadecj.name
+0.0.0.0 www.snkido.com
 0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.softcarp.com
@@ -10777,6 +10783,7 @@
 0.0.0.0 www.venturead.com
 0.0.0.0 www.vetmanevi.com
 0.0.0.0 www.videolove.clanteam.com
+0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videostan.ru
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 www.voolat.com
@@ -20832,6 +20839,7 @@
 0.0.0.0 www.yhd.com
 0.0.0.0 www.hisense.cn
 0.0.0.0 www.hisense.com
+0.0.0.0 www.baihe.com
 0.0.0.0 www.jiayuan.com
 0.0.0.0 www.haier.com
 0.0.0.0 www.zhongmin.cn
@@ -21269,6 +21277,7 @@
 0.0.0.0 lianmengapi.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.snssdk.com.bytedns.net
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 mcs.snssdk.com
 0.0.0.0 mercury-sdk.snssdk.com
@@ -21410,6 +21419,7 @@
 0.0.0.0 v1.log.moji.com
 0.0.0.0 cdn2.moji002.com
 0.0.0.0 baidu1.weather.com.cn
+0.0.0.0 mc.weather.com.cn
 0.0.0.0 ad.zuimeitianqi.com
 0.0.0.0 bd1.zuimeitianqi.com
 0.0.0.0 bd2.zuimeitianqi.com
@@ -22299,6 +22309,7 @@
 0.0.0.0 1.letvlive.com
 0.0.0.0 2.letvlive.com
 0.0.0.0 libs.tvmao.cn
+0.0.0.0 slib.tvmao.cn
 0.0.0.0 aazcio.cn
 0.0.0.0 sboite.cn
 0.0.0.0 wpan.sc2yun.com
@@ -22470,6 +22481,7 @@
 0.0.0.0 b.iy.com.cn
 0.0.0.0 bb.0755rc.com
 0.0.0.0 b1.baomihua.com
+0.0.0.0 b17.lynow.cn
 0.0.0.0 b17.wenjutv.com
 0.0.0.0 b3.jandan.net
 0.0.0.0 b3.jiasudu666.com
@@ -22485,6 +22497,7 @@
 0.0.0.0 bay.xiawu.com
 0.0.0.0 bbsimages.zkxf119.com
 0.0.0.0 bd1.flfgw.cn
+0.0.0.0 bd1.pipaw.com
 0.0.0.0 bd1-china.xsfaya.com
 0.0.0.0 bd2.flfgw.cn
 0.0.0.0 bd2.pipaw.com
@@ -22492,6 +22505,7 @@
 0.0.0.0 bd2-china.xsfaya.com
 0.0.0.0 bd3.chuiyue.com
 0.0.0.0 bd4.chuiyue.com
+0.0.0.0 bdcode.qinglm.com
 0.0.0.0 bdjiaoben.wmxa.cn
 0.0.0.0 bdjs.ixiumei.com
 0.0.0.0 bdjs1.ixiumei.com
@@ -23236,6 +23250,7 @@
 0.0.0.0 mo.hc872.cn
 0.0.0.0 mo.qitouch.cn
 0.0.0.0 mo.yun-pdm2000.cn
+0.0.0.0 mob29.shqcbus.com
 0.0.0.0 mobixc.japsmma.cyou
 0.0.0.0 moren-1252794300.file.myqcloud.com
 0.0.0.0 motoe.plokr.com
@@ -23452,6 +23467,7 @@
 0.0.0.0 sod.onelink.me
 0.0.0.0 sp.chemacid.cn
 0.0.0.0 ss.cnczjy.com
+0.0.0.0 ssh.hbhtbn.com
 0.0.0.0 ssh.q4hwkg.cn
 0.0.0.0 ssl.bbbr8.com
 0.0.0.0 ssl.hhaxmm.cn
@@ -23635,6 +23651,7 @@
 0.0.0.0 w.cube3d.cn
 0.0.0.0 w.irs03.com
 0.0.0.0 w.waacorp.com
+0.0.0.0 w.xiaopiaoyou.com
 0.0.0.0 w.yinyuehu.cn
 0.0.0.0 w1.jinyueya.net
 0.0.0.0 w3.yinyuehu.cn
@@ -23655,6 +23672,7 @@
 0.0.0.0 wholecoolposts.com
 0.0.0.0 whu.cwpush.com
 0.0.0.0 widnd.dajiadou6.com
+0.0.0.0 wofwk.aoidf3.com
 0.0.0.0 wm.20150.net
 0.0.0.0 wm.69shi.cn
 0.0.0.0 wncs.7ez4.cn
@@ -24014,6 +24032,7 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adcdn.goo.ne.jp
 0.0.0.0 adimp.excite.co.jp
+0.0.0.0 ai.yimg.jp
 0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 rd.ane.yahoo.co.jp
 0.0.0.0 adimg1.chosun.com
@@ -24361,6 +24380,7 @@
 0.0.0.0 app.oadz.com
 0.0.0.0 dev.oadz.com
 0.0.0.0 dm.oadz.com
+0.0.0.0 dsp.oadz.com
 0.0.0.0 fac2.oadz.com
 0.0.0.0 push.oadz.com
 0.0.0.0 s.oadz.com
@@ -24389,6 +24409,7 @@
 0.0.0.0 res.aduu.cn
 0.0.0.0 appuu.cn
 0.0.0.0 www.appuu.cn
+0.0.0.0 cm.reachmax.cn
 0.0.0.0 m.reachmax.cn
 0.0.0.0 v2.reachmax.cn
 0.0.0.0 c-hzgt2.getui.com
@@ -24760,8 +24781,10 @@
 0.0.0.0 adv.madserving.com
 0.0.0.0 clk.madserving.com
 0.0.0.0 clk.pdb.madserving.com
+0.0.0.0 imp.madserving.com
 0.0.0.0 imp.pdb.madserving.com
 0.0.0.0 api.dsp.madserving.com
+0.0.0.0 aws.dsp.madserving.com
 0.0.0.0 ad.beta.madserving.com
 0.0.0.0 clk.premium.madserving.com
 0.0.0.0 bj.appsrv1.madserving.com
@@ -24865,6 +24888,7 @@
 0.0.0.0 analytics.talkingdata.net
 0.0.0.0 gaandroid.talkingdata.net
 0.0.0.0 jic.talkingdata.com
+0.0.0.0 tdcv3.talkingdata.net
 0.0.0.0 u.talkingdata.net
 0.0.0.0 www.talkingdata.com
 0.0.0.0 a.appcpa.net
@@ -25003,6 +25027,7 @@
 0.0.0.0 www.ad-survey.com
 0.0.0.0 sspmservice.ad-survey.com
 0.0.0.0 cdn.ad4game.com
+0.0.0.0 delivery05.ad4game.com
 0.0.0.0 tracking07.ad4game.com
 0.0.0.0 delivery04.ad4game.com
 0.0.0.0 ads-dev.ad4game.com
@@ -25391,6 +25416,7 @@
 0.0.0.0 spcdnpc.i-mobile.co.jp
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 spdmg-backend.i-mobile.co.jp
 0.0.0.0 spdmg.i-mobile.co.jp
 0.0.0.0 spnet2-1.i-mobile.co.jp
 0.0.0.0 spnet33.i-mobile.co.jp
@@ -25636,6 +25662,7 @@
 0.0.0.0 p.aty.sohu.com
 0.0.0.0 pb.hd.sohu.com.cn
 0.0.0.0 pm.aty.sohu.com
+0.0.0.0 pv.hd.sohu.com
 0.0.0.0 v.aty.sohu.com
 0.0.0.0 vm.aty.sohu.com
 0.0.0.0 vstat.my.tv.sohu.com
@@ -25667,6 +25694,7 @@
 0.0.0.0 s.p.youku.com
 0.0.0.0 sdk.api.gamex.mobile.youku.com
 0.0.0.0 static.atm.youku.com
+0.0.0.0 store.tv.api.3g.youku.com
 0.0.0.0 store.xl.api.3g.youku.com
 0.0.0.0 urchin.lstat.youku.com
 0.0.0.0 valo.atm.youku.com
@@ -25845,6 +25873,7 @@
 0.0.0.0 ty.vletv.admaster.com.cn
 0.0.0.0 vfs.admaster.com.cn
 0.0.0.0 vspa.admaster.com.cn
+0.0.0.0 vtyqy.admaster.com.cn
 0.0.0.0 www.vyk.admaster.com.cn
 0.0.0.0 albtest.applovin.com
 0.0.0.0 a-support.applovin.com
@@ -25922,6 +25951,7 @@
 0.0.0.0 ad.bayescom.com
 0.0.0.0 blink.bayescom.com
 0.0.0.0 jupiter.bayescom.com
+0.0.0.0 jupiter2.bayescom.com
 0.0.0.0 blink-upload.bayescom.com
 0.0.0.0 raddus.bayescom.com
 0.0.0.0 shuttle.bayescom.com
@@ -26008,6 +26038,7 @@
 0.0.0.0 sa.adeaz.com
 0.0.0.0 g.sa.adeaz.com
 0.0.0.0 i.adeaz.com
+0.0.0.0 data.adeaz.com
 0.0.0.0 ddy.adeaz.com
 0.0.0.0 wukong.adeaz.com
 0.0.0.0 j.adeaz.com
@@ -26033,6 +26064,7 @@
 0.0.0.0 met-badge.dreport.meituan.net
 0.0.0.0 mobile.dreport.meituan.net
 0.0.0.0 sniffer.dreport.meituan.net
+0.0.0.0 metrics-exit-ios.dreport.meituan.net
 0.0.0.0 prism-report-ddd.dreport.meituan.net
 0.0.0.0 route-stats.dreport.meituan.net
 0.0.0.0 api.ads.tvb.com
