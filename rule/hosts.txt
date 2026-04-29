@@ -1,4 +1,4 @@
-# Update time: 2026-04-29 10:02:41
+# Update time: 2026-04-29 17:56:45
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -8670,6 +8670,7 @@
 0.0.0.0 bouygiestelecom.fr
 0.0.0.0 bpong.fr
 0.0.0.0 bracabrac.fr
+0.0.0.0 brainns.sa.com
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
 0.0.0.0 breizh-ile.fr
@@ -10772,6 +10773,7 @@
 0.0.0.0 www.sporttile.com
 0.0.0.0 www.ssdede.com
 0.0.0.0 www.ssl2.in
+0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.statsff.com
 0.0.0.0 www.steelbucks.com
 0.0.0.0 www.stellarium.fr
@@ -10845,6 +10847,7 @@
 0.0.0.0 www.watchesnew.com
 0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
+0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webpartition.com
 0.0.0.0 www.websrruss.com
 0.0.0.0 www.webwise.com
@@ -10868,6 +10871,7 @@
 0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrestlewebnews.com
 0.0.0.0 www.xandermaker.com
+0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yellowquartzkr.name
 0.0.0.0 www.yendermsoul.com
@@ -18022,6 +18026,7 @@
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.gmads.net
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.greatdexchange.com
@@ -20438,7 +20443,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.google-analytics.com
