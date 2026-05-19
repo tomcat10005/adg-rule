@@ -1,4 +1,4 @@
-# Update time: 2026-05-19 10:27:39
+# Update time: 2026-05-19 18:53:01
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -9741,7 +9741,6 @@
 0.0.0.0 bolt.jebe.renren.com
 0.0.0.0 static.jebe.renren.com
 0.0.0.0 xray.jebe.renren.com
-0.0.0.0 adm.xmfish.com
 0.0.0.0 cmm.xmfish.com
 0.0.0.0 img.cmm.xmfish.com
 0.0.0.0 sugar.zhihu.com
@@ -9976,7 +9975,6 @@
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adeq.hiidc.com.cn
 0.0.0.0 adktrack.com
-0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.oneway.mobi
 0.0.0.0 ads.passiontimes.hk
 0.0.0.0 ads.pubmatic.com
@@ -11608,7 +11606,6 @@
 0.0.0.0 visualscience.external.bbc.co.uk
 0.0.0.0 ads.unister-gmbh.de
 0.0.0.0 ad.yieldlab.net
-0.0.0.0 ced.sascdn.com
 0.0.0.0 rem-track.bild.de
 0.0.0.0 adx.chip.de
 0.0.0.0 adimg.uimserv.net
@@ -12774,7 +12771,6 @@
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 a.exoclick.com
 0.0.0.0 ads.exoclick.com
-0.0.0.0 main.exoclick.com
 0.0.0.0 origin-ads.exoclick.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication-evo.exoclick.com
@@ -12927,14 +12923,12 @@
 0.0.0.0 px.steelhousemedia.com
 0.0.0.0 rto.steelhousemedia.com
 0.0.0.0 imprhkmp.taboola.com
-0.0.0.0 match.taboola.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 cdn.taboola.com.cn
 0.0.0.0 tapjoy.cn
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 ws.tapjoyads.com
-0.0.0.0 media.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 analytics.turn.com
 0.0.0.0 d.turn.com
@@ -12965,7 +12959,6 @@
 0.0.0.0 beap.adss.yahoo.com
 0.0.0.0 js-apac-ss.ysm.yahoo.com
 0.0.0.0 n.gemini.yahoo.com
-0.0.0.0 na.ads.yahoo.com
 0.0.0.0 p3p.yahoo.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -13081,20 +13074,17 @@
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 am15.net
 0.0.0.0 c.am15.net
-0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 cdn.marketgid.com
 0.0.0.0 counter.marketgid.com
 0.0.0.0 jsc.marketgid.com
-0.0.0.0 marketgid.com
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 ru-gmtdmp.mookie1.com
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 mg.yadro.ru
-0.0.0.0 mc.yandex.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
 0.0.0.0 sync-eu.exe.bid
@@ -13175,7 +13165,6 @@
 0.0.0.0 m.qulishi.com
 0.0.0.0 m.xingxd.com
 0.0.0.0 mibook-10006092.cos.myqcloud.com
-0.0.0.0 onclkds.com
 0.0.0.0 p.raidmedia.com.cn
 0.0.0.0 p555.cc
 0.0.0.0 pj3456.com
@@ -13395,9 +13384,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 newplayable.dspunion.com
-0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-bid.applovin.com
-0.0.0.0 res1.applovin.com
 0.0.0.0 s2s.adjust.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
@@ -13431,7 +13418,6 @@
 0.0.0.0 il-trc.taboola.com
 0.0.0.0 il-trc-events.taboola.com
 0.0.0.0 nr-events.taboola.com
-0.0.0.0 popup.taboola.com
 0.0.0.0 pvc.taboola.com
 0.0.0.0 sg-trc-events.taboola.com
 0.0.0.0 sg-vid-events.taboola.com
@@ -16310,6 +16296,7 @@
 0.0.0.0 promogrim.fr
 0.0.0.0 promojustforyou.click
 0.0.0.0 propitea.fr
+0.0.0.0 propk.sa.com
 0.0.0.0 provence-ouyillage.fr
 0.0.0.0 provenfeedback.com
 0.0.0.0 psycho-test.fr
@@ -19274,6 +19261,7 @@
 0.0.0.0 adm.baidu.com
 0.0.0.0 adm.fwmrm.net
 0.0.0.0 adm.shinobi.jp
+0.0.0.0 adm.xmfish.com
 0.0.0.0 adman.freeze.com
 0.0.0.0 adman.gr
 0.0.0.0 adman.se
@@ -19497,6 +19485,7 @@
 0.0.0.0 ads.erotism.com
 0.0.0.0 ads.espn.adsonar.com
 0.0.0.0 ads.examiner.net
+0.0.0.0 ads.exosrv.com
 0.0.0.0 ads.expekt.com
 0.0.0.0 ads.fairfax.com.au
 0.0.0.0 ads.fayettevillenc.com
@@ -20919,6 +20908,7 @@
 0.0.0.0 cds.taboola.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cecash.com
+0.0.0.0 ced.sascdn.com
 0.0.0.0 cekornapred.org
 0.0.0.0 cellphoneincentives.com
 0.0.0.0 cent.adbureau.net
@@ -22244,6 +22234,7 @@
 0.0.0.0 magyarokvagyunk.com
 0.0.0.0 mail.radar.imgsmail.ru
 0.0.0.0 main-boost.com
+0.0.0.0 main.exoclick.com
 0.0.0.0 main.vodonet.net
 0.0.0.0 makeitworkfaster.life
 0.0.0.0 makemoneyrobot.com
@@ -22254,12 +22245,15 @@
 0.0.0.0 mangler4.generals.ea.com
 0.0.0.0 manuel.theonion.com
 0.0.0.0 margaretanddavid.com
+0.0.0.0 marketgid.com
 0.0.0.0 marketing.888.com
 0.0.0.0 marketing.hearstmagazines.nl
 0.0.0.0 marriottinternationa.tt.omtrdc.net
 0.0.0.0 martinsmith.nl
 0.0.0.0 mashinkhabar.com
+0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.sync.ad.cpe.dotomi.com
+0.0.0.0 match.taboola.com
 0.0.0.0 matomy.adk2.co
 0.0.0.0 maxads.ruralpress.com
 0.0.0.0 maxadserver.corusradionetwork.com
@@ -22270,6 +22264,7 @@
 0.0.0.0 mb01.com
 0.0.0.0 mbox9.offermatica.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.ru
 0.0.0.0 mccafee-orientador.com-br.site
 0.0.0.0 mcfg.sandai.net
 0.0.0.0 mcsgrp.com
@@ -22303,6 +22298,7 @@
 0.0.0.0 media.popuptraffic.com
 0.0.0.0 media.primalforce.net
 0.0.0.0 media.trafficfactory.biz
+0.0.0.0 media.trafficjunky.net
 0.0.0.0 media.ventivmedia.com
 0.0.0.0 media.xxxnavy.com
 0.0.0.0 media1.popmarker.com
@@ -22489,6 +22485,7 @@
 0.0.0.0 n5.nskfyl.com
 0.0.0.0 n6.nskfyl.com
 0.0.0.0 n7.nskfyl.com
+0.0.0.0 na.ads.yahoo.com
 0.0.0.0 najlepszedlaciebie.com
 0.0.0.0 nakladatelstvi-brazda.wz.cz
 0.0.0.0 nanoadexchange.com
@@ -22634,6 +22631,7 @@
 0.0.0.0 onclickads.net
 0.0.0.0 onclickmega.com
 0.0.0.0 onclicksuper.com
+0.0.0.0 onclkds.com
 0.0.0.0 ondermaat.nl
 0.0.0.0 one-drive-ms.com
 0.0.0.0 onedrive-cdn.com
@@ -22879,6 +22877,7 @@
 0.0.0.0 popunder.loading-delivery1.com
 0.0.0.0 popunder.paypopup.com
 0.0.0.0 popup.softreklam.com
+0.0.0.0 popup.taboola.com
 0.0.0.0 popupclick.ru
 0.0.0.0 popupdomination.com
 0.0.0.0 popups.afftrack001.com
@@ -22913,6 +22912,7 @@
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
 0.0.0.0 proc.ad.cpe.dotomi.com
+0.0.0.0 prod-a.applovin.com
 0.0.0.0 prodentim101.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
@@ -23115,6 +23115,7 @@
 0.0.0.0 repostuj.push-ad.com
 0.0.0.0 req.adsmogo.com
 0.0.0.0 res-backup.com
+0.0.0.0 res1.applovin.com
 0.0.0.0 reselling-corp.com
 0.0.0.0 resolvingserver.com
 0.0.0.0 resources.infolinks.com
