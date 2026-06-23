@@ -1,4 +1,4 @@
-# Update time: 2026-06-23 03:17:40
+# Update time: 2026-06-23 10:14:17
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -5031,7 +5031,6 @@
 0.0.0.0 espn-ak.starwave.com
 0.0.0.0 odc.starwave.com
 0.0.0.0 ad.go.com
-0.0.0.0 adimages.go.com
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 log.go.com
@@ -5052,7 +5051,6 @@
 0.0.0.0 customad.cnn.com
 0.0.0.0 gdyn.cnn.com
 0.0.0.0 i.l.cnn.net
-0.0.0.0 adcast.deviantart.com
 0.0.0.0 adimg.deviantart.net
 0.0.0.0 omnikool.discovery.com
 0.0.0.0 js.moatads.com
@@ -5159,7 +5157,6 @@
 0.0.0.0 ad3.udn.com
 0.0.0.0 ad4.udn.com
 0.0.0.0 ad2.yam.com
-0.0.0.0 admd.yam.com
 0.0.0.0 ads.yam.com
 0.0.0.0 analytics.yam.com
 0.0.0.0 yam.adsbro.com
@@ -6005,9 +6002,7 @@
 0.0.0.0 jzkapp.com
 0.0.0.0 t1.jzkapp.com
 0.0.0.0 t2.jzkapp.com
-0.0.0.0 ads.waps.cn
 0.0.0.0 app.waps.cn
-0.0.0.0 ads.wapx.cn
 0.0.0.0 app.wapx.cn
 0.0.0.0 appcdn.wapx.cn
 0.0.0.0 imgcdn.wapx.cn
@@ -6174,13 +6169,9 @@
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 cdn.adsfactor.net
 0.0.0.0 servedby.adsfactor.net
-0.0.0.0 adserver.adtechus.com
-0.0.0.0 aka-cdn-ns.adtechus.com
-0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 ums.adtechus.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 static.adzerk.net
-0.0.0.0 api.airpush.com
 0.0.0.0 appwall.api.airpush.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
@@ -6216,7 +6207,6 @@
 0.0.0.0 ll.atdmt.com
 0.0.0.0 srch.atdmt.com
 0.0.0.0 www.atdmt.com
-0.0.0.0 adson.awempire.com
 0.0.0.0 counter.awempire.com
 0.0.0.0 iframes.awempire.com
 0.0.0.0 promo.awempire.com
@@ -6227,14 +6217,12 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 s3.buysellads.com
-0.0.0.0 as.casalemedia.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 castplatform.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 static.chartbeat.com
-0.0.0.0 ads2.contentabc.com
 0.0.0.0 vz-cdn.contentabc.com
 0.0.0.0 cdn.fastclick.net
 0.0.0.0 code.fastclick.net
@@ -6349,7 +6337,6 @@
 0.0.0.0 jizzads.com
 0.0.0.0 www.jizzads.com
 0.0.0.0 img.jizzads.com
-0.0.0.0 adserver.juicyads.com
 0.0.0.0 ck.juicyads.com
 0.0.0.0 xapi.juicyads.com
 0.0.0.0 ad.leadboltads.net
@@ -6444,7 +6431,6 @@
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoyads.com
 0.0.0.0 ws.tapjoyads.com
-0.0.0.0 ads.trafficjunky.net
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 analytics.turn.com
@@ -6464,7 +6450,6 @@
 0.0.0.0 ad2.cdns.turn.com
 0.0.0.0 attadworks.turn.com
 0.0.0.0 www.adworks.att.com.turn.com
-0.0.0.0 api.viglink.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cl.webterren.com
 0.0.0.0 cl0.webterren.com
@@ -6472,8 +6457,6 @@
 0.0.0.0 cl3.webterren.com
 0.0.0.0 cl4.webterren.com
 0.0.0.0 cl5.webterren.com
-0.0.0.0 ads.yahoo.com
-0.0.0.0 adserver.yahoo.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 beap-bc.yahoo.com
@@ -6505,9 +6488,7 @@
 0.0.0.0 stags.bluekai.com
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 server.exposebox.com
-0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 api-secure.solvemedia.com
-0.0.0.0 c.adsco.re
 0.0.0.0 fans.bestvogue.com
 0.0.0.0 code.hot-mob.com
 0.0.0.0 rad.reporo.net
@@ -6520,7 +6501,6 @@
 0.0.0.0 p215223.inclk.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 st-n.ads3-adnow.com
-0.0.0.0 c.codeonclick.com
 0.0.0.0 p215223.clksite.com
 0.0.0.0 p215223.mycdn2.co
 0.0.0.0 www.onclicktop.com
@@ -6601,9 +6581,7 @@
 0.0.0.0 edp2.adriver.ru
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 am15.net
-0.0.0.0 b.am15.net
 0.0.0.0 c.am15.net
-0.0.0.0 cache.betweendigital.com
 0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 tag.digitaltarget.ru
@@ -6619,7 +6597,6 @@
 0.0.0.0 dispenser-rtb.sape.ru
 0.0.0.0 ssp-rtb.sape.ru
 0.0.0.0 mg.yadro.ru
-0.0.0.0 an.yandex.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 st.yandexadexchange.net
 0.0.0.0 rtb.com.ru
@@ -6673,7 +6650,6 @@
 0.0.0.0 8315.cn
 0.0.0.0 apnmedia.ask.com
 0.0.0.0 baidut.github.io
-0.0.0.0 c.silvinst.com
 0.0.0.0 c16cp358.com
 0.0.0.0 c2.58toto.net
 0.0.0.0 cdn.app.liuxingyul.cn
@@ -6776,7 +6752,6 @@
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
 0.0.0.0 sdkconfig.play.aiseet.atianqi.com
 0.0.0.0 livew.l.qq.com
-0.0.0.0 c.l.qq.com
 0.0.0.0 mdevstat.qqlive.qq.com
 0.0.0.0 api.cupid.iqiyi.com
 0.0.0.0 api.yuedu.iqiyi.com
@@ -7073,7 +7048,6 @@
 0.0.0.0 a-dsa-stage.tribalfusion.com
 0.0.0.0 a1.tribalfusion.com
 0.0.0.0 adxrtb-as.tribalfusion.com
-0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 adxrtb-eu1.tribalfusion.com
 0.0.0.0 adxrtb-eu.tribalfusion.com
 0.0.0.0 a.vlion.cn
@@ -17539,6 +17513,7 @@
 0.0.0.0 www.textdynamics.com
 0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thefriday.net
+0.0.0.0 www.thegioibaove.com
 0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.themesets.com
 0.0.0.0 www.theprimeindia.com
@@ -19392,6 +19367,7 @@
 0.0.0.0 adcanadian.com
 0.0.0.0 adcarem.co
 0.0.0.0 adcash.com
+0.0.0.0 adcast.deviantart.com
 0.0.0.0 adcentric.randomseed.com
 0.0.0.0 adcentriconline.com
 0.0.0.0 adclick.hit.gemius.pl
@@ -19439,6 +19415,7 @@
 0.0.0.0 adimage.asia1.com.sg
 0.0.0.0 adimage.blm.net
 0.0.0.0 adimages.earthweb.com
+0.0.0.0 adimages.go.com
 0.0.0.0 adimages.mp3.com
 0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimg.activeadv.net
@@ -19463,6 +19440,7 @@
 0.0.0.0 admarkt.marktplaats.nl
 0.0.0.0 admatch-syndication.mochila.com
 0.0.0.0 admatcher.videostrip.com
+0.0.0.0 admd.yam.com
 0.0.0.0 admedia.com
 0.0.0.0 admedia.wsod.com
 0.0.0.0 admeld.com
@@ -19932,6 +19910,7 @@
 0.0.0.0 ads.track.net
 0.0.0.0 ads.traderonline.com
 0.0.0.0 ads.traffichaus.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.treehugger.com
 0.0.0.0 ads.trinitymirror.co.uk
 0.0.0.0 ads.tripod.com
@@ -19959,6 +19938,8 @@
 0.0.0.0 ads.virginislandsdailynews.com
 0.0.0.0 ads.virtualcountries.com
 0.0.0.0 ads.waframedia1.com
+0.0.0.0 ads.waps.cn
+0.0.0.0 ads.wapx.cn
 0.0.0.0 ads.weather.ca
 0.0.0.0 ads.web.de
 0.0.0.0 ads.web21.com
@@ -19975,6 +19956,7 @@
 0.0.0.0 ads.xtra.ca
 0.0.0.0 ads.xtra.co.nz
 0.0.0.0 ads.xtramsn.co.nz
+0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yimg.com
 0.0.0.0 ads.yimg.com.edgesuite.net
@@ -20055,6 +20037,7 @@
 0.0.0.0 ads2.clickad.com
 0.0.0.0 ads2.collegclub.com
 0.0.0.0 ads2.collegeclub.com
+0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.haber3.com
 0.0.0.0 ads2.osdn.com
@@ -20196,6 +20179,7 @@
 0.0.0.0 adserver.ads360.com
 0.0.0.0 adserver.adtech.fr
 0.0.0.0 adserver.adtech.us
+0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver.adultfriendfinder.com
 0.0.0.0 adserver.advertist.com
 0.0.0.0 adserver.affiliatemg.com
@@ -20248,6 +20232,7 @@
 0.0.0.0 adserver.janes.com
 0.0.0.0 adserver.janes.net
 0.0.0.0 adserver.janes.org
+0.0.0.0 adserver.juicyads.com
 0.0.0.0 adserver.killeraces.com
 0.0.0.0 adserver.kimia.es
 0.0.0.0 adserver.kylemedia.com
@@ -20313,6 +20298,7 @@
 0.0.0.0 adserver.webads.nl
 0.0.0.0 adserver.wietforum.nl
 0.0.0.0 adserver.x3.hu
+0.0.0.0 adserver.yahoo.com
 0.0.0.0 adserver.zeads.com
 0.0.0.0 adserver1-images.backbeatmedia.com
 0.0.0.0 adserver1.adtech.com.tr
@@ -20346,9 +20332,11 @@
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoldier.com
 0.0.0.0 adsomenoise.cdn01.rambla.be
+0.0.0.0 adson.awempire.com
 0.0.0.0 adsonar.com
 0.0.0.0 adsp.ciner.com.tr
 0.0.0.0 adsp.haberturk.com
+0.0.0.0 adspaces.ero-advertising.com
 0.0.0.0 adspirit.net
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrich.qq.com
@@ -20491,6 +20479,8 @@
 0.0.0.0 ak.buyservices.com
 0.0.0.0 ak.maxserving.com
 0.0.0.0 ak.sail-horizon.com
+0.0.0.0 aka-cdn-ns.adtechus.com
+0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka.ms-ads.co
 0.0.0.0 akaads-espn.starwave.com
 0.0.0.0 akamai.invitemedia.com
@@ -20515,6 +20505,7 @@
 0.0.0.0 ams2.rumourobey.com
 0.0.0.0 amusun.com
 0.0.0.0 an.tacoda.net
+0.0.0.0 an.yandex.ru
 0.0.0.0 analysis.fc2.com
 0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 analytics.onesearch.id
@@ -20546,6 +20537,7 @@
 0.0.0.0 api.addthis.com
 0.0.0.0 api.adlure.net
 0.0.0.0 api.affinesystems.com
+0.0.0.0 api.airpush.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.content.ad
 0.0.0.0 api.linkgist.com
@@ -20556,6 +20548,7 @@
 0.0.0.0 api.shoppingminds.net
 0.0.0.0 api.taboola.com
 0.0.0.0 api.uprivaladserver.net
+0.0.0.0 api.viglink.com
 0.0.0.0 api.vodus.com
 0.0.0.0 api.zhy333.com
 0.0.0.0 apnx-match.dotomi.com
@@ -20596,6 +20589,7 @@
 0.0.0.0 arsconsole.global-intermedia.com
 0.0.0.0 art-offer.com
 0.0.0.0 as.adwise.bg
+0.0.0.0 as.casalemedia.com
 0.0.0.0 as.sexad.net
 0.0.0.0 as.vs4entertainment.com
 0.0.0.0 as.webmd.com
@@ -20644,6 +20638,7 @@
 0.0.0.0 aztbeszelik.com
 0.0.0.0 b.adexchangemachine.com
 0.0.0.0 b.ads2.msn.com
+0.0.0.0 b.am15.net
 0.0.0.0 b.codeonclick.com
 0.0.0.0 b.grabo.bg
 0.0.0.0 b.liquidustv.com
@@ -20857,6 +20852,7 @@
 0.0.0.0 c.adexchangemachine.com
 0.0.0.0 c.admob.com
 0.0.0.0 c.adroll.com
+0.0.0.0 c.adsco.re
 0.0.0.0 c.anytrx.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 c.at.msn.com
@@ -20866,6 +20862,7 @@
 0.0.0.0 c.ca.msn.com
 0.0.0.0 c.casalemedia.com
 0.0.0.0 c.cl.msn.com
+0.0.0.0 c.codeonclick.com
 0.0.0.0 c.company-target.com
 0.0.0.0 c.de.msn.com
 0.0.0.0 c.dk.msn.com
@@ -20883,6 +20880,7 @@
 0.0.0.0 c.in.msn.com
 0.0.0.0 c.it.msn.com
 0.0.0.0 c.jp.msn.com
+0.0.0.0 c.l.qq.com
 0.0.0.0 c.latam.msn.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 c.media-dl.co
@@ -20898,6 +20896,7 @@
 0.0.0.0 c.se.msn.com
 0.0.0.0 c.seznam.cz
 0.0.0.0 c.sg.msn.com
+0.0.0.0 c.silvinst.com
 0.0.0.0 c.th.msn.com
 0.0.0.0 c.tr.msn.com
 0.0.0.0 c.tw.msn.com
@@ -20941,6 +20940,7 @@
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.adm.cnzz.net
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 cache.unicast.com
 0.0.0.0 cacheserve.eurogrand.com
 0.0.0.0 cadsans.com
@@ -21247,6 +21247,7 @@
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 ctbdev.net
 0.0.0.0 ctnsnet.com
+0.0.0.0 ctxtad.tribalfusion.com
 0.0.0.0 cue4you.nl
 0.0.0.0 cukierniatylczynscy.lh.pl
 0.0.0.0 cumc-hmb.com
