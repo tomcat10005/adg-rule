@@ -1,4 +1,4 @@
-# Update time: 2026-08-26 00:24:32
+# Update time: 2026-08-26 08:41:55
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -10758,6 +10758,7 @@
 0.0.0.0 www.libanco.com
 0.0.0.0 www.lightcontest.com
 0.0.0.0 www.lightstylist.com
+0.0.0.0 www.listadegames.com
 0.0.0.0 www.liveorigamirisk.com
 0.0.0.0 www.loansfield.com
 0.0.0.0 www.lockupouseburn.com
@@ -11099,6 +11100,8 @@
 0.0.0.0 www.tinkfrog.com
 0.0.0.0 www.tiompanalley.com
 0.0.0.0 www.tntadfacts.com
+0.0.0.0 www.topluckystars.com
+0.0.0.0 www.topopulentwin.com
 0.0.0.0 www.totalencomenda.com
 0.0.0.0 www.toysmetaverse.com
 0.0.0.0 www.tradesasa.com
