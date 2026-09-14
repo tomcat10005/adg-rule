@@ -1,4 +1,4 @@
-# Update time: 2026-09-14 22:34:31
+# Update time: 2026-09-15 04:03:14
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -10517,6 +10517,7 @@
 0.0.0.0 www.digisubmission.com
 0.0.0.0 www.digitalbigger.garden
 0.0.0.0 www.digitalcoachpro.name
+0.0.0.0 www.diperformancetransmissions.com
 0.0.0.0 www.dkpmsa.cfd
 0.0.0.0 www.dlinktour.com
 0.0.0.0 www.doblectv.com
@@ -17940,6 +17941,7 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wahoha.com
 0.0.0.0 wallflore.de
+0.0.0.0 wangmeng.baidu.com
 0.0.0.0 waoptions.com.au
 0.0.0.0 wap.casee.cn
 0.0.0.0 watch-this.live
@@ -18382,6 +18384,7 @@
 0.0.0.0 www.gigdnetwork.com
 0.0.0.0 www.gm4pgv.plus.com
 0.0.0.0 www.gmads.net
+0.0.0.0 www.googleadservices.com
 0.0.0.0 www.grabbit-rabbit.com
 0.0.0.0 www.greasypalm.com
 0.0.0.0 www.greatdexchange.com
@@ -20510,7 +20513,6 @@
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
-0.0.0.0 wangmeng.baidu.com
 0.0.0.0 wn.pos.baidu.com
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 ms.bdimg.com
@@ -20800,7 +20802,6 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.google-analytics.com
