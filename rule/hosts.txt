@@ -1,4 +1,4 @@
-# Update time: 2026-09-15 20:59:34
+# Update time: 2026-09-16 03:22:28
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -10337,6 +10337,7 @@
 0.0.0.0 www.anyik.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.apkfuuny.com
+0.0.0.0 www.aplogia.com
 0.0.0.0 www.appfoliio.com
 0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aramcom.space
@@ -10378,6 +10379,7 @@
 0.0.0.0 www.bcwars.net
 0.0.0.0 www.be4life.ru
 0.0.0.0 www.behdja.com
+0.0.0.0 www.beheerflvsebox.com
 0.0.0.0 www.bellamhair.com
 0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.bestlabour.com
@@ -15848,7 +15850,6 @@
 0.0.0.0 js.smi2.ru
 0.0.0.0 js.softreklam.com
 0.0.0.0 js.srcsmrtgs.com
-0.0.0.0 js.tongji.linezing.com
 0.0.0.0 js.zevents.com
 0.0.0.0 js1.bloggerads.net
 0.0.0.0 jsc.adskeeper.co.uk
@@ -16446,7 +16447,6 @@
 0.0.0.0 nsads.hotwired.com
 0.0.0.0 nsads.us.publicus.com
 0.0.0.0 nsads4.us.publicus.com
-0.0.0.0 nsclick.baidu.com
 0.0.0.0 nspmotion.com
 0.0.0.0 nst.broadcast.pm
 0.0.0.0 ntskeptics.org
@@ -16582,9 +16582,7 @@
 0.0.0.0 p2.preppypm.com
 0.0.0.0 p232207.mybestmv.com
 0.0.0.0 p3.preppypm.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4.preppypm.com
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p5.preppypm.com
 0.0.0.0 p6.preppypm.com
 0.0.0.0 p7.preppypm.com
@@ -20325,6 +20323,7 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
@@ -20396,6 +20395,7 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.ucfly.com
 0.0.0.0 cntv.wrating.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 fm.p0y.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
@@ -20415,6 +20415,7 @@
 0.0.0.0 www.ipinyou.com.cn
 0.0.0.0 acookie.linezing.com
 0.0.0.0 hidden-master.linezing.com
+0.0.0.0 js.tongji.linezing.com
 0.0.0.0 tongji.linezing.com
 0.0.0.0 www.linezing.com
 0.0.0.0 app.linezing.com
@@ -20503,6 +20504,7 @@
 0.0.0.0 mipengine.baidu.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads.baidu.com
+0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 pos.baidu.com
