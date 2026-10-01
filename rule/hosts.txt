@@ -1,4 +1,4 @@
-# Update time: 2026-10-01 22:55:55
+# Update time: 2026-10-02 04:41:19
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -16597,7 +16597,6 @@
 0.0.0.0 p3.preppypm.com
 0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4.preppypm.com
-0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 p5.preppypm.com
 0.0.0.0 p6.preppypm.com
 0.0.0.0 p7.preppypm.com
@@ -17448,7 +17447,6 @@
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clickonometrics.pl
 0.0.0.0 static.criteo.net
-0.0.0.0 static.doubleclick.net
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.everyone.net
 0.0.0.0 static.fmpub.net
@@ -17459,8 +17457,6 @@
 0.0.0.0 static.l3.cdn.adsucks.com
 0.0.0.0 static.linkz.net
 0.0.0.0 static.loboclick.com
-0.0.0.0 static.mackeeper.com
-0.0.0.0 static.mediav.com
 0.0.0.0 static.oroll.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.plugrush.com
@@ -18946,7 +18942,6 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.dynad.net
-0.0.0.0 z.moatads.com
 0.0.0.0 z1.adserver.com
 0.0.0.0 zabavazaodrasle.com
 0.0.0.0 zads.zedo.com
@@ -19317,7 +19312,6 @@
 0.0.0.0 oasc08008.247realmedia.com
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 oascentral.123greetings.com
-0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 oascentral.adage.com
 0.0.0.0 oascentral.adageglobal.com
 0.0.0.0 oascentral.aircanada.com
@@ -19359,7 +19353,6 @@
 0.0.0.0 oascentral.law.com
 0.0.0.0 oascentral.laweekly.com
 0.0.0.0 oascentral.looksmart.com
-0.0.0.0 oascentral.lycos.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
 0.0.0.0 oascentral.minnpost.com
@@ -20412,6 +20405,7 @@
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 u.ucfly.com
 0.0.0.0 cntv.wrating.com
+0.0.0.0 p4psearch.china.alibaba.com
 0.0.0.0 fm.p0y.cn
 0.0.0.0 f1.p0y.cn
 0.0.0.0 f2.p0y.cn
@@ -20813,6 +20807,7 @@
 0.0.0.0 union.dangdang.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
@@ -20861,6 +20856,7 @@
 0.0.0.0 sina.mediav.com
 0.0.0.0 ssxd.mediav.com
 0.0.0.0 static-ssl.mediav.com
+0.0.0.0 static.mediav.com
 0.0.0.0 t.dsp.mediav.com
 0.0.0.0 track.mediav.com
 0.0.0.0 tran.mediav.com
@@ -21320,6 +21316,7 @@
 0.0.0.0 download.mackeeper.com
 0.0.0.0 event.mackeeper.com
 0.0.0.0 mackeeper.com
+0.0.0.0 static.mackeeper.com
 0.0.0.0 osfota.cdn.aliyun.com
 0.0.0.0 osupdateservice.yunos.com
 0.0.0.0 tvupgrade.yunos.com
@@ -24390,6 +24387,7 @@
 0.0.0.0 yxd9c.hnpljm.xyz
 0.0.0.0 yxrp.lianfuhuang.cn
 0.0.0.0 yxyhtea.com
+0.0.0.0 z.moatads.com
 0.0.0.0 z1.cnywst.com
 0.0.0.0 z1.yunl1.com
 0.0.0.0 z1.zhishidu.com
@@ -24428,6 +24426,7 @@
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 log.go.com
 0.0.0.0 ngads.go.com
+0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
 0.0.0.0 ads.aol.co.uk
@@ -24453,6 +24452,7 @@
 0.0.0.0 cm8.lycos.com
 0.0.0.0 guestworld.tripod.lycos.com
 0.0.0.0 install.sidesearch.lycos.com
+0.0.0.0 oascentral.lycos.com
 0.0.0.0 ratings.lycos.com
 0.0.0.0 titan.guestworld.tripod.lycos.com
 0.0.0.0 fe.lea.lycos.co.uk
