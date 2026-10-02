@@ -1,4 +1,4 @@
-# Update time: 2026-10-02 04:41:19
+# Update time: 2026-10-02 11:10:52
 # Repo URL: https://github.com/fordes123/adg-rule
 
 0.0.0.0 1q2w3.fun
@@ -16595,7 +16595,6 @@
 0.0.0.0 p2.preppypm.com
 0.0.0.0 p232207.mybestmv.com
 0.0.0.0 p3.preppypm.com
-0.0.0.0 p3p.mmstat.com
 0.0.0.0 p4.preppypm.com
 0.0.0.0 p5.preppypm.com
 0.0.0.0 p6.preppypm.com
@@ -16778,7 +16777,6 @@
 0.0.0.0 popups.afftrack001.com
 0.0.0.0 popups.infostart.com
 0.0.0.0 pornstargals.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 post.rmbn.ru
 0.0.0.0 poster.gamesprite.me
 0.0.0.0 postmasterdirect.com
@@ -18942,6 +18940,7 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z.blogads.com
 0.0.0.0 z.dynad.net
+0.0.0.0 z.moatads.com
 0.0.0.0 z1.adserver.com
 0.0.0.0 zabavazaodrasle.com
 0.0.0.0 zads.zedo.com
@@ -19312,6 +19311,7 @@
 0.0.0.0 oasc08008.247realmedia.com
 0.0.0.0 oasc09.247realmedia.com
 0.0.0.0 oascentral.123greetings.com
+0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 oascentral.adage.com
 0.0.0.0 oascentral.adageglobal.com
 0.0.0.0 oascentral.aircanada.com
@@ -19353,6 +19353,7 @@
 0.0.0.0 oascentral.law.com
 0.0.0.0 oascentral.laweekly.com
 0.0.0.0 oascentral.looksmart.com
+0.0.0.0 oascentral.lycos.com
 0.0.0.0 oascentral.mayoclinic.com
 0.0.0.0 oascentral.medbroadcast.com
 0.0.0.0 oascentral.minnpost.com
@@ -20334,6 +20335,7 @@
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 go.mmstat.com
 0.0.0.0 gxb.mmstat.com
+0.0.0.0 p3p.mmstat.com
 0.0.0.0 res.mmstat.com
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 yt.mmstat.com
@@ -20515,6 +20517,7 @@
 0.0.0.0 mobads.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
+0.0.0.0 pos.baidu.com
 0.0.0.0 push.zhanzhang.baidu.com
 0.0.0.0 river.zhidao.baidu.com
 0.0.0.0 s.cpro.baidu.com
@@ -24387,7 +24390,6 @@
 0.0.0.0 yxd9c.hnpljm.xyz
 0.0.0.0 yxrp.lianfuhuang.cn
 0.0.0.0 yxyhtea.com
-0.0.0.0 z.moatads.com
 0.0.0.0 z1.cnywst.com
 0.0.0.0 z1.yunl1.com
 0.0.0.0 z1.zhishidu.com
@@ -24426,7 +24428,6 @@
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 log.go.com
 0.0.0.0 ngads.go.com
-0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 seavideo-ak.espn.go.com
 0.0.0.0 w88.go.com
 0.0.0.0 ads.aol.co.uk
@@ -24452,7 +24453,6 @@
 0.0.0.0 cm8.lycos.com
 0.0.0.0 guestworld.tripod.lycos.com
 0.0.0.0 install.sidesearch.lycos.com
-0.0.0.0 oascentral.lycos.com
 0.0.0.0 ratings.lycos.com
 0.0.0.0 titan.guestworld.tripod.lycos.com
 0.0.0.0 fe.lea.lycos.co.uk
